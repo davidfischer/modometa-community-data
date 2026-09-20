@@ -4,6 +4,10 @@ A curated repository of crowdsourced, community-contributed metagame data, match
 
 This repository serves as a companion to [`modometa-mtgo-data`](https://github.com/davidfischer/modometa-mtgo-data). While `modometa-mtgo-data` strictly archives official Daybreak/MTGO tournament results and published top decklists, `modometa-community-data` hosts external, community-maintained datasets (such as Swiss round matchup sheets) converted into standardized JSON structures.
 
+Current data sources:
+
+- **Legacy Data Collection** We augment the official top8 head-to-head match data with data collected by the [Legacy Data Collection Project](https://patreon.com/legacydatacollection) who painstakingly collect match head-to-head metadata from many Legacy challenges. Read more about the LDC and the the parts used with MODOMeta [here](./datasources/legacy-data-collection/README.md).
+
 ---
 
 ## Directory Structure
