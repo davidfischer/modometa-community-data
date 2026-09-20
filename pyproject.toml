@@ -1,0 +1,68 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/modometa_community_data"]
+
+[project]
+name = "modometa-community-data"
+version = "0.1.0"
+description = "MODOMeta Community Data"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "beautifulsoup4>=4.12.0",
+    "pyyaml>=6.0.2",
+    "requests>=2.31.0",
+    "tqdm>=4.70.1",
+]
+
+[project.scripts]
+pull-ldc = "modometa_community_data.ldc:main"
+
+
+
+[dependency-groups]
+dev = [
+    "pre-commit>=3.7.0",
+    "pytest>=8.0.0",
+    "ruff>=0.8.0",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+
+# https://docs.astral.sh/ruff/configuration/
+[tool.ruff]
+extend-include = ["*.ipynb"]
+
+# Same as Black.
+line-length = 88
+indent-width = 4
+
+# Assume Python 3.14
+target-version = "py314"
+
+[tool.ruff.lint]
+# Enable:
+#  Pyflakes (`F`): https://docs.astral.sh/ruff/rules/#pyflakes-f
+#  pycodestyle (`E`, `W`): https://docs.astral.sh/ruff/rules/#pycodestyle-e-w
+#  isort (`I`) import sorting: https://docs.astral.sh/ruff/rules/#isort-i
+#  flake8-bandit (`S`) security checks: https://docs.astral.sh/ruff/rules/#flake8-bandit-s
+select = ["E", "W", "F", "I", "S"]
+
+[tool.ruff.lint.isort]
+# https://docs.astral.sh/ruff/settings/#lintisort
+force-single-line = true
+case-sensitive = false
+lines-after-imports = 2
+
+# Ignore `F405` (import *) in config files
+[tool.ruff.lint.per-file-ignores]
+# Ignore line-too-long. Using ruff for formatting
+"*" = ["E501"]
+# Ignore security checks in tests
+"**/tests.py" = ["S"]
+"**/tests/*.py" = ["S"]
+"**/test_*.py" = ["S"]

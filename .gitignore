@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.cache/
+*.egg-info/
+.venv/
+venv/
+*.tmp
+temp/
+test_cache/
+*.log
+failed_events*.json
+failed_urls*.txt

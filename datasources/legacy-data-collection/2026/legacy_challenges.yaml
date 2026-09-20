@@ -1,0 +1,1346 @@
+# Legacy Challenges 2026 - LDC Google Sheet Mapping
+# Generated from official MTGO tournament calendar.
+#
+# Schema per entry:
+#   date: Tournament date (YYYY-MM-DD)
+#   name: Tournament name
+#   uri: Official MTGO tournament decklist URL
+#   sheet_id: Google Sheet ID (from docs.google.com/spreadsheets/d/<ID>/...) or null
+#   tab: Tab name in the Google Sheet (defaults to "Match Up Input")
+
+legacy-challenge-32-2026-01-0312828172:
+  date: '2026-01-03'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-01-0312828172'
+  sheet_id: '1YLwrrBHNTVhmEl9A_9SZnD9xmPlCS73zaPBeAItcehs'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-01-0312828178:
+  date: '2026-01-03'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-01-0312828178'
+  sheet_id: '1sFJadBYd1Ewpp4CVaCNM5F9TcXer5cC0YX7eE229etk'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-01-0412828188:
+  date: '2026-01-04'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-01-0412828188'
+  sheet_id: '1jUOEvCjd5264fqUCv2gyD0TRz7lAfDo4Re0DJvEgkes'
+  tab: 'Match Up Input'
+
+legacy-showcase-challenge-2026-01-0412828045:
+  date: '2026-01-04'
+  name: 'Legacy Showcase Challenge'
+  uri: 'https://www.mtgo.com/decklist/legacy-showcase-challenge-2026-01-0412828045'
+  sheet_id: '1CLDga0b8BMYMo_dVD8e03mAamrfsdGXw6bIuDTZr_6Q'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-01-0712829329:
+  date: '2026-01-07'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-01-0712829329'
+  sheet_id: '1MoWEbxdbQuu5YkBIlmYUjxru3vabMzMPmX0lCcq0Ous'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-01-1012829360:
+  date: '2026-01-10'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-01-1012829360'
+  sheet_id: '1QXgCIFKbYZQx69cMJYKX_G-d5SSDAOIXXmidDa2smqs'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-01-1012829366:
+  date: '2026-01-10'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-01-1012829366'
+  sheet_id: '14e4utMkx7dU_clKgU5artpQWBHpWs0N3cAtFQVQeu1s'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-01-1112829376:
+  date: '2026-01-11'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-01-1112829376'
+  sheet_id: '1OObPXZBJ_M41-QlftgAK0XDu6Bt_9AIjzEfV_aiUJIk'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-01-1112829382:
+  date: '2026-01-11'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-01-1112829382'
+  sheet_id: '1yHnFjT2o6ysNgTO-jRohPgzQu7vBtebyyMijSA6EQ4A'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-01-1412830012:
+  date: '2026-01-14'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-01-1412830012'
+  sheet_id: '18-VOadki_nDcc7jgwZCjDISf1R5sV2z8vhTS4_n7UPg'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-01-1712830043:
+  date: '2026-01-17'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-01-1712830043'
+  sheet_id: '1GkblB67nX7bGRfWFs4rBlO0Z3mVDgaUD4bp7S3YXccE'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-01-1712830049:
+  date: '2026-01-17'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-01-1712830049'
+  sheet_id: '19hgsDFvj2Va_UHt1Vx6z_yEl_xDYft2_kf5koQlvebc'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-01-1812830059:
+  date: '2026-01-18'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-01-1812830059'
+  sheet_id: '1YtEqKbDxyOi4S-a2aOYa08RQXqcBUJk8kmKg48YQmpw'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-01-1812830065:
+  date: '2026-01-18'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-01-1812830065'
+  sheet_id: '1rSoBwjeqjR7HW3_XVGvPUL6fh1immu8ghbiZN20LVFc'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-01-2112830609:
+  date: '2026-01-21'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-01-2112830609'
+  sheet_id: '1dvreQFu0xW52L6lcUtoGptzg1YEw40WzW_I6APrVYRM'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-01-2412830640:
+  date: '2026-01-24'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-01-2412830640'
+  sheet_id: '16iYsDI41uvMNHRSws7B9_GJa1_dg1cp5eN9ntsyq6z8'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-01-2412830646:
+  date: '2026-01-24'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-01-2412830646'
+  sheet_id: '1XOuwnePKbCQYkapGOeAbnVwfoQXMfQlZBrUvEkMOjfg'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-01-2512830656:
+  date: '2026-01-25'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-01-2512830656'
+  sheet_id: '1vcvPhtFKWDb5Em03py1sHB03Sva8ECKtKlKoKSzFDKs'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-01-2512830662:
+  date: '2026-01-25'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-01-2512830662'
+  sheet_id: '1nVtMzhUZogxGvElzvWKhJA2Bas7mXwxjmsIy_9WLFaA'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-01-2812831695:
+  date: '2026-01-28'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-01-2812831695'
+  sheet_id: '1i1Gc4lvzg7GvWxbkpVtuwU3NJgwPwK6KZOOAnjiz66U'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-01-3112831726:
+  date: '2026-01-31'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-01-3112831726'
+  sheet_id: '1MZFfsaMclHalu82q0hpFv6stuaLaWb41fD5F8cjJhBo'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-02-0112831742:
+  date: '2026-02-01'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-02-0112831742'
+  sheet_id: '1zEvHBF5CMjPsSP2fqT2mOAymX7DO_z2YEGYgGAkJUiU'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-02-0112831748:
+  date: '2026-02-01'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-02-0112831748'
+  sheet_id: '181j0iHEm3F2lu3syyOo-vU5axT7IFfw9b0SD2xXQNdg'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-02-0412832490:
+  date: '2026-02-04'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-02-0412832490'
+  sheet_id: '1F3gN9J9dQiJQJy1qAI_z5OoX2xp02rsg2ecvDzG_-qA'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-02-0712832521:
+  date: '2026-02-07'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-02-0712832521'
+  sheet_id: '1XlQglo28eJD25CR8hDnCcXUcbkehkV2FAwHEPXwuAiw'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-02-0712832527:
+  date: '2026-02-07'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-02-0712832527'
+  sheet_id: '1dlOhkgKGlK_sqnJ8SEXCPh6CkwDeLMhetf7N-pbXxMQ'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-02-0812832537:
+  date: '2026-02-08'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-02-0812832537'
+  sheet_id: '1bfK95HXDRhBbY5-GbmWR9vD54jM9V8VcBYpw1bYYtUg'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-02-0812832544:
+  date: '2026-02-08'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-02-0812832544'
+  sheet_id: '1tjd3nNMsJvGzLYzVltR-B20jKMZK5povGTsnWLxbvms'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-02-1112832997:
+  date: '2026-02-11'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-02-1112832997'
+  sheet_id: '1sLvdWUg0Bhi_zJPFfyoQENp-UMilcSg2AVE9xN9lERE'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-02-1412833028:
+  date: '2026-02-14'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-02-1412833028'
+  sheet_id: '10OGu8nlRjFjnnbkF9YcdvQEkMwfbPADrOu9BWpoi5dw'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-02-1412833034:
+  date: '2026-02-14'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-02-1412833034'
+  sheet_id: '1knID6XVApHwR-7NEKbR3KSF58nfFk8UvOGqjLcPeI78'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-02-1512833044:
+  date: '2026-02-15'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-02-1512833044'
+  sheet_id: '1Px5Uog64TuPdgj84kM6Xt5houYS8_wFrCe23r6mQJiI'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-02-1512833050:
+  date: '2026-02-15'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-02-1512833050'
+  sheet_id: '1GWY1lckTZiPSQWLBrAze2kjn7vKuEfdXP4sf1_FVZ1A'
+  tab: 'Match Up Input'
+
+legacy-showcase-challenge-2026-02-1512832992:
+  date: '2026-02-15'
+  name: 'Legacy Showcase Challenge'
+  uri: 'https://www.mtgo.com/decklist/legacy-showcase-challenge-2026-02-1512832992'
+  sheet_id: '1NQlC-hsBsoCnd_ObARn0YZs5f8qzvBcZxpIOETOnIWg'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-02-1812833507:
+  date: '2026-02-18'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-02-1812833507'
+  sheet_id: '1vw8zt0-7fMG0xBcSZbSzjv4I8AuDZBIYAe49dVVG1XA'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-02-2112833538:
+  date: '2026-02-21'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-02-2112833538'
+  sheet_id: '1uJIu5WzqVeqYKWehTHvfPlmUuwuoSvI3HItJpFvoF2Q'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-02-2112833544:
+  date: '2026-02-21'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-02-2112833544'
+  sheet_id: '1qFuI5fSLGE6Cy6Un8tzuwPgAedPIBwEvi8At0ehre_A'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-02-2212833554:
+  date: '2026-02-22'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-02-2212833554'
+  sheet_id: '1gGuJFHHPd3I6f1VwYNR4U8HGgep2zBt8kExUmjX0PuY'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-02-2212833560:
+  date: '2026-02-22'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-02-2212833560'
+  sheet_id: '1y8KpfZL_N4NB356juEWU5JGeFnCiEUAjhntwMuotwgQ'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-02-2612834133:
+  date: '2026-02-26'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-02-2612834133'
+  sheet_id: '1wgb4MwrMMdRoFNYMn8StBF5rHEEe9hJKLaupzq8z9mU'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-02-2812834067:
+  date: '2026-02-28'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-02-2812834067'
+  sheet_id: '1EATstmWjUswLUmq6ooR45NASMkiZ7lZ84wNluH9QVQI'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-02-2812834073:
+  date: '2026-02-28'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-02-2812834073'
+  sheet_id: '127DnYjcV_JX23B8hrFsM8FZ_uefmupB1HLE9Zv5gtho'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-03-0112834083:
+  date: '2026-03-01'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-03-0112834083'
+  sheet_id: '1kMdDin9-lzGq9lm-UoIoGGZVxDix1ffFhgUMeoczhUc'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-03-0112834089:
+  date: '2026-03-01'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-03-0112834089'
+  sheet_id: '14IPoh8y5KlfHTEMW3xXz8Lx9gs2boqaJMVZuQ8iGVZc'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-03-0412834472:
+  date: '2026-03-04'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-03-0412834472'
+  sheet_id: '1jqzsp60YW5Qkfk5yYV4AJidyGBR3WBCwt4F65Kv03xo'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-03-0712834503:
+  date: '2026-03-07'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-03-0712834503'
+  sheet_id: '1LOh71fUDeVaKlkj5BP4M40aQ3iEndTuk-9206RQzvdQ'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-03-0712834509:
+  date: '2026-03-07'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-03-0712834509'
+  sheet_id: '1omuOQBYG73qqSdPM-NagqaSah71xPI78SRN2oahm6o8'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-03-0812834519:
+  date: '2026-03-08'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-03-0812834519'
+  sheet_id: '1h800T7QqEQrEjL6AWhDbXNOY_Vgv7wEGXJ9XRatM6AM'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-03-0812834525:
+  date: '2026-03-08'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-03-0812834525'
+  sheet_id: '1A1OitEcf2XiTRanKnfXPkvyrDJmk9FyE3BsK2DxITds'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-03-1112835275:
+  date: '2026-03-11'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-03-1112835275'
+  sheet_id: null
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-03-1412835307:
+  date: '2026-03-14'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-03-1412835307'
+  sheet_id: '1pJ-k7Zq_EU0Jq8d9zt7UWmdVkf3LT6E63hsHrIouB2Y'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-03-1412835313:
+  date: '2026-03-14'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-03-1412835313'
+  sheet_id: '1cdD6cEHVEXS9GXexjazEb2RA5w2ZO33HJWp2QMXtxU4'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-03-1512835323:
+  date: '2026-03-15'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-03-1512835323'
+  sheet_id: '1je8YUIRAiXyRR31TY5xFKt8L71LPS8qFBTlsomvpRlc'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-03-1512835330:
+  date: '2026-03-15'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-03-1512835330'
+  sheet_id: '1NObbu28DHqJZ9JyqZKYq9UbPRg-aR0kM23dFEytHeDs'
+  tab: 'Match Up Input'
+
+legacy-showcase-challenge-2026-03-1512835271:
+  date: '2026-03-15'
+  name: 'Legacy Showcase Challenge'
+  uri: 'https://www.mtgo.com/decklist/legacy-showcase-challenge-2026-03-1512835271'
+  sheet_id: '1yuAaNWP7-BqIVdCN3g8U8R1yuNV4RTss17gORN8jyiE'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-03-1812835957:
+  date: '2026-03-18'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-03-1812835957'
+  sheet_id: '1gf1gAJH7aHzwzzrzgVNd-jNGPNR9Ex1mmApM44NQj9o'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-03-2112835989:
+  date: '2026-03-21'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-03-2112835989'
+  sheet_id: '1CdsztYtycPHmZSbNRV2ITWLNLS_VJS0HDhH5c5pUxJU'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-03-2112835995:
+  date: '2026-03-21'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-03-2112835995'
+  sheet_id: '1Dd-ze96p50F2j1QhtMYo90zilkTj1tj_mMVPqsWpt5E'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-03-2212836005:
+  date: '2026-03-22'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-03-2212836005'
+  sheet_id: '1YWioEg_QyNhhVQae0GGNdxO8Inr8m67s8OSifUX2Kgk'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-03-2212836011:
+  date: '2026-03-22'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-03-2212836011'
+  sheet_id: '1A3obl87pD3JBDMWVvZCN_Oo-eFftbz06-V4dEaNXNcM'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-03-2512836729:
+  date: '2026-03-25'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-03-2512836729'
+  sheet_id: '10zRKhkanKzyYmXN8vPWQ9CKfSn7kdPaS0JFTI5PhUGQ'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-03-2812836760:
+  date: '2026-03-28'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-03-2812836760'
+  sheet_id: '1cqqTM6AS3bJLZ47FsbaPENKqiuqnct31V13ISCui3EA'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-03-2812836766:
+  date: '2026-03-28'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-03-2812836766'
+  sheet_id: '1ZYDBdV5ZaXnBlgr-c9wUpE9MbhkMgdm8TZx-DX7nUCU'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-03-2912836776:
+  date: '2026-03-29'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-03-2912836776'
+  sheet_id: '1EcVM0GtilhaXVGK6Dd1JuVjTSPIv9aCF2GRx9QQ7HYI'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-03-2912836782:
+  date: '2026-03-29'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-03-2912836782'
+  sheet_id: '1E695i1FGllwA7ibqHjLQ-tBqOu7iXn1V_s-DtKNGNk0'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-04-0112838090:
+  date: '2026-04-01'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-04-0112838090'
+  sheet_id: '1NYhSDz_airHX9pXbCG6ivkINMo83D0IEOMM9nplDwEQ'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-04-0412838121:
+  date: '2026-04-04'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-04-0412838121'
+  sheet_id: '1YKpAAoDYTr_e_U-pY74L3QfgiRivVBhT0C4gjIEfjT0'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-04-0412838127:
+  date: '2026-04-04'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-04-0412838127'
+  sheet_id: '1O82Cfyyo_7v_TFrR2w-J6tYNuSl8PUGDKbsX9bZpPVU'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-04-0512838137:
+  date: '2026-04-05'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-04-0512838137'
+  sheet_id: '1eqdT18em4fTB4ZGozFjZyLymGJ86ZMex7SJ6cWdgCcQ'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-04-0512838143:
+  date: '2026-04-05'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-04-0512838143'
+  sheet_id: '1JPVOh0C3kQuDUToWhZ429YMKV12WkqhLKxuFEtPpNAg'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-04-0812838848:
+  date: '2026-04-08'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-04-0812838848'
+  sheet_id: '1MK3s6RSJBL4YnYqcPW-NrsD8r3Z4ARkagIYIP0pGGYM'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-04-1112838880:
+  date: '2026-04-11'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-04-1112838880'
+  sheet_id: '15dY2cbCwko1DhA7_WTTcIDBWHMS2Cq5x1DOhBL8R7Lg'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-04-1112838886:
+  date: '2026-04-11'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-04-1112838886'
+  sheet_id: '1_GGamjDe_yWzZMRapoxKs0IZz-wKO8rj-gIpWGAfzd0'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-04-1212838896:
+  date: '2026-04-12'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-04-1212838896'
+  sheet_id: '1RXG8OiQ5Ax-wz-xZTogTi-08NPT5aqOHysEvRSzwf9o'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-04-1212838902:
+  date: '2026-04-12'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-04-1212838902'
+  sheet_id: '1kcHgXM8ZdZlIXBOWc_zzXNhihk7sTX7d8pkGlF3HS0E'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-04-1512839648:
+  date: '2026-04-15'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-04-1512839648'
+  sheet_id: '1ReSbMBQ_L_XAeahfUxfc6fPo9aD8E4SUjeqlbinuzIA'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-04-1812839680:
+  date: '2026-04-18'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-04-1812839680'
+  sheet_id: '1YbAIstS9gb7HC5mg5TtmG2mJCOwUAfhSo6AzIvBYG0Y'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-04-1812839686:
+  date: '2026-04-18'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-04-1812839686'
+  sheet_id: '18hp8C8_YCLEm7BeHRSQAQBeYyzf8qfqntIxfVblqD38'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-04-1912839696:
+  date: '2026-04-19'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-04-1912839696'
+  sheet_id: '15qTasU_9JlT2EYnh5XGEwUsK-6i1YniqGTEbxZkoPo4'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-04-1912839702:
+  date: '2026-04-19'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-04-1912839702'
+  sheet_id: '1sdrB7JtubF3iv1PAsLynsVIx2cvLWWctR8R7REPPxQ4'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-04-2212840517:
+  date: '2026-04-22'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-04-2212840517'
+  sheet_id: '1KOiBoXZZA5XAoU6ZtBFHyEHgoeWUxzhe0IpUwF2hoTI'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-04-2512840547:
+  date: '2026-04-25'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-04-2512840547'
+  sheet_id: '1l-CnKo7Q5atrXD9QIlaR6Vvf88S5MuxoB_DGRWDFZeY'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-04-2512840553:
+  date: '2026-04-25'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-04-2512840553'
+  sheet_id: '1oSE5CF7alSPKhCfQ5Bs3gBuiLizZ6zfptMDGddYlI0Y'
+  tab: 'Match Up Input'
+
+legacy-showcase-challenge-2026-04-2512840499:
+  date: '2026-04-25'
+  name: 'Legacy Showcase Challenge'
+  uri: 'https://www.mtgo.com/decklist/legacy-showcase-challenge-2026-04-2512840499'
+  sheet_id: '1-3s8nyaAtJ-Gs3FZxcIgRaq4lQ6RQNLqasPBfBqsiWo'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-04-2612840563:
+  date: '2026-04-26'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-04-2612840563'
+  sheet_id: '1E9wQJyL-8xbDh1dGZ5m56vDhktDg4lnlwcj2b7_KNZw'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-04-2612840569:
+  date: '2026-04-26'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-04-2612840569'
+  sheet_id: '1gTKKMp0oLAGZCZYMFaOcvBgVhDyaaRQ3SeJBuxxMtOY'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-04-2912841320:
+  date: '2026-04-29'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-04-2912841320'
+  sheet_id: '11nEqHkLlafXXRIZDBRAVIZCf9h5E9LoZzhWbieo8A7g'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-05-0212841351:
+  date: '2026-05-02'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-05-0212841351'
+  sheet_id: '19IDJJeV3Ywr7FgP45X6An8QtCd_WJTonE7HZ87LfPbc'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-05-0212841357:
+  date: '2026-05-02'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-05-0212841357'
+  sheet_id: '145Y_upUB40o7Ai_00IzDY7F3wzQFBtQPEdKhoMIJe4k'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-05-0312841367:
+  date: '2026-05-03'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-05-0312841367'
+  sheet_id: '1kUvs5_bDh_BVz4s-bkhW0QGTI5my9Wtcjx0uBGvNq0I'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-05-0312841373:
+  date: '2026-05-03'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-05-0312841373'
+  sheet_id: '19Bs7jlZ7BCn2tGhRtJaetF11Bj7nXLkCqc_eyYB_SOc'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-05-0612842050:
+  date: '2026-05-06'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-05-0612842050'
+  sheet_id: '1uFK89X22IY7ZSIa-hOypuqUyNau-WkTrpAidCkagnUw'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-05-0912842081:
+  date: '2026-05-09'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-05-0912842081'
+  sheet_id: '19nIStMiaRxJlwl-okrXxHhsNQn_J0sIwvBXu7T15zzE'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-05-0912842087:
+  date: '2026-05-09'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-05-0912842087'
+  sheet_id: '1ouIMfomXQUT2wrjgyFsOjQOlSfXupbEhVs5aQeEG44w'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-05-1012842097:
+  date: '2026-05-10'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-05-1012842097'
+  sheet_id: '16-i3IIDuKvpgSB7OzVS9Uqprqh6PwXqkbsyBd-Gl2m8'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-05-1012842103:
+  date: '2026-05-10'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-05-1012842103'
+  sheet_id: '1jgeYHGE2VKNwZkFDw7ahaOdWO8Cu0H6xndQNxtiZWPs'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-05-1312842453:
+  date: '2026-05-13'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-05-1312842453'
+  sheet_id: '1vDOZghxBW-8AjhqjxTXCjlCHOiA5EKo1I8Nwbs-RMBs'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-05-1612842484:
+  date: '2026-05-16'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-05-1612842484'
+  sheet_id: '1ucZ2Eqhix2t7hpZJijJC2d4jInjB6DY4vhDMm_m5J3k'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-05-1612842490:
+  date: '2026-05-16'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-05-1612842490'
+  sheet_id: '1zlchfzruB-rr6K6FuC02iuY2ZYJZ8Ydad72ASqPUM_w'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-05-1712842500:
+  date: '2026-05-17'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-05-1712842500'
+  sheet_id: '1jBIteY3qVGuXn6cR5K2vKPL60L_j28NYpND-NhJtx7o'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-05-1712842506:
+  date: '2026-05-17'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-05-1712842506'
+  sheet_id: '19ZHUQ_37tvYNI8PGm_6WKmc2dBknXS8NpiNeWvOfaXA'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-05-2012842880:
+  date: '2026-05-20'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-05-2012842880'
+  sheet_id: '1mGHCI2sBDkc2YnnAY5Fycxz1EqNrGzV7oNwJG9awZ0k'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-05-2312842911:
+  date: '2026-05-23'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-05-2312842911'
+  sheet_id: '1CCw_4ar2XR_nHJKjlIdbcYUbm9JO_3_IhYKrDd6mJqU'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-05-2312842917:
+  date: '2026-05-23'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-05-2312842917'
+  sheet_id: '1MMDQQOsmbThYdnpfo-qfhLVCKS8uuERXp-2OY-CseXU'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-05-2412842926:
+  date: '2026-05-24'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-05-2412842926'
+  sheet_id: '1Kunu10UWdxAuGfjfJKqU5Bx0cFNg2Uhce8x9rIO4x1o'
+  tab: 'Match Up Input'
+
+legacy-showcase-challenge-2026-05-2412842876:
+  date: '2026-05-24'
+  name: 'Legacy Showcase Challenge'
+  uri: 'https://www.mtgo.com/decklist/legacy-showcase-challenge-2026-05-2412842876'
+  sheet_id: '1yG_gvHo7dBnWgx3_tQlVye58U9h3YF6zWJ_HE5_l1J8'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-05-2712843368:
+  date: '2026-05-27'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-05-2712843368'
+  sheet_id: '1nQhIFWoU9OpJjG62pe_JxTWOG4qEsQDTOO_R3L49TQs'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-05-3012843402:
+  date: '2026-05-30'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-05-3012843402'
+  sheet_id: '1W0tV8B1WAYLKl6uTPOsRQKOoCFvPBZgImHtX6X33BBg'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-05-3012843408:
+  date: '2026-05-30'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-05-3012843408'
+  sheet_id: '1p8mjbYd4fdw8svajVrlF4zeJARWvWN_s5KIefss4rU0'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-05-3112843417:
+  date: '2026-05-31'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-05-3112843417'
+  sheet_id: '1R18ulHCHXRKjWLge1FIydXpE17R7Uu2FXels0UWRO9M'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-05-3112843423:
+  date: '2026-05-31'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-05-3112843423'
+  sheet_id: '1rzC-x_u9fDt8D3dnRZQSko1tDzxep8nu7x_X2xnG7t4'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-06-0312843762:
+  date: '2026-06-03'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-06-0312843762'
+  sheet_id: '1dQUqvGF2q7EBmKf0Kh8JxwEKWZ-DXT3V5MjWfFc6NQ0'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-06-0612843793:
+  date: '2026-06-06'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-06-0612843793'
+  sheet_id: '1FoktGOcRwmxb0IgqryCGW2H9-ku-Hpo6fDDRD9KvPfA'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-06-0612843799:
+  date: '2026-06-06'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-06-0612843799'
+  sheet_id: '1nioZ0X9p60HFdxqWfhr-Dk1gHN6Ppqe7CK0bLW_MrPk'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-06-0712843809:
+  date: '2026-06-07'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-06-0712843809'
+  sheet_id: '1wijhFksw42PGggeUStF1Xrg6cUH__tUVPSLCh3fmsUs'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-06-0712843815:
+  date: '2026-06-07'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-06-0712843815'
+  sheet_id: '1-Q-Ldupp7hS5WIOWscnBRLjL8vld4F72KJtWoqOfu9U'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-06-1012844282:
+  date: '2026-06-10'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-06-1012844282'
+  sheet_id: '1DDwg6ewF20jY2JZD3q5SQ5kot6ZXYYCPBSydnUz9gAw'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-06-1312844315:
+  date: '2026-06-13'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-06-1312844315'
+  sheet_id: '1JeMvl2TC0-EPz22Jy6fIVw0s5uUtD-K1YUi-zj69u40'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-06-1312844321:
+  date: '2026-06-13'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-06-1312844321'
+  sheet_id: '1vuRbQhOfRs1JwO2g2NqfgFOjqxERanaxS05tBMojwa8'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-06-1412844331:
+  date: '2026-06-14'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-06-1412844331'
+  sheet_id: '1P5vLT6HLco5t7Xen50gD3_ggmDwzNR-0vN1NV7D3iw8'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-06-1412844337:
+  date: '2026-06-14'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-06-1412844337'
+  sheet_id: '12hzranwCLE2Yq_OLZ6GYZnlPn1O1XuLRkeA_167ykG0'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-06-1712844820:
+  date: '2026-06-17'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-06-1712844820'
+  sheet_id: '1dZ3PqKmE4byP_bzBuqXMSwSgDz-l8cDaeXMeDWXmvjQ'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-06-2012844851:
+  date: '2026-06-20'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-06-2012844851'
+  sheet_id: '1rCaczB6D9qoHj1OcfgcJxoHEUY2n0nVOERyOz9HUYEg'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-06-2012844857:
+  date: '2026-06-20'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-06-2012844857'
+  sheet_id: '1ZYxXydbyk8dJKO2NFTHRXM_tS01mBXXu-MK9ukzHaiE'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-06-2112844867:
+  date: '2026-06-21'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-06-2112844867'
+  sheet_id: '1rFrZpcRSujdVSsQigoPW4p0rqckkWRLhBrO08k0rGrI'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-06-2112844873:
+  date: '2026-06-21'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-06-2112844873'
+  sheet_id: null
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-06-2412845632:
+  date: '2026-06-24'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-06-2412845632'
+  sheet_id: '12N4eRY8AP4rdN1521YeP8deT8QA9nJBuDoCcmMDwZew'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-06-2712845663:
+  date: '2026-06-27'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-06-2712845663'
+  sheet_id: '1fdfr3PWwYOTPKt7PicPgrcbTHEDL1RADNrMRBTZuRJI'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-06-2712845669:
+  date: '2026-06-27'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-06-2712845669'
+  sheet_id: '13HzfHS-0v07m7bAJC1Mr4hYQRbT7Vnqnha7URAHOaUw'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-06-2812845679:
+  date: '2026-06-28'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-06-2812845679'
+  sheet_id: '14DdOZKi01Rb6hPqrfubjMwTi-m1RSPyKiBCD3HCRATA'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-06-2812845685:
+  date: '2026-06-28'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-06-2812845685'
+  sheet_id: '1lZ478Xg9Hs0coZHMBhcrluh8lTfJuUv0v6oY7Y2fLkw'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-07-0112846449:
+  date: '2026-07-01'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-07-0112846449'
+  sheet_id: '1vLr7lPp7hESpWuBuF93ZfHdOvE2GJ9H18qBs5YBYOg8'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-07-0412846480:
+  date: '2026-07-04'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-07-0412846480'
+  sheet_id: '1O-RBzLPtthr7XjUzI7d5CgtSAR46dKvwvU47bBmFVDk'
+  tab: 'Match Up Input'
+
+legacy-showcase-challenge-2026-07-0412846445:
+  date: '2026-07-04'
+  name: 'Legacy Showcase Challenge'
+  uri: 'https://www.mtgo.com/decklist/legacy-showcase-challenge-2026-07-0412846445'
+  sheet_id: '1PS-tZdZWgqlaLPIOE_rTmtx2tDlL_q3geJB-MHosKZ4'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-07-0512846496:
+  date: '2026-07-05'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-07-0512846496'
+  sheet_id: '1u8uAkiQCi8PNvJcv_rOfqUYg9boObt0czIeP4FVB3bo'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-07-0512846503:
+  date: '2026-07-05'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-07-0512846503'
+  sheet_id: '1IW41_SJFdoM-sIagm9NLngtkuNPjofDIX17vT6m4bWU'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-07-0812847092:
+  date: '2026-07-08'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-07-0812847092'
+  sheet_id: '1C9uzsKeX53elQfWeCpBMZssb3CLEjrml1d6XtMKgFt0'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-07-1112847123:
+  date: '2026-07-11'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-07-1112847123'
+  sheet_id: '13WNbbHOD1EIfh-NJZIB57824Lbf1S0N7ugorDqPn3q4'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-07-1212847138:
+  date: '2026-07-12'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-07-1212847138'
+  sheet_id: '1v_SSnYBYjG5mwaJRBmkXfgSoD2jdQSt7QjwDD12MNy8'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-07-1212847144:
+  date: '2026-07-12'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-07-1212847144'
+  sheet_id: '1bxsJ5Z96M65_2rN1s7Kif-XriftEP01Hd-V3ZyoKKSg'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-07-1512847671:
+  date: '2026-07-15'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-07-1512847671'
+  sheet_id: '18j-v7Z7DUFfSLqnaSqcZFmX8lDwW3FchSjEGaaYYmXU'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-07-1812847690:
+  date: '2026-07-18'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-07-1812847690'
+  sheet_id: '10o2KV8_msYBBhBhqVEeeIMlsAiFX_3SjGq5BFPjK70U'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-07-1812847696:
+  date: '2026-07-18'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-07-1812847696'
+  sheet_id: '1NSiUbpSdItKCtj9wVmcxEBqKFXnRIXnNG6tIgyj8wmY'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-07-1912847705:
+  date: '2026-07-19'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-07-1912847705'
+  sheet_id: '1uPerpEIn6eO8dMqyrcC5-2TdjxEcZ3p6O3ALnm6GJj0'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-07-1912847711:
+  date: '2026-07-19'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-07-1912847711'
+  sheet_id: '1BaPVkVgsTWbV7CZmT3TkUJenYivs4XQlDSqP4c6r8AA'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-07-2212848167:
+  date: '2026-07-22'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-07-2212848167'
+  sheet_id: '1p4-UoSOeQiljs3ebJDxHz8scyvxrEQgUo6P8bTf1BuQ'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-07-2512848198:
+  date: '2026-07-25'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-07-2512848198'
+  sheet_id: '1BvdR8dwUHPaGRUpQt2kZo6-pxMLc31xxb7jERjKM6Nw'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-07-2512848204:
+  date: '2026-07-25'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-07-2512848204'
+  sheet_id: '1bByDBt8msPK1vQ737wVkFAR5b5vSJMB70yUpviamB3Q'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-07-2612848214:
+  date: '2026-07-26'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-07-2612848214'
+  sheet_id: '1LBuJx0DTCznOQ0LRHk0qv5IxluBbuLQQs0BGhm8W8h4'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-07-2612848220:
+  date: '2026-07-26'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-07-2612848220'
+  sheet_id: '1sGXdzVb1CmPSlc11nRx3qY7IDLZIC9gF4jPBBVADnpI'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-07-2912849428:
+  date: '2026-07-29'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-07-2912849428'
+  sheet_id: '1jLzrsFqy-ydBY99m0iQ3FOOHMl3n5QDx5guSIHhvjrk'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-08-0112849459:
+  date: '2026-08-01'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-08-0112849459'
+  sheet_id: '1fusgh8OPdFCbmGQlFViMT06Etn3bMTpiOiiZYkiNNdM'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-08-0112849465:
+  date: '2026-08-01'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-08-0112849465'
+  sheet_id: '1mYn47amHt19syiVM_zvSP-UJbADiWP7vCnTcbeika7U'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-08-0212849475:
+  date: '2026-08-02'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-08-0212849475'
+  sheet_id: '1OomAtbIRMqhUUhGaHWi5verDpf8t1_E1Gp5dvoIwqE0'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-08-0212849481:
+  date: '2026-08-02'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-08-0212849481'
+  sheet_id: '18tU1RBFpVNsaXE04NrTsuZQEG_CsBGIAZbRJQvcnuE8'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-08-0512850700:
+  date: '2026-08-05'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-08-0512850700'
+  sheet_id: '1cwXH2mXyJiS_340QT5l7jjERWFOifV633WmRxAZnomI'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-08-0812850821:
+  date: '2026-08-08'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-08-0812850821'
+  sheet_id: '1vTcGjihHwdAdJJMH8yuTlEzsOrQhU1CvGrHWnsDa3ZQ'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-08-0912851105:
+  date: '2026-08-09'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-08-0912851105'
+  sheet_id: '10LgkcoNhsL9JDMYwjxj3CPjvSaPo_sYrzWe24_esxC8'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-08-0912851111:
+  date: '2026-08-09'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-08-0912851111'
+  sheet_id: '1QIf0UJDQyNKLpBLbwHjSLtAW86Pr3Vq_tbYPCDO1svc'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-08-1212851626:
+  date: '2026-08-12'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-08-1212851626'
+  sheet_id: '1-5GxMztWVsPX4jlRVvBYDlRBw2SuuEpO3EoNq4BzMCY'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-08-1512851657:
+  date: '2026-08-15'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-08-1512851657'
+  sheet_id: '1oJX5OLBdhNL9OASr4qTOl-95xH202IEoLT5QmZncuF4'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-08-1512851663:
+  date: '2026-08-15'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-08-1512851663'
+  sheet_id: '1LbX9etAl2dWLI7wsSC-ishG35UoIyRPplWMPpQfYFRc'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-08-1612851673:
+  date: '2026-08-16'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-08-1612851673'
+  sheet_id: '1uLWr878yiRFvXN7fPbdgFFVEleRiEi0nyX22_adbwJQ'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-08-1612851679:
+  date: '2026-08-16'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-08-1612851679'
+  sheet_id: '1DA4Qwldt3pLdUb6ioYz95d9eLsrwL1ghB56SeBNETT4'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-08-1912852716:
+  date: '2026-08-19'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-08-1912852716'
+  sheet_id: null
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-08-2112852735:
+  date: '2026-08-21'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-08-2112852735'
+  sheet_id: null
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-08-2212852739:
+  date: '2026-08-22'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-08-2212852739'
+  sheet_id: null
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-08-2312852754:
+  date: '2026-08-23'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-08-2312852754'
+  sheet_id: '1YW5FvpQPHFZpdxGiKjSPH05ftRLe90rzhvKAM_dXOYo'
+  tab: 'Match Up Input'
+
+legacy-showcase-challenge-2026-08-2312852808:
+  date: '2026-08-23'
+  name: 'Legacy Showcase Challenge'
+  uri: 'https://www.mtgo.com/decklist/legacy-showcase-challenge-2026-08-2312852808'
+  sheet_id: '121tyVLUgWB9tgBsBmdELq6S59IeSTyFHnroYjfsVCEk'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-08-2512852772:
+  date: '2026-08-25'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-08-2512852772'
+  sheet_id: '1aPoMZ5lMaO524NcQtZ3nLywgbHxbWouolVcV6UfE9FU'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-08-2612853166:
+  date: '2026-08-26'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-08-2612853166'
+  sheet_id: '1aWOsmzFs8TGHU0pTw6wFxxK5IKNAk4nRe1I9Csdj-1E'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-08-2812853185:
+  date: '2026-08-28'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-08-2812853185'
+  sheet_id: '104oudPSckGctibWNrXHUORnK97JyymH41mOnyCmQ8y0'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-08-2912853189:
+  date: '2026-08-29'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-08-2912853189'
+  sheet_id: '1KIP6EzKHF_v3vqDyJ8GtGATvftnbbkzDfBeXTNezEkY'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-08-3012853199:
+  date: '2026-08-30'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-08-3012853199'
+  sheet_id: '1EUIFJ5GT_lGZ4HONwK5xM8vARyP6PIBKteDazKjKxw0'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-08-3012853204:
+  date: '2026-08-30'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-08-3012853204'
+  sheet_id: '1bNkrQABAcqFfAyRGRMK98hSmTCj-L--9rPXKUWqMDz4'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-09-0112853222:
+  date: '2026-09-01'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-09-0112853222'
+  sheet_id: '1odgpw93W5RUmDlWfwnbpc4KMLLSmnql5J41AFlqOpbQ'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-09-0212853731:
+  date: '2026-09-02'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-09-0212853731'
+  sheet_id: '1xsbWg9OXmzGdEAQLYfSOmoTuEBodiJdo1VCTgB4DbOI'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-09-0412853681:
+  date: '2026-09-04'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-09-0412853681'
+  sheet_id: null
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-09-0512853685:
+  date: '2026-09-05'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-09-0512853685'
+  sheet_id: '1-KgZLu5rsvq3gDPQA6WsxdZIURd4rCjq88SfYgaoVUI'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-09-0612853695:
+  date: '2026-09-06'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-09-0612853695'
+  sheet_id: '1XOGdlGHHm9DYn62Twfjud3HwD3NcULwkwoJPnXBVpxE'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-09-0612853700:
+  date: '2026-09-06'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-09-0612853700'
+  sheet_id: '16fDclWL5C_gSqlcqQ8gLnYEpgt3-PY0B4W8-KBhzsRY'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-09-0812853718:
+  date: '2026-09-08'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-09-0812853718'
+  sheet_id: '16A7K3rQviW-0GQdXXB47jIwUdGaBwp0-RN9of5dwhWU'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-09-0912854055:
+  date: '2026-09-09'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-09-0912854055'
+  sheet_id: '1SFoJCdpftDCLvyeoHjueycXM95qWgh3nvbeNSqxRsno'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-09-1112854074:
+  date: '2026-09-11'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-09-1112854074'
+  sheet_id: '1hC6FgAW438ct5bhCcwDN2SWFJGuy1W0A7FfRvN_yhDo'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-09-1212854078:
+  date: '2026-09-12'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-09-1212854078'
+  sheet_id: '1inPOj-9OJV_f2CcVG1RY8Lo6bsVUvV1lv5Ae3oK0IEI'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-09-1312854088:
+  date: '2026-09-13'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-09-1312854088'
+  sheet_id: '1Oiupzn3xQvVlullyPThf_FfMkeyuH2nD5fpTwid2TYU'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-09-1312854093:
+  date: '2026-09-13'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-09-1312854093'
+  sheet_id: '1t_QLcXWxhJjKs9QlswfKpRLdukqIegos6gIDhyWk2rE'
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-09-1512854111:
+  date: '2026-09-15'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-09-1512854111'
+  sheet_id: null
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-09-1612854479:
+  date: '2026-09-16'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-09-1612854479'
+  sheet_id: null
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-09-1812854498:
+  date: '2026-09-18'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-09-1812854498'
+  sheet_id: null
+  tab: 'Match Up Input'
+
+legacy-challenge-32-2026-09-1912854502:
+  date: '2026-09-19'
+  name: 'Legacy Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/legacy-challenge-32-2026-09-1912854502'
+  sheet_id: null
+  tab: 'Match Up Input'
