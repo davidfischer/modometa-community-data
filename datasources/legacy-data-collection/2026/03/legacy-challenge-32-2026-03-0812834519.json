@@ -1,0 +1,590 @@
+{
+  "Tournament": {
+    "Id": "legacy-challenge-32-2026-03-0812834519",
+    "Date": "2026-03-08",
+    "Name": "Legacy Challenge 32",
+    "PlayerCount": 32,
+    "Source": "legacy-data-collection",
+    "SheetId": "1h800T7QqEQrEjL6AWhDbXNOY_Vgv7wEGXJ9XRatM6AM"
+  },
+  "Players": [
+    {
+      "Player": "sakuragi21722749",
+      "Archetype": "Red Painter"
+    },
+    {
+      "Player": "derlumberzack",
+      "Archetype": "Sneak and Show"
+    },
+    {
+      "Player": "Unlif3",
+      "Archetype": "Boros Energy"
+    },
+    {
+      "Player": "Eureka22422",
+      "Archetype": "Black Midrange"
+    },
+    {
+      "Player": "kanican",
+      "Archetype": "Red Painter"
+    },
+    {
+      "Player": "Ryuho090",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "Karaz4",
+      "Archetype": "Mono Green Cloudpost"
+    },
+    {
+      "Player": "Vash963",
+      "Archetype": "The EPIC Storm"
+    },
+    {
+      "Player": "xfile",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "CaptainAfrica",
+      "Archetype": "Loam Pox"
+    },
+    {
+      "Player": "ice_nine_BIGFAN",
+      "Archetype": "Naya Stompy"
+    },
+    {
+      "Player": "_Batutinha_",
+      "Archetype": "Mono Green Cloudpost"
+    },
+    {
+      "Player": "Lord_Beerus",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "kozz27",
+      "Archetype": "Naya Stompy"
+    },
+    {
+      "Player": "bless_von",
+      "Archetype": "Boros Energy"
+    },
+    {
+      "Player": "MyPotatoes",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "doctor-x",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "into_play",
+      "Archetype": "Mono Green Cloudpost"
+    },
+    {
+      "Player": "uburdub",
+      "Archetype": "Red Painter"
+    },
+    {
+      "Player": "Venom1",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "musasabi",
+      "Archetype": "Black Midrange"
+    },
+    {
+      "Player": "yoshiwata",
+      "Archetype": "Death and Taxes - BW (Yorion)"
+    },
+    {
+      "Player": "azmyk1231",
+      "Archetype": "Grixis Tempo"
+    },
+    {
+      "Player": "epicthings",
+      "Archetype": "Eldrazi"
+    },
+    {
+      "Player": "medvedev",
+      "Archetype": "Affinity Stompy"
+    },
+    {
+      "Player": "haveaboavida",
+      "Archetype": "Sneak and Show"
+    },
+    {
+      "Player": "DarkDepthsAniki",
+      "Archetype": "Golgari Depths"
+    },
+    {
+      "Player": "run1998",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "gusti99",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "syunikiso",
+      "Archetype": "Merfolk"
+    },
+    {
+      "Player": "EmperorOppai",
+      "Archetype": "Death's Shadow"
+    },
+    {
+      "Player": "DominiqueTutor",
+      "Archetype": "Other Aggro"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "Venom1",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "azmyk1231",
+          "Player2": "DarkDepthsAniki",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "epicthings",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "CaptainAfrica",
+          "Player2": "MyPotatoes",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "derlumberzack",
+          "Player2": "Eureka22422",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "doctor-x",
+          "Player2": "run1998",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ice_nine_BIGFAN",
+          "Player2": "medvedev",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "into_play",
+          "Player2": "DominiqueTutor",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kanican",
+          "Player2": "gusti99",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Karaz4",
+          "Player2": "musasabi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ryuho090",
+          "Player2": "Lord_Beerus",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "sakuragi21722749",
+          "Player2": "syunikiso",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "uburdub",
+          "Player2": "haveaboavida",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Unlif3",
+          "Player2": "kozz27",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Vash963",
+          "Player2": "yoshiwata",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "xfile",
+          "Player2": "EmperorOppai",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "bless_von",
+          "Player2": "medvedev",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "derlumberzack",
+          "Player2": "_Batutinha_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Eureka22422",
+          "Player2": "syunikiso",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ice_nine_BIGFAN",
+          "Player2": "kozz27",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kanican",
+          "Player2": "doctor-x",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Karaz4",
+          "Player2": "into_play",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "EmperorOppai",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "run1998",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MyPotatoes",
+          "Player2": "DominiqueTutor",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "sakuragi21722749",
+          "Player2": "DarkDepthsAniki",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Unlif3",
+          "Player2": "Ryuho090",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Vash963",
+          "Player2": "CaptainAfrica",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "azmyk1231",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "xfile",
+          "Player2": "uburdub",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "haveaboavida",
+          "Result": "1-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "azmyk1231",
+          "Player2": "DominiqueTutor",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "CaptainAfrica",
+          "Player2": "musasabi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "derlumberzack",
+          "Player2": "Karaz4",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Eureka22422",
+          "Player2": "epicthings",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ice_nine_BIGFAN",
+          "Player2": "doctor-x",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kanican",
+          "Player2": "xfile",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kozz27",
+          "Player2": "syunikiso",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "haveaboavida",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MyPotatoes",
+          "Player2": "into_play",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "sakuragi21722749",
+          "Player2": "Ryuho090",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "uburdub",
+          "Player2": "medvedev",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Unlif3",
+          "Player2": "_Batutinha_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Vash963",
+          "Player2": "bless_von",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "DarkDepthsAniki",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "run1998",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "DarkDepthsAniki",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "doctor-x",
+          "Player2": "epicthings",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Eureka22422",
+          "Player2": "bless_von",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ice_nine_BIGFAN",
+          "Player2": "MyPotatoes",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "into_play",
+          "Player2": "run1998",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kanican",
+          "Player2": "Vash963",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Karaz4",
+          "Player2": "uburdub",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kozz27",
+          "Player2": "haveaboavida",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "Venom1",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "azmyk1231",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Ryuho090",
+          "Player2": "CaptainAfrica",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "sakuragi21722749",
+          "Player2": "derlumberzack",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Unlif3",
+          "Player2": "xfile",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "medvedev",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "doctor-x",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "yoshiwata",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "CaptainAfrica",
+          "Player2": "Venom1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DarkDepthsAniki",
+          "Player2": "run1998",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "derlumberzack",
+          "Player2": "kanican",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Karaz4",
+          "Player2": "ice_nine_BIGFAN",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kozz27",
+          "Player2": "into_play",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "epicthings",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MyPotatoes",
+          "Player2": "uburdub",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ryuho090",
+          "Player2": "Vash963",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "sakuragi21722749",
+          "Player2": "Eureka22422",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Unlif3",
+          "Player2": "Lord_Beerus",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "xfile",
+          "Player2": "azmyk1231",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "derlumberzack",
+          "Player2": "Vash963",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Eureka22422",
+          "Player2": "Ryuho090",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "sakuragi21722749",
+          "Player2": "kanican",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Unlif3",
+          "Player2": "Karaz4",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "derlumberzack",
+          "Player2": "Unlif3",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "sakuragi21722749",
+          "Player2": "Eureka22422",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "sakuragi21722749",
+          "Player2": "derlumberzack",
+          "Result": "2-1-0"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,580 @@
+{
+  "Tournament": {
+    "Id": "legacy-challenge-32-2026-03-0712834509",
+    "Date": "2026-03-07",
+    "Name": "Legacy Challenge 32",
+    "PlayerCount": 32,
+    "Source": "legacy-data-collection",
+    "SheetId": "1omuOQBYG73qqSdPM-NagqaSah71xPI78SRN2oahm6o8"
+  },
+  "Players": [
+    {
+      "Player": "jev_",
+      "Archetype": "Black Midrange"
+    },
+    {
+      "Player": "JPA93",
+      "Archetype": "Sneak and Show"
+    },
+    {
+      "Player": "mei0024",
+      "Archetype": "Aluren"
+    },
+    {
+      "Player": "Dreddybajs",
+      "Archetype": "Red Painter"
+    },
+    {
+      "Player": "MyPotatoes",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "Nics",
+      "Archetype": "Lands"
+    },
+    {
+      "Player": "DominiqueTutor",
+      "Archetype": "Stoneblade"
+    },
+    {
+      "Player": "Carroz",
+      "Archetype": "Esper Vial"
+    },
+    {
+      "Player": "dgreen16",
+      "Archetype": "Beanstalk Control (Non-Yorion)"
+    },
+    {
+      "Player": "Cirxi",
+      "Archetype": "Saga Storm"
+    },
+    {
+      "Player": "Minivan_of_Jeskai",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "choutin",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "wowqqqa",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "Coldsnaps",
+      "Archetype": "Sultai Control"
+    },
+    {
+      "Player": "MultiformatSuperstar",
+      "Archetype": "Sneak and Show"
+    },
+    {
+      "Player": "Ark4n",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "HamburgerJung",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "Schmeckles",
+      "Archetype": "Eldrazi"
+    },
+    {
+      "Player": "jankyb",
+      "Archetype": "Stoneblade"
+    },
+    {
+      "Player": "TeaW1thRum",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "manohito",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "snoopy-magic",
+      "Archetype": "Sneak and Show"
+    },
+    {
+      "Player": "yoshiwata",
+      "Archetype": "Death and Taxes - BW (Yorion)"
+    },
+    {
+      "Player": "yaboyjard",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "Venom1",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "Bawer",
+      "Archetype": "Red Stompy"
+    },
+    {
+      "Player": "Jesusmtg",
+      "Archetype": "Beanstalk Control (Non-Yorion)"
+    },
+    {
+      "Player": "nekoyama2",
+      "Archetype": "Other Control"
+    },
+    {
+      "Player": "Terminus0",
+      "Archetype": "Sneak and Show"
+    },
+    {
+      "Player": "habsburger",
+      "Archetype": "Black Midrange"
+    },
+    {
+      "Player": "Jumba",
+      "Archetype": "Sneak and Show"
+    },
+    {
+      "Player": "Ettore09",
+      "Archetype": "The EPIC Storm"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "Ark4n",
+          "Player2": "Schmeckles",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Carroz",
+          "Player2": "nekoyama2",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "Jesusmtg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Cirxi",
+          "Player2": "habsburger",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "dgreen16",
+          "Player2": "TeaW1thRum",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DominiqueTutor",
+          "Player2": "Terminus0",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "yoshiwata",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "HamburgerJung",
+          "Player2": "Jumba",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "jev_",
+          "Player2": "yaboyjard",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JPA93",
+          "Player2": "Bawer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "manohito",
+          "Player2": "snoopy-magic",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "mei0024",
+          "Player2": "Nics",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Minivan_of_Jeskai",
+          "Player2": "Coldsnaps",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MyPotatoes",
+          "Player2": "jankyb",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "Ettore09",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "wowqqqa",
+          "Player2": "MultiformatSuperstar",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "Ark4n",
+          "Player2": "nekoyama2",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Bawer",
+          "Player2": "Terminus0",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Carroz",
+          "Player2": "wowqqqa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Cirxi",
+          "Player2": "Minivan_of_Jeskai",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Coldsnaps",
+          "Player2": "yaboyjard",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "dgreen16",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jesusmtg",
+          "Player2": "Ettore09",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "jev_",
+          "Player2": "choutin",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "JPA93",
+          "Player2": "HamburgerJung",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "mei0024",
+          "Player2": "jankyb",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MultiformatSuperstar",
+          "Player2": "TeaW1thRum",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "MyPotatoes",
+          "Player2": "DominiqueTutor",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Nics",
+          "Player2": "Venom1",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Schmeckles",
+          "Player2": "manohito",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "snoopy-magic",
+          "Player2": "Jumba",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "habsburger",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "Carroz",
+          "Player2": "Cirxi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "Coldsnaps",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "dgreen16",
+          "Player2": "Ark4n",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DominiqueTutor",
+          "Player2": "Venom1",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "jankyb",
+          "Player2": "yaboyjard",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "jev_",
+          "Player2": "Dreddybajs",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JPA93",
+          "Player2": "snoopy-magic",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "manohito",
+          "Player2": "yoshiwata",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "mei0024",
+          "Player2": "Bawer",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Minivan_of_Jeskai",
+          "Player2": "TeaW1thRum",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MultiformatSuperstar",
+          "Player2": "Jumba",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MyPotatoes",
+          "Player2": "HamburgerJung",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Nics",
+          "Player2": "Schmeckles",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "wowqqqa",
+          "Player2": "Jesusmtg",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "Ark4n",
+          "Player2": "yaboyjard",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "Venom1",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Cirxi",
+          "Player2": "Coldsnaps",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "dgreen16",
+          "Player2": "wowqqqa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DominiqueTutor",
+          "Player2": "HamburgerJung",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "Schmeckles",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jev_",
+          "Player2": "MyPotatoes",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JPA93",
+          "Player2": "manohito",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "mei0024",
+          "Player2": "Minivan_of_Jeskai",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MultiformatSuperstar",
+          "Player2": "Bawer",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Nics",
+          "Player2": "Carroz",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "snoopy-magic",
+          "Player2": "Jesusmtg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TeaW1thRum",
+          "Player2": "yoshiwata",
+          "Result": "1-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "Ark4n",
+          "Player2": "yoshiwata",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "HamburgerJung",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Coldsnaps",
+          "Player2": "Jesusmtg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DominiqueTutor",
+          "Player2": "Carroz",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "MyPotatoes",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "jankyb",
+          "Player2": "Bawer",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "jev_",
+          "Player2": "Nics",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JPA93",
+          "Player2": "Cirxi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "mei0024",
+          "Player2": "dgreen16",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Minivan_of_Jeskai",
+          "Player2": "Schmeckles",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MultiformatSuperstar",
+          "Player2": "snoopy-magic",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "wowqqqa",
+          "Player2": "manohito",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "MyPotatoes",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jev_",
+          "Player2": "Carroz",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "JPA93",
+          "Player2": "Nics",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "mei0024",
+          "Player2": "DominiqueTutor",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "jev_",
+          "Player2": "mei0024",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JPA93",
+          "Player2": "Dreddybajs",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "jev_",
+          "Player2": "JPA93",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ]
+}

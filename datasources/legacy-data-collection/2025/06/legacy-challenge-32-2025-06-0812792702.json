@@ -1,0 +1,919 @@
+{
+  "Tournament": {
+    "Id": "legacy-challenge-32-2025-06-0812792702",
+    "Date": "2025-06-08",
+    "Name": "Legacy Challenge 32",
+    "PlayerCount": 49,
+    "Source": "legacy-data-collection",
+    "SheetId": "107SuUdf4xzO7OsQzlOzR4C2rb2ZSW83hMB7UYJWL5eY"
+  },
+  "Players": [
+    {
+      "Player": "_Shikamaru_",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "silviawataru",
+      "Archetype": "Grixis Tempo"
+    },
+    {
+      "Player": "yoshiwata",
+      "Archetype": "Death and Taxes - BW (Yorion)"
+    },
+    {
+      "Player": "kozz27",
+      "Archetype": "Naya Stompy"
+    },
+    {
+      "Player": "wakame",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "Cachorrowo",
+      "Archetype": "Lands"
+    },
+    {
+      "Player": "Trohck",
+      "Archetype": "Red Painter"
+    },
+    {
+      "Player": "T_Kudo",
+      "Archetype": "Nadu Midrange Combo"
+    },
+    {
+      "Player": "hayatatsu",
+      "Archetype": "Abzan Depths"
+    },
+    {
+      "Player": "kyataoka",
+      "Archetype": "Mystic Forge Combo"
+    },
+    {
+      "Player": "_INF_",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "choutin",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "Munchlax446",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "DLCabelo",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "harmonywoods",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "Ailien02",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "Mogged",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "m_himukai",
+      "Archetype": "Cradle Control"
+    },
+    {
+      "Player": "kanican",
+      "Archetype": "Red Painter"
+    },
+    {
+      "Player": "mijukumono",
+      "Archetype": "Cephalid Breakfast"
+    },
+    {
+      "Player": "crazeyr15",
+      "Archetype": "Colorless Cloudpost"
+    },
+    {
+      "Player": "duke12",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "UrzaEnjoyer",
+      "Archetype": "Red Painter"
+    },
+    {
+      "Player": "azmyk1231",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "fredmcfred",
+      "Archetype": "Beanstalk Control (Non-Yorion)"
+    },
+    {
+      "Player": "iKhada",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "plaza23",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "xDingusKhan",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "giraffesarentreal",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "oosunq",
+      "Archetype": "Cradle Control"
+    },
+    {
+      "Player": "boyxiaoliu",
+      "Archetype": "Red Painter"
+    },
+    {
+      "Player": "EiJunCHN",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "lilianna1989",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "Zilong",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "YES_i_accept_SPLIT_",
+      "Archetype": "Blue Painter"
+    },
+    {
+      "Player": "vodkaMian",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "Srogers90",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "SiL3nTGoaT",
+      "Archetype": "Red Stompy"
+    },
+    {
+      "Player": "Game_Night",
+      "Archetype": "Black Stompy"
+    },
+    {
+      "Player": "zhinonono",
+      "Archetype": "Selesnya Depths"
+    },
+    {
+      "Player": "Gitaxian_Probe",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "ScreenwriterNY",
+      "Archetype": "Black Phoenix"
+    },
+    {
+      "Player": "silencsong",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "ClydeCash",
+      "Archetype": "Burn/Red Prowess"
+    },
+    {
+      "Player": "SHAKELION",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "wubwgn22",
+      "Archetype": "Esper Vial"
+    },
+    {
+      "Player": "Geodude_Jared",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "2plus2isfive",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "albertoSD",
+      "Archetype": "Dimir Reanimator"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_INF_",
+          "Player2": "iKhada",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "_Shikamaru_",
+          "Player2": "Munchlax446",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ailien02",
+          "Player2": "vodkaMian",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "azmyk1231",
+          "Player2": "SHAKELION",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Cachorrowo",
+          "Player2": "Srogers90",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "EiJunCHN",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "crazeyr15",
+          "Player2": "YES_i_accept_SPLIT_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DLCabelo",
+          "Player2": "xDingusKhan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "duke12",
+          "Player2": "lilianna1989",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Gitaxian_Probe",
+          "Player2": "2plus2isfive",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "harmonywoods",
+          "Player2": "ClydeCash",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "hayatatsu",
+          "Player2": "zhinonono",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kanican",
+          "Player2": "silencsong",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kozz27",
+          "Player2": "giraffesarentreal",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kyataoka",
+          "Player2": "wubwgn22",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "m_himukai",
+          "Player2": "plaza23",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "mijukumono",
+          "Player2": "fredmcfred",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "oosunq",
+          "Player2": "Geodude_Jared",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SiL3nTGoaT",
+          "Player2": "ScreenwriterNY",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "silviawataru",
+          "Player2": "Game_Night",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "T_Kudo",
+          "Player2": "Mogged",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "wakame",
+          "Player2": "boyxiaoliu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "UrzaEnjoyer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Zilong",
+          "Player2": "albertoSD",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_INF_",
+          "Player2": "Gitaxian_Probe",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Shikamaru_",
+          "Player2": "fredmcfred",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Ailien02",
+          "Player2": "oosunq",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Cachorrowo",
+          "Player2": "kanican",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "silencsong",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DLCabelo",
+          "Player2": "crazeyr15",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "giraffesarentreal",
+          "Player2": "2plus2isfive",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "hayatatsu",
+          "Player2": "Zilong",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "iKhada",
+          "Player2": "boyxiaoliu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kozz27",
+          "Player2": "EiJunCHN",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kyataoka",
+          "Player2": "duke12",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "lilianna1989",
+          "Player2": "wubwgn22",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "mijukumono",
+          "Player2": "azmyk1231",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "SHAKELION",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "vodkaMian",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "plaza23",
+          "Player2": "Game_Night",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "silviawataru",
+          "Player2": "harmonywoods",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Trohck",
+          "Player2": "m_himukai",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "UrzaEnjoyer",
+          "Player2": "Geodude_Jared",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "wakame",
+          "Player2": "T_Kudo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "xDingusKhan",
+          "Player2": "ScreenwriterNY",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "YES_i_accept_SPLIT_",
+          "Player2": "Srogers90",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "SiL3nTGoaT",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "zhinonono",
+          "Player2": "ClydeCash",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_INF_",
+          "Player2": "crazeyr15",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Shikamaru_",
+          "Player2": "plaza23",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ailien02",
+          "Player2": "UrzaEnjoyer",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "boyxiaoliu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DLCabelo",
+          "Player2": "Zilong",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "duke12",
+          "Player2": "SiL3nTGoaT",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "EiJunCHN",
+          "Player2": "YES_i_accept_SPLIT_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Game_Night",
+          "Player2": "SHAKELION",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "harmonywoods",
+          "Player2": "lilianna1989",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "hayatatsu",
+          "Player2": "oosunq",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "iKhada",
+          "Player2": "xDingusKhan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kanican",
+          "Player2": "zhinonono",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kozz27",
+          "Player2": "Cachorrowo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "m_himukai",
+          "Player2": "Gitaxian_Probe",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "mijukumono",
+          "Player2": "ScreenwriterNY",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "giraffesarentreal",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "fredmcfred",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "silviawataru",
+          "Player2": "kyataoka",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "T_Kudo",
+          "Player2": "Srogers90",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Trohck",
+          "Player2": "azmyk1231",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "wakame",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Shikamaru_",
+          "Player2": "kanican",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ailien02",
+          "Player2": "lilianna1989",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "boyxiaoliu",
+          "Player2": "Gitaxian_Probe",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Cachorrowo",
+          "Player2": "giraffesarentreal",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DLCabelo",
+          "Player2": "oosunq",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "duke12",
+          "Player2": "azmyk1231",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "fredmcfred",
+          "Player2": "EiJunCHN",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "harmonywoods",
+          "Player2": "Srogers90",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "iKhada",
+          "Player2": "Game_Night",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kozz27",
+          "Player2": "wakame",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "kyataoka",
+          "Player2": "crazeyr15",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "zhinonono",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "m_himukai",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "plaza23",
+          "Player2": "vodkaMian",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "silviawataru",
+          "Player2": "hayatatsu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "T_Kudo",
+          "Player2": "choutin",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Trohck",
+          "Player2": "_INF_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "UrzaEnjoyer",
+          "Player2": "SiL3nTGoaT",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "mijukumono",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Zilong",
+          "Player2": "YES_i_accept_SPLIT_",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Shikamaru_",
+          "Player2": "kozz27",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "azmyk1231",
+          "Player2": "oosunq",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Cachorrowo",
+          "Player2": "duke12",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "Ailien02",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "crazeyr15",
+          "Player2": "boyxiaoliu",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "fredmcfred",
+          "Player2": "Srogers90",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "harmonywoods",
+          "Player2": "YES_i_accept_SPLIT_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "hayatatsu",
+          "Player2": "_INF_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kanican",
+          "Player2": "plaza23",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kyataoka",
+          "Player2": "giraffesarentreal",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "EiJunCHN",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "iKhada",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "silviawataru",
+          "Player2": "Trohck",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "T_Kudo",
+          "Player2": "mijukumono",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "UrzaEnjoyer",
+          "Player2": "lilianna1989",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "wakame",
+          "Player2": "DLCabelo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "xDingusKhan",
+          "Player2": "zhinonono",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "m_himukai",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Zilong",
+          "Player2": "Game_Night",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_INF_",
+          "Player2": "UrzaEnjoyer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Shikamaru_",
+          "Player2": "hayatatsu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ailien02",
+          "Player2": "crazeyr15",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Cachorrowo",
+          "Player2": "choutin",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DLCabelo",
+          "Player2": "m_himukai",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "fredmcfred",
+          "Player2": "boyxiaoliu",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "harmonywoods",
+          "Player2": "kanican",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "iKhada",
+          "Player2": "Zilong",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kozz27",
+          "Player2": "duke12",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "lilianna1989",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "azmyk1231",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "plaza23",
+          "Player2": "YES_i_accept_SPLIT_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "silviawataru",
+          "Player2": "wakame",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "T_Kudo",
+          "Player2": "kyataoka",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "xDingusKhan",
+          "Player2": "EiJunCHN",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "Trohck",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "_Shikamaru_",
+          "Player2": "Trohck",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kozz27",
+          "Player2": "wakame",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "silviawataru",
+          "Player2": "T_Kudo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "Cachorrowo",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "_Shikamaru_",
+          "Player2": "kozz27",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "silviawataru",
+          "Player2": "yoshiwata",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "_Shikamaru_",
+          "Player2": "silviawataru",
+          "Result": "2-1-0"
+        }
+      ]
+    }
+  ]
+}

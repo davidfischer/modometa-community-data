@@ -1,0 +1,711 @@
+{
+  "Tournament": {
+    "Id": "legacy-challenge-32-2026-05-1612842484",
+    "Date": "2026-05-16",
+    "Name": "Legacy Challenge 32",
+    "PlayerCount": 37,
+    "Source": "legacy-data-collection",
+    "SheetId": "1ucZ2Eqhix2t7hpZJijJC2d4jInjB6DY4vhDMm_m5J3k"
+  },
+  "Players": [
+    {
+      "Player": "PM_Boltface",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "snoopy-magic",
+      "Archetype": "Sneak and Show"
+    },
+    {
+      "Player": "Chris_McNasty",
+      "Archetype": "Azorius Tempo"
+    },
+    {
+      "Player": "Killah_SUV",
+      "Archetype": "Azorius Tempo"
+    },
+    {
+      "Player": "ScreenwriterNY",
+      "Archetype": "Grixis Control"
+    },
+    {
+      "Player": "wonderPreaux",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "Firegod",
+      "Archetype": "Affinity Stompy"
+    },
+    {
+      "Player": "Rexplosion",
+      "Archetype": "Sultai Tempo"
+    },
+    {
+      "Player": "Matiuzzzo",
+      "Archetype": "Rakdos Reanimator"
+    },
+    {
+      "Player": "choutin",
+      "Archetype": "Tron"
+    },
+    {
+      "Player": "phazonmutant",
+      "Archetype": "Omni-Tell"
+    },
+    {
+      "Player": "Lord_Beerus",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "jankyb",
+      "Archetype": "Jeskai Control"
+    },
+    {
+      "Player": "_Chamytinho_",
+      "Archetype": "Tron"
+    },
+    {
+      "Player": "rainbowman114",
+      "Archetype": "Sneak and Show"
+    },
+    {
+      "Player": "TonyScapone",
+      "Archetype": "Saga Storm"
+    },
+    {
+      "Player": "Dioferreira",
+      "Archetype": "Rakdos Reanimator"
+    },
+    {
+      "Player": "manohito",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "ice_nine_BIGFAN",
+      "Archetype": "Lands"
+    },
+    {
+      "Player": "TheGrimLavamancer",
+      "Archetype": "Sneak and Show"
+    },
+    {
+      "Player": "MDecker",
+      "Archetype": "Rakdos Reanimator"
+    },
+    {
+      "Player": "Cudibunda",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "lollerstank",
+      "Archetype": "Mystic Forge Combo"
+    },
+    {
+      "Player": "monzatubarao",
+      "Archetype": "Saga Storm"
+    },
+    {
+      "Player": "harmonywoods",
+      "Archetype": "Esper Control"
+    },
+    {
+      "Player": "Jumba",
+      "Archetype": "Tron"
+    },
+    {
+      "Player": "Mortaa",
+      "Archetype": "Sultai Tempo"
+    },
+    {
+      "Player": "Bonfigs",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "trinity",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "DeathDustExtractor",
+      "Archetype": "Boros Energy"
+    },
+    {
+      "Player": "RIDDLE0423",
+      "Archetype": "Omni-Tell"
+    },
+    {
+      "Player": "Magic_Dads71522",
+      "Archetype": "Rakdos Reanimator"
+    },
+    {
+      "Player": "i_b_TRUE",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "Geodude_Jared",
+      "Archetype": "High Tide"
+    },
+    {
+      "Player": "venefica",
+      "Archetype": "Jeskai Control"
+    },
+    {
+      "Player": "Eureka22422",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "unworldlyorigin",
+      "Archetype": "Aluren"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Chamytinho_",
+          "Player2": "MDecker",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "Geodude_Jared",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Chris_McNasty",
+          "Player2": "Killah_SUV",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Cudibunda",
+          "Player2": "Jumba",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dioferreira",
+          "Player2": "Eureka22422",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Firegod",
+          "Player2": "lollerstank",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "ice_nine_BIGFAN",
+          "Player2": "TheGrimLavamancer",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "jankyb",
+          "Player2": "rainbowman114",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "Mortaa",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "manohito",
+          "Player2": "venefica",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Matiuzzzo",
+          "Player2": "Magic_Dads71522",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "monzatubarao",
+          "Player2": "harmonywoods",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "phazonmutant",
+          "Player2": "trinity",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "PM_Boltface",
+          "Player2": "snoopy-magic",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Rexplosion",
+          "Player2": "i_b_TRUE",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "RIDDLE0423",
+          "Player2": "unworldlyorigin",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TonyScapone",
+          "Player2": "DeathDustExtractor",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "wonderPreaux",
+          "Player2": "Bonfigs",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Chamytinho_",
+          "Player2": "Dioferreira",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "Lord_Beerus",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Chris_McNasty",
+          "Player2": "wonderPreaux",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Firegod",
+          "Player2": "Magic_Dads71522",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "harmonywoods",
+          "Player2": "unworldlyorigin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ice_nine_BIGFAN",
+          "Player2": "Eureka22422",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "jankyb",
+          "Player2": "DeathDustExtractor",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "Bonfigs",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Killah_SUV",
+          "Player2": "venefica",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "manohito",
+          "Player2": "RIDDLE0423",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Matiuzzzo",
+          "Player2": "MDecker",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "monzatubarao",
+          "Player2": "trinity",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "phazonmutant",
+          "Player2": "Geodude_Jared",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "PM_Boltface",
+          "Player2": "i_b_TRUE",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "rainbowman114",
+          "Player2": "lollerstank",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ScreenwriterNY",
+          "Player2": "Rexplosion",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "snoopy-magic",
+          "Player2": "TonyScapone",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TheGrimLavamancer",
+          "Player2": "Cudibunda",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Chamytinho_",
+          "Player2": "Cudibunda",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "manohito",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Chris_McNasty",
+          "Player2": "Mortaa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Firegod",
+          "Player2": "harmonywoods",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ice_nine_BIGFAN",
+          "Player2": "DeathDustExtractor",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jankyb",
+          "Player2": "Magic_Dads71522",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Killah_SUV",
+          "Player2": "TonyScapone",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "Dioferreira",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Matiuzzzo",
+          "Player2": "monzatubarao",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MDecker",
+          "Player2": "Geodude_Jared",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "phazonmutant",
+          "Player2": "Bonfigs",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "PM_Boltface",
+          "Player2": "trinity",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "rainbowman114",
+          "Player2": "RIDDLE0423",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Rexplosion",
+          "Player2": "TheGrimLavamancer",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ScreenwriterNY",
+          "Player2": "lollerstank",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "snoopy-magic",
+          "Player2": "wonderPreaux",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "choutin",
+          "Player2": "rainbowman114",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Chris_McNasty",
+          "Player2": "lollerstank",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Firegod",
+          "Player2": "Dioferreira",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "jankyb",
+          "Player2": "Bonfigs",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "DeathDustExtractor",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Killah_SUV",
+          "Player2": "monzatubarao",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "trinity",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "manohito",
+          "Player2": "Cudibunda",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "PM_Boltface",
+          "Player2": "MDecker",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Rexplosion",
+          "Player2": "phazonmutant",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ScreenwriterNY",
+          "Player2": "_Chamytinho_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "snoopy-magic",
+          "Player2": "Matiuzzzo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TheGrimLavamancer",
+          "Player2": "harmonywoods",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "wonderPreaux",
+          "Player2": "ice_nine_BIGFAN",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "choutin",
+          "Player2": "phazonmutant",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Cudibunda",
+          "Player2": "monzatubarao",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Firegod",
+          "Player2": "rainbowman114",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "harmonywoods",
+          "Player2": "DeathDustExtractor",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jankyb",
+          "Player2": "ice_nine_BIGFAN",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Killah_SUV",
+          "Player2": "manohito",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "TonyScapone",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Matiuzzzo",
+          "Player2": "lollerstank",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "PM_Boltface",
+          "Player2": "Chris_McNasty",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Rexplosion",
+          "Player2": "Dioferreira",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "snoopy-magic",
+          "Player2": "ScreenwriterNY",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "TheGrimLavamancer",
+          "Player2": "Jumba",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "wonderPreaux",
+          "Player2": "_Chamytinho_",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "choutin",
+          "Player2": "_Chamytinho_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Chris_McNasty",
+          "Player2": "Matiuzzzo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Dioferreira",
+          "Player2": "harmonywoods",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ice_nine_BIGFAN",
+          "Player2": "Jumba",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "jankyb",
+          "Player2": "TheGrimLavamancer",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "manohito",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MDecker",
+          "Player2": "monzatubarao",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "PM_Boltface",
+          "Player2": "Cudibunda",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Rexplosion",
+          "Player2": "rainbowman114",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ScreenwriterNY",
+          "Player2": "Firegod",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "snoopy-magic",
+          "Player2": "Killah_SUV",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TonyScapone",
+          "Player2": "lollerstank",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "wonderPreaux",
+          "Player2": "phazonmutant",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "Chris_McNasty",
+          "Player2": "Firegod",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Killah_SUV",
+          "Player2": "wonderPreaux",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "PM_Boltface",
+          "Player2": "ScreenwriterNY",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "snoopy-magic",
+          "Player2": "Rexplosion",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "PM_Boltface",
+          "Player2": "Killah_SUV",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "snoopy-magic",
+          "Player2": "Chris_McNasty",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "PM_Boltface",
+          "Player2": "snoopy-magic",
+          "Result": "2-1-0"
+        }
+      ]
+    }
+  ]
+}

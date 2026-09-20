@@ -1,0 +1,712 @@
+{
+  "Tournament": {
+    "Id": "legacy-challenge-32-2026-03-1512835323",
+    "Date": "2026-03-15",
+    "Name": "Legacy Challenge 32",
+    "PlayerCount": 36,
+    "Source": "legacy-data-collection",
+    "SheetId": "1je8YUIRAiXyRR31TY5xFKt8L71LPS8qFBTlsomvpRlc"
+  },
+  "Players": [
+    {
+      "Player": "Sergio702",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "Vash963",
+      "Archetype": "The EPIC Storm"
+    },
+    {
+      "Player": "WadeB",
+      "Archetype": "Elves"
+    },
+    {
+      "Player": "doctor-x",
+      "Archetype": "Loam Pox"
+    },
+    {
+      "Player": "_Mago_",
+      "Archetype": "Mystic Forge Combo"
+    },
+    {
+      "Player": "EmperorOppai",
+      "Archetype": "Other Control"
+    },
+    {
+      "Player": "LuRu",
+      "Archetype": "Mystic Forge Combo"
+    },
+    {
+      "Player": "Milkshake_",
+      "Archetype": "Sneak and Show"
+    },
+    {
+      "Player": "nObodyGood",
+      "Archetype": "Lands"
+    },
+    {
+      "Player": "bless_von",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "_Batutinha_",
+      "Archetype": "Colorless Cloudpost"
+    },
+    {
+      "Player": "kyataoka",
+      "Archetype": "Beanstalk Control (Non-Yorion)"
+    },
+    {
+      "Player": "Andy_Over",
+      "Archetype": "Red Stompy"
+    },
+    {
+      "Player": "Uzbek",
+      "Archetype": "Creative Technique"
+    },
+    {
+      "Player": "Cirxi",
+      "Archetype": "Saga Storm"
+    },
+    {
+      "Player": "Koike",
+      "Archetype": "Nic Fit"
+    },
+    {
+      "Player": "Trohck",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "yolad",
+      "Archetype": "Sneak and Show"
+    },
+    {
+      "Player": "Somedude127",
+      "Archetype": "Aluren"
+    },
+    {
+      "Player": "Srogers90",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "KadettiKersantti",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "JoaoCelestini",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "DominiqueTutor",
+      "Archetype": "Other Aggro"
+    },
+    {
+      "Player": "MeTheKaptain",
+      "Archetype": "The EPIC Storm"
+    },
+    {
+      "Player": "AndrewWa",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "DarkDepthsAniki",
+      "Archetype": "Golgari Depths"
+    },
+    {
+      "Player": "kentaro_hokori",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "PeperJack",
+      "Archetype": "Death and Taxes - BW (Yorion)"
+    },
+    {
+      "Player": "Roodslay",
+      "Archetype": "Mono Black Reanimator"
+    },
+    {
+      "Player": "RIDDLE0423",
+      "Archetype": "Beanstalk Control (Yorion)"
+    },
+    {
+      "Player": "kozz27",
+      "Archetype": "Naya Stompy"
+    },
+    {
+      "Player": "kanican",
+      "Archetype": "Red Painter"
+    },
+    {
+      "Player": "unagieel",
+      "Archetype": "Boros Energy"
+    },
+    {
+      "Player": "derlumberzack",
+      "Archetype": "Sneak and Show"
+    },
+    {
+      "Player": "Dcopple",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "Killerp0p0",
+      "Archetype": "Eldrazi"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "Roodslay",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Mago_",
+          "Player2": "Srogers90",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Andy_Over",
+          "Player2": "Uzbek",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "JoaoCelestini",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Cirxi",
+          "Player2": "kozz27",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "doctor-x",
+          "Player2": "DarkDepthsAniki",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "EmperorOppai",
+          "Player2": "RIDDLE0423",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kentaro_hokori",
+          "Player2": "Killerp0p0",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Koike",
+          "Player2": "unagieel",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kyataoka",
+          "Player2": "MeTheKaptain",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "LuRu",
+          "Player2": "AndrewWa",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Milkshake_",
+          "Player2": "derlumberzack",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Sergio702",
+          "Player2": "Dcopple",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Somedude127",
+          "Player2": "kanican",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Trohck",
+          "Player2": "KadettiKersantti",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Vash963",
+          "Player2": "DominiqueTutor",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "WadeB",
+          "Player2": "nObodyGood",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "yolad",
+          "Player2": "PeperJack",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "Andy_Over",
+          "Player2": "KadettiKersantti",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "DarkDepthsAniki",
+          "Player2": "Killerp0p0",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "doctor-x",
+          "Player2": "Somedude127",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DominiqueTutor",
+          "Player2": "PeperJack",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "EmperorOppai",
+          "Player2": "Uzbek",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Koike",
+          "Player2": "AndrewWa",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kozz27",
+          "Player2": "derlumberzack",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kyataoka",
+          "Player2": "kanican",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LuRu",
+          "Player2": "_Batutinha_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Milkshake_",
+          "Player2": "Cirxi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "nObodyGood",
+          "Player2": "unagieel",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "RIDDLE0423",
+          "Player2": "Dcopple",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Sergio702",
+          "Player2": "bless_von",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Srogers90",
+          "Player2": "JoaoCelestini",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Trohck",
+          "Player2": "MeTheKaptain",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Vash963",
+          "Player2": "_Mago_",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "WadeB",
+          "Player2": "Roodslay",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "yolad",
+          "Player2": "kentaro_hokori",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "JoaoCelestini",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Mago_",
+          "Player2": "Koike",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "AndrewWa",
+          "Player2": "DarkDepthsAniki",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Andy_Over",
+          "Player2": "Dcopple",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "kozz27",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "doctor-x",
+          "Player2": "Milkshake_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "EmperorOppai",
+          "Player2": "Trohck",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kyataoka",
+          "Player2": "kentaro_hokori",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "LuRu",
+          "Player2": "PeperJack",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "nObodyGood",
+          "Player2": "MeTheKaptain",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Sergio702",
+          "Player2": "Cirxi",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Somedude127",
+          "Player2": "KadettiKersantti",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Uzbek",
+          "Player2": "RIDDLE0423",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Vash963",
+          "Player2": "Srogers90",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "WadeB",
+          "Player2": "yolad",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "RIDDLE0423",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "_Mago_",
+          "Player2": "EmperorOppai",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Andy_Over",
+          "Player2": "AndrewWa",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "Cirxi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "doctor-x",
+          "Player2": "Trohck",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DominiqueTutor",
+          "Player2": "Dcopple",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kyataoka",
+          "Player2": "Koike",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LuRu",
+          "Player2": "yolad",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MeTheKaptain",
+          "Player2": "kentaro_hokori",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "nObodyGood",
+          "Player2": "KadettiKersantti",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Sergio702",
+          "Player2": "Uzbek",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Somedude127",
+          "Player2": "kozz27",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Srogers90",
+          "Player2": "PeperJack",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Vash963",
+          "Player2": "DarkDepthsAniki",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "WadeB",
+          "Player2": "Milkshake_",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "DominiqueTutor",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "_Mago_",
+          "Player2": "Milkshake_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "AndrewWa",
+          "Player2": "PeperJack",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Andy_Over",
+          "Player2": "JoaoCelestini",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Cirxi",
+          "Player2": "Trohck",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "doctor-x",
+          "Player2": "nObodyGood",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "EmperorOppai",
+          "Player2": "bless_von",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Koike",
+          "Player2": "kentaro_hokori",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MeTheKaptain",
+          "Player2": "Dcopple",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Sergio702",
+          "Player2": "Srogers90",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Uzbek",
+          "Player2": "DarkDepthsAniki",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Vash963",
+          "Player2": "LuRu",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "WadeB",
+          "Player2": "kyataoka",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "yolad",
+          "Player2": "Somedude127",
+          "Result": "1-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "Uzbek",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "AndrewWa",
+          "Player2": "Dcopple",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Andy_Over",
+          "Player2": "Koike",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "DominiqueTutor",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "doctor-x",
+          "Player2": "EmperorOppai",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "JoaoCelestini",
+          "Player2": "PeperJack",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kyataoka",
+          "Player2": "Cirxi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Milkshake_",
+          "Player2": "nObodyGood",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Sergio702",
+          "Player2": "_Mago_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Trohck",
+          "Player2": "DarkDepthsAniki",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Vash963",
+          "Player2": "Somedude127",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "WadeB",
+          "Player2": "LuRu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "yolad",
+          "Player2": "MeTheKaptain",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "doctor-x",
+          "Player2": "EmperorOppai",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Sergio702",
+          "Player2": "Milkshake_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Vash963",
+          "Player2": "_Mago_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "WadeB",
+          "Player2": "LuRu",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "Sergio702",
+          "Player2": "doctor-x",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Vash963",
+          "Player2": "WadeB",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "Sergio702",
+          "Player2": "Vash963",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ]
+}

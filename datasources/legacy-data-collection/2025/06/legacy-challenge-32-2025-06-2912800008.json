@@ -1,0 +1,570 @@
+{
+  "Tournament": {
+    "Id": "legacy-challenge-32-2025-06-2912800008",
+    "Date": "2025-06-29",
+    "Name": "Legacy Challenge 32",
+    "PlayerCount": 32,
+    "Source": "legacy-data-collection",
+    "SheetId": "1RxT3X2T-pofOfa6PrNvyqBFAqrDD2RmSIW4prOesS5I"
+  },
+  "Players": [
+    {
+      "Player": "xfile",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "ForcePlusBlueCard",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "Mazzy7887",
+      "Archetype": "Naya Stompy"
+    },
+    {
+      "Player": "kozz27",
+      "Archetype": "Naya Stompy"
+    },
+    {
+      "Player": "clan",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "_Chamytinho_",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "Archer365",
+      "Archetype": "Red Stompy"
+    },
+    {
+      "Player": "GHash77",
+      "Archetype": "Mystic Forge Combo"
+    },
+    {
+      "Player": "DLCabelo",
+      "Archetype": "Grixis Control"
+    },
+    {
+      "Player": "pokemoki",
+      "Archetype": "Beanstalk Control (Non-Yorion)"
+    },
+    {
+      "Player": "boyxiaoliu",
+      "Archetype": "Red Painter"
+    },
+    {
+      "Player": "EmperorOppai",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "xDingusKhan",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "Munchlax446",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "Schiaveto",
+      "Archetype": "Infect"
+    },
+    {
+      "Player": "OSCA66",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "kanican",
+      "Archetype": "Red Stompy"
+    },
+    {
+      "Player": "wubwgn22",
+      "Archetype": "Other Tempo"
+    },
+    {
+      "Player": "Luchius",
+      "Archetype": "ANT"
+    },
+    {
+      "Player": "DarkDepthsAniki",
+      "Archetype": "Golgari Depths"
+    },
+    {
+      "Player": "DMianete",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "Zilong",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "ice_nine_BIGFAN",
+      "Archetype": "Sneak and Show"
+    },
+    {
+      "Player": "DominiqueTutor",
+      "Archetype": "Beanstalk Control (Yorion)"
+    },
+    {
+      "Player": "harmonywoods",
+      "Archetype": "Esper Control"
+    },
+    {
+      "Player": "-CAPS-",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "JerryMeister",
+      "Archetype": "Omni-Tell"
+    },
+    {
+      "Player": "Srogers90",
+      "Archetype": "Red Stompy"
+    },
+    {
+      "Player": "Roodslay",
+      "Archetype": "Mono Black Reanimator"
+    },
+    {
+      "Player": "Allengar",
+      "Archetype": "Sneak and Show"
+    },
+    {
+      "Player": "DeathWrongShaman420",
+      "Archetype": "Lands"
+    },
+    {
+      "Player": "The_shallow_grave",
+      "Archetype": "Mono Black Reanimator"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Chamytinho_",
+          "Player2": "Allengar",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Archer365",
+          "Player2": "Munchlax446",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "boyxiaoliu",
+          "Player2": "JerryMeister",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "clan",
+          "Player2": "-CAPS-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DLCabelo",
+          "Player2": "xDingusKhan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DMianete",
+          "Player2": "DeathWrongShaman420",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "EmperorOppai",
+          "Player2": "Luchius",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ForcePlusBlueCard",
+          "Player2": "Mazzy7887",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "GHash77",
+          "Player2": "Srogers90",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "harmonywoods",
+          "Player2": "Roodslay",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ice_nine_BIGFAN",
+          "Player2": "The_shallow_grave",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kozz27",
+          "Player2": "DominiqueTutor",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "OSCA66",
+          "Player2": "Zilong",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Schiaveto",
+          "Player2": "kanican",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "wubwgn22",
+          "Player2": "DarkDepthsAniki",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "xfile",
+          "Player2": "pokemoki",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Chamytinho_",
+          "Player2": "ice_nine_BIGFAN",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "boyxiaoliu",
+          "Player2": "kanican",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "clan",
+          "Player2": "Archer365",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DarkDepthsAniki",
+          "Player2": "Zilong",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DLCabelo",
+          "Player2": "wubwgn22",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DominiqueTutor",
+          "Player2": "Allengar",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ForcePlusBlueCard",
+          "Player2": "Roodslay",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "GHash77",
+          "Player2": "harmonywoods",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kozz27",
+          "Player2": "EmperorOppai",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Mazzy7887",
+          "Player2": "OSCA66",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "-CAPS-",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "pokemoki",
+          "Player2": "Luchius",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Schiaveto",
+          "Player2": "Srogers90",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "xDingusKhan",
+          "Player2": "JerryMeister",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "xfile",
+          "Player2": "DMianete",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Chamytinho_",
+          "Player2": "boyxiaoliu",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Archer365",
+          "Player2": "harmonywoods",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "clan",
+          "Player2": "DLCabelo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DarkDepthsAniki",
+          "Player2": "DMianete",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "EmperorOppai",
+          "Player2": "OSCA66",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ForcePlusBlueCard",
+          "Player2": "ice_nine_BIGFAN",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kozz27",
+          "Player2": "GHash77",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Luchius",
+          "Player2": "Allengar",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "wubwgn22",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "pokemoki",
+          "Player2": "Zilong",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Schiaveto",
+          "Player2": "DominiqueTutor",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "xDingusKhan",
+          "Player2": "kanican",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "xfile",
+          "Player2": "Mazzy7887",
+          "Result": "1-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Chamytinho_",
+          "Player2": "GHash77",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Archer365",
+          "Player2": "Schiaveto",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DLCabelo",
+          "Player2": "DarkDepthsAniki",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ForcePlusBlueCard",
+          "Player2": "boyxiaoliu",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kanican",
+          "Player2": "harmonywoods",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kozz27",
+          "Player2": "Munchlax446",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Luchius",
+          "Player2": "DominiqueTutor",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mazzy7887",
+          "Player2": "clan",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "OSCA66",
+          "Player2": "ice_nine_BIGFAN",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "pokemoki",
+          "Player2": "EmperorOppai",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "wubwgn22",
+          "Player2": "DMianete",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "xfile",
+          "Player2": "xDingusKhan",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Zilong",
+          "Player2": "Allengar",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "boyxiaoliu",
+          "Player2": "Luchius",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "clan",
+          "Player2": "pokemoki",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DMianete",
+          "Player2": "DominiqueTutor",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "EmperorOppai",
+          "Player2": "DarkDepthsAniki",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ForcePlusBlueCard",
+          "Player2": "GHash77",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kozz27",
+          "Player2": "Archer365",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mazzy7887",
+          "Player2": "_Chamytinho_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "kanican",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Schiaveto",
+          "Player2": "wubwgn22",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "xDingusKhan",
+          "Player2": "OSCA66",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "xfile",
+          "Player2": "DLCabelo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Zilong",
+          "Player2": "ice_nine_BIGFAN",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "ForcePlusBlueCard",
+          "Player2": "_Chamytinho_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kozz27",
+          "Player2": "clan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mazzy7887",
+          "Player2": "GHash77",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "xfile",
+          "Player2": "Archer365",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "ForcePlusBlueCard",
+          "Player2": "Mazzy7887",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "xfile",
+          "Player2": "kozz27",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "xfile",
+          "Player2": "ForcePlusBlueCard",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ]
+}

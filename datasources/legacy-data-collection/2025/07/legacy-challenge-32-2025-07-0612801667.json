@@ -1,0 +1,707 @@
+{
+  "Tournament": {
+    "Id": "legacy-challenge-32-2025-07-0612801667",
+    "Date": "2025-07-06",
+    "Name": "Legacy Challenge 32",
+    "PlayerCount": 36,
+    "Source": "legacy-data-collection",
+    "SheetId": "17i5_BK2fEfeSlVRHxr6qB0qbBo9tuBQLvgRClZA1vPo"
+  },
+  "Players": [
+    {
+      "Player": "MdvWin",
+      "Archetype": "Eldrazi"
+    },
+    {
+      "Player": "Munchlax446",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "Srogers90",
+      "Archetype": "Mystic Forge Combo"
+    },
+    {
+      "Player": "OSCA66",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "fredmcfred",
+      "Archetype": "Beanstalk Control (Yorion)"
+    },
+    {
+      "Player": "fatumi",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "EmperorOppai",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "lia2022",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "kentaro_hokori",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "-Nausea-",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "quinniac",
+      "Archetype": "Red Stompy"
+    },
+    {
+      "Player": "Roodslay",
+      "Archetype": "Mono Black Reanimator"
+    },
+    {
+      "Player": "lilianna1989",
+      "Archetype": "Jeskai Control"
+    },
+    {
+      "Player": "DLCabelo",
+      "Archetype": "Jeskai Control"
+    },
+    {
+      "Player": "DarkDepthsAniki",
+      "Archetype": "Golgari Depths"
+    },
+    {
+      "Player": "medvedev",
+      "Archetype": "Red Painter"
+    },
+    {
+      "Player": "yoshiwata",
+      "Archetype": "Death and Taxes - BW (Yorion)"
+    },
+    {
+      "Player": "musasabi",
+      "Archetype": "Red Stompy"
+    },
+    {
+      "Player": "wcl",
+      "Archetype": "Lands"
+    },
+    {
+      "Player": "Uzbek",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "DMianete",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "iceyfire95",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "thatmaverickjoe",
+      "Archetype": "Maverick"
+    },
+    {
+      "Player": "Deerwife",
+      "Archetype": "Red Painter"
+    },
+    {
+      "Player": "fuya",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "DominiqueTutor",
+      "Archetype": "Beanstalk Control (Yorion)"
+    },
+    {
+      "Player": "Magic_Dads71522",
+      "Archetype": "Boros Stompy"
+    },
+    {
+      "Player": "mijukumono",
+      "Archetype": "Nadu Midrange Combo"
+    },
+    {
+      "Player": "bless_von",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "triplesleeved",
+      "Archetype": "Mystic Forge Combo"
+    },
+    {
+      "Player": "AJV20",
+      "Archetype": "Coveted Jewel Combo"
+    },
+    {
+      "Player": "EiJunCHN",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "Capriccioso",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "Ailien02",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "Geodude_Jared",
+      "Archetype": "Goblins (Vial)"
+    },
+    {
+      "Player": "Knuto16",
+      "Archetype": "Dimir Reanimator"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "-Nausea-",
+          "Player2": "Deerwife",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "DarkDepthsAniki",
+          "Player2": "Geodude_Jared",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "EmperorOppai",
+          "Player2": "DMianete",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "fatumi",
+          "Player2": "triplesleeved",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "fredmcfred",
+          "Player2": "bless_von",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "fuya",
+          "Player2": "Ailien02",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "lia2022",
+          "Player2": "EiJunCHN",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MdvWin",
+          "Player2": "thatmaverickjoe",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "DominiqueTutor",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "mijukumono",
+          "Player2": "Knuto16",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "AJV20",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "iceyfire95",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "OSCA66",
+          "Player2": "yoshiwata",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "quinniac",
+          "Player2": "lilianna1989",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Roodslay",
+          "Player2": "DLCabelo",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Srogers90",
+          "Player2": "kentaro_hokori",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Uzbek",
+          "Player2": "Magic_Dads71522",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "wcl",
+          "Player2": "Capriccioso",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "-Nausea-",
+          "Player2": "Ailien02",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "Geodude_Jared",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DarkDepthsAniki",
+          "Player2": "Deerwife",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DLCabelo",
+          "Player2": "mijukumono",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DMianete",
+          "Player2": "Knuto16",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "fredmcfred",
+          "Player2": "EmperorOppai",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "iceyfire95",
+          "Player2": "fuya",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kentaro_hokori",
+          "Player2": "DominiqueTutor",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "lia2022",
+          "Player2": "Uzbek",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Magic_Dads71522",
+          "Player2": "EiJunCHN",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MdvWin",
+          "Player2": "lilianna1989",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "wcl",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "Capriccioso",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "OSCA66",
+          "Player2": "fatumi",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "quinniac",
+          "Player2": "thatmaverickjoe",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Roodslay",
+          "Player2": "yoshiwata",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Srogers90",
+          "Player2": "medvedev",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "triplesleeved",
+          "Player2": "AJV20",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "-Nausea-",
+          "Player2": "DominiqueTutor",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Deerwife",
+          "Player2": "triplesleeved",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "EmperorOppai",
+          "Player2": "yoshiwata",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "fredmcfred",
+          "Player2": "DLCabelo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "iceyfire95",
+          "Player2": "bless_von",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kentaro_hokori",
+          "Player2": "AJV20",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "lia2022",
+          "Player2": "fuya",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "lilianna1989",
+          "Player2": "Uzbek",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MdvWin",
+          "Player2": "DarkDepthsAniki",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "wcl",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "mijukumono",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "EiJunCHN",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "OSCA66",
+          "Player2": "DMianete",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "quinniac",
+          "Player2": "Magic_Dads71522",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Srogers90",
+          "Player2": "fatumi",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "thatmaverickjoe",
+          "Player2": "Ailien02",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "-Nausea-",
+          "Player2": "Uzbek",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DarkDepthsAniki",
+          "Player2": "wcl",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DMianete",
+          "Player2": "Magic_Dads71522",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DominiqueTutor",
+          "Player2": "triplesleeved",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "EmperorOppai",
+          "Player2": "quinniac",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "fredmcfred",
+          "Player2": "fatumi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kentaro_hokori",
+          "Player2": "Deerwife",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MdvWin",
+          "Player2": "lia2022",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "iceyfire95",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "musasabi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "OSCA66",
+          "Player2": "fuya",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Roodslay",
+          "Player2": "mijukumono",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Srogers90",
+          "Player2": "DLCabelo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "thatmaverickjoe",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "DLCabelo",
+          "Player2": "iceyfire95",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "fatumi",
+          "Player2": "lia2022",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "fuya",
+          "Player2": "Magic_Dads71522",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kentaro_hokori",
+          "Player2": "Uzbek",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "lilianna1989",
+          "Player2": "DMianete",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MdvWin",
+          "Player2": "fredmcfred",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "DarkDepthsAniki",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "OSCA66",
+          "Player2": "-Nausea-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "quinniac",
+          "Player2": "medvedev",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Roodslay",
+          "Player2": "Deerwife",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Srogers90",
+          "Player2": "EmperorOppai",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "wcl",
+          "Player2": "DominiqueTutor",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "musasabi",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "-Nausea-",
+          "Player2": "wcl",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DMianete",
+          "Player2": "thatmaverickjoe",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "EmperorOppai",
+          "Player2": "DarkDepthsAniki",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "fatumi",
+          "Player2": "lilianna1989",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "iceyfire95",
+          "Player2": "Magic_Dads71522",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kentaro_hokori",
+          "Player2": "DLCabelo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MdvWin",
+          "Player2": "OSCA66",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "fredmcfred",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "quinniac",
+          "Player2": "musasabi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Roodslay",
+          "Player2": "medvedev",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Srogers90",
+          "Player2": "lia2022",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Uzbek",
+          "Player2": "fuya",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "DominiqueTutor",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "MdvWin",
+          "Player2": "fatumi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "fredmcfred",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "OSCA66",
+          "Player2": "EmperorOppai",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Srogers90",
+          "Player2": "lia2022",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "MdvWin",
+          "Player2": "OSCA66",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "Srogers90",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "MdvWin",
+          "Player2": "Munchlax446",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ]
+}

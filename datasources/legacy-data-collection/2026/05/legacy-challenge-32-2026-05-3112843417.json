@@ -1,0 +1,570 @@
+{
+  "Tournament": {
+    "Id": "legacy-challenge-32-2026-05-3112843417",
+    "Date": "2026-05-31",
+    "Name": "Legacy Challenge 32",
+    "PlayerCount": 32,
+    "Source": "legacy-data-collection",
+    "SheetId": "1R18ulHCHXRKjWLge1FIydXpE17R7Uu2FXels0UWRO9M"
+  },
+  "Players": [
+    {
+      "Player": "sandahl123",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "Baku_91",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "leeties",
+      "Archetype": "Other Land Based/Fair GSZ"
+    },
+    {
+      "Player": "Lord_Beerus",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "Jumba",
+      "Archetype": "Tron"
+    },
+    {
+      "Player": "phazonmutant",
+      "Archetype": "Jeskai Control"
+    },
+    {
+      "Player": "xfile",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "MlkmnRob",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "Kaijimmy",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "BERNASTORRES",
+      "Archetype": "Other Land Based/Fair GSZ"
+    },
+    {
+      "Player": "Mywaydowntown",
+      "Archetype": "Saga Storm"
+    },
+    {
+      "Player": "Dioferreira",
+      "Archetype": "Rakdos Reanimator"
+    },
+    {
+      "Player": "Beenew",
+      "Archetype": "Tron"
+    },
+    {
+      "Player": "Lightspirit",
+      "Archetype": "Sneak and Show"
+    },
+    {
+      "Player": "_Falcon_",
+      "Archetype": "Azorius Tempo"
+    },
+    {
+      "Player": "bless_von",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "yushi013",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "Trohck",
+      "Archetype": "Aluren"
+    },
+    {
+      "Player": "ClydeCash",
+      "Archetype": "Death and Taxes - W (Yorion)"
+    },
+    {
+      "Player": "GoblinK1ng",
+      "Archetype": "Rakdos Reanimator"
+    },
+    {
+      "Player": "momo391",
+      "Archetype": "Red Stompy"
+    },
+    {
+      "Player": "Savior0117",
+      "Archetype": "The EPIC Storm"
+    },
+    {
+      "Player": "kasa",
+      "Archetype": "Tron"
+    },
+    {
+      "Player": "Cirxi",
+      "Archetype": "Saga Storm"
+    },
+    {
+      "Player": "Xiongye",
+      "Archetype": "Cradle Control"
+    },
+    {
+      "Player": "kozz27",
+      "Archetype": "Naya Stompy"
+    },
+    {
+      "Player": "derlumberzack",
+      "Archetype": "Sneak and Show"
+    },
+    {
+      "Player": "kentaro_hokori",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "doctor-x",
+      "Archetype": "Loam Pox"
+    },
+    {
+      "Player": "Bugsy69",
+      "Archetype": "Rakdos Reanimator"
+    },
+    {
+      "Player": "FunFun_Tony",
+      "Archetype": "Boros Energy"
+    },
+    {
+      "Player": "kthanakit26",
+      "Archetype": "Tron"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Falcon_",
+          "Player2": "yushi013",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Baku_91",
+          "Player2": "kentaro_hokori",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Beenew",
+          "Player2": "Bugsy69",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "BERNASTORRES",
+          "Player2": "kthanakit26",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ClydeCash",
+          "Player2": "FunFun_Tony",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dioferreira",
+          "Player2": "kozz27",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Kaijimmy",
+          "Player2": "Xiongye",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kasa",
+          "Player2": "Cirxi",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "leeties",
+          "Player2": "GoblinK1ng",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Lightspirit",
+          "Player2": "bless_von",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "Jumba",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "MlkmnRob",
+          "Player2": "momo391",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "phazonmutant",
+          "Player2": "doctor-x",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "sandahl123",
+          "Player2": "Trohck",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Savior0117",
+          "Player2": "derlumberzack",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "xfile",
+          "Player2": "Mywaydowntown",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Falcon_",
+          "Player2": "kasa",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Baku_91",
+          "Player2": "Savior0117",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "BERNASTORRES",
+          "Player2": "Beenew",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "derlumberzack",
+          "Player2": "kthanakit26",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dioferreira",
+          "Player2": "yushi013",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "GoblinK1ng",
+          "Player2": "doctor-x",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Kaijimmy",
+          "Player2": "ClydeCash",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "leeties",
+          "Player2": "Jumba",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Lightspirit",
+          "Player2": "momo391",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "kentaro_hokori",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MlkmnRob",
+          "Player2": "Cirxi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mywaydowntown",
+          "Player2": "Bugsy69",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "phazonmutant",
+          "Player2": "bless_von",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "sandahl123",
+          "Player2": "FunFun_Tony",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "xfile",
+          "Player2": "Trohck",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Xiongye",
+          "Player2": "kozz27",
+          "Result": "1-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Falcon_",
+          "Player2": "kentaro_hokori",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Baku_91",
+          "Player2": "BERNASTORRES",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Beenew",
+          "Player2": "Trohck",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "xfile",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Kaijimmy",
+          "Player2": "bless_von",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "leeties",
+          "Player2": "Cirxi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Lightspirit",
+          "Player2": "derlumberzack",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "ClydeCash",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MlkmnRob",
+          "Player2": "Dioferreira",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "momo391",
+          "Player2": "Xiongye",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Mywaydowntown",
+          "Player2": "GoblinK1ng",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "phazonmutant",
+          "Player2": "Savior0117",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "sandahl123",
+          "Player2": "kasa",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "yushi013",
+          "Player2": "kozz27",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Falcon_",
+          "Player2": "GoblinK1ng",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Baku_91",
+          "Player2": "Kaijimmy",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "ClydeCash",
+          "Player2": "kasa",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Dioferreira",
+          "Player2": "bless_von",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "MlkmnRob",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "leeties",
+          "Player2": "Beenew",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "momo391",
+          "Player2": "derlumberzack",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mywaydowntown",
+          "Player2": "Lightspirit",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "phazonmutant",
+          "Player2": "yushi013",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "sandahl123",
+          "Player2": "Lord_Beerus",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Trohck",
+          "Player2": "Cirxi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "xfile",
+          "Player2": "BERNASTORRES",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Falcon_",
+          "Player2": "bless_von",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Baku_91",
+          "Player2": "xfile",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Beenew",
+          "Player2": "ClydeCash",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "BERNASTORRES",
+          "Player2": "yushi013",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "GoblinK1ng",
+          "Player2": "Xiongye",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "Kaijimmy",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "leeties",
+          "Player2": "MlkmnRob",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Lightspirit",
+          "Player2": "Trohck",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "momo391",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "phazonmutant",
+          "Player2": "Dioferreira",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "sandahl123",
+          "Player2": "Mywaydowntown",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "Baku_91",
+          "Player2": "xfile",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "leeties",
+          "Player2": "MlkmnRob",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "Jumba",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "sandahl123",
+          "Player2": "phazonmutant",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "Baku_91",
+          "Player2": "leeties",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "sandahl123",
+          "Player2": "Lord_Beerus",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "sandahl123",
+          "Player2": "Baku_91",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ]
+}

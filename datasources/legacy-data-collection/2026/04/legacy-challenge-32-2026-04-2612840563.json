@@ -1,0 +1,689 @@
+{
+  "Tournament": {
+    "Id": "legacy-challenge-32-2026-04-2612840563",
+    "Date": "2026-04-26",
+    "Name": "Legacy Challenge 32",
+    "PlayerCount": 34,
+    "Source": "legacy-data-collection",
+    "SheetId": "1E9wQJyL-8xbDh1dGZ5m56vDhktDg4lnlwcj2b7_KNZw"
+  },
+  "Players": [
+    {
+      "Player": "GoblinK1ng",
+      "Archetype": "Rakdos Reanimator"
+    },
+    {
+      "Player": "Dioferreira",
+      "Archetype": "Sneak and Show"
+    },
+    {
+      "Player": "Munchlax446",
+      "Archetype": "Sneak and Show"
+    },
+    {
+      "Player": "blungoreus",
+      "Archetype": "Other Permanent Combo"
+    },
+    {
+      "Player": "boryas",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "zhinonono",
+      "Archetype": "Cradle Control"
+    },
+    {
+      "Player": "xDingusKhan",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "yoshiwata",
+      "Archetype": "Death and Taxes - BW (Yorion)"
+    },
+    {
+      "Player": "Raydan",
+      "Archetype": "Other Stompy"
+    },
+    {
+      "Player": "vinilopes",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "silviawataru",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "taku123",
+      "Archetype": "Creative Technique"
+    },
+    {
+      "Player": "sakuragi21722749",
+      "Archetype": "Blue Cloudpost"
+    },
+    {
+      "Player": "_Batutinha_",
+      "Archetype": "Tron"
+    },
+    {
+      "Player": "KurumimBagoRosa",
+      "Archetype": "Tron"
+    },
+    {
+      "Player": "wowqqqa",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "SkysTheLimit",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "kasa",
+      "Archetype": "Azorius Tempo"
+    },
+    {
+      "Player": "usea",
+      "Archetype": "Death's Shadow"
+    },
+    {
+      "Player": "derlumberzack",
+      "Archetype": "Sneak and Show"
+    },
+    {
+      "Player": "Cyberpunker",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "MyPotatoes",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "jev_",
+      "Archetype": "Mardu Energy"
+    },
+    {
+      "Player": "kirdiekirdie",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "DominiqueTutor",
+      "Archetype": "Stoneblade"
+    },
+    {
+      "Player": "Stanshine",
+      "Archetype": "Necrodominance Combo"
+    },
+    {
+      "Player": "Roodslay",
+      "Archetype": "Mono Black Reanimator"
+    },
+    {
+      "Player": "Cirxi",
+      "Archetype": "Saga Storm"
+    },
+    {
+      "Player": "Harry1232",
+      "Archetype": "Other Permanent Combo"
+    },
+    {
+      "Player": "Lord_Beerus",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "Venom01",
+      "Archetype": "Azorius Tempo"
+    },
+    {
+      "Player": "TheGrimLavamancer",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "FanksEoT",
+      "Archetype": "Boros Energy"
+    },
+    {
+      "Player": "rarakkyo",
+      "Archetype": "Omni-Tell"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "blungoreus",
+          "Player2": "kirdiekirdie",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "boryas",
+          "Player2": "TheGrimLavamancer",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "derlumberzack",
+          "Player2": "Cyberpunker",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "DominiqueTutor",
+          "Player2": "Cirxi",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "GoblinK1ng",
+          "Player2": "Dioferreira",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kasa",
+          "Player2": "Lord_Beerus",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "KurumimBagoRosa",
+          "Player2": "FanksEoT",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "rarakkyo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Raydan",
+          "Player2": "jev_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Roodslay",
+          "Player2": "Venom01",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "sakuragi21722749",
+          "Player2": "Stanshine",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "silviawataru",
+          "Player2": "_Batutinha_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "usea",
+          "Player2": "Harry1232",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "vinilopes",
+          "Player2": "MyPotatoes",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "xDingusKhan",
+          "Player2": "wowqqqa",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "SkysTheLimit",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "zhinonono",
+          "Player2": "taku123",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "blungoreus",
+          "Player2": "usea",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "boryas",
+          "Player2": "Raydan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "derlumberzack",
+          "Player2": "Lord_Beerus",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dioferreira",
+          "Player2": "silviawataru",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "GoblinK1ng",
+          "Player2": "Cirxi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jev_",
+          "Player2": "DominiqueTutor",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kasa",
+          "Player2": "Harry1232",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "Cyberpunker",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MyPotatoes",
+          "Player2": "kirdiekirdie",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "sakuragi21722749",
+          "Player2": "_Batutinha_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SkysTheLimit",
+          "Player2": "TheGrimLavamancer",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Stanshine",
+          "Player2": "Venom01",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "vinilopes",
+          "Player2": "KurumimBagoRosa",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "wowqqqa",
+          "Player2": "rarakkyo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "xDingusKhan",
+          "Player2": "taku123",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "Roodslay",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "zhinonono",
+          "Player2": "FanksEoT",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "Stanshine",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "blungoreus",
+          "Player2": "Roodslay",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "boryas",
+          "Player2": "xDingusKhan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "derlumberzack",
+          "Player2": "MyPotatoes",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Dioferreira",
+          "Player2": "Raydan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DominiqueTutor",
+          "Player2": "Lord_Beerus",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "GoblinK1ng",
+          "Player2": "yoshiwata",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kirdiekirdie",
+          "Player2": "Venom01",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "KurumimBagoRosa",
+          "Player2": "Harry1232",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "vinilopes",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "sakuragi21722749",
+          "Player2": "kasa",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "silviawataru",
+          "Player2": "rarakkyo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "SkysTheLimit",
+          "Player2": "jev_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "taku123",
+          "Player2": "Cirxi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "wowqqqa",
+          "Player2": "usea",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "zhinonono",
+          "Player2": "Cyberpunker",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "blungoreus",
+          "Player2": "SkysTheLimit",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "derlumberzack",
+          "Player2": "Roodslay",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dioferreira",
+          "Player2": "yoshiwata",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "DominiqueTutor",
+          "Player2": "Stanshine",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "GoblinK1ng",
+          "Player2": "sakuragi21722749",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "KurumimBagoRosa",
+          "Player2": "MyPotatoes",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "rarakkyo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "boryas",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Raydan",
+          "Player2": "kirdiekirdie",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "silviawataru",
+          "Player2": "Cyberpunker",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "taku123",
+          "Player2": "wowqqqa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "usea",
+          "Player2": "Cirxi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "vinilopes",
+          "Player2": "jev_",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "xDingusKhan",
+          "Player2": "kasa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "zhinonono",
+          "Player2": "_Batutinha_",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "blungoreus",
+          "Player2": "yoshiwata",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Cyberpunker",
+          "Player2": "Stanshine",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Dioferreira",
+          "Player2": "MyPotatoes",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "GoblinK1ng",
+          "Player2": "boryas",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "taku123",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Raydan",
+          "Player2": "_Batutinha_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "silviawataru",
+          "Player2": "kirdiekirdie",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "SkysTheLimit",
+          "Player2": "derlumberzack",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "usea",
+          "Player2": "jev_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "vinilopes",
+          "Player2": "DominiqueTutor",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "wowqqqa",
+          "Player2": "kasa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "xDingusKhan",
+          "Player2": "sakuragi21722749",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "zhinonono",
+          "Player2": "KurumimBagoRosa",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "jev_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "boryas",
+          "Player2": "zhinonono",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Cyberpunker",
+          "Player2": "kirdiekirdie",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Dioferreira",
+          "Player2": "taku123",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "GoblinK1ng",
+          "Player2": "blungoreus",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kasa",
+          "Player2": "usea",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "xDingusKhan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Raydan",
+          "Player2": "wowqqqa",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "silviawataru",
+          "Player2": "KurumimBagoRosa",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "SkysTheLimit",
+          "Player2": "DominiqueTutor",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "vinilopes",
+          "Player2": "derlumberzack",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "sakuragi21722749",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "blungoreus",
+          "Player2": "boryas",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dioferreira",
+          "Player2": "zhinonono",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "GoblinK1ng",
+          "Player2": "yoshiwata",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "xDingusKhan",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "Dioferreira",
+          "Player2": "blungoreus",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "GoblinK1ng",
+          "Player2": "Munchlax446",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "GoblinK1ng",
+          "Player2": "Dioferreira",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ]
+}

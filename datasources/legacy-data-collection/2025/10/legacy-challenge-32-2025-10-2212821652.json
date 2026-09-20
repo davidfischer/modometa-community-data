@@ -1,0 +1,929 @@
+{
+  "Tournament": {
+    "Id": "legacy-challenge-32-2025-10-2212821652",
+    "Date": "2025-10-22",
+    "Name": "Legacy Challenge 32",
+    "PlayerCount": 49,
+    "Source": "legacy-data-collection",
+    "SheetId": "1gGJMPHSfrc0std04hjb-_QiAGWd-aSJZ7_zYxoLlYH0"
+  },
+  "Players": [
+    {
+      "Player": "RaccoonZ",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "AFX",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "HoldTheElle",
+      "Archetype": "Mystic Forge Combo"
+    },
+    {
+      "Player": "TheGenz",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "TeaW1thRum",
+      "Archetype": "Red Painter"
+    },
+    {
+      "Player": "ho-oh",
+      "Archetype": "Mystic Forge Combo"
+    },
+    {
+      "Player": "WingedHussar",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "Srogers90",
+      "Archetype": "Nadu Midrange Combo"
+    },
+    {
+      "Player": "C_S_W____",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "2plus2isfive",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "achillies27",
+      "Archetype": "Maverick"
+    },
+    {
+      "Player": "blademagician",
+      "Archetype": "Mystic Forge Combo"
+    },
+    {
+      "Player": "harmonywoods",
+      "Archetype": "Esper Control"
+    },
+    {
+      "Player": "WadeB",
+      "Archetype": "Ninjas"
+    },
+    {
+      "Player": "jamiewvh",
+      "Archetype": "Mardu Energy"
+    },
+    {
+      "Player": "Otazz",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "Munchlax446",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "jedijwk1",
+      "Archetype": "White Stompy"
+    },
+    {
+      "Player": "O_danielakos",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "_4L3",
+      "Archetype": "Red Stompy"
+    },
+    {
+      "Player": "Imiak",
+      "Archetype": "Other Aggro"
+    },
+    {
+      "Player": "gfernandes",
+      "Archetype": "Abzan Depths"
+    },
+    {
+      "Player": "Eureka22422",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "XanaZero",
+      "Archetype": "Other Permanent Combo"
+    },
+    {
+      "Player": "Wagadel",
+      "Archetype": "Cephalid Breakfast"
+    },
+    {
+      "Player": "Bawer",
+      "Archetype": "Creative Technique"
+    },
+    {
+      "Player": "monzatubarao",
+      "Archetype": "Gruul Stompy"
+    },
+    {
+      "Player": "TonyScapone",
+      "Archetype": "The EPIC Gamble"
+    },
+    {
+      "Player": "musasabi",
+      "Archetype": "Mystic Forge Combo"
+    },
+    {
+      "Player": "okarin_",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "Cachorrowo",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "Chiog33",
+      "Archetype": "Burn/Red Prowess"
+    },
+    {
+      "Player": "DrPP",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "SharkGui",
+      "Archetype": "Mardu Energy"
+    },
+    {
+      "Player": "lia2022",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "jankyb",
+      "Archetype": "Jeskai Control"
+    },
+    {
+      "Player": "ReformedPaolo",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "Univerce",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "TradingonTilt",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "DuduDeNunu",
+      "Archetype": "Eldrazi"
+    },
+    {
+      "Player": "freedomxx",
+      "Archetype": "Sneak and Show"
+    },
+    {
+      "Player": "Knshee",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "DrCatkins",
+      "Archetype": "Esper Vial"
+    },
+    {
+      "Player": "i_b_TRUE",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "wolf2222",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "choutin",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "taku123",
+      "Archetype": "Creative Technique"
+    },
+    {
+      "Player": "Roodslay",
+      "Archetype": "Worldgorger"
+    },
+    {
+      "Player": "Skpchino",
+      "Archetype": "Dimir Tempo"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "2plus2isfive",
+          "Player2": "Roodslay",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "AFX",
+          "Player2": "choutin",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "blademagician",
+          "Player2": "XanaZero",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "C_S_W____",
+          "Player2": "taku123",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Cachorrowo",
+          "Player2": "DrCatkins",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DrPP",
+          "Player2": "lia2022",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Eureka22422",
+          "Player2": "TonyScapone",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "gfernandes",
+          "Player2": "Knshee",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "harmonywoods",
+          "Player2": "i_b_TRUE",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ho-oh",
+          "Player2": "musasabi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "HoldTheElle",
+          "Player2": "okarin_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "jamiewvh",
+          "Player2": "jankyb",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jedijwk1",
+          "Player2": "Skpchino",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "monzatubarao",
+          "Player2": "ReformedPaolo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "SharkGui",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "freedomxx",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Otazz",
+          "Player2": "Bawer",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "RaccoonZ",
+          "Player2": "Univerce",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Srogers90",
+          "Player2": "achillies27",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TeaW1thRum",
+          "Player2": "Chiog33",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TheGenz",
+          "Player2": "TradingonTilt",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "WadeB",
+          "Player2": "_4L3",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Wagadel",
+          "Player2": "wolf2222",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "WingedHussar",
+          "Player2": "DuduDeNunu",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "2plus2isfive",
+          "Player2": "XanaZero",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "achillies27",
+          "Player2": "freedomxx",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "AFX",
+          "Player2": "ReformedPaolo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "blademagician",
+          "Player2": "lia2022",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "C_S_W____",
+          "Player2": "Wagadel",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Cachorrowo",
+          "Player2": "SharkGui",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DrCatkins",
+          "Player2": "Roodslay",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "harmonywoods",
+          "Player2": "wolf2222",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ho-oh",
+          "Player2": "Imiak",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "HoldTheElle",
+          "Player2": "gfernandes",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "jankyb",
+          "Player2": "choutin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "monzatubarao",
+          "Player2": "taku123",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "i_b_TRUE",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "DuduDeNunu",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "okarin_",
+          "Player2": "Knshee",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Otazz",
+          "Player2": "jedijwk1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "RaccoonZ",
+          "Player2": "_4L3",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Srogers90",
+          "Player2": "DrPP",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TeaW1thRum",
+          "Player2": "O_danielakos",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TheGenz",
+          "Player2": "Eureka22422",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TonyScapone",
+          "Player2": "TradingonTilt",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Univerce",
+          "Player2": "Skpchino",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "WadeB",
+          "Player2": "Chiog33",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "WingedHussar",
+          "Player2": "jamiewvh",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "2plus2isfive",
+          "Player2": "Cachorrowo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "_4L3",
+          "Player2": "DuduDeNunu",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "AFX",
+          "Player2": "Srogers90",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "blademagician",
+          "Player2": "gfernandes",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "C_S_W____",
+          "Player2": "harmonywoods",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Eureka22422",
+          "Player2": "Bawer",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "freedomxx",
+          "Player2": "Knshee",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "HoldTheElle",
+          "Player2": "WingedHussar",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Imiak",
+          "Player2": "ReformedPaolo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "jamiewvh",
+          "Player2": "Wagadel",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "jankyb",
+          "Player2": "DrCatkins",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "monzatubarao",
+          "Player2": "SharkGui",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "O_danielakos",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "lia2022",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Otazz",
+          "Player2": "Univerce",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "RaccoonZ",
+          "Player2": "jedijwk1",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TeaW1thRum",
+          "Player2": "achillies27",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "TheGenz",
+          "Player2": "ho-oh",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TonyScapone",
+          "Player2": "DrPP",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "WadeB",
+          "Player2": "TradingonTilt",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "XanaZero",
+          "Player2": "okarin_",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "achillies27",
+          "Player2": "harmonywoods",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "AFX",
+          "Player2": "HoldTheElle",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Bawer",
+          "Player2": "DuduDeNunu",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "blademagician",
+          "Player2": "Cachorrowo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DrPP",
+          "Player2": "freedomxx",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Eureka22422",
+          "Player2": "monzatubarao",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "ho-oh",
+          "Player2": "TonyScapone",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jamiewvh",
+          "Player2": "musasabi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "jedijwk1",
+          "Player2": "Wagadel",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "gfernandes",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "jankyb",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "okarin_",
+          "Player2": "Chiog33",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "RaccoonZ",
+          "Player2": "C_S_W____",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "SharkGui",
+          "Player2": "DrCatkins",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Srogers90",
+          "Player2": "Imiak",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TeaW1thRum",
+          "Player2": "_4L3",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TheGenz",
+          "Player2": "2plus2isfive",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TradingonTilt",
+          "Player2": "Knshee",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "WadeB",
+          "Player2": "Otazz",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "WingedHussar",
+          "Player2": "XanaZero",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_4L3",
+          "Player2": "Imiak",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "achillies27",
+          "Player2": "okarin_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "AFX",
+          "Player2": "O_danielakos",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "blademagician",
+          "Player2": "harmonywoods",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "C_S_W____",
+          "Player2": "jedijwk1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Chiog33",
+          "Player2": "DrCatkins",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Eureka22422",
+          "Player2": "jankyb",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "gfernandes",
+          "Player2": "lia2022",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "HoldTheElle",
+          "Player2": "ho-oh",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jamiewvh",
+          "Player2": "DrPP",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "Bawer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "Knshee",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Otazz",
+          "Player2": "Cachorrowo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "RaccoonZ",
+          "Player2": "TheGenz",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Srogers90",
+          "Player2": "monzatubarao",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TeaW1thRum",
+          "Player2": "2plus2isfive",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Wagadel",
+          "Player2": "TonyScapone",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "WingedHussar",
+          "Player2": "WadeB",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "XanaZero",
+          "Player2": "SharkGui",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "2plus2isfive",
+          "Player2": "jedijwk1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_4L3",
+          "Player2": "TradingonTilt",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "achillies27",
+          "Player2": "Wagadel",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "AFX",
+          "Player2": "C_S_W____",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Bawer",
+          "Player2": "SharkGui",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "gfernandes",
+          "Player2": "okarin_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "harmonywoods",
+          "Player2": "monzatubarao",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ho-oh",
+          "Player2": "WingedHussar",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "HoldTheElle",
+          "Player2": "TheGenz",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jamiewvh",
+          "Player2": "Imiak",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "lia2022",
+          "Player2": "Knshee",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "XanaZero",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "Chiog33",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Otazz",
+          "Player2": "O_danielakos",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "RaccoonZ",
+          "Player2": "blademagician",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TeaW1thRum",
+          "Player2": "Srogers90",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TonyScapone",
+          "Player2": "jankyb",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "WadeB",
+          "Player2": "Eureka22422",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "AFX",
+          "Player2": "TeaW1thRum",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "HoldTheElle",
+          "Player2": "Srogers90",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "RaccoonZ",
+          "Player2": "ho-oh",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TheGenz",
+          "Player2": "WingedHussar",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "AFX",
+          "Player2": "HoldTheElle",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "RaccoonZ",
+          "Player2": "TheGenz",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "RaccoonZ",
+          "Player2": "AFX",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ]
+}

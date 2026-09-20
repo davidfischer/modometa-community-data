@@ -1,0 +1,696 @@
+{
+  "Tournament": {
+    "Id": "legacy-challenge-32-2025-02-1512743718",
+    "Date": "2025-02-15",
+    "Name": "Legacy Challenge 32",
+    "PlayerCount": 37,
+    "Source": "legacy-data-collection",
+    "SheetId": "1wTUtcD0GYJDDCS17e32dRjfkdh2MLJ4IBgmirPeiCkg"
+  },
+  "Players": [
+    {
+      "Player": "GuiBonella",
+      "Archetype": "Nadu Midrange Combo"
+    },
+    {
+      "Player": "Raydan",
+      "Archetype": "Grixis Tempo"
+    },
+    {
+      "Player": "Eureka22422",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "xDingusKhan",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "JoyfulWaffle",
+      "Archetype": "Grixis Tempo"
+    },
+    {
+      "Player": "yoshiwata",
+      "Archetype": "Death and Taxes - BW (Yorion)"
+    },
+    {
+      "Player": "SiL3nTGoaT",
+      "Archetype": "Red Stompy"
+    },
+    {
+      "Player": "JohnDoe397",
+      "Archetype": "Death and Taxes - BW (Yorion)"
+    },
+    {
+      "Player": "death_grips",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "Munchlax446",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "TheGrimLavamancer",
+      "Archetype": "Mono Black Reanimator"
+    },
+    {
+      "Player": "harmonywoods",
+      "Archetype": "Stoneblade"
+    },
+    {
+      "Player": "ecobaronen",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "Allengar",
+      "Archetype": "Sneak and Show"
+    },
+    {
+      "Player": "jibeta",
+      "Archetype": "Cephalid Breakfast"
+    },
+    {
+      "Player": "_Batutinha_",
+      "Archetype": "Red Stompy"
+    },
+    {
+      "Player": "J0hnWick",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "Holy_Schmidt",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "DominiqueTutor",
+      "Archetype": "Other Stompy"
+    },
+    {
+      "Player": "Kozz27",
+      "Archetype": "Gruul Stompy"
+    },
+    {
+      "Player": "HamAndCheese",
+      "Archetype": "Cephalid Breakfast"
+    },
+    {
+      "Player": "Pywo",
+      "Archetype": "Red Stompy"
+    },
+    {
+      "Player": "Big-Snack-Enjoyer",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "PunishingWaterfalls",
+      "Archetype": "8Cast"
+    },
+    {
+      "Player": "wakame",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "Lord_Beerus",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "Dalminho",
+      "Archetype": "Eldrazi"
+    },
+    {
+      "Player": "Chris_McNasty",
+      "Archetype": "Other Stompy"
+    },
+    {
+      "Player": "SRogers90",
+      "Archetype": "Grixis Control"
+    },
+    {
+      "Player": "KoolooLimpah",
+      "Archetype": "Red Stompy"
+    },
+    {
+      "Player": "MeninooNey",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "WadeB",
+      "Archetype": "Necrodominance Combo"
+    },
+    {
+      "Player": "Hammafist",
+      "Archetype": "Esper Tempo"
+    },
+    {
+      "Player": "mashirorc",
+      "Archetype": "Death and Taxes (60 Card)"
+    },
+    {
+      "Player": "XanaZero",
+      "Archetype": "Other Control"
+    },
+    {
+      "Player": "wonderPreaux",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "m0sc0wmitch",
+      "Archetype": "Izzet Tempo"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "death_grips",
+          "Player2": "_Batutinha_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "DominiqueTutor",
+          "Player2": "XanaZero",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Eureka22422",
+          "Player2": "mashirorc",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "GuiBonella",
+          "Player2": "Munchlax446",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "harmonywoods",
+          "Player2": "WadeB",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Holy_Schmidt",
+          "Player2": "wakame",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "JohnDoe397",
+          "Player2": "jibeta",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JoyfulWaffle",
+          "Player2": "Hammafist",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Kozz27",
+          "Player2": "Big-Snack-Enjoyer",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "Dalminho",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MeninooNey",
+          "Player2": "wonderPreaux",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "PunishingWaterfalls",
+          "Player2": "m0sc0wmitch",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Raydan",
+          "Player2": "Allengar",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "SiL3nTGoaT",
+          "Player2": "Chris_McNasty",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "SRogers90",
+          "Player2": "KoolooLimpah",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "TheGrimLavamancer",
+          "Player2": "ecobaronen",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "xDingusKhan",
+          "Player2": "Pywo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "HamAndCheese",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "J0hnWick",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Allengar",
+          "Player2": "Big-Snack-Enjoyer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "death_grips",
+          "Player2": "WadeB",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Eureka22422",
+          "Player2": "ecobaronen",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "GuiBonella",
+          "Player2": "DominiqueTutor",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "HamAndCheese",
+          "Player2": "wonderPreaux",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "harmonywoods",
+          "Player2": "jibeta",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Holy_Schmidt",
+          "Player2": "mashirorc",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JohnDoe397",
+          "Player2": "wakame",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "JoyfulWaffle",
+          "Player2": "PunishingWaterfalls",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Kozz27",
+          "Player2": "XanaZero",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "Dalminho",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Raydan",
+          "Player2": "Pywo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SiL3nTGoaT",
+          "Player2": "Lord_Beerus",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "SRogers90",
+          "Player2": "m0sc0wmitch",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TheGrimLavamancer",
+          "Player2": "Hammafist",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "xDingusKhan",
+          "Player2": "MeninooNey",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "KoolooLimpah",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "death_grips",
+          "Player2": "Allengar",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DominiqueTutor",
+          "Player2": "HamAndCheese",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Eureka22422",
+          "Player2": "Dalminho",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "GuiBonella",
+          "Player2": "ecobaronen",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "harmonywoods",
+          "Player2": "SRogers90",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "jibeta",
+          "Player2": "Holy_Schmidt",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "JoyfulWaffle",
+          "Player2": "JohnDoe397",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Kozz27",
+          "Player2": "wakame",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "MeninooNey",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "PunishingWaterfalls",
+          "Player2": "Chris_McNasty",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Pywo",
+          "Player2": "KoolooLimpah",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Raydan",
+          "Player2": "Big-Snack-Enjoyer",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TheGrimLavamancer",
+          "Player2": "_Batutinha_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "xDingusKhan",
+          "Player2": "SiL3nTGoaT",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "J0hnWick",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "Lord_Beerus",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "death_grips",
+          "Player2": "PunishingWaterfalls",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "J0hnWick",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Eureka22422",
+          "Player2": "Allengar",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "GuiBonella",
+          "Player2": "yoshiwata",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "HamAndCheese",
+          "Player2": "SRogers90",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "harmonywoods",
+          "Player2": "Kozz27",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Holy_Schmidt",
+          "Player2": "DominiqueTutor",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "Big-Snack-Enjoyer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Pywo",
+          "Player2": "MeninooNey",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Raydan",
+          "Player2": "JohnDoe397",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "SiL3nTGoaT",
+          "Player2": "TheGrimLavamancer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "wakame",
+          "Player2": "Chris_McNasty",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "xDingusKhan",
+          "Player2": "JoyfulWaffle",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "DominiqueTutor",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "jibeta",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Eureka22422",
+          "Player2": "Holy_Schmidt",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "GuiBonella",
+          "Player2": "JoyfulWaffle",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "J0hnWick",
+          "Player2": "wakame",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JohnDoe397",
+          "Player2": "Allengar",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Kozz27",
+          "Player2": "HamAndCheese",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "Pywo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Raydan",
+          "Player2": "SiL3nTGoaT",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TheGrimLavamancer",
+          "Player2": "PunishingWaterfalls",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "xDingusKhan",
+          "Player2": "harmonywoods",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "death_grips",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "Allengar",
+          "Player2": "Pywo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DominiqueTutor",
+          "Player2": "Big-Snack-Enjoyer",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Eureka22422",
+          "Player2": "JoyfulWaffle",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "GuiBonella",
+          "Player2": "xDingusKhan",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "HamAndCheese",
+          "Player2": "wakame",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "harmonywoods",
+          "Player2": "ecobaronen",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JohnDoe397",
+          "Player2": "Kozz27",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "_Batutinha_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Raydan",
+          "Player2": "death_grips",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SiL3nTGoaT",
+          "Player2": "J0hnWick",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TheGrimLavamancer",
+          "Player2": "jibeta",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "Holy_Schmidt",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "Eureka22422",
+          "Player2": "yoshiwata",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "GuiBonella",
+          "Player2": "JohnDoe397",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Raydan",
+          "Player2": "SiL3nTGoaT",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "xDingusKhan",
+          "Player2": "JoyfulWaffle",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "GuiBonella",
+          "Player2": "xDingusKhan",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Raydan",
+          "Player2": "Eureka22422",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "GuiBonella",
+          "Player2": "Raydan",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ]
+}

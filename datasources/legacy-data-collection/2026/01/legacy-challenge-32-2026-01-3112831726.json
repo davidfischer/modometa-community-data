@@ -1,0 +1,828 @@
+{
+  "Tournament": {
+    "Id": "legacy-challenge-32-2026-01-3112831726",
+    "Date": "2026-01-31",
+    "Name": "Legacy Challenge 32",
+    "PlayerCount": 45,
+    "Source": "legacy-data-collection",
+    "SheetId": "1MZFfsaMclHalu82q0hpFv6stuaLaWb41fD5F8cjJhBo"
+  },
+  "Players": [
+    {
+      "Player": "Mav40121",
+      "Archetype": "Mardu Energy"
+    },
+    {
+      "Player": "TheMagePower",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "Lord_Beerus",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "Eureka22422",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "PekkaChu",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "kentaro_hokori",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "TheGrimLavamancer",
+      "Archetype": "Sneak and Show"
+    },
+    {
+      "Player": "choutin",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "Ozymandias17",
+      "Archetype": "Esper Control"
+    },
+    {
+      "Player": "Roodslay",
+      "Archetype": "Mono Black Reanimator"
+    },
+    {
+      "Player": "yoshiwata",
+      "Archetype": "Death and Taxes - BW (Yorion)"
+    },
+    {
+      "Player": "FarmerLGG",
+      "Archetype": "Death and Taxes - BW (Yorion)"
+    },
+    {
+      "Player": "wonderPreaux",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "Dsitt7",
+      "Archetype": "Cradle Control"
+    },
+    {
+      "Player": "unworldlyorigin",
+      "Archetype": "Eldrazi"
+    },
+    {
+      "Player": "Filho_do_MOL",
+      "Archetype": "Red Stompy"
+    },
+    {
+      "Player": "yushi013",
+      "Archetype": "Other Tempo"
+    },
+    {
+      "Player": "DominiqueTutor",
+      "Archetype": "Other Aggro"
+    },
+    {
+      "Player": "parkss",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "Magic_Dads71522",
+      "Archetype": "Mono Black Reanimator"
+    },
+    {
+      "Player": "PedroPolukranos",
+      "Archetype": "Lands"
+    },
+    {
+      "Player": "jankyb",
+      "Archetype": "Jeskai Control"
+    },
+    {
+      "Player": "CruetusNex",
+      "Archetype": "Selesnya Depths"
+    },
+    {
+      "Player": "xDingusKhan",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "swarmofbees",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "Harry1232",
+      "Archetype": "Beanstalk Control (Non-Yorion)"
+    },
+    {
+      "Player": "boryas",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "Stanshine",
+      "Archetype": "Affinity Stompy"
+    },
+    {
+      "Player": "Inf0squit0",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "utley26",
+      "Archetype": "Red Painter"
+    },
+    {
+      "Player": "giabella",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "Deskbot000",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "SenorLarson",
+      "Archetype": "Death and Taxes - BW (Yorion)"
+    },
+    {
+      "Player": "clan",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "SiL3nTGoaT",
+      "Archetype": "Red Stompy"
+    },
+    {
+      "Player": "TonyScapone",
+      "Archetype": "The EPIC Gamble"
+    },
+    {
+      "Player": "wumbowizard",
+      "Archetype": "Saga Storm"
+    },
+    {
+      "Player": "K_Renegade",
+      "Archetype": "Beanstalk Control (Non-Yorion)"
+    },
+    {
+      "Player": "Spym4n",
+      "Archetype": "Grixis Control"
+    },
+    {
+      "Player": "_INF_",
+      "Archetype": "Red Painter"
+    },
+    {
+      "Player": "XanaZero",
+      "Archetype": "Mystic Forge Combo"
+    },
+    {
+      "Player": "kozz27",
+      "Archetype": "Naya Stompy"
+    },
+    {
+      "Player": "JohnDoe397",
+      "Archetype": "Death and Taxes - BW (Yorion)"
+    },
+    {
+      "Player": "Sol-e22558",
+      "Archetype": "Selesnya Depths"
+    },
+    {
+      "Player": "albertoSD",
+      "Archetype": "Beanstalk Control (Non-Yorion)"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "boryas",
+          "Player2": "Spym4n",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "yoshiwata",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DominiqueTutor",
+          "Player2": "Magic_Dads71522",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Eureka22422",
+          "Player2": "TheGrimLavamancer",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Filho_do_MOL",
+          "Player2": "Stanshine",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Harry1232",
+          "Player2": "giabella",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Inf0squit0",
+          "Player2": "K_Renegade",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jankyb",
+          "Player2": "wumbowizard",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kentaro_hokori",
+          "Player2": "clan",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "XanaZero",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Mav40121",
+          "Player2": "JohnDoe397",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ozymandias17",
+          "Player2": "_INF_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "parkss",
+          "Player2": "CruetusNex",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "PedroPolukranos",
+          "Player2": "Deskbot000",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "PekkaChu",
+          "Player2": "Dsitt7",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Roodslay",
+          "Player2": "kozz27",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "SiL3nTGoaT",
+          "Player2": "albertoSD",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TheMagePower",
+          "Player2": "FarmerLGG",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "unworldlyorigin",
+          "Player2": "SenorLarson",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "utley26",
+          "Player2": "Sol-e22558",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "wonderPreaux",
+          "Player2": "swarmofbees",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "yushi013",
+          "Player2": "TonyScapone",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "choutin",
+          "Player2": "giabella",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "CruetusNex",
+          "Player2": "XanaZero",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Deskbot000",
+          "Player2": "TonyScapone",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Dsitt7",
+          "Player2": "DominiqueTutor",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Eureka22422",
+          "Player2": "swarmofbees",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "FarmerLGG",
+          "Player2": "Spym4n",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Harry1232",
+          "Player2": "kozz27",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kentaro_hokori",
+          "Player2": "PedroPolukranos",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "boryas",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Mav40121",
+          "Player2": "xDingusKhan",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Ozymandias17",
+          "Player2": "Magic_Dads71522",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "parkss",
+          "Player2": "Inf0squit0",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "PekkaChu",
+          "Player2": "yushi013",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Roodslay",
+          "Player2": "jankyb",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TheGrimLavamancer",
+          "Player2": "SiL3nTGoaT",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TheMagePower",
+          "Player2": "Filho_do_MOL",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "unworldlyorigin",
+          "Player2": "_INF_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "utley26",
+          "Player2": "clan",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "wonderPreaux",
+          "Player2": "SenorLarson",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "wumbowizard",
+          "Player2": "JohnDoe397",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "Stanshine",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "CruetusNex",
+          "Player2": "xDingusKhan",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "DominiqueTutor",
+          "Player2": "clan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Eureka22422",
+          "Player2": "SenorLarson",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "FarmerLGG",
+          "Player2": "TonyScapone",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Inf0squit0",
+          "Player2": "giabella",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "jankyb",
+          "Player2": "boryas",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kentaro_hokori",
+          "Player2": "Ozymandias17",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "TheGrimLavamancer",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Magic_Dads71522",
+          "Player2": "wumbowizard",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mav40121",
+          "Player2": "choutin",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "PekkaChu",
+          "Player2": "Roodslay",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Stanshine",
+          "Player2": "Deskbot000",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "swarmofbees",
+          "Player2": "Spym4n",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TheMagePower",
+          "Player2": "PedroPolukranos",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "unworldlyorigin",
+          "Player2": "Harry1232",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "utley26",
+          "Player2": "SiL3nTGoaT",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "wonderPreaux",
+          "Player2": "Filho_do_MOL",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "parkss",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "yushi013",
+          "Player2": "K_Renegade",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "boryas",
+          "Player2": "TonyScapone",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "parkss",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Deskbot000",
+          "Player2": "Spym4n",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dsitt7",
+          "Player2": "Stanshine",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Eureka22422",
+          "Player2": "Harry1232",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "FarmerLGG",
+          "Player2": "wonderPreaux",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kentaro_hokori",
+          "Player2": "xDingusKhan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "Filho_do_MOL",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Mav40121",
+          "Player2": "yushi013",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ozymandias17",
+          "Player2": "Roodslay",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "PedroPolukranos",
+          "Player2": "CruetusNex",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "PekkaChu",
+          "Player2": "utley26",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "swarmofbees",
+          "Player2": "giabella",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TheGrimLavamancer",
+          "Player2": "jankyb",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TheMagePower",
+          "Player2": "Magic_Dads71522",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "unworldlyorigin",
+          "Player2": "DominiqueTutor",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "Inf0squit0",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "choutin",
+          "Player2": "wonderPreaux",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DominiqueTutor",
+          "Player2": "boryas",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Dsitt7",
+          "Player2": "CruetusNex",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Eureka22422",
+          "Player2": "yoshiwata",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "FarmerLGG",
+          "Player2": "swarmofbees",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "giabella",
+          "Player2": "Deskbot000",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "jankyb",
+          "Player2": "Inf0squit0",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kentaro_hokori",
+          "Player2": "Filho_do_MOL",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Mav40121",
+          "Player2": "Lord_Beerus",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "parkss",
+          "Player2": "xDingusKhan",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "PedroPolukranos",
+          "Player2": "Stanshine",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "PekkaChu",
+          "Player2": "TheGrimLavamancer",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Roodslay",
+          "Player2": "Magic_Dads71522",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TheMagePower",
+          "Player2": "Ozymandias17",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "unworldlyorigin",
+          "Player2": "yushi013",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "CruetusNex",
+          "Player2": "giabella",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dsitt7",
+          "Player2": "boryas",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Eureka22422",
+          "Player2": "Roodslay",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Magic_Dads71522",
+          "Player2": "xDingusKhan",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Mav40121",
+          "Player2": "kentaro_hokori",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Ozymandias17",
+          "Player2": "FarmerLGG",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "PedroPolukranos",
+          "Player2": "Inf0squit0",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "PekkaChu",
+          "Player2": "choutin",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Stanshine",
+          "Player2": "Spym4n",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TheGrimLavamancer",
+          "Player2": "Filho_do_MOL",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TheMagePower",
+          "Player2": "Lord_Beerus",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "unworldlyorigin",
+          "Player2": "parkss",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "wonderPreaux",
+          "Player2": "DominiqueTutor",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "jankyb",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "yushi013",
+          "Player2": "swarmofbees",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "Eureka22422",
+          "Player2": "kentaro_hokori",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "TheGrimLavamancer",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Mav40121",
+          "Player2": "choutin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TheMagePower",
+          "Player2": "PekkaChu",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "Mav40121",
+          "Player2": "Lord_Beerus",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TheMagePower",
+          "Player2": "Eureka22422",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "Mav40121",
+          "Player2": "TheMagePower",
+          "Result": "2-1-0"
+        }
+      ]
+    }
+  ]
+}

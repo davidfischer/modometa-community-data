@@ -1,0 +1,746 @@
+{
+  "Tournament": {
+    "Id": "legacy-challenge-32-2025-02-2312747499",
+    "Date": "2025-02-23",
+    "Name": "Legacy Challenge 32",
+    "PlayerCount": 37,
+    "Source": "legacy-data-collection",
+    "SheetId": "18R5E53kirCbFCjqa9SFSegE71z-yJSMMDR-RV2faNVE"
+  },
+  "Players": [
+    {
+      "Player": "harmonywoods",
+      "Archetype": "Stoneblade"
+    },
+    {
+      "Player": "KoolooLimpah",
+      "Archetype": "Red Stompy"
+    },
+    {
+      "Player": "OSCA66",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "Selfeisek",
+      "Archetype": "Eldrazi"
+    },
+    {
+      "Player": "freakunasty",
+      "Archetype": "Other Aggro"
+    },
+    {
+      "Player": "almana3",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "mashirorc",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "Doome",
+      "Archetype": "Beanstalk Control (Yorion)"
+    },
+    {
+      "Player": "Geodude_Jared",
+      "Archetype": "Goblins (Vial)"
+    },
+    {
+      "Player": "oosunq",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "SiL3nTGoaT",
+      "Archetype": "Red Stompy"
+    },
+    {
+      "Player": "m_himukai",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "kanican",
+      "Archetype": "Red Painter"
+    },
+    {
+      "Player": "jibeta",
+      "Archetype": "Omni-Tell"
+    },
+    {
+      "Player": "big-snack-enjoyer",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "Lord_Beerus",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "DMianete",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "Bezerra_da_Silva",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "bravehrri",
+      "Archetype": "Naya Depths"
+    },
+    {
+      "Player": "choutin",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "chinarapov",
+      "Archetype": "Eldrazi"
+    },
+    {
+      "Player": "PoderosissimoNinja",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "Dockhack",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "Trohck",
+      "Archetype": "Bant Control (Yorion)"
+    },
+    {
+      "Player": "lilnebbstarr",
+      "Archetype": "Beanstalk Control (Yorion)"
+    },
+    {
+      "Player": "Munchlax446",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "DominiqueTutor",
+      "Archetype": "Stiflenought"
+    },
+    {
+      "Player": "OrnatePuzzles",
+      "Archetype": "Red Stompy"
+    },
+    {
+      "Player": "Srogers90",
+      "Archetype": "Sneak and Show"
+    },
+    {
+      "Player": "musasabi",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "Killabee",
+      "Archetype": "The EPIC Gamble"
+    },
+    {
+      "Player": "please-help12",
+      "Archetype": "Beanstalk Control (Yorion)"
+    },
+    {
+      "Player": "jathbrisk",
+      "Archetype": "Grixis Control"
+    },
+    {
+      "Player": "Koike",
+      "Archetype": "Nic Fit"
+    },
+    {
+      "Player": "_INF_",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "Hammafist",
+      "Archetype": "Mono Black Reanimator"
+    },
+    {
+      "Player": "morsaaa",
+      "Archetype": "Other Aggro"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "almana3",
+          "Player2": "bravehrri",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Bezerra_da_Silva",
+          "Player2": "Trohck",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "big-snack-enjoyer",
+          "Player2": "Hammafist",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "chinarapov",
+          "Player2": "Killabee",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "please-help12",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DMianete",
+          "Player2": "DominiqueTutor",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Doome",
+          "Player2": "_INF_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Geodude_Jared",
+          "Player2": "oosunq",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "harmonywoods",
+          "Player2": "Dockhack",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "jathbrisk",
+          "Player2": "Koike",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "KoolooLimpah",
+          "Player2": "PoderosissimoNinja",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "m_himukai",
+          "Player2": "lilnebbstarr",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "mashirorc",
+          "Player2": "kanican",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "morsaaa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "OrnatePuzzles",
+          "Player2": "Srogers90",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "OSCA66",
+          "Player2": "Lord_Beerus",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "freakunasty",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SiL3nTGoaT",
+          "Player2": "musasabi",
+          "Result": "1-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "almana3",
+          "Player2": "Srogers90",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "bravehrri",
+          "Player2": "morsaaa",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "chinarapov",
+          "Player2": "Munchlax446",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Dockhack",
+          "Player2": "DominiqueTutor",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Doome",
+          "Player2": "m_himukai",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Geodude_Jared",
+          "Player2": "jathbrisk",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "harmonywoods",
+          "Player2": "DMianete",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "jibeta",
+          "Player2": "Bezerra_da_Silva",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kanican",
+          "Player2": "please-help12",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "KoolooLimpah",
+          "Player2": "musasabi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "lilnebbstarr",
+          "Player2": "_INF_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "mashirorc",
+          "Player2": "choutin",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "oosunq",
+          "Player2": "Koike",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "OSCA66",
+          "Player2": "freakunasty",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "PoderosissimoNinja",
+          "Player2": "Killabee",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "big-snack-enjoyer",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "SiL3nTGoaT",
+          "Player2": "Lord_Beerus",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Trohck",
+          "Player2": "OrnatePuzzles",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "Bezerra_da_Silva",
+          "Player2": "Munchlax446",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DMianete",
+          "Player2": "musasabi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dockhack",
+          "Player2": "Koike",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Doome",
+          "Player2": "jibeta",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "freakunasty",
+          "Player2": "bravehrri",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "harmonywoods",
+          "Player2": "almana3",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "kanican",
+          "Player2": "chinarapov",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "KoolooLimpah",
+          "Player2": "big-snack-enjoyer",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "please-help12",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "m_himukai",
+          "Player2": "DominiqueTutor",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "mashirorc",
+          "Player2": "Geodude_Jared",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "oosunq",
+          "Player2": "choutin",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "OSCA66",
+          "Player2": "lilnebbstarr",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "PoderosissimoNinja",
+          "Player2": "Trohck",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "OrnatePuzzles",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SiL3nTGoaT",
+          "Player2": "Killabee",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Srogers90",
+          "Player2": "jathbrisk",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "almana3",
+          "Player2": "mashirorc",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "bravehrri",
+          "Player2": "please-help12",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "jathbrisk",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dockhack",
+          "Player2": "Killabee",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DominiqueTutor",
+          "Player2": "OrnatePuzzles",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "freakunasty",
+          "Player2": "DMianete",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Geodude_Jared",
+          "Player2": "Lord_Beerus",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "harmonywoods",
+          "Player2": "Bezerra_da_Silva",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "jibeta",
+          "Player2": "Srogers90",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kanican",
+          "Player2": "musasabi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "KoolooLimpah",
+          "Player2": "Doome",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "m_himukai",
+          "Player2": "chinarapov",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "OSCA66",
+          "Player2": "oosunq",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "Munchlax446",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SiL3nTGoaT",
+          "Player2": "big-snack-enjoyer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Trohck",
+          "Player2": "lilnebbstarr",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "big-snack-enjoyer",
+          "Player2": "Srogers90",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "chinarapov",
+          "Player2": "DominiqueTutor",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "OrnatePuzzles",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DMianete",
+          "Player2": "Dockhack",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "freakunasty",
+          "Player2": "jibeta",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "harmonywoods",
+          "Player2": "Geodude_Jared",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kanican",
+          "Player2": "bravehrri",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "KoolooLimpah",
+          "Player2": "almana3",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "lilnebbstarr",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "oosunq",
+          "Player2": "Bezerra_da_Silva",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "OSCA66",
+          "Player2": "Doome",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "PoderosissimoNinja",
+          "Player2": "jathbrisk",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "mashirorc",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SiL3nTGoaT",
+          "Player2": "m_himukai",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Trohck",
+          "Player2": "Munchlax446",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "almana3",
+          "Player2": "kanican",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Bezerra_da_Silva",
+          "Player2": "jathbrisk",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "bravehrri",
+          "Player2": "Munchlax446",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Dockhack",
+          "Player2": "OrnatePuzzles",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DominiqueTutor",
+          "Player2": "please-help12",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Doome",
+          "Player2": "choutin",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Geodude_Jared",
+          "Player2": "Trohck",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "harmonywoods",
+          "Player2": "Selfeisek",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "KoolooLimpah",
+          "Player2": "freakunasty",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "DMianete",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "m_himukai",
+          "Player2": "jibeta",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "mashirorc",
+          "Player2": "big-snack-enjoyer",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "oosunq",
+          "Player2": "chinarapov",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "OSCA66",
+          "Player2": "SiL3nTGoaT",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "PoderosissimoNinja",
+          "Player2": "Srogers90",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "harmonywoods",
+          "Player2": "almana3",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "KoolooLimpah",
+          "Player2": "mashirorc",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "OSCA66",
+          "Player2": "Doome",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "freakunasty",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "harmonywoods",
+          "Player2": "Selfeisek",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "KoolooLimpah",
+          "Player2": "OSCA66",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "harmonywoods",
+          "Player2": "KoolooLimpah",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ]
+}

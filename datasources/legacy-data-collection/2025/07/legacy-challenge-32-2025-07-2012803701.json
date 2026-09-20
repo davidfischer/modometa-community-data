@@ -1,0 +1,669 @@
+{
+  "Tournament": {
+    "Id": "legacy-challenge-32-2025-07-2012803701",
+    "Date": "2025-07-20",
+    "Name": "Legacy Challenge 32",
+    "PlayerCount": 34,
+    "Source": "legacy-data-collection",
+    "SheetId": "15yvCaNPIIJGy5DT5ccHP_7bJzzoXgUoFDHuUyy5KLbI"
+  },
+  "Players": [
+    {
+      "Player": "Munchlax446",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "Suzukiii",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "2plus2isfive",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "Maxtortion",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "Ryuho090",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "snoopy-magic",
+      "Archetype": "Sneak and Show"
+    },
+    {
+      "Player": "albertoSD",
+      "Archetype": "Eldrazi"
+    },
+    {
+      "Player": "Kaziku",
+      "Archetype": "Red Stompy"
+    },
+    {
+      "Player": "izzy-wilde",
+      "Archetype": "Bant Control (Non-Yorion)"
+    },
+    {
+      "Player": "Zarathustra",
+      "Archetype": "Mystic Forge Combo"
+    },
+    {
+      "Player": "Lord_Beerus",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "_INF_",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "FynnOfBlood",
+      "Archetype": "Omni-Tell"
+    },
+    {
+      "Player": "silviawataru",
+      "Archetype": "Other Aggro"
+    },
+    {
+      "Player": "MikeEgan",
+      "Archetype": "Grixis Tempo"
+    },
+    {
+      "Player": "harmonywoods",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "shiromuni",
+      "Archetype": "Death and Taxes - BW (Yorion)"
+    },
+    {
+      "Player": "VitoCorleone",
+      "Archetype": "Red Stompy"
+    },
+    {
+      "Player": "wcl",
+      "Archetype": "Lands"
+    },
+    {
+      "Player": "Srogers90",
+      "Archetype": "Mystic Forge Combo"
+    },
+    {
+      "Player": "TheGrimLavamancer",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "Kaijimmy",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "Infernum_Doge",
+      "Archetype": "Nadu Cradle Combo"
+    },
+    {
+      "Player": "akisamiyou",
+      "Archetype": "Black Midrange"
+    },
+    {
+      "Player": "derJurist",
+      "Archetype": "Grixis Tempo"
+    },
+    {
+      "Player": "Raydan",
+      "Archetype": "Selesnya Depths"
+    },
+    {
+      "Player": "DominiqueTutor",
+      "Archetype": "Blue Artifacts"
+    },
+    {
+      "Player": "WadeB",
+      "Archetype": "Red Stompy"
+    },
+    {
+      "Player": "DLCabelo",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "Prim3Time",
+      "Archetype": "Natural Order"
+    },
+    {
+      "Player": "Matiuzzzo",
+      "Archetype": "Black Stompy"
+    },
+    {
+      "Player": "Eureka22422",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "_J0SE_",
+      "Archetype": "Red Stompy"
+    },
+    {
+      "Player": "xfile",
+      "Archetype": "Dimir Reanimator"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "2plus2isfive",
+          "Player2": "izzy-wilde",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "_INF_",
+          "Player2": "Matiuzzzo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "akisamiyou",
+          "Player2": "DLCabelo",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "WadeB",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "FynnOfBlood",
+          "Player2": "Prim3Time",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "harmonywoods",
+          "Player2": "xfile",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Kaziku",
+          "Player2": "Zarathustra",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "shiromuni",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Maxtortion",
+          "Player2": "DominiqueTutor",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MikeEgan",
+          "Player2": "VitoCorleone",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "TheGrimLavamancer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ryuho090",
+          "Player2": "Kaijimmy",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "silviawataru",
+          "Player2": "Infernum_Doge",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "snoopy-magic",
+          "Player2": "_J0SE_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Srogers90",
+          "Player2": "derJurist",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Suzukiii",
+          "Player2": "Eureka22422",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "wcl",
+          "Player2": "Raydan",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "2plus2isfive",
+          "Player2": "harmonywoods",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_INF_",
+          "Player2": "silviawataru",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "DLCabelo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "izzy-wilde",
+          "Player2": "Prim3Time",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Kaziku",
+          "Player2": "Infernum_Doge",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "xfile",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Maxtortion",
+          "Player2": "snoopy-magic",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "MikeEgan",
+          "Player2": "Srogers90",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "Zarathustra",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ryuho090",
+          "Player2": "FynnOfBlood",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "shiromuni",
+          "Player2": "Kaijimmy",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Suzukiii",
+          "Player2": "Raydan",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TheGrimLavamancer",
+          "Player2": "_J0SE_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "VitoCorleone",
+          "Player2": "akisamiyou",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "WadeB",
+          "Player2": "Matiuzzzo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "wcl",
+          "Player2": "derJurist",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "2plus2isfive",
+          "Player2": "snoopy-magic",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "MikeEgan",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "FynnOfBlood",
+          "Player2": "wcl",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Infernum_Doge",
+          "Player2": "derJurist",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "izzy-wilde",
+          "Player2": "Raydan",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Kaziku",
+          "Player2": "harmonywoods",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Maxtortion",
+          "Player2": "WadeB",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "Lord_Beerus",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Prim3Time",
+          "Player2": "Matiuzzzo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Ryuho090",
+          "Player2": "_INF_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "silviawataru",
+          "Player2": "shiromuni",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Suzukiii",
+          "Player2": "Srogers90",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TheGrimLavamancer",
+          "Player2": "akisamiyou",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "VitoCorleone",
+          "Player2": "DLCabelo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Zarathustra",
+          "Player2": "DominiqueTutor",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "2plus2isfive",
+          "Player2": "Ryuho090",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_INF_",
+          "Player2": "FynnOfBlood",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "izzy-wilde",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "derJurist",
+          "Player2": "Prim3Time",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "harmonywoods",
+          "Player2": "Kaijimmy",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Infernum_Doge",
+          "Player2": "Matiuzzzo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Kaziku",
+          "Player2": "VitoCorleone",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "MikeEgan",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Maxtortion",
+          "Player2": "Srogers90",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "Suzukiii",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "shiromuni",
+          "Player2": "DLCabelo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "snoopy-magic",
+          "Player2": "TheGrimLavamancer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "wcl",
+          "Player2": "DominiqueTutor",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Zarathustra",
+          "Player2": "silviawataru",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "FynnOfBlood",
+          "Player2": "VitoCorleone",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Infernum_Doge",
+          "Player2": "akisamiyou",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "izzy-wilde",
+          "Player2": "wcl",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Kaijimmy",
+          "Player2": "derJurist",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "TheGrimLavamancer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Maxtortion",
+          "Player2": "_INF_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MikeEgan",
+          "Player2": "shiromuni",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "2plus2isfive",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Ryuho090",
+          "Player2": "Kaziku",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "snoopy-magic",
+          "Player2": "silviawataru",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Suzukiii",
+          "Player2": "albertoSD",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Zarathustra",
+          "Player2": "harmonywoods",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "2plus2isfive",
+          "Player2": "Maxtortion",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "harmonywoods",
+          "Player2": "TheGrimLavamancer",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "izzy-wilde",
+          "Player2": "silviawataru",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Kaijimmy",
+          "Player2": "Prim3Time",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Kaziku",
+          "Player2": "FynnOfBlood",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "akisamiyou",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MikeEgan",
+          "Player2": "Infernum_Doge",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "_INF_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "snoopy-magic",
+          "Player2": "albertoSD",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Suzukiii",
+          "Player2": "Ryuho090",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "VitoCorleone",
+          "Player2": "derJurist",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Zarathustra",
+          "Player2": "shiromuni",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "2plus2isfive",
+          "Player2": "Kaziku",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Maxtortion",
+          "Player2": "Ryuho090",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "snoopy-magic",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Suzukiii",
+          "Player2": "albertoSD",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "Munchlax446",
+          "Player2": "Maxtortion",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Suzukiii",
+          "Player2": "2plus2isfive",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "Munchlax446",
+          "Player2": "Suzukiii",
+          "Result": "2-1-0"
+        }
+      ]
+    }
+  ]
+}

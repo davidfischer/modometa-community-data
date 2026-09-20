@@ -1,0 +1,692 @@
+{
+  "Tournament": {
+    "Id": "legacy-challenge-32-2025-04-2712772681",
+    "Date": "2025-04-27",
+    "Name": "Legacy Challenge 32",
+    "PlayerCount": 36,
+    "Source": "legacy-data-collection",
+    "SheetId": "1mpd_jMCBuUYmKIeWnvUqRMprC0EodmRX20OH33Ly1_4"
+  },
+  "Players": [
+    {
+      "Player": "Roodslay",
+      "Archetype": "Mono Black Reanimator"
+    },
+    {
+      "Player": "AFX",
+      "Archetype": "Other Permanent Combo"
+    },
+    {
+      "Player": "genmatsu",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "MackSmith",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "_Batutinha_",
+      "Archetype": "Esper Control"
+    },
+    {
+      "Player": "einstein9998",
+      "Archetype": "Nadu Midrange Combo"
+    },
+    {
+      "Player": "habsburger",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "fuya",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "into_play",
+      "Archetype": "Mono Green Cloudpost"
+    },
+    {
+      "Player": "ScreenwriterNY",
+      "Archetype": "Beanstalk Control (Non-Yorion)"
+    },
+    {
+      "Player": "wonderPreaux",
+      "Archetype": "Necrodominance Combo"
+    },
+    {
+      "Player": "_Chamytinho_",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "Selfeisek",
+      "Archetype": "Mystic Forge Combo"
+    },
+    {
+      "Player": "_INF_",
+      "Archetype": "Grixis Tempo"
+    },
+    {
+      "Player": "ktmr-39",
+      "Archetype": "Other Land Based/Fair GSZ"
+    },
+    {
+      "Player": "PM_Boltface",
+      "Archetype": "Black Midrange"
+    },
+    {
+      "Player": "Ryuho090",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "Wanbo",
+      "Archetype": "Jeskai Control"
+    },
+    {
+      "Player": "Flossed",
+      "Archetype": "Black Midrange"
+    },
+    {
+      "Player": "DarkDepthsAniki",
+      "Archetype": "Golgari Depths"
+    },
+    {
+      "Player": "2radMTG",
+      "Archetype": "Nadu Midrange Combo"
+    },
+    {
+      "Player": "FL_LegacyClub",
+      "Archetype": "Beanstalk Control (Non-Yorion)"
+    },
+    {
+      "Player": "LarthPursenas",
+      "Archetype": "Cradle Control"
+    },
+    {
+      "Player": "Geodude_Jared",
+      "Archetype": "Goblins (Vial)"
+    },
+    {
+      "Player": "powered_by_VANYA",
+      "Archetype": "Other Permanent Combo"
+    },
+    {
+      "Player": "KoolooLimpah",
+      "Archetype": "Red Stompy"
+    },
+    {
+      "Player": "Ettore09",
+      "Archetype": "Beanstalk Control (Non-Yorion)"
+    },
+    {
+      "Player": "Hammafist",
+      "Archetype": "Stiflenought"
+    },
+    {
+      "Player": "silviawataru",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "aooaaooa",
+      "Archetype": "Worldgorger"
+    },
+    {
+      "Player": "kozz27",
+      "Archetype": "Naya Stompy"
+    },
+    {
+      "Player": "camroux22",
+      "Archetype": "Red Stompy"
+    },
+    {
+      "Player": "harmonywoods",
+      "Archetype": "Esper Control"
+    },
+    {
+      "Player": "gusti99",
+      "Archetype": "Esper Control"
+    },
+    {
+      "Player": "Srogers90",
+      "Archetype": "Unknown Deck"
+    },
+    {
+      "Player": "kanican",
+      "Archetype": "Bomberman"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "2radMTG",
+          "Player2": "Geodude_Jared",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "FL_LegacyClub",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "_Chamytinho_",
+          "Player2": "gusti99",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "AFX",
+          "Player2": "_INF_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "DarkDepthsAniki",
+          "Player2": "silviawataru",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "einstein9998",
+          "Player2": "Wanbo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Flossed",
+          "Player2": "KoolooLimpah",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "fuya",
+          "Player2": "harmonywoods",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "genmatsu",
+          "Player2": "powered_by_VANYA",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "habsburger",
+          "Player2": "camroux22",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Hammafist",
+          "Player2": "kozz27",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "into_play",
+          "Player2": "ktmr-39",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "LarthPursenas",
+          "Player2": "kanican",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MackSmith",
+          "Player2": "aooaaooa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "PM_Boltface",
+          "Player2": "Srogers90",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Roodslay",
+          "Player2": "Ryuho090",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ScreenwriterNY",
+          "Player2": "Selfeisek",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "wonderPreaux",
+          "Player2": "Ettore09",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "KoolooLimpah",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_INF_",
+          "Player2": "PM_Boltface",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "DarkDepthsAniki",
+          "Player2": "aooaaooa",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "einstein9998",
+          "Player2": "Selfeisek",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Flossed",
+          "Player2": "kanican",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "genmatsu",
+          "Player2": "silviawataru",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "habsburger",
+          "Player2": "wonderPreaux",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "into_play",
+          "Player2": "Hammafist",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kozz27",
+          "Player2": "harmonywoods",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ktmr-39",
+          "Player2": "2radMTG",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LarthPursenas",
+          "Player2": "Geodude_Jared",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MackSmith",
+          "Player2": "_Chamytinho_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "powered_by_VANYA",
+          "Player2": "Ettore09",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Roodslay",
+          "Player2": "fuya",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Ryuho090",
+          "Player2": "gusti99",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ScreenwriterNY",
+          "Player2": "FL_LegacyClub",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Wanbo",
+          "Player2": "camroux22",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "2radMTG",
+          "Player2": "powered_by_VANYA",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "_Chamytinho_",
+          "Player2": "PM_Boltface",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "AFX",
+          "Player2": "Wanbo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DarkDepthsAniki",
+          "Player2": "kanican",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "einstein9998",
+          "Player2": "Ettore09",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "FL_LegacyClub",
+          "Player2": "gusti99",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Flossed",
+          "Player2": "Hammafist",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "fuya",
+          "Player2": "_INF_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Geodude_Jared",
+          "Player2": "silviawataru",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "habsburger",
+          "Player2": "Selfeisek",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "into_play",
+          "Player2": "LarthPursenas",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ktmr-39",
+          "Player2": "KoolooLimpah",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MackSmith",
+          "Player2": "_Batutinha_",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Roodslay",
+          "Player2": "genmatsu",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "ScreenwriterNY",
+          "Player2": "Ryuho090",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "wonderPreaux",
+          "Player2": "kozz27",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "2radMTG",
+          "Player2": "kozz27",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Chamytinho_",
+          "Player2": "Geodude_Jared",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "_INF_",
+          "Player2": "Wanbo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "AFX",
+          "Player2": "Selfeisek",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "einstein9998",
+          "Player2": "PM_Boltface",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "fuya",
+          "Player2": "aooaaooa",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "genmatsu",
+          "Player2": "_Batutinha_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "habsburger",
+          "Player2": "into_play",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MackSmith",
+          "Player2": "Flossed",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Roodslay",
+          "Player2": "ktmr-39",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ryuho090",
+          "Player2": "FL_LegacyClub",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ScreenwriterNY",
+          "Player2": "DarkDepthsAniki",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "wonderPreaux",
+          "Player2": "LarthPursenas",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "habsburger",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_INF_",
+          "Player2": "2radMTG",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "AFX",
+          "Player2": "Flossed",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "einstein9998",
+          "Player2": "wonderPreaux",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "FL_LegacyClub",
+          "Player2": "aooaaooa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "fuya",
+          "Player2": "_Chamytinho_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "genmatsu",
+          "Player2": "into_play",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "ktmr-39",
+          "Player2": "PM_Boltface",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MackSmith",
+          "Player2": "LarthPursenas",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Roodslay",
+          "Player2": "ScreenwriterNY",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Ryuho090",
+          "Player2": "DarkDepthsAniki",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "Geodude_Jared",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Wanbo",
+          "Player2": "powered_by_VANYA",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "fuya",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Chamytinho_",
+          "Player2": "ktmr-39",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DarkDepthsAniki",
+          "Player2": "Geodude_Jared",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "einstein9998",
+          "Player2": "into_play",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "genmatsu",
+          "Player2": "Ryuho090",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "habsburger",
+          "Player2": "ScreenwriterNY",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "MackSmith",
+          "Player2": "Selfeisek",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "PM_Boltface",
+          "Player2": "FL_LegacyClub",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "powered_by_VANYA",
+          "Player2": "aooaaooa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Roodslay",
+          "Player2": "AFX",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Wanbo",
+          "Player2": "LarthPursenas",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "wonderPreaux",
+          "Player2": "_INF_",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "AFX",
+          "Player2": "fuya",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "genmatsu",
+          "Player2": "einstein9998",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MackSmith",
+          "Player2": "_Batutinha_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Roodslay",
+          "Player2": "habsburger",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "AFX",
+          "Player2": "genmatsu",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Roodslay",
+          "Player2": "MackSmith",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "Roodslay",
+          "Player2": "AFX",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,758 @@
+{
+  "Tournament": {
+    "Id": "legacy-challenge-32-2025-06-2812799993",
+    "Date": "2025-06-28",
+    "Name": "Legacy Challenge 32",
+    "PlayerCount": 40,
+    "Source": "legacy-data-collection",
+    "SheetId": "12LWCAJyXCdLdKIdH7a1piJwyp7Fqh--VXIkG_L4AaWA"
+  },
+  "Players": [
+    {
+      "Player": "novaschin22",
+      "Archetype": "Red Stompy"
+    },
+    {
+      "Player": "2plus2isfive",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "BiIIyBruto",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "Ozymandias17",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "ForcePlusBlueCard",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "xfile",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "OSCA66",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "Magic_Dads71522",
+      "Archetype": "Mono Black Reanimator"
+    },
+    {
+      "Player": "ziggy_stardust",
+      "Archetype": "Lands"
+    },
+    {
+      "Player": "DominiqueTutor",
+      "Archetype": "Beanstalk Control (Non-Yorion)"
+    },
+    {
+      "Player": "wonderPreaux",
+      "Archetype": "Necrodominance Combo"
+    },
+    {
+      "Player": "elpariah",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "xDingusKhan",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "PunishingWaterfalls",
+      "Archetype": "Death and Taxes (60 Card)"
+    },
+    {
+      "Player": "_INF_",
+      "Archetype": "Jeskai Control"
+    },
+    {
+      "Player": "izzy-wilde",
+      "Archetype": "Red Stompy"
+    },
+    {
+      "Player": "_Chamytinho_",
+      "Archetype": "Red Stompy"
+    },
+    {
+      "Player": "Munchlax446",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "SkullClampMTG",
+      "Archetype": "Necrodominance Combo"
+    },
+    {
+      "Player": "CADYstrophic",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "Mazzy7887",
+      "Archetype": "Boros Energy"
+    },
+    {
+      "Player": "Jumba",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "Applepies96",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "EVOLVED22",
+      "Archetype": "Grixis Control"
+    },
+    {
+      "Player": "-CAPS-",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "T_Kudo",
+      "Archetype": "Nadu Midrange Combo"
+    },
+    {
+      "Player": "Spym4n",
+      "Archetype": "Selesnya Depths"
+    },
+    {
+      "Player": "Kuranari-Jackpa",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "Chris_McNasty",
+      "Archetype": "ANT"
+    },
+    {
+      "Player": "igknighted08",
+      "Archetype": "Stiflenought"
+    },
+    {
+      "Player": "AJV20",
+      "Archetype": "Mystic Forge Combo"
+    },
+    {
+      "Player": "fishduggery",
+      "Archetype": "Esper Control"
+    },
+    {
+      "Player": "TheGrimLavamancer",
+      "Archetype": "Cephalid Breakfast"
+    },
+    {
+      "Player": "shooken",
+      "Archetype": "Mystic Forge Combo"
+    },
+    {
+      "Player": "Bubblelift",
+      "Archetype": "Jeskai Control"
+    },
+    {
+      "Player": "i_b_TRUE",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "DNSolver",
+      "Archetype": "8Cast"
+    },
+    {
+      "Player": "Raydan",
+      "Archetype": "Infect"
+    },
+    {
+      "Player": "Srogers90",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "TonyScapone",
+      "Archetype": "Necrodominance Combo"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "-CAPS-",
+          "Player2": "TheGrimLavamancer",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "2plus2isfive",
+          "Player2": "OSCA66",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "_Chamytinho_",
+          "Player2": "Raydan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_INF_",
+          "Player2": "TonyScapone",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "BiIIyBruto",
+          "Player2": "izzy-wilde",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DominiqueTutor",
+          "Player2": "Spym4n",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "elpariah",
+          "Player2": "i_b_TRUE",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ForcePlusBlueCard",
+          "Player2": "EVOLVED22",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "igknighted08",
+          "Player2": "DNSolver",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Kuranari-Jackpa",
+          "Player2": "Chris_McNasty",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Magic_Dads71522",
+          "Player2": "T_Kudo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mazzy7887",
+          "Player2": "Srogers90",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "novaschin22",
+          "Player2": "AJV20",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Ozymandias17",
+          "Player2": "Bubblelift",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "PunishingWaterfalls",
+          "Player2": "Munchlax446",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SkullClampMTG",
+          "Player2": "Applepies96",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "wonderPreaux",
+          "Player2": "CADYstrophic",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "xDingusKhan",
+          "Player2": "fishduggery",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "xfile",
+          "Player2": "Jumba",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ziggy_stardust",
+          "Player2": "shooken",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "-CAPS-",
+          "Player2": "Raydan",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "2plus2isfive",
+          "Player2": "EVOLVED22",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Applepies96",
+          "Player2": "Bubblelift",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "BiIIyBruto",
+          "Player2": "_INF_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "CADYstrophic",
+          "Player2": "DNSolver",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Chris_McNasty",
+          "Player2": "igknighted08",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DominiqueTutor",
+          "Player2": "elpariah",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "fishduggery",
+          "Player2": "i_b_TRUE",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ForcePlusBlueCard",
+          "Player2": "AJV20",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "izzy-wilde",
+          "Player2": "Kuranari-Jackpa",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Magic_Dads71522",
+          "Player2": "Mazzy7887",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "novaschin22",
+          "Player2": "Munchlax446",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Ozymandias17",
+          "Player2": "OSCA66",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "PunishingWaterfalls",
+          "Player2": "TheGrimLavamancer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Spym4n",
+          "Player2": "Srogers90",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "T_Kudo",
+          "Player2": "TonyScapone",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "wonderPreaux",
+          "Player2": "_Chamytinho_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "xfile",
+          "Player2": "xDingusKhan",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ziggy_stardust",
+          "Player2": "SkullClampMTG",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "2plus2isfive",
+          "Player2": "Jumba",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "_INF_",
+          "Player2": "igknighted08",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Applepies96",
+          "Player2": "Kuranari-Jackpa",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "BiIIyBruto",
+          "Player2": "DominiqueTutor",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "elpariah",
+          "Player2": "_Chamytinho_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "EVOLVED22",
+          "Player2": "TonyScapone",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ForcePlusBlueCard",
+          "Player2": "ziggy_stardust",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Magic_Dads71522",
+          "Player2": "Chris_McNasty",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Mazzy7887",
+          "Player2": "fishduggery",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "Bubblelift",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "novaschin22",
+          "Player2": "-CAPS-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "OSCA66",
+          "Player2": "CADYstrophic",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ozymandias17",
+          "Player2": "wonderPreaux",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "SkullClampMTG",
+          "Player2": "Spym4n",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "xDingusKhan",
+          "Player2": "T_Kudo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "xfile",
+          "Player2": "PunishingWaterfalls",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "2plus2isfive",
+          "Player2": "DominiqueTutor",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "_INF_",
+          "Player2": "Applepies96",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "BiIIyBruto",
+          "Player2": "elpariah",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "CADYstrophic",
+          "Player2": "fishduggery",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "EVOLVED22",
+          "Player2": "Chris_McNasty",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ForcePlusBlueCard",
+          "Player2": "xfile",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "izzy-wilde",
+          "Player2": "-CAPS-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "T_Kudo",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Magic_Dads71522",
+          "Player2": "wonderPreaux",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "igknighted08",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "novaschin22",
+          "Player2": "Mazzy7887",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "OSCA66",
+          "Player2": "SkullClampMTG",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ozymandias17",
+          "Player2": "xDingusKhan",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Spym4n",
+          "Player2": "Kuranari-Jackpa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ziggy_stardust",
+          "Player2": "PunishingWaterfalls",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "2plus2isfive",
+          "Player2": "wonderPreaux",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "_Chamytinho_",
+          "Player2": "Chris_McNasty",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "BiIIyBruto",
+          "Player2": "Ozymandias17",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DominiqueTutor",
+          "Player2": "CADYstrophic",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ForcePlusBlueCard",
+          "Player2": "Magic_Dads71522",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "izzy-wilde",
+          "Player2": "Mazzy7887",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "fishduggery",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Kuranari-Jackpa",
+          "Player2": "igknighted08",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "Applepies96",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "novaschin22",
+          "Player2": "_INF_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "OSCA66",
+          "Player2": "elpariah",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "PunishingWaterfalls",
+          "Player2": "Spym4n",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SkullClampMTG",
+          "Player2": "T_Kudo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "xDingusKhan",
+          "Player2": "EVOLVED22",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "xfile",
+          "Player2": "ziggy_stardust",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "2plus2isfive",
+          "Player2": "xfile",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Applepies96",
+          "Player2": "-CAPS-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "BiIIyBruto",
+          "Player2": "Magic_Dads71522",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "CADYstrophic",
+          "Player2": "T_Kudo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DominiqueTutor",
+          "Player2": "_INF_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "elpariah",
+          "Player2": "Kuranari-Jackpa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ForcePlusBlueCard",
+          "Player2": "OSCA66",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "EVOLVED22",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Mazzy7887",
+          "Player2": "Spym4n",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "novaschin22",
+          "Player2": "izzy-wilde",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ozymandias17",
+          "Player2": "_Chamytinho_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "wonderPreaux",
+          "Player2": "SkullClampMTG",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "xDingusKhan",
+          "Player2": "PunishingWaterfalls",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ziggy_stardust",
+          "Player2": "Munchlax446",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "2plus2isfive",
+          "Player2": "xfile",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "BiIIyBruto",
+          "Player2": "Magic_Dads71522",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "novaschin22",
+          "Player2": "OSCA66",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Ozymandias17",
+          "Player2": "ForcePlusBlueCard",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "2plus2isfive",
+          "Player2": "BiIIyBruto",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "novaschin22",
+          "Player2": "Ozymandias17",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "novaschin22",
+          "Player2": "2plus2isfive",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ]
+}

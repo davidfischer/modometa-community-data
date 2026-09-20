@@ -1,0 +1,816 @@
+{
+  "Tournament": {
+    "Id": "legacy-challenge-32-2025-05-1112777356",
+    "Date": "2025-05-11",
+    "Name": "Legacy Challenge 32",
+    "PlayerCount": 42,
+    "Source": "legacy-data-collection",
+    "SheetId": "1nQ5coIo843jJhcuFy7FehYT4Y0ugzZ2ZexZKuBeYq7c"
+  },
+  "Players": [
+    {
+      "Player": "Prim3Time",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "pokemoki",
+      "Archetype": "Grixis Control"
+    },
+    {
+      "Player": "yoshiwata",
+      "Archetype": "Death and Taxes - BW (Yorion)"
+    },
+    {
+      "Player": "einstein9998",
+      "Archetype": "Nadu Midrange Combo"
+    },
+    {
+      "Player": "_INF_",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "John_Cabral",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "JTlemmon",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "Infernum_Doge",
+      "Archetype": "Cradle Control"
+    },
+    {
+      "Player": "OSCA66",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "kanican",
+      "Archetype": "Red Painter"
+    },
+    {
+      "Player": "DominiqueTutor",
+      "Archetype": "Other Stompy"
+    },
+    {
+      "Player": "KoolooLimpah",
+      "Archetype": "Red Stompy"
+    },
+    {
+      "Player": "FUXIN",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "silviawataru",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "Bails76",
+      "Archetype": "Beanstalk Control (Non-Yorion)"
+    },
+    {
+      "Player": "PM_Boltface",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "Thebigempty92",
+      "Archetype": "8Cast"
+    },
+    {
+      "Player": "ktmr-39",
+      "Archetype": "Other Stompy"
+    },
+    {
+      "Player": "sabebe",
+      "Archetype": "Sneak and Show"
+    },
+    {
+      "Player": "Illao1",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "EmperorOppai",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "yahakara",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "Koike",
+      "Archetype": "Nic Fit"
+    },
+    {
+      "Player": "VicentStrange",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "Lord_Beerus",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "harmonywoods",
+      "Archetype": "Esper Control"
+    },
+    {
+      "Player": "matata",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "hayatatsu",
+      "Archetype": "Other Land Based/Fair GSZ"
+    },
+    {
+      "Player": "snoopy-magic",
+      "Archetype": "Sneak and Show"
+    },
+    {
+      "Player": "badbeno",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "C_S_W____",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "boyxiaoliu",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "Matiuzzzo",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "Maxtortion",
+      "Archetype": "Mystic Forge Combo"
+    },
+    {
+      "Player": "DarkDepthsAniki",
+      "Archetype": "Golgari Depths"
+    },
+    {
+      "Player": "ejk",
+      "Archetype": "Black Midrange"
+    },
+    {
+      "Player": "pinkochon",
+      "Archetype": "Unknown Deck"
+    },
+    {
+      "Player": "Jumba",
+      "Archetype": "Beanstalk Control (Non-Yorion)"
+    },
+    {
+      "Player": "wonderPreaux",
+      "Archetype": "Death's Shadow"
+    },
+    {
+      "Player": "Ailien02",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "albertoSD",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "SHAKELION",
+      "Archetype": "Izzet Tempo"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_INF_",
+          "Player2": "DarkDepthsAniki",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Bails76",
+          "Player2": "yahakara",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "C_S_W____",
+          "Player2": "SHAKELION",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "einstein9998",
+          "Player2": "Illao1",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "EmperorOppai",
+          "Player2": "badbeno",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "FUXIN",
+          "Player2": "matata",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "harmonywoods",
+          "Player2": "boyxiaoliu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Infernum_Doge",
+          "Player2": "Jumba",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "John_Cabral",
+          "Player2": "Thebigempty92",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JTlemmon",
+          "Player2": "pinkochon",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kanican",
+          "Player2": "ejk",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Koike",
+          "Player2": "VicentStrange",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "KoolooLimpah",
+          "Player2": "Ailien02",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ktmr-39",
+          "Player2": "albertoSD",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "OSCA66",
+          "Player2": "DominiqueTutor",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "pokemoki",
+          "Player2": "Matiuzzzo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Prim3Time",
+          "Player2": "Lord_Beerus",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "sabebe",
+          "Player2": "hayatatsu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "silviawataru",
+          "Player2": "Maxtortion",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "snoopy-magic",
+          "Player2": "wonderPreaux",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "PM_Boltface",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_INF_",
+          "Player2": "sabebe",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Bails76",
+          "Player2": "matata",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "boyxiaoliu",
+          "Player2": "Ailien02",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DominiqueTutor",
+          "Player2": "yahakara",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "FUXIN",
+          "Player2": "Jumba",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "hayatatsu",
+          "Player2": "SHAKELION",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Infernum_Doge",
+          "Player2": "harmonywoods",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "John_Cabral",
+          "Player2": "kanican",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "JTlemmon",
+          "Player2": "VicentStrange",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Koike",
+          "Player2": "ejk",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "KoolooLimpah",
+          "Player2": "C_S_W____",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ktmr-39",
+          "Player2": "Illao1",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Maxtortion",
+          "Player2": "albertoSD",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "OSCA66",
+          "Player2": "snoopy-magic",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "PM_Boltface",
+          "Player2": "badbeno",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "pokemoki",
+          "Player2": "Lord_Beerus",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Prim3Time",
+          "Player2": "wonderPreaux",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "silviawataru",
+          "Player2": "Matiuzzzo",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Thebigempty92",
+          "Player2": "DarkDepthsAniki",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "EmperorOppai",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_INF_",
+          "Player2": "ktmr-39",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DominiqueTutor",
+          "Player2": "Lord_Beerus",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "einstein9998",
+          "Player2": "EmperorOppai",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "FUXIN",
+          "Player2": "VicentStrange",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "hayatatsu",
+          "Player2": "C_S_W____",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "John_Cabral",
+          "Player2": "KoolooLimpah",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "JTlemmon",
+          "Player2": "Bails76",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kanican",
+          "Player2": "matata",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Koike",
+          "Player2": "badbeno",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "PM_Boltface",
+          "Player2": "Matiuzzzo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "pokemoki",
+          "Player2": "Infernum_Doge",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Prim3Time",
+          "Player2": "Illao1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "sabebe",
+          "Player2": "harmonywoods",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "silviawataru",
+          "Player2": "ejk",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "snoopy-magic",
+          "Player2": "boyxiaoliu",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Thebigempty92",
+          "Player2": "Maxtortion",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "yahakara",
+          "Player2": "DarkDepthsAniki",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "OSCA66",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_INF_",
+          "Player2": "OSCA66",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DominiqueTutor",
+          "Player2": "Bails76",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "einstein9998",
+          "Player2": "silviawataru",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "EmperorOppai",
+          "Player2": "Koike",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "FUXIN",
+          "Player2": "Matiuzzzo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "harmonywoods",
+          "Player2": "C_S_W____",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Illao1",
+          "Player2": "boyxiaoliu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Infernum_Doge",
+          "Player2": "Thebigempty92",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "John_Cabral",
+          "Player2": "JTlemmon",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kanican",
+          "Player2": "hayatatsu",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "KoolooLimpah",
+          "Player2": "PM_Boltface",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ktmr-39",
+          "Player2": "snoopy-magic",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "ejk",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "matata",
+          "Player2": "DarkDepthsAniki",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "pokemoki",
+          "Player2": "yoshiwata",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Prim3Time",
+          "Player2": "sabebe",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "yahakara",
+          "Player2": "VicentStrange",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "C_S_W____",
+          "Player2": "Matiuzzzo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DarkDepthsAniki",
+          "Player2": "ejk",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DominiqueTutor",
+          "Player2": "snoopy-magic",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "EmperorOppai",
+          "Player2": "matata",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Infernum_Doge",
+          "Player2": "Bails76",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "John_Cabral",
+          "Player2": "FUXIN",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "JTlemmon",
+          "Player2": "PM_Boltface",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kanican",
+          "Player2": "harmonywoods",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Koike",
+          "Player2": "boyxiaoliu",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "KoolooLimpah",
+          "Player2": "hayatatsu",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "OSCA66",
+          "Player2": "VicentStrange",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "pokemoki",
+          "Player2": "ktmr-39",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Prim3Time",
+          "Player2": "einstein9998",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "silviawataru",
+          "Player2": "Illao1",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Thebigempty92",
+          "Player2": "sabebe",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "yahakara",
+          "Player2": "badbeno",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "_INF_",
+          "Result": "1-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_INF_",
+          "Player2": "JTlemmon",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "badbeno",
+          "Player2": "ejk",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "boyxiaoliu",
+          "Player2": "DarkDepthsAniki",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DominiqueTutor",
+          "Player2": "harmonywoods",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "einstein9998",
+          "Player2": "Thebigempty92",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "FUXIN",
+          "Player2": "ktmr-39",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Illao1",
+          "Player2": "hayatatsu",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Koike",
+          "Player2": "snoopy-magic",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "KoolooLimpah",
+          "Player2": "Bails76",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "OSCA66",
+          "Player2": "EmperorOppai",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "pokemoki",
+          "Player2": "John_Cabral",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Prim3Time",
+          "Player2": "kanican",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "sabebe",
+          "Player2": "C_S_W____",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "silviawataru",
+          "Player2": "PM_Boltface",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "yahakara",
+          "Player2": "matata",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "Infernum_Doge",
+          "Result": "1-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "einstein9998",
+          "Player2": "_INF_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "pokemoki",
+          "Player2": "John_Cabral",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Prim3Time",
+          "Player2": "Infernum_Doge",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "JTlemmon",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "pokemoki",
+          "Player2": "yoshiwata",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Prim3Time",
+          "Player2": "einstein9998",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "Prim3Time",
+          "Player2": "pokemoki",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ]
+}

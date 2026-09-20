@@ -1,0 +1,751 @@
+{
+  "Tournament": {
+    "Id": "legacy-challenge-32-2025-04-1312765792",
+    "Date": "2025-04-13",
+    "Name": "Legacy Challenge 32",
+    "PlayerCount": 37,
+    "Source": "legacy-data-collection",
+    "SheetId": "1y2hsiVwjxoxzgwZ4LBK9NiOZFI5VITNUN4-MrUVCV3E"
+  },
+  "Players": [
+    {
+      "Player": "_Chamytinho_",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "uburdub",
+      "Archetype": "Red Painter"
+    },
+    {
+      "Player": "_Batutinha_",
+      "Archetype": "Grixis Tempo"
+    },
+    {
+      "Player": "Hutch60",
+      "Archetype": "Red Stompy"
+    },
+    {
+      "Player": "Jumba",
+      "Archetype": "Beanstalk Control (Non-Yorion)"
+    },
+    {
+      "Player": "KoolooLimpah",
+      "Archetype": "Red Stompy"
+    },
+    {
+      "Player": "ScreenwriterNY",
+      "Archetype": "Beanstalk Control (Non-Yorion)"
+    },
+    {
+      "Player": "boyxiaoliu",
+      "Archetype": "Red Painter"
+    },
+    {
+      "Player": "ChefOW",
+      "Archetype": "Red Stompy"
+    },
+    {
+      "Player": "choutin",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "DominiqueTutor",
+      "Archetype": "Death and Taxes - BW (Yorion)"
+    },
+    {
+      "Player": "harmonywoods",
+      "Archetype": "Esper Control"
+    },
+    {
+      "Player": "Will_Split",
+      "Archetype": "Mystic Forge Combo"
+    },
+    {
+      "Player": "Venom1",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "kanican",
+      "Archetype": "Red Painter"
+    },
+    {
+      "Player": "Raydan",
+      "Archetype": "Omni-Tell"
+    },
+    {
+      "Player": "Thebigempty92",
+      "Archetype": "Blue Painter"
+    },
+    {
+      "Player": "OSCA66",
+      "Archetype": "Nadu Midrange Combo"
+    },
+    {
+      "Player": "RoyalCloak",
+      "Archetype": "Rakdos Reanimator"
+    },
+    {
+      "Player": "PM_Boltface",
+      "Archetype": "Black Midrange"
+    },
+    {
+      "Player": "rikimaru6",
+      "Archetype": "Other Aggro"
+    },
+    {
+      "Player": "GHash77",
+      "Archetype": "Blue Artifacts"
+    },
+    {
+      "Player": "Roodslay",
+      "Archetype": "Chain of Smog Combo"
+    },
+    {
+      "Player": "_INF_",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "eMJay0202",
+      "Archetype": "Cradle Control"
+    },
+    {
+      "Player": "wonderPreaux",
+      "Archetype": "Other Stompy"
+    },
+    {
+      "Player": "Kesty",
+      "Archetype": "Grixis Tempo"
+    },
+    {
+      "Player": "toyoshi1102",
+      "Archetype": "Other Control"
+    },
+    {
+      "Player": "ktmr-39",
+      "Archetype": "Omni-Tell"
+    },
+    {
+      "Player": "Srogers90",
+      "Archetype": "Beanstalk Control (Non-Yorion)"
+    },
+    {
+      "Player": "Lord_Beerus",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "Soska",
+      "Archetype": "Other Aggro"
+    },
+    {
+      "Player": "rathashira",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "Munchlax446",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "Cachorrowo",
+      "Archetype": "The EPIC Gamble"
+    },
+    {
+      "Player": "wutup",
+      "Archetype": "Omni-Tell"
+    },
+    {
+      "Player": "sakuragi21722749",
+      "Archetype": "Cradle Control"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "ChefOW",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "_Chamytinho_",
+          "Player2": "wutup",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "boyxiaoliu",
+          "Player2": "_INF_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "rathashira",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "GHash77",
+          "Player2": "Srogers90",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Hutch60",
+          "Player2": "harmonywoods",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "sakuragi21722749",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kanican",
+          "Player2": "eMJay0202",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "KoolooLimpah",
+          "Player2": "ScreenwriterNY",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ktmr-39",
+          "Player2": "Soska",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "Cachorrowo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "rikimaru6",
+          "Player2": "Roodslay",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "RoyalCloak",
+          "Player2": "PM_Boltface",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Thebigempty92",
+          "Player2": "Munchlax446",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "uburdub",
+          "Player2": "DominiqueTutor",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "Kesty",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Will_Split",
+          "Player2": "OSCA66",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "wonderPreaux",
+          "Player2": "toyoshi1102",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "Lord_Beerus",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "_Chamytinho_",
+          "Player2": "wonderPreaux",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_INF_",
+          "Player2": "Cachorrowo",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "OSCA66",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DominiqueTutor",
+          "Player2": "eMJay0202",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "GHash77",
+          "Player2": "ktmr-39",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Hutch60",
+          "Player2": "Srogers90",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "ChefOW",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Kesty",
+          "Player2": "sakuragi21722749",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "KoolooLimpah",
+          "Player2": "Thebigempty92",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "PM_Boltface",
+          "Player2": "Roodslay",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Raydan",
+          "Player2": "Soska",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "rikimaru6",
+          "Player2": "wutup",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "RoyalCloak",
+          "Player2": "Munchlax446",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ScreenwriterNY",
+          "Player2": "toyoshi1102",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "uburdub",
+          "Player2": "boyxiaoliu",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "kanican",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Will_Split",
+          "Player2": "rathashira",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "Raydan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Chamytinho_",
+          "Player2": "Hutch60",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_INF_",
+          "Player2": "sakuragi21722749",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "boyxiaoliu",
+          "Player2": "OSCA66",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ChefOW",
+          "Player2": "eMJay0202",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "kanican",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DominiqueTutor",
+          "Player2": "Srogers90",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "harmonywoods",
+          "Player2": "Lord_Beerus",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "KoolooLimpah",
+          "Player2": "Roodslay",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "PM_Boltface",
+          "Player2": "Cachorrowo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "rathashira",
+          "Player2": "Munchlax446",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ScreenwriterNY",
+          "Player2": "GHash77",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Thebigempty92",
+          "Player2": "RoyalCloak",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "toyoshi1102",
+          "Player2": "ktmr-39",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "uburdub",
+          "Player2": "Jumba",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "rikimaru6",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Will_Split",
+          "Player2": "Soska",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "wonderPreaux",
+          "Player2": "Kesty",
+          "Result": "1-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "choutin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Chamytinho_",
+          "Player2": "Jumba",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "boyxiaoliu",
+          "Player2": "harmonywoods",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ChefOW",
+          "Player2": "_INF_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DominiqueTutor",
+          "Player2": "Kesty",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "eMJay0202",
+          "Player2": "toyoshi1102",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "GHash77",
+          "Player2": "Lord_Beerus",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Hutch60",
+          "Player2": "Munchlax446",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kanican",
+          "Player2": "Roodslay",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "KoolooLimpah",
+          "Player2": "Will_Split",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "rikimaru6",
+          "Player2": "Cachorrowo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ScreenwriterNY",
+          "Player2": "Raydan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Thebigempty92",
+          "Player2": "OSCA66",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "uburdub",
+          "Player2": "RoyalCloak",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "PM_Boltface",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "wonderPreaux",
+          "Player2": "ktmr-39",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "Jumba",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "_Chamytinho_",
+          "Player2": "kanican",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_INF_",
+          "Player2": "ktmr-39",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ChefOW",
+          "Player2": "Roodslay",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "DominiqueTutor",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "harmonywoods",
+          "Player2": "GHash77",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "KoolooLimpah",
+          "Player2": "Venom1",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "OSCA66",
+          "Player2": "rathashira",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Raydan",
+          "Player2": "RoyalCloak",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "rikimaru6",
+          "Player2": "Kesty",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ScreenwriterNY",
+          "Player2": "boyxiaoliu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Thebigempty92",
+          "Player2": "wonderPreaux",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "toyoshi1102",
+          "Player2": "Munchlax446",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "uburdub",
+          "Player2": "Hutch60",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Will_Split",
+          "Player2": "PM_Boltface",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Chamytinho_",
+          "Player2": "rikimaru6",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "boyxiaoliu",
+          "Player2": "RoyalCloak",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ChefOW",
+          "Player2": "Venom1",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "Thebigempty92",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "eMJay0202",
+          "Player2": "Munchlax446",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "GHash77",
+          "Player2": "wonderPreaux",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "harmonywoods",
+          "Player2": "PM_Boltface",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Hutch60",
+          "Player2": "kanican",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "ScreenwriterNY",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "KoolooLimpah",
+          "Player2": "DominiqueTutor",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ktmr-39",
+          "Player2": "rathashira",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "OSCA66",
+          "Player2": "toyoshi1102",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Raydan",
+          "Player2": "Roodslay",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "uburdub",
+          "Player2": "_Batutinha_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Will_Split",
+          "Player2": "_INF_",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "boyxiaoliu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Chamytinho_",
+          "Player2": "ScreenwriterNY",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Hutch60",
+          "Player2": "Jumba",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "uburdub",
+          "Player2": "KoolooLimpah",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "_Chamytinho_",
+          "Player2": "_Batutinha_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "uburdub",
+          "Player2": "Hutch60",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "_Chamytinho_",
+          "Player2": "uburdub",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,580 @@
+{
+  "Tournament": {
+    "Id": "legacy-challenge-32-2025-10-1212819533",
+    "Date": "2025-10-12",
+    "Name": "Legacy Challenge 32",
+    "PlayerCount": 32,
+    "Source": "legacy-data-collection",
+    "SheetId": "1Hq7sAfmVSGr-gsnG6CkgSKpSRD6aH_X5iAXozoS-_mQ"
+  },
+  "Players": [
+    {
+      "Player": "Nanovo",
+      "Archetype": "Eldrazi"
+    },
+    {
+      "Player": "Chris_McNasty",
+      "Archetype": "Paradoxical Outcome"
+    },
+    {
+      "Player": "Boin",
+      "Archetype": "Eldrazi"
+    },
+    {
+      "Player": "MyPotatoes",
+      "Archetype": "The EPIC Storm"
+    },
+    {
+      "Player": "snoopy-magic",
+      "Archetype": "Sneak and Show"
+    },
+    {
+      "Player": "EmperorOppai",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "Munchlax446",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "_INF_",
+      "Archetype": "Grixis Control"
+    },
+    {
+      "Player": "ZYX-FXY",
+      "Archetype": "Sneak and Show"
+    },
+    {
+      "Player": "Thomas_Serra",
+      "Archetype": "Eldrazi"
+    },
+    {
+      "Player": "TheGrimLavamancer",
+      "Archetype": "Red Stompy"
+    },
+    {
+      "Player": "Thebigempty92",
+      "Archetype": "Eldrazi"
+    },
+    {
+      "Player": "musasabi",
+      "Archetype": "Mystic Forge Combo"
+    },
+    {
+      "Player": "RyanWu",
+      "Archetype": "Jeskai Control"
+    },
+    {
+      "Player": "SireOfMana",
+      "Archetype": "Sneak and Show"
+    },
+    {
+      "Player": "Rinzler_92",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "OBaranov",
+      "Archetype": "Lands"
+    },
+    {
+      "Player": "yoshiwata",
+      "Archetype": "Death and Taxes - BW (Yorion)"
+    },
+    {
+      "Player": "DominiqueTutor",
+      "Archetype": "Other Aggro"
+    },
+    {
+      "Player": "CruetusNex",
+      "Archetype": "Selesnya Depths"
+    },
+    {
+      "Player": "TeaW1thRum",
+      "Archetype": "Other Control"
+    },
+    {
+      "Player": "WadeB",
+      "Archetype": "Other Land Based/Fair GSZ"
+    },
+    {
+      "Player": "hockeybro26",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "Allengar",
+      "Archetype": "Sneak and Show"
+    },
+    {
+      "Player": "HotspringsGames",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "Infernum_Doge",
+      "Archetype": "Creative Technique"
+    },
+    {
+      "Player": "Roodslay",
+      "Archetype": "Worldgorger"
+    },
+    {
+      "Player": "YES_i_accept_SPLIT_",
+      "Archetype": "Red Stompy"
+    },
+    {
+      "Player": "harmonywoods",
+      "Archetype": "Esper Control"
+    },
+    {
+      "Player": "_Batutinha_",
+      "Archetype": "Grixis Control"
+    },
+    {
+      "Player": "DB_DeepSquid",
+      "Archetype": "Other Aggro"
+    },
+    {
+      "Player": "wutup",
+      "Archetype": "Other Stompy"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_INF_",
+          "Player2": "Infernum_Doge",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Boin",
+          "Player2": "harmonywoods",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Chris_McNasty",
+          "Player2": "_Batutinha_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "CruetusNex",
+          "Player2": "wutup",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "hockeybro26",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MyPotatoes",
+          "Player2": "RyanWu",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Nanovo",
+          "Player2": "EmperorOppai",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Rinzler_92",
+          "Player2": "OBaranov",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "SireOfMana",
+          "Player2": "DominiqueTutor",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "snoopy-magic",
+          "Player2": "yoshiwata",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TeaW1thRum",
+          "Player2": "YES_i_accept_SPLIT_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Thebigempty92",
+          "Player2": "Roodslay",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TheGrimLavamancer",
+          "Player2": "DB_DeepSquid",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Thomas_Serra",
+          "Player2": "musasabi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "WadeB",
+          "Player2": "HotspringsGames",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ZYX-FXY",
+          "Player2": "Allengar",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "Boin",
+          "Player2": "DominiqueTutor",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Chris_McNasty",
+          "Player2": "TheGrimLavamancer",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "EmperorOppai",
+          "Player2": "CruetusNex",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "HotspringsGames",
+          "Player2": "YES_i_accept_SPLIT_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Infernum_Doge",
+          "Player2": "Roodslay",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "_INF_",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "yoshiwata",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MyPotatoes",
+          "Player2": "Thebigempty92",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Nanovo",
+          "Player2": "hockeybro26",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Rinzler_92",
+          "Player2": "wutup",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "RyanWu",
+          "Player2": "_Batutinha_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SireOfMana",
+          "Player2": "Allengar",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "snoopy-magic",
+          "Player2": "OBaranov",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Thomas_Serra",
+          "Player2": "WadeB",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ZYX-FXY",
+          "Player2": "TeaW1thRum",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_INF_",
+          "Player2": "Thomas_Serra",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Boin",
+          "Player2": "ZYX-FXY",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Chris_McNasty",
+          "Player2": "EmperorOppai",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "hockeybro26",
+          "Player2": "Roodslay",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Infernum_Doge",
+          "Player2": "YES_i_accept_SPLIT_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "TeaW1thRum",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "WadeB",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MyPotatoes",
+          "Player2": "snoopy-magic",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Nanovo",
+          "Player2": "Thebigempty92",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Rinzler_92",
+          "Player2": "HotspringsGames",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "RyanWu",
+          "Player2": "CruetusNex",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "SireOfMana",
+          "Player2": "OBaranov",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TheGrimLavamancer",
+          "Player2": "DominiqueTutor",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "wutup",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "Boin",
+          "Player2": "HotspringsGames",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Chris_McNasty",
+          "Player2": "ZYX-FXY",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "CruetusNex",
+          "Player2": "YES_i_accept_SPLIT_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DominiqueTutor",
+          "Player2": "hockeybro26",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "Rinzler_92",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MyPotatoes",
+          "Player2": "EmperorOppai",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Nanovo",
+          "Player2": "SireOfMana",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "OBaranov",
+          "Player2": "Allengar",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "snoopy-magic",
+          "Player2": "_INF_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Thebigempty92",
+          "Player2": "Infernum_Doge",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TheGrimLavamancer",
+          "Player2": "musasabi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Thomas_Serra",
+          "Player2": "RyanWu",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "WadeB",
+          "Player2": "Roodslay",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "TeaW1thRum",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "Boin",
+          "Player2": "Thomas_Serra",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Chris_McNasty",
+          "Player2": "snoopy-magic",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "EmperorOppai",
+          "Player2": "_INF_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "ZYX-FXY",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "CruetusNex",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MyPotatoes",
+          "Player2": "Infernum_Doge",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Nanovo",
+          "Player2": "TheGrimLavamancer",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Rinzler_92",
+          "Player2": "yoshiwata",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "RyanWu",
+          "Player2": "OBaranov",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "SireOfMana",
+          "Player2": "WadeB",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TeaW1thRum",
+          "Player2": "HotspringsGames",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Thebigempty92",
+          "Player2": "DominiqueTutor",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "Boin",
+          "Player2": "EmperorOppai",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Chris_McNasty",
+          "Player2": "_INF_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MyPotatoes",
+          "Player2": "snoopy-magic",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Nanovo",
+          "Player2": "Munchlax446",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "Chris_McNasty",
+          "Player2": "Boin",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Nanovo",
+          "Player2": "MyPotatoes",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "Nanovo",
+          "Player2": "Chris_McNasty",
+          "Result": "2-1-0"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,833 @@
+{
+  "Tournament": {
+    "Id": "legacy-challenge-32-2025-12-2012827503",
+    "Date": "2025-12-20",
+    "Name": "Legacy Challenge 32",
+    "PlayerCount": 45,
+    "Source": "legacy-data-collection",
+    "SheetId": "1mqdOLIS53WMMMC4QAeBfTWttbwVDV9HgQGefbBufeS4"
+  },
+  "Players": [
+    {
+      "Player": "tr4Xos",
+      "Archetype": "Lands"
+    },
+    {
+      "Player": "choutin",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "ecobaronen",
+      "Archetype": "Affinity Stompy"
+    },
+    {
+      "Player": "Akaleth",
+      "Archetype": "Death and Taxes - BW (Yorion)"
+    },
+    {
+      "Player": "FynnOfBlood",
+      "Archetype": "Omni-Tell"
+    },
+    {
+      "Player": "TrbnN",
+      "Archetype": "Cephalid Breakfast"
+    },
+    {
+      "Player": "Bigandhard",
+      "Archetype": "Omni-Tell"
+    },
+    {
+      "Player": "JPA93",
+      "Archetype": "Sneak and Show"
+    },
+    {
+      "Player": "Penguincards",
+      "Archetype": "Affinity Stompy"
+    },
+    {
+      "Player": "shiromuni",
+      "Archetype": "Death and Taxes - BW (Yorion)"
+    },
+    {
+      "Player": "Schmeckles",
+      "Archetype": "Eldrazi"
+    },
+    {
+      "Player": "Capitano_CL",
+      "Archetype": "Beanstalk Control (Non-Yorion)"
+    },
+    {
+      "Player": "Ark4n",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "mei0024",
+      "Archetype": "Sultai Tempo"
+    },
+    {
+      "Player": "albertoSD",
+      "Archetype": "Beanstalk Control (Non-Yorion)"
+    },
+    {
+      "Player": "He_Qijie",
+      "Archetype": "Jeskai Control"
+    },
+    {
+      "Player": "mardicadaist",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "Baku_91",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "_INF_",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "ItsSwiftyTime",
+      "Archetype": "White Stompy"
+    },
+    {
+      "Player": "andersoneclair",
+      "Archetype": "Beanstalk Control (Non-Yorion)"
+    },
+    {
+      "Player": "croc64",
+      "Archetype": "4C Uro Control (Non-Yorion)"
+    },
+    {
+      "Player": "_Shatun_",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "hayatatsu",
+      "Archetype": "Selesnya Depths"
+    },
+    {
+      "Player": "ARAPAKO",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "Scryus",
+      "Archetype": "Cradle Control"
+    },
+    {
+      "Player": "Dreddybajs",
+      "Archetype": "Cradle Control"
+    },
+    {
+      "Player": "clan",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "jez_organix",
+      "Archetype": "Cradle Control"
+    },
+    {
+      "Player": "wumbowizard",
+      "Archetype": "Saga Storm"
+    },
+    {
+      "Player": "SmokyboyJFF",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "jev_",
+      "Archetype": "Death and Taxes - RW (Yorion)"
+    },
+    {
+      "Player": "RIDDLE0423",
+      "Archetype": "Beanstalk Control (Non-Yorion)"
+    },
+    {
+      "Player": "burrarun",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "Carroz",
+      "Archetype": "Esper Vial"
+    },
+    {
+      "Player": "peposhi",
+      "Archetype": "Omni-Tell"
+    },
+    {
+      "Player": "JeromeAlce",
+      "Archetype": "Mystic Forge Combo"
+    },
+    {
+      "Player": "YURAI-WHITECATS",
+      "Archetype": "Rakdos Reanimator"
+    },
+    {
+      "Player": "dch97e",
+      "Archetype": "Saga Storm"
+    },
+    {
+      "Player": "jibeta",
+      "Archetype": "Beanstalk Control (Non-Yorion)"
+    },
+    {
+      "Player": "habsburger",
+      "Archetype": "Grixis Tempo"
+    },
+    {
+      "Player": "Suzukiii",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "kentaro_hokori",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "jankyb",
+      "Archetype": "Jeskai Control"
+    },
+    {
+      "Player": "Ettore09",
+      "Archetype": "Beanstalk Control (Non-Yorion)"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "Akaleth",
+          "Player2": "ARAPAKO",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "jankyb",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "andersoneclair",
+          "Player2": "_Shatun_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Baku_91",
+          "Player2": "_INF_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Bigandhard",
+          "Player2": "hayatatsu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Capitano_CL",
+          "Player2": "clan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "dch97e",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "habsburger",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "FynnOfBlood",
+          "Player2": "mardicadaist",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "He_Qijie",
+          "Player2": "croc64",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ItsSwiftyTime",
+          "Player2": "Carroz",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "jev_",
+          "Player2": "burrarun",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "JPA93",
+          "Player2": "Ark4n",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "mei0024",
+          "Player2": "kentaro_hokori",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Penguincards",
+          "Player2": "Suzukiii",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Schmeckles",
+          "Player2": "jibeta",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Scryus",
+          "Player2": "Ettore09",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "shiromuni",
+          "Player2": "JeromeAlce",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "SmokyboyJFF",
+          "Player2": "YURAI-WHITECATS",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "tr4Xos",
+          "Player2": "jez_organix",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TrbnN",
+          "Player2": "RIDDLE0423",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "wumbowizard",
+          "Player2": "peposhi",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_INF_",
+          "Player2": "jev_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Akaleth",
+          "Player2": "Carroz",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ARAPAKO",
+          "Player2": "jankyb",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "andersoneclair",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Baku_91",
+          "Player2": "Dreddybajs",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Bigandhard",
+          "Player2": "shiromuni",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Capitano_CL",
+          "Player2": "Scryus",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "peposhi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "clan",
+          "Player2": "habsburger",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "croc64",
+          "Player2": "RIDDLE0423",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "TrbnN",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "hayatatsu",
+          "Player2": "jez_organix",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "He_Qijie",
+          "Player2": "YURAI-WHITECATS",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ItsSwiftyTime",
+          "Player2": "SmokyboyJFF",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "JeromeAlce",
+          "Player2": "dch97e",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JPA93",
+          "Player2": "mei0024",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "mardicadaist",
+          "Player2": "burrarun",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Penguincards",
+          "Player2": "albertoSD",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Schmeckles",
+          "Player2": "_Shatun_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "tr4Xos",
+          "Player2": "FynnOfBlood",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "wumbowizard",
+          "Player2": "kentaro_hokori",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_INF_",
+          "Player2": "Carroz",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Akaleth",
+          "Player2": "Penguincards",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "andersoneclair",
+          "Player2": "croc64",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ARAPAKO",
+          "Player2": "peposhi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "hayatatsu",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Baku_91",
+          "Player2": "clan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Bigandhard",
+          "Player2": "Schmeckles",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "Capitano_CL",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "burrarun",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "FynnOfBlood",
+          "Player2": "He_Qijie",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ItsSwiftyTime",
+          "Player2": "_Shatun_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jez_organix",
+          "Player2": "jev_",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "JPA93",
+          "Player2": "Dreddybajs",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "mei0024",
+          "Player2": "albertoSD",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "shiromuni",
+          "Player2": "mardicadaist",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SmokyboyJFF",
+          "Player2": "dch97e",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "tr4Xos",
+          "Player2": "RIDDLE0423",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TrbnN",
+          "Player2": "Scryus",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "wumbowizard",
+          "Player2": "JeromeAlce",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_INF_",
+          "Player2": "Dreddybajs",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "_Shatun_",
+          "Player2": "RIDDLE0423",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "wumbowizard",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "andersoneclair",
+          "Player2": "peposhi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "Baku_91",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "Akaleth",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "clan",
+          "Player2": "JeromeAlce",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "croc64",
+          "Player2": "jez_organix",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "Bigandhard",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "FynnOfBlood",
+          "Player2": "JPA93",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "hayatatsu",
+          "Player2": "dch97e",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "mei0024",
+          "Player2": "Carroz",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Penguincards",
+          "Player2": "He_Qijie",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Schmeckles",
+          "Player2": "ARAPAKO",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Scryus",
+          "Player2": "jev_",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "shiromuni",
+          "Player2": "Capitano_CL",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "tr4Xos",
+          "Player2": "mardicadaist",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TrbnN",
+          "Player2": "ItsSwiftyTime",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "andersoneclair",
+          "Player2": "hayatatsu",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "_Shatun_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Capitano_CL",
+          "Player2": "wumbowizard",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "JPA93",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "croc64",
+          "Player2": "dch97e",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "Akaleth",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "FynnOfBlood",
+          "Player2": "albertoSD",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "He_Qijie",
+          "Player2": "Dreddybajs",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ItsSwiftyTime",
+          "Player2": "ARAPAKO",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "mardicadaist",
+          "Player2": "Scryus",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "mei0024",
+          "Player2": "clan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Penguincards",
+          "Player2": "shiromuni",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Schmeckles",
+          "Player2": "Baku_91",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "SmokyboyJFF",
+          "Player2": "jev_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "tr4Xos",
+          "Player2": "_INF_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TrbnN",
+          "Player2": "Bigandhard",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "Akaleth",
+          "Player2": "TrbnN",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "albertoSD",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Bigandhard",
+          "Player2": "Baku_91",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Capitano_CL",
+          "Player2": "He_Qijie",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "Penguincards",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "croc64",
+          "Player2": "clan",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "FynnOfBlood",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jez_organix",
+          "Player2": "SmokyboyJFF",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JPA93",
+          "Player2": "andersoneclair",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "mardicadaist",
+          "Player2": "jev_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "mei0024",
+          "Player2": "ItsSwiftyTime",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Scryus",
+          "Player2": "dch97e",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "shiromuni",
+          "Player2": "_INF_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "tr4Xos",
+          "Player2": "Schmeckles",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "Akaleth",
+          "Player2": "FynnOfBlood",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "Bigandhard",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "JPA93",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "tr4Xos",
+          "Player2": "TrbnN",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "choutin",
+          "Player2": "Akaleth",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "tr4Xos",
+          "Player2": "ecobaronen",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "tr4Xos",
+          "Player2": "choutin",
+          "Result": "2-1-0"
+        }
+      ]
+    }
+  ]
+}

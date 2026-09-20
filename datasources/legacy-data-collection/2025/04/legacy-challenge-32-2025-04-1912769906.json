@@ -1,0 +1,775 @@
+{
+  "Tournament": {
+    "Id": "legacy-challenge-32-2025-04-1912769906",
+    "Date": "2025-04-19",
+    "Name": "Legacy Challenge 32",
+    "PlayerCount": 38,
+    "Source": "legacy-data-collection",
+    "SheetId": "1s0tqYppb_gUP0r29PDITuKjYj5uU4NP63bW784No1LQ"
+  },
+  "Players": [
+    {
+      "Player": "Sprouts",
+      "Archetype": "Lands"
+    },
+    {
+      "Player": "jibeta",
+      "Archetype": "Other Control"
+    },
+    {
+      "Player": "_epinephrine",
+      "Archetype": "Cephalid Breakfast"
+    },
+    {
+      "Player": "_INF_",
+      "Archetype": "Grixis Tempo"
+    },
+    {
+      "Player": "ReformedPaolo",
+      "Archetype": "Grixis Tempo"
+    },
+    {
+      "Player": "_Joseba_",
+      "Archetype": "Cradle Control"
+    },
+    {
+      "Player": "Azerate218",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "karma_00",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "death_grips",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "Ailien02",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "Dreddybajs",
+      "Archetype": "Grixis Tempo"
+    },
+    {
+      "Player": "clan",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "Oceansoul92",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "TheGrimLavamancer",
+      "Archetype": "Mono Black Reanimator"
+    },
+    {
+      "Player": "Tsubasa_Cat",
+      "Archetype": "Nadu Midrange Combo"
+    },
+    {
+      "Player": "Gamedaiv",
+      "Archetype": "Nadu Midrange Combo"
+    },
+    {
+      "Player": "Taddy_99",
+      "Archetype": "Omni-Tell"
+    },
+    {
+      "Player": "DemonicTutors",
+      "Archetype": "ANT"
+    },
+    {
+      "Player": "Czechito",
+      "Archetype": "Mystic Forge Combo"
+    },
+    {
+      "Player": "AngusMTG",
+      "Archetype": "Grixis Tempo"
+    },
+    {
+      "Player": "yoshiwata",
+      "Archetype": "Death and Taxes - BW (Yorion)"
+    },
+    {
+      "Player": "choutin",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "Ryuho090",
+      "Archetype": "Mystic Forge Combo"
+    },
+    {
+      "Player": "Pharina",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "AdventuresWithTarmo",
+      "Archetype": "Grixis Tempo"
+    },
+    {
+      "Player": "Mogged",
+      "Archetype": "Red Stompy"
+    },
+    {
+      "Player": "snoopy-magic",
+      "Archetype": "Sneak and Show"
+    },
+    {
+      "Player": "wooop_orc",
+      "Archetype": "Grixis Tempo"
+    },
+    {
+      "Player": "chrisvanart",
+      "Archetype": "Eldrazi"
+    },
+    {
+      "Player": "JPA93",
+      "Archetype": "Sneak and Show"
+    },
+    {
+      "Player": "kentaro_hokori",
+      "Archetype": "Grixis Tempo"
+    },
+    {
+      "Player": "rikimaru6",
+      "Archetype": "Other Aggro"
+    },
+    {
+      "Player": "Suzukiii",
+      "Archetype": "Red Stompy"
+    },
+    {
+      "Player": "ganesh_69",
+      "Archetype": "Red Painter"
+    },
+    {
+      "Player": "Koike",
+      "Archetype": "Nic Fit"
+    },
+    {
+      "Player": "Leovoldo",
+      "Archetype": "Mystic Forge Combo"
+    },
+    {
+      "Player": "Ettore09",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "Sol-e22558",
+      "Archetype": "Selesnya Depths"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_epinephrine",
+          "Player2": "Pharina",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "_INF_",
+          "Player2": "Koike",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "AdventuresWithTarmo",
+          "Player2": "Leovoldo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ailien02",
+          "Player2": "yoshiwata",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Azerate218",
+          "Player2": "Taddy_99",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "snoopy-magic",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "clan",
+          "Player2": "JPA93",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DemonicTutors",
+          "Player2": "Czechito",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "AngusMTG",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Gamedaiv",
+          "Player2": "Sol-e22558",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jibeta",
+          "Player2": "kentaro_hokori",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "karma_00",
+          "Player2": "ganesh_69",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "Suzukiii",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Oceansoul92",
+          "Player2": "rikimaru6",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ReformedPaolo",
+          "Player2": "_Joseba_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Sprouts",
+          "Player2": "death_grips",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TheGrimLavamancer",
+          "Player2": "Ryuho090",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "Ettore09",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "wooop_orc",
+          "Player2": "chrisvanart",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_epinephrine",
+          "Player2": "Tsubasa_Cat",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_INF_",
+          "Player2": "Mogged",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "_Joseba_",
+          "Player2": "rikimaru6",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Azerate218",
+          "Player2": "choutin",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "chrisvanart",
+          "Player2": "kentaro_hokori",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Czechito",
+          "Player2": "AdventuresWithTarmo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "death_grips",
+          "Player2": "Ettore09",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DemonicTutors",
+          "Player2": "snoopy-magic",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "TheGrimLavamancer",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "jibeta",
+          "Player2": "clan",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "karma_00",
+          "Player2": "Gamedaiv",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Leovoldo",
+          "Player2": "Sol-e22558",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Oceansoul92",
+          "Player2": "AngusMTG",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ReformedPaolo",
+          "Player2": "Suzukiii",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Ryuho090",
+          "Player2": "Pharina",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Sprouts",
+          "Player2": "Ailien02",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Taddy_99",
+          "Player2": "ganesh_69",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "wooop_orc",
+          "Player2": "Koike",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "JPA93",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_epinephrine",
+          "Player2": "karma_00",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "_Joseba_",
+          "Player2": "TheGrimLavamancer",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Ailien02",
+          "Player2": "Ryuho090",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "AngusMTG",
+          "Player2": "ganesh_69",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Azerate218",
+          "Player2": "chrisvanart",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "wooop_orc",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Czechito",
+          "Player2": "Mogged",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "death_grips",
+          "Player2": "clan",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DemonicTutors",
+          "Player2": "kentaro_hokori",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "JPA93",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "jibeta",
+          "Player2": "_INF_",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Oceansoul92",
+          "Player2": "Tsubasa_Cat",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Pharina",
+          "Player2": "rikimaru6",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ReformedPaolo",
+          "Player2": "Gamedaiv",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "snoopy-magic",
+          "Player2": "Ettore09",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Sprouts",
+          "Player2": "AdventuresWithTarmo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Suzukiii",
+          "Player2": "Koike",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Taddy_99",
+          "Player2": "Leovoldo",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_epinephrine",
+          "Player2": "Azerate218",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "_INF_",
+          "Player2": "Dreddybajs",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Ailien02",
+          "Player2": "AdventuresWithTarmo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "AngusMTG",
+          "Player2": "Suzukiii",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "clan",
+          "Player2": "snoopy-magic",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Czechito",
+          "Player2": "wooop_orc",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "death_grips",
+          "Player2": "TheGrimLavamancer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Gamedaiv",
+          "Player2": "kentaro_hokori",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ganesh_69",
+          "Player2": "Koike",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "jibeta",
+          "Player2": "karma_00",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Oceansoul92",
+          "Player2": "choutin",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ReformedPaolo",
+          "Player2": "DemonicTutors",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Ryuho090",
+          "Player2": "Mogged",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Sprouts",
+          "Player2": "_Joseba_",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Taddy_99",
+          "Player2": "Pharina",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "rikimaru6",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "chrisvanart",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_epinephrine",
+          "Player2": "_Joseba_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "_INF_",
+          "Player2": "Ailien02",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "chrisvanart",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "clan",
+          "Player2": "Pharina",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "Czechito",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Gamedaiv",
+          "Player2": "AngusMTG",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jibeta",
+          "Player2": "death_grips",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "karma_00",
+          "Player2": "Taddy_99",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "ganesh_69",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Oceansoul92",
+          "Player2": "wooop_orc",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ReformedPaolo",
+          "Player2": "Tsubasa_Cat",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ryuho090",
+          "Player2": "rikimaru6",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "snoopy-magic",
+          "Player2": "Koike",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Sprouts",
+          "Player2": "Azerate218",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TheGrimLavamancer",
+          "Player2": "DemonicTutors",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "AdventuresWithTarmo",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_INF_",
+          "Player2": "_Joseba_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ailien02",
+          "Player2": "Czechito",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "AngusMTG",
+          "Player2": "wooop_orc",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Azerate218",
+          "Player2": "Tsubasa_Cat",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "AdventuresWithTarmo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "chrisvanart",
+          "Player2": "Koike",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "clan",
+          "Player2": "yoshiwata",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "death_grips",
+          "Player2": "Mogged",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DemonicTutors",
+          "Player2": "Pharina",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jibeta",
+          "Player2": "Gamedaiv",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "karma_00",
+          "Player2": "TheGrimLavamancer",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Oceansoul92",
+          "Player2": "Taddy_99",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ReformedPaolo",
+          "Player2": "Dreddybajs",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Ryuho090",
+          "Player2": "snoopy-magic",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Sprouts",
+          "Player2": "_epinephrine",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "_epinephrine",
+          "Player2": "_Joseba_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "_INF_",
+          "Player2": "ReformedPaolo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jibeta",
+          "Player2": "Azerate218",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Sprouts",
+          "Player2": "karma_00",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "jibeta",
+          "Player2": "_epinephrine",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Sprouts",
+          "Player2": "_INF_",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "Sprouts",
+          "Player2": "jibeta",
+          "Result": "2-1-0"
+        }
+      ]
+    }
+  ]
+}

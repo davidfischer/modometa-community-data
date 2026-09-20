@@ -1,0 +1,806 @@
+{
+  "Tournament": {
+    "Id": "legacy-challenge-32-2025-11-0912823582",
+    "Date": "2025-11-09",
+    "Name": "Legacy Challenge 32",
+    "PlayerCount": 42,
+    "Source": "legacy-data-collection",
+    "SheetId": "1DN70KK7nyCBpH7nX5-veQwjhOs6ECFiGM8eM8XD0GZs"
+  },
+  "Players": [
+    {
+      "Player": "doctor-x",
+      "Archetype": "Loam Pox"
+    },
+    {
+      "Player": "DominiqueTutor",
+      "Archetype": "Other Control"
+    },
+    {
+      "Player": "Nanovo",
+      "Archetype": "Blue Cloudpost"
+    },
+    {
+      "Player": "Eureka22422",
+      "Archetype": "Blue Cloudpost"
+    },
+    {
+      "Player": "lia2022",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "yoshiwata",
+      "Archetype": "Death and Taxes - BW (Yorion)"
+    },
+    {
+      "Player": "Marghar",
+      "Archetype": "Red Stompy"
+    },
+    {
+      "Player": "RIDDLE0423",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "EsperWTB",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "gusti99",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "Kollslaw",
+      "Archetype": "Nadu Midrange Combo"
+    },
+    {
+      "Player": "RyanWu",
+      "Archetype": "Cephalid Breakfast"
+    },
+    {
+      "Player": "blungoreus",
+      "Archetype": "Other Control"
+    },
+    {
+      "Player": "Harry1232",
+      "Archetype": "Cephalid Breakfast"
+    },
+    {
+      "Player": "Munchlax446",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "BasicWitch",
+      "Archetype": "Jeskai Control"
+    },
+    {
+      "Player": "Lord_Beerus",
+      "Archetype": "Ninjas"
+    },
+    {
+      "Player": "Trohck",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "Yukke",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "harmonywoods",
+      "Archetype": "Esper Control"
+    },
+    {
+      "Player": "Thebigempty92",
+      "Archetype": "8Cast"
+    },
+    {
+      "Player": "Joe_L",
+      "Archetype": "Omni-Tell"
+    },
+    {
+      "Player": "dag8",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "Prim3Time",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "_4L3",
+      "Archetype": "Mystic Forge Combo"
+    },
+    {
+      "Player": "_INF_",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "empiricism",
+      "Archetype": "Lands"
+    },
+    {
+      "Player": "MC_amp2267",
+      "Archetype": "Cephalid Breakfast"
+    },
+    {
+      "Player": "choutin",
+      "Archetype": "Red Stompy"
+    },
+    {
+      "Player": "Infernum_Doge",
+      "Archetype": "Nadu Cradle Combo"
+    },
+    {
+      "Player": "Deskbot000",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "Roodslay",
+      "Archetype": "Mono Black Reanimator"
+    },
+    {
+      "Player": "MikeEgan",
+      "Archetype": "Nadu Midrange Combo"
+    },
+    {
+      "Player": "onelastkiss",
+      "Archetype": "Cephalid Breakfast"
+    },
+    {
+      "Player": "Srogers90",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "SauTay",
+      "Archetype": "Grixis Tempo"
+    },
+    {
+      "Player": "Illao1",
+      "Archetype": "Omni-Tell"
+    },
+    {
+      "Player": "hayatatsu",
+      "Archetype": "Abzan Depths"
+    },
+    {
+      "Player": "Sinisstar619",
+      "Archetype": "Red Stompy"
+    },
+    {
+      "Player": "-Nausea-",
+      "Archetype": "Mono Green Cloudpost"
+    },
+    {
+      "Player": "wubwgn22",
+      "Archetype": "Nadu Cradle Combo"
+    },
+    {
+      "Player": "Sev123",
+      "Archetype": "Cephalid Breakfast"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "BasicWitch",
+          "Player2": "hayatatsu",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "dag8",
+          "Player2": "_INF_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "doctor-x",
+          "Player2": "RyanWu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DominiqueTutor",
+          "Player2": "Infernum_Doge",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Eureka22422",
+          "Player2": "SauTay",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "gusti99",
+          "Player2": "Prim3Time",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "harmonywoods",
+          "Player2": "Roodslay",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Harry1232",
+          "Player2": "wubwgn22",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Joe_L",
+          "Player2": "Sinisstar619",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Kollslaw",
+          "Player2": "choutin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "lia2022",
+          "Player2": "empiricism",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "onelastkiss",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Marghar",
+          "Player2": "blungoreus",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MC_amp2267",
+          "Player2": "MikeEgan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "Deskbot000",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Nanovo",
+          "Player2": "Illao1",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "RIDDLE0423",
+          "Player2": "_4L3",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Thebigempty92",
+          "Player2": "Srogers90",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Trohck",
+          "Player2": "-Nausea-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "EsperWTB",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Yukke",
+          "Player2": "Sev123",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_4L3",
+          "Player2": "onelastkiss",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "BasicWitch",
+          "Player2": "Joe_L",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "blungoreus",
+          "Player2": "MikeEgan",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "Sev123",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "dag8",
+          "Player2": "Prim3Time",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Deskbot000",
+          "Player2": "wubwgn22",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "doctor-x",
+          "Player2": "Lord_Beerus",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "DominiqueTutor",
+          "Player2": "Yukke",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "EsperWTB",
+          "Player2": "empiricism",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Eureka22422",
+          "Player2": "hayatatsu",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "gusti99",
+          "Player2": "_INF_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Harry1232",
+          "Player2": "Trohck",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Infernum_Doge",
+          "Player2": "-Nausea-",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "lia2022",
+          "Player2": "Munchlax446",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Marghar",
+          "Player2": "harmonywoods",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Nanovo",
+          "Player2": "Kollslaw",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Roodslay",
+          "Player2": "SauTay",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "RyanWu",
+          "Player2": "Sinisstar619",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Thebigempty92",
+          "Player2": "MC_amp2267",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "RIDDLE0423",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_4L3",
+          "Player2": "SauTay",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "Deskbot000",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "dag8",
+          "Player2": "Infernum_Doge",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "doctor-x",
+          "Player2": "-Nausea-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DominiqueTutor",
+          "Player2": "Lord_Beerus",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "EsperWTB",
+          "Player2": "Thebigempty92",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Eureka22422",
+          "Player2": "BasicWitch",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "gusti99",
+          "Player2": "Kollslaw",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "harmonywoods",
+          "Player2": "MikeEgan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "lia2022",
+          "Player2": "_INF_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Marghar",
+          "Player2": "MC_amp2267",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "Srogers90",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Nanovo",
+          "Player2": "Roodslay",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Prim3Time",
+          "Player2": "empiricism",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "RIDDLE0423",
+          "Player2": "onelastkiss",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "RyanWu",
+          "Player2": "Trohck",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "Harry1232",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Yukke",
+          "Player2": "Joe_L",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "BasicWitch",
+          "Player2": "Lord_Beerus",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "blungoreus",
+          "Player2": "Joe_L",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "dag8",
+          "Player2": "_4L3",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "doctor-x",
+          "Player2": "MC_amp2267",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DominiqueTutor",
+          "Player2": "Marghar",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "EsperWTB",
+          "Player2": "Infernum_Doge",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Eureka22422",
+          "Player2": "lia2022",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "gusti99",
+          "Player2": "Deskbot000",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Kollslaw",
+          "Player2": "empiricism",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "_INF_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Nanovo",
+          "Player2": "Harry1232",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "onelastkiss",
+          "Player2": "SauTay",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "RIDDLE0423",
+          "Player2": "Trohck",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "RyanWu",
+          "Player2": "Roodslay",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Thebigempty92",
+          "Player2": "MikeEgan",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "choutin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Yukke",
+          "Player2": "harmonywoods",
+          "Result": "1-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_4L3",
+          "Player2": "MikeEgan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "blungoreus",
+          "Player2": "choutin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "doctor-x",
+          "Player2": "Harry1232",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DominiqueTutor",
+          "Player2": "lia2022",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "empiricism",
+          "Player2": "SauTay",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "EsperWTB",
+          "Player2": "BasicWitch",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Eureka22422",
+          "Player2": "gusti99",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Kollslaw",
+          "Player2": "_INF_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "Joe_L",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Marghar",
+          "Player2": "RIDDLE0423",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Nanovo",
+          "Player2": "Munchlax446",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Prim3Time",
+          "Player2": "Deskbot000",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "RyanWu",
+          "Player2": "Yukke",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Thebigempty92",
+          "Player2": "dag8",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Trohck",
+          "Player2": "Infernum_Doge",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "harmonywoods",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_4L3",
+          "Player2": "empiricism",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "blungoreus",
+          "Player2": "Thebigempty92",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "doctor-x",
+          "Player2": "EsperWTB",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DominiqueTutor",
+          "Player2": "RIDDLE0423",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Eureka22422",
+          "Player2": "Munchlax446",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "harmonywoods",
+          "Player2": "dag8",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Joe_L",
+          "Player2": "MikeEgan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Kollslaw",
+          "Player2": "Trohck",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "choutin",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Marghar",
+          "Player2": "Harry1232",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Nanovo",
+          "Player2": "lia2022",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Prim3Time",
+          "Player2": "_INF_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "RyanWu",
+          "Player2": "BasicWitch",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "gusti99",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Yukke",
+          "Player2": "Infernum_Doge",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "doctor-x",
+          "Player2": "yoshiwata",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DominiqueTutor",
+          "Player2": "RIDDLE0423",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Eureka22422",
+          "Player2": "lia2022",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Nanovo",
+          "Player2": "Marghar",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "doctor-x",
+          "Player2": "Eureka22422",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DominiqueTutor",
+          "Player2": "Nanovo",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "doctor-x",
+          "Player2": "DominiqueTutor",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ]
+}

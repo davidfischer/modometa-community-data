@@ -1,0 +1,718 @@
+{
+  "Tournament": {
+    "Id": "legacy-challenge-32-2025-01-2612737501",
+    "Date": "2025-01-26",
+    "Name": "Legacy Challenge 32",
+    "PlayerCount": 35,
+    "Source": "legacy-data-collection",
+    "SheetId": "1JvsN-UxZ_CvgTkwixUMj4pjzDr1xFX1lqmANks19kCI"
+  },
+  "Players": [
+    {
+      "Player": "Yukke",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "Mogged",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "JohnDoe397",
+      "Archetype": "Death and Taxes - BW (Yorion)"
+    },
+    {
+      "Player": "yoshiwata",
+      "Archetype": "Death and Taxes - BW (Yorion)"
+    },
+    {
+      "Player": "fuya",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "cspickle",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "dag8",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "Schranz0127",
+      "Archetype": "Omni-Tell"
+    },
+    {
+      "Player": "_Chamytinho_",
+      "Archetype": "Eldrazi"
+    },
+    {
+      "Player": "Trohck",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "kanican",
+      "Archetype": "Red Stompy"
+    },
+    {
+      "Player": "SkysTheLimit",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "Munchlax446",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "millipedes",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "wizardpasta",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "_INF_",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "JTlemmon",
+      "Archetype": "Mystic Forge Combo"
+    },
+    {
+      "Player": "golfsapao",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "SiL3nTGoaT",
+      "Archetype": "Red Stompy"
+    },
+    {
+      "Player": "Magic_Dads71522",
+      "Archetype": "Eldrazi"
+    },
+    {
+      "Player": "Cabezadebolo",
+      "Archetype": "Red Stompy"
+    },
+    {
+      "Player": "C_S_W____",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "harmonywoods",
+      "Archetype": "Stoneblade"
+    },
+    {
+      "Player": "bozidar2121",
+      "Archetype": "Burn/Red Prowess"
+    },
+    {
+      "Player": "Chris_McNasty",
+      "Archetype": "Mystic Forge Combo"
+    },
+    {
+      "Player": "Srogers90",
+      "Archetype": "Mystic Forge Combo"
+    },
+    {
+      "Player": "Z4YN",
+      "Archetype": "Mystic Forge Combo"
+    },
+    {
+      "Player": "Blue_Man7",
+      "Archetype": "Grixis Control"
+    },
+    {
+      "Player": "Allos",
+      "Archetype": "Worldgorger"
+    },
+    {
+      "Player": "AmadeusPro",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "hayatatsu",
+      "Archetype": "Abzan Depths"
+    },
+    {
+      "Player": "_Batutinha_",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "2plus2isfive",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "trinity",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "PekkaChu",
+      "Archetype": "Grixis Tempo"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_INF_",
+          "Player2": "trinity",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Blue_Man7",
+          "Player2": "AmadeusPro",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "C_S_W____",
+          "Player2": "hayatatsu",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Cabezadebolo",
+          "Player2": "Chris_McNasty",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "cspickle",
+          "Player2": "_Chamytinho_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "dag8",
+          "Player2": "Trohck",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "golfsapao",
+          "Player2": "PekkaChu",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "harmonywoods",
+          "Player2": "bozidar2121",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JTlemmon",
+          "Player2": "Magic_Dads71522",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kanican",
+          "Player2": "wizardpasta",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "millipedes",
+          "Player2": "_Batutinha_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "Z4YN",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Schranz0127",
+          "Player2": "SiL3nTGoaT",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SkysTheLimit",
+          "Player2": "2plus2isfive",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Srogers90",
+          "Player2": "Allos",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "Munchlax446",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Yukke",
+          "Player2": "fuya",
+          "Result": "1-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Chamytinho_",
+          "Player2": "kanican",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "bozidar2121",
+          "Player2": "Z4YN",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Chris_McNasty",
+          "Player2": "Srogers90",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "cspickle",
+          "Player2": "AmadeusPro",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "dag8",
+          "Player2": "golfsapao",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "fuya",
+          "Player2": "SkysTheLimit",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "hayatatsu",
+          "Player2": "_Batutinha_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JohnDoe397",
+          "Player2": "millipedes",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "JTlemmon",
+          "Player2": "C_S_W____",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "Allos",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "Magic_Dads71522",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Schranz0127",
+          "Player2": "_INF_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SiL3nTGoaT",
+          "Player2": "trinity",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Trohck",
+          "Player2": "Blue_Man7",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "wizardpasta",
+          "Player2": "Cabezadebolo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "harmonywoods",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Yukke",
+          "Player2": "2plus2isfive",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Chamytinho_",
+          "Player2": "trinity",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_INF_",
+          "Player2": "Allos",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Cabezadebolo",
+          "Player2": "bozidar2121",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "fuya",
+          "Player2": "cspickle",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "JohnDoe397",
+          "Player2": "SiL3nTGoaT",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JTlemmon",
+          "Player2": "hayatatsu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kanican",
+          "Player2": "harmonywoods",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Magic_Dads71522",
+          "Player2": "Chris_McNasty",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "millipedes",
+          "Player2": "wizardpasta",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "dag8",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "Srogers90",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "SkysTheLimit",
+          "Player2": "AmadeusPro",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Trohck",
+          "Player2": "C_S_W____",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "Schranz0127",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Yukke",
+          "Player2": "golfsapao",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Z4YN",
+          "Player2": "_Batutinha_",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Chamytinho_",
+          "Player2": "Blue_Man7",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Cabezadebolo",
+          "Player2": "Allos",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Chris_McNasty",
+          "Player2": "Z4YN",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "dag8",
+          "Player2": "kanican",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "golfsapao",
+          "Player2": "Srogers90",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "harmonywoods",
+          "Player2": "AmadeusPro",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JohnDoe397",
+          "Player2": "_INF_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Magic_Dads71522",
+          "Player2": "_Batutinha_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "cspickle",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "JTlemmon",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Schranz0127",
+          "Player2": "millipedes",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SiL3nTGoaT",
+          "Player2": "hayatatsu",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "SkysTheLimit",
+          "Player2": "bozidar2121",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Trohck",
+          "Player2": "wizardpasta",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "fuya",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Yukke",
+          "Player2": "C_S_W____",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Chamytinho_",
+          "Player2": "Chris_McNasty",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "AmadeusPro",
+          "Player2": "_Batutinha_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "cspickle",
+          "Player2": "millipedes",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "dag8",
+          "Player2": "SkysTheLimit",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "golfsapao",
+          "Player2": "harmonywoods",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "JohnDoe397",
+          "Player2": "fuya",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "kanican",
+          "Player2": "Cabezadebolo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Magic_Dads71522",
+          "Player2": "Allos",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "Schranz0127",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "wizardpasta",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "SiL3nTGoaT",
+          "Player2": "bozidar2121",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Srogers90",
+          "Player2": "Z4YN",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Trohck",
+          "Player2": "JTlemmon",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "C_S_W____",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Yukke",
+          "Player2": "_INF_",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Chamytinho_",
+          "Player2": "Trohck",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "_INF_",
+          "Player2": "_Batutinha_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Cabezadebolo",
+          "Player2": "C_S_W____",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "cspickle",
+          "Player2": "dag8",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "fuya",
+          "Player2": "Schranz0127",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "JohnDoe397",
+          "Player2": "golfsapao",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kanican",
+          "Player2": "bozidar2121",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Magic_Dads71522",
+          "Player2": "Srogers90",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "millipedes",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "SkysTheLimit",
+          "Player2": "JTlemmon",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "wizardpasta",
+          "Player2": "harmonywoods",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "SiL3nTGoaT",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Yukke",
+          "Player2": "Mogged",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Z4YN",
+          "Player2": "AmadeusPro",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "JohnDoe397",
+          "Player2": "cspickle",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "Schranz0127",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "fuya",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Yukke",
+          "Player2": "dag8",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "Mogged",
+          "Player2": "JohnDoe397",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Yukke",
+          "Player2": "yoshiwata",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "Yukke",
+          "Player2": "Mogged",
+          "Result": "2-1-0"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,944 @@
+{
+  "Tournament": {
+    "Id": "legacy-challenge-32-2026-05-2312842917",
+    "Date": "2026-05-23",
+    "Name": "Legacy Challenge 32",
+    "PlayerCount": 49,
+    "Source": "legacy-data-collection",
+    "SheetId": "1MMDQQOsmbThYdnpfo-qfhLVCKS8uuERXp-2OY-CseXU"
+  },
+  "Players": [
+    {
+      "Player": "aooaaooa",
+      "Archetype": "Mono Black Reanimator"
+    },
+    {
+      "Player": "Suzukiii",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "Ark4n",
+      "Archetype": "Jeskai Control"
+    },
+    {
+      "Player": "Oceansoul92",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "Thomas_Serra",
+      "Archetype": "Aluren"
+    },
+    {
+      "Player": "Schmeckles",
+      "Archetype": "Eldrazi"
+    },
+    {
+      "Player": "Mywaydowntown",
+      "Archetype": "Death and Taxes - BW (Yorion)"
+    },
+    {
+      "Player": "KS870",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "haveaboavida",
+      "Archetype": "Tron"
+    },
+    {
+      "Player": "kirdiekirdie",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "JPA93",
+      "Archetype": "Sneak and Show"
+    },
+    {
+      "Player": "SinKarma",
+      "Archetype": "Tron"
+    },
+    {
+      "Player": "nekoyama2",
+      "Archetype": "Jeskai Control"
+    },
+    {
+      "Player": "kyataoka",
+      "Archetype": "Other Control"
+    },
+    {
+      "Player": "Carlone90",
+      "Archetype": "Tron"
+    },
+    {
+      "Player": "Baku_91",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "Cirxi",
+      "Archetype": "Saga Storm"
+    },
+    {
+      "Player": "MTG_B1rd",
+      "Archetype": "Affinity Stompy"
+    },
+    {
+      "Player": "ReformedPaolo",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "choutin",
+      "Archetype": "Tron"
+    },
+    {
+      "Player": "_epinephrine",
+      "Archetype": "Other Permanent Combo"
+    },
+    {
+      "Player": "nao_xx",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "WeareVenom",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "Ketofol",
+      "Archetype": "Other Control"
+    },
+    {
+      "Player": "Dioferreira",
+      "Archetype": "Rakdos Reanimator"
+    },
+    {
+      "Player": "yoshiwata",
+      "Archetype": "Death and Taxes - W (Yorion)"
+    },
+    {
+      "Player": "Jumba",
+      "Archetype": "Tron"
+    },
+    {
+      "Player": "Luvilon",
+      "Archetype": "Boros Energy"
+    },
+    {
+      "Player": "robfighting",
+      "Archetype": "Red Stompy"
+    },
+    {
+      "Player": "Terminus0",
+      "Archetype": "Saga Storm"
+    },
+    {
+      "Player": "HolaChico",
+      "Archetype": "Mardu Energy"
+    },
+    {
+      "Player": "stu909090",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "snoopy-magic",
+      "Archetype": "Sneak and Show"
+    },
+    {
+      "Player": "TheDingoKing",
+      "Archetype": "Affinity Stompy"
+    },
+    {
+      "Player": "kanican",
+      "Archetype": "Eldrazi"
+    },
+    {
+      "Player": "Tsuji Ryosuke",
+      "Archetype": "Ninjas"
+    },
+    {
+      "Player": "hayatatsu",
+      "Archetype": "Tron"
+    },
+    {
+      "Player": "azmyk1231",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "_Falcon_",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "Xiongye",
+      "Archetype": "Cradle Control"
+    },
+    {
+      "Player": "wizardpasta",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "jev_",
+      "Archetype": "Mardu Energy"
+    },
+    {
+      "Player": "m_himukai",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "Leastbean",
+      "Archetype": "Black Phoenix"
+    },
+    {
+      "Player": "Shemyamon",
+      "Archetype": "Grixis Tempo"
+    },
+    {
+      "Player": "_INF_",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "Unlif3",
+      "Archetype": "Boros Energy"
+    },
+    {
+      "Player": "Poliser",
+      "Archetype": "Other Stompy"
+    },
+    {
+      "Player": "habsburger",
+      "Archetype": "Jeskai Control"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "aooaaooa",
+          "Player2": "Jumba",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "Xiongye",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "azmyk1231",
+          "Player2": "habsburger",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Baku_91",
+          "Player2": "_INF_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "robfighting",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Cirxi",
+          "Player2": "Luvilon",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "haveaboavida",
+          "Player2": "kanican",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "hayatatsu",
+          "Player2": "Poliser",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JPA93",
+          "Player2": "jev_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ketofol",
+          "Player2": "Dioferreira",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kirdiekirdie",
+          "Player2": "stu909090",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kyataoka",
+          "Player2": "wizardpasta",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MTG_B1rd",
+          "Player2": "_epinephrine",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Mywaydowntown",
+          "Player2": "snoopy-magic",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "nao_xx",
+          "Player2": "Leastbean",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "nekoyama2",
+          "Player2": "_Falcon_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Oceansoul92",
+          "Player2": "Carlone90",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ReformedPaolo",
+          "Player2": "yoshiwata",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SinKarma",
+          "Player2": "Terminus0",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Suzukiii",
+          "Player2": "Unlif3",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TheDingoKing",
+          "Player2": "m_himukai",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Thomas_Serra",
+          "Player2": "Schmeckles",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tsuji Ryosuke",
+          "Player2": "Shemyamon",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "WeareVenom",
+          "Player2": "HolaChico",
+          "Result": "1-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "aooaaooa",
+          "Player2": "choutin",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "HolaChico",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Baku_91",
+          "Player2": "hayatatsu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Carlone90",
+          "Player2": "Shemyamon",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "haveaboavida",
+          "Player2": "SinKarma",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jev_",
+          "Player2": "Poliser",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ketofol",
+          "Player2": "m_himukai",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kirdiekirdie",
+          "Player2": "JPA93",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kyataoka",
+          "Player2": "azmyk1231",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Luvilon",
+          "Player2": "Leastbean",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MTG_B1rd",
+          "Player2": "Terminus0",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Mywaydowntown",
+          "Player2": "Tsuji Ryosuke",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "nao_xx",
+          "Player2": "habsburger",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "nekoyama2",
+          "Player2": "Dioferreira",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Oceansoul92",
+          "Player2": "Cirxi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ReformedPaolo",
+          "Player2": "_epinephrine",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "robfighting",
+          "Player2": "kanican",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Schmeckles",
+          "Player2": "_INF_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "snoopy-magic",
+          "Player2": "wizardpasta",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "stu909090",
+          "Player2": "Xiongye",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Suzukiii",
+          "Player2": "_Falcon_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TheDingoKing",
+          "Player2": "Unlif3",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Thomas_Serra",
+          "Player2": "KS870",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "WeareVenom",
+          "Player2": "Jumba",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "aooaaooa",
+          "Player2": "Oceansoul92",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "HolaChico",
+          "Player2": "_Falcon_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JPA93",
+          "Player2": "choutin",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "Tsuji Ryosuke",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kanican",
+          "Player2": "Leastbean",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "kirdiekirdie",
+          "Player2": "ReformedPaolo",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "KS870",
+          "Player2": "haveaboavida",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kyataoka",
+          "Player2": "Carlone90",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Luvilon",
+          "Player2": "Terminus0",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "MTG_B1rd",
+          "Player2": "Poliser",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mywaydowntown",
+          "Player2": "Baku_91",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "nao_xx",
+          "Player2": "Ketofol",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "nekoyama2",
+          "Player2": "_epinephrine",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "robfighting",
+          "Player2": "wizardpasta",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Schmeckles",
+          "Player2": "Cirxi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SinKarma",
+          "Player2": "hayatatsu",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "snoopy-magic",
+          "Player2": "Unlif3",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "stu909090",
+          "Player2": "jev_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Suzukiii",
+          "Player2": "Ark4n",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Thomas_Serra",
+          "Player2": "TheDingoKing",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "WeareVenom",
+          "Player2": "m_himukai",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Xiongye",
+          "Player2": "Shemyamon",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "azmyk1231",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_epinephrine",
+          "Player2": "Jumba",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "aooaaooa",
+          "Player2": "Ark4n",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Carlone90",
+          "Player2": "HolaChico",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "hayatatsu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Cirxi",
+          "Player2": "azmyk1231",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dioferreira",
+          "Player2": "m_himukai",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "haveaboavida",
+          "Player2": "yoshiwata",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "JPA93",
+          "Player2": "Terminus0",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kanican",
+          "Player2": "Shemyamon",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ketofol",
+          "Player2": "robfighting",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kirdiekirdie",
+          "Player2": "Tsuji Ryosuke",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "KS870",
+          "Player2": "ReformedPaolo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Luvilon",
+          "Player2": "wizardpasta",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MTG_B1rd",
+          "Player2": "Xiongye",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mywaydowntown",
+          "Player2": "nao_xx",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "nekoyama2",
+          "Player2": "stu909090",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Oceansoul92",
+          "Player2": "Baku_91",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Schmeckles",
+          "Player2": "SinKarma",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "snoopy-magic",
+          "Player2": "Leastbean",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Suzukiii",
+          "Player2": "WeareVenom",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TheDingoKing",
+          "Player2": "_Falcon_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Thomas_Serra",
+          "Player2": "kyataoka",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_epinephrine",
+          "Player2": "Tsuji Ryosuke",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "aooaaooa",
+          "Player2": "haveaboavida",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "KS870",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Baku_91",
+          "Player2": "stu909090",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Cirxi",
+          "Player2": "TheDingoKing",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dioferreira",
+          "Player2": "Terminus0",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JPA93",
+          "Player2": "Ketofol",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "Leastbean",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kanican",
+          "Player2": "Xiongye",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kyataoka",
+          "Player2": "Luvilon",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MTG_B1rd",
+          "Player2": "snoopy-magic",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "nekoyama2",
+          "Player2": "Carlone90",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Oceansoul92",
+          "Player2": "nao_xx",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Schmeckles",
+          "Player2": "ReformedPaolo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "SinKarma",
+          "Player2": "choutin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Suzukiii",
+          "Player2": "Mywaydowntown",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Thomas_Serra",
+          "Player2": "kirdiekirdie",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "WeareVenom",
+          "Player2": "robfighting",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "HolaChico",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "aooaaooa",
+          "Player2": "KS870",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "Thomas_Serra",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Baku_91",
+          "Player2": "WeareVenom",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Carlone90",
+          "Player2": "yoshiwata",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "Shemyamon",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Cirxi",
+          "Player2": "snoopy-magic",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "haveaboavida",
+          "Player2": "nao_xx",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "TheDingoKing",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kirdiekirdie",
+          "Player2": "Dioferreira",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kyataoka",
+          "Player2": "_epinephrine",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Luvilon",
+          "Player2": "kanican",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MTG_B1rd",
+          "Player2": "Ketofol",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Mywaydowntown",
+          "Player2": "nekoyama2",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Oceansoul92",
+          "Player2": "Schmeckles",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "robfighting",
+          "Player2": "HolaChico",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SinKarma",
+          "Player2": "ReformedPaolo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Suzukiii",
+          "Player2": "JPA93",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "aooaaooa",
+          "Player2": "KS870",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "Mywaydowntown",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Oceansoul92",
+          "Player2": "Thomas_Serra",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Suzukiii",
+          "Player2": "Schmeckles",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "aooaaooa",
+          "Player2": "Ark4n",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Suzukiii",
+          "Player2": "Oceansoul92",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "aooaaooa",
+          "Player2": "Suzukiii",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ]
+}

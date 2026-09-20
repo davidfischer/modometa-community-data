@@ -1,0 +1,868 @@
+{
+  "Tournament": {
+    "Id": "legacy-challenge-32-2026-04-1812839680",
+    "Date": "2026-04-18",
+    "Name": "Legacy Challenge 32",
+    "PlayerCount": 50,
+    "Source": "legacy-data-collection",
+    "SheetId": "1YbAIstS9gb7HC5mg5TtmG2mJCOwUAfhSo6AzIvBYG0Y"
+  },
+  "Players": [
+    {
+      "Player": "Lord_Beerus",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "peposhi",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "Roodslay",
+      "Archetype": "Mono Black Reanimator"
+    },
+    {
+      "Player": "myra00",
+      "Archetype": "Tron"
+    },
+    {
+      "Player": "kasa",
+      "Archetype": "Azorius Tempo"
+    },
+    {
+      "Player": "TheGrimLavamancer",
+      "Archetype": "Boros Energy"
+    },
+    {
+      "Player": "yushi013",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "MtgoUser031832121",
+      "Archetype": "Jeskai Control"
+    },
+    {
+      "Player": "temur4life",
+      "Archetype": "Boros Energy"
+    },
+    {
+      "Player": "xfile",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "wonderPreaux",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "jankyb",
+      "Archetype": "Jeskai Control"
+    },
+    {
+      "Player": "manohito",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "TonyScapone",
+      "Archetype": "Coveted Jewel Combo"
+    },
+    {
+      "Player": "Ozymandias17",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "TheOtherCody",
+      "Archetype": "Azorius Tempo"
+    },
+    {
+      "Player": "Chris_McNasty",
+      "Archetype": "Azorius Tempo"
+    },
+    {
+      "Player": "itstime",
+      "Archetype": "Mardu Energy"
+    },
+    {
+      "Player": "snoopy-magic",
+      "Archetype": "Sneak and Show"
+    },
+    {
+      "Player": "XanaZero",
+      "Archetype": "Other Permanent Combo"
+    },
+    {
+      "Player": "xDingusKhan",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "DemianDesposito10",
+      "Archetype": "Boros Energy"
+    },
+    {
+      "Player": "GoblinK1ng",
+      "Archetype": "Rakdos Reanimator"
+    },
+    {
+      "Player": "unemployment",
+      "Archetype": "Boros Energy"
+    },
+    {
+      "Player": "Bonfigs",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "tolariamidwest",
+      "Archetype": "Lands"
+    },
+    {
+      "Player": "bluehen28",
+      "Archetype": "Mono Black Reanimator"
+    },
+    {
+      "Player": "giabella",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "WataugaCJ",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "Harry1232",
+      "Archetype": "Other Permanent Combo"
+    },
+    {
+      "Player": "_INF_",
+      "Archetype": "Azorius Tempo"
+    },
+    {
+      "Player": "Eureka22422",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "416FrowningTable",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "Univerce",
+      "Archetype": "Aluren"
+    },
+    {
+      "Player": "Adam-Bazika",
+      "Archetype": "Black Midrange"
+    },
+    {
+      "Player": "Matiuzzzo",
+      "Archetype": "Rakdos Reanimator"
+    },
+    {
+      "Player": "ProggyBoog",
+      "Archetype": "Tron"
+    },
+    {
+      "Player": "Rashek",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "Sergio702",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "WANGSU",
+      "Archetype": "Tron"
+    },
+    {
+      "Player": "boryas",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "DominiqueTutor",
+      "Archetype": "Other Aggro"
+    },
+    {
+      "Player": "Srogers90",
+      "Archetype": "Azorius Tempo"
+    },
+    {
+      "Player": "Cudibunda",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "kentaro_hokori",
+      "Archetype": "Azorius Tempo"
+    },
+    {
+      "Player": "Aced5",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "gusti99",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "squishman4",
+      "Archetype": "Omni-Tell"
+    },
+    {
+      "Player": "Abuzallama",
+      "Archetype": "Rakdos Reanimator"
+    },
+    {
+      "Player": "UMEWOLF",
+      "Archetype": "Unknown Deck"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_INF_",
+          "Player2": "UMEWOLF",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "bluehen28",
+          "Player2": "Matiuzzzo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Bonfigs",
+          "Player2": "Adam-Bazika",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Chris_McNasty",
+          "Player2": "kentaro_hokori",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Eureka22422",
+          "Player2": "boryas",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "giabella",
+          "Player2": "416FrowningTable",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Harry1232",
+          "Player2": "squishman4",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kasa",
+          "Player2": "wonderPreaux",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "jankyb",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "manohito",
+          "Player2": "DemianDesposito10",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MtgoUser031832121",
+          "Player2": "Abuzallama",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "myra00",
+          "Player2": "itstime",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Ozymandias17",
+          "Player2": "Aced5",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "peposhi",
+          "Player2": "Cudibunda",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ProggyBoog",
+          "Player2": "Rashek",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Roodslay",
+          "Player2": "WANGSU",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "snoopy-magic",
+          "Player2": "DominiqueTutor",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "temur4life",
+          "Player2": "xfile",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "TheGrimLavamancer",
+          "Player2": "Univerce",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TheOtherCody",
+          "Player2": "XanaZero",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "tolariamidwest",
+          "Player2": "Sergio702",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TonyScapone",
+          "Player2": "GoblinK1ng",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "unemployment",
+          "Player2": "Srogers90",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "xDingusKhan",
+          "Player2": "WataugaCJ",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "yushi013",
+          "Player2": "gusti99",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "Adam-Bazika",
+          "Player2": "Aced5",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Chris_McNasty",
+          "Player2": "Srogers90",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DemianDesposito10",
+          "Player2": "squishman4",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "GoblinK1ng",
+          "Player2": "WANGSU",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "itstime",
+          "Player2": "Harry1232",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "jankyb",
+          "Player2": "DominiqueTutor",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kasa",
+          "Player2": "tolariamidwest",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "_INF_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MtgoUser031832121",
+          "Player2": "ProggyBoog",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "myra00",
+          "Player2": "boryas",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ozymandias17",
+          "Player2": "unemployment",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "peposhi",
+          "Player2": "manohito",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Rashek",
+          "Player2": "gusti99",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Roodslay",
+          "Player2": "XanaZero",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Sergio702",
+          "Player2": "Abuzallama",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "snoopy-magic",
+          "Player2": "Bonfigs",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "temur4life",
+          "Player2": "TheOtherCody",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TheGrimLavamancer",
+          "Player2": "Eureka22422",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TonyScapone",
+          "Player2": "416FrowningTable",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Univerce",
+          "Player2": "Cudibunda",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "WataugaCJ",
+          "Player2": "kentaro_hokori",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "wonderPreaux",
+          "Player2": "Matiuzzzo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "xfile",
+          "Player2": "xDingusKhan",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "yushi013",
+          "Player2": "bluehen28",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "bluehen28",
+          "Player2": "ProggyBoog",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Bonfigs",
+          "Player2": "Eureka22422",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Chris_McNasty",
+          "Player2": "416FrowningTable",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DemianDesposito10",
+          "Player2": "Harry1232",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "GoblinK1ng",
+          "Player2": "Univerce",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jankyb",
+          "Player2": "Adam-Bazika",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kasa",
+          "Player2": "itstime",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "yushi013",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "manohito",
+          "Player2": "xDingusKhan",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Matiuzzzo",
+          "Player2": "Abuzallama",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MtgoUser031832121",
+          "Player2": "xfile",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "myra00",
+          "Player2": "Rashek",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "peposhi",
+          "Player2": "Ozymandias17",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Roodslay",
+          "Player2": "TonyScapone",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "temur4life",
+          "Player2": "_INF_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TheGrimLavamancer",
+          "Player2": "snoopy-magic",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TheOtherCody",
+          "Player2": "Cudibunda",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "unemployment",
+          "Player2": "tolariamidwest",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "WataugaCJ",
+          "Player2": "Sergio702",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "wonderPreaux",
+          "Player2": "boryas",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "XanaZero",
+          "Player2": "giabella",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "Chris_McNasty",
+          "Player2": "snoopy-magic",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Harry1232",
+          "Player2": "Rashek",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "itstime",
+          "Player2": "giabella",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "jankyb",
+          "Player2": "GoblinK1ng",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "MtgoUser031832121",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "manohito",
+          "Player2": "WataugaCJ",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "myra00",
+          "Player2": "yushi013",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Ozymandias17",
+          "Player2": "bluehen28",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "peposhi",
+          "Player2": "TheGrimLavamancer",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Roodslay",
+          "Player2": "kasa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "temur4life",
+          "Player2": "tolariamidwest",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "unemployment",
+          "Player2": "ProggyBoog",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "wonderPreaux",
+          "Player2": "TonyScapone",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "XanaZero",
+          "Player2": "Bonfigs",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "xDingusKhan",
+          "Player2": "Matiuzzzo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "xfile",
+          "Player2": "DemianDesposito10",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "Chris_McNasty",
+          "Player2": "itstime",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DemianDesposito10",
+          "Player2": "WataugaCJ",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "GoblinK1ng",
+          "Player2": "unemployment",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "kasa",
+          "Player2": "jankyb",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "Roodslay",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MtgoUser031832121",
+          "Player2": "Bonfigs",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "myra00",
+          "Player2": "wonderPreaux",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "peposhi",
+          "Player2": "snoopy-magic",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "temur4life",
+          "Player2": "Ozymandias17",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TheGrimLavamancer",
+          "Player2": "manohito",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TheOtherCody",
+          "Player2": "bluehen28",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TonyScapone",
+          "Player2": "giabella",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "xDingusKhan",
+          "Player2": "Harry1232",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "yushi013",
+          "Player2": "xfile",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "giabella",
+          "Player2": "WataugaCJ",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jankyb",
+          "Player2": "XanaZero",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kasa",
+          "Player2": "Chris_McNasty",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "TheGrimLavamancer",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "manohito",
+          "Player2": "unemployment",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "myra00",
+          "Player2": "MtgoUser031832121",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Ozymandias17",
+          "Player2": "snoopy-magic",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "peposhi",
+          "Player2": "Roodslay",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "temur4life",
+          "Player2": "TonyScapone",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "TheOtherCody",
+          "Player2": "xDingusKhan",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "wonderPreaux",
+          "Player2": "DemianDesposito10",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "xfile",
+          "Player2": "Bonfigs",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "yushi013",
+          "Player2": "itstime",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "MtgoUser031832121",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "myra00",
+          "Player2": "TheGrimLavamancer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "peposhi",
+          "Player2": "kasa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Roodslay",
+          "Player2": "yushi013",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "myra00",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "peposhi",
+          "Player2": "Roodslay",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "peposhi",
+          "Result": "2-1-0"
+        }
+      ]
+    }
+  ]
+}

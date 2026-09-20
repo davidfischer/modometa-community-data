@@ -1,0 +1,785 @@
+{
+  "Tournament": {
+    "Id": "legacy-challenge-32-2025-10-0512818145",
+    "Date": "2025-10-05",
+    "Name": "Legacy Challenge 32",
+    "PlayerCount": 38,
+    "Source": "legacy-data-collection",
+    "SheetId": "1AKsE-dd0FoXLxNLw1gIK4syxuNl9JXETVAIgoVbUwIQ"
+  },
+  "Players": [
+    {
+      "Player": "DMianete",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "silviawataru",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "AFX",
+      "Archetype": "Red Stompy"
+    },
+    {
+      "Player": "urzatheplaneswalker",
+      "Archetype": "Eldrazi"
+    },
+    {
+      "Player": "lampalot",
+      "Archetype": "Eldrazi"
+    },
+    {
+      "Player": "Erik157751",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "VitorCarvalho01",
+      "Archetype": "Eldrazi"
+    },
+    {
+      "Player": "duckduckmongoose",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "stu909090",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "jvidarte",
+      "Archetype": "Mono Black Reanimator"
+    },
+    {
+      "Player": "Ozymandias17",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "bless_von",
+      "Archetype": "Grixis Control"
+    },
+    {
+      "Player": "JPA93",
+      "Archetype": "Sneak and Show"
+    },
+    {
+      "Player": "Heebie_Jeebies",
+      "Archetype": "Red Painter"
+    },
+    {
+      "Player": "SauTay",
+      "Archetype": "Sultai Tempo"
+    },
+    {
+      "Player": "Mr_shank",
+      "Archetype": "Jeskai Control"
+    },
+    {
+      "Player": "SB3K",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "ragavanejoyer",
+      "Archetype": "Cephalid Breakfast"
+    },
+    {
+      "Player": "RIDDLE0423",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "beexcellent",
+      "Archetype": "Other Tempo"
+    },
+    {
+      "Player": "piao",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "gr33nashe",
+      "Archetype": "Jeskai Control"
+    },
+    {
+      "Player": "hrwk",
+      "Archetype": "Grixis Control"
+    },
+    {
+      "Player": "TeaW1thRum",
+      "Archetype": "Red Stompy"
+    },
+    {
+      "Player": "achillies27",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "Johnni",
+      "Archetype": "Mystic Forge Combo"
+    },
+    {
+      "Player": "Huuii",
+      "Archetype": "Other Land Based/Fair GSZ"
+    },
+    {
+      "Player": "Tomjones11235",
+      "Archetype": "Cephalid Breakfast"
+    },
+    {
+      "Player": "Pharina",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "Bawer",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "ferrarix",
+      "Archetype": "Eldrazi"
+    },
+    {
+      "Player": "Peter__Pan",
+      "Archetype": "Saga Storm"
+    },
+    {
+      "Player": "choutin",
+      "Archetype": "Red Stompy"
+    },
+    {
+      "Player": "jmanpro27",
+      "Archetype": "Omni-Tell"
+    },
+    {
+      "Player": "wonderPreaux",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "thescuba96",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "LucasG1ggs",
+      "Archetype": "Eldrazi"
+    },
+    {
+      "Player": "Kinteraiser",
+      "Archetype": "Beanstalk Control (Non-Yorion)"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "AFX",
+          "Player2": "Ozymandias17",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "Huuii",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DMianete",
+          "Player2": "choutin",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "duckduckmongoose",
+          "Player2": "piao",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Erik157751",
+          "Player2": "Heebie_Jeebies",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ferrarix",
+          "Player2": "wonderPreaux",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "hrwk",
+          "Player2": "achillies27",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "JPA93",
+          "Player2": "Tomjones11235",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jvidarte",
+          "Player2": "thescuba96",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "lampalot",
+          "Player2": "gr33nashe",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Mr_shank",
+          "Player2": "beexcellent",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ragavanejoyer",
+          "Player2": "jmanpro27",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SauTay",
+          "Player2": "Johnni",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "SB3K",
+          "Player2": "Peter__Pan",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "silviawataru",
+          "Player2": "Kinteraiser",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "stu909090",
+          "Player2": "Pharina",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TeaW1thRum",
+          "Player2": "Bawer",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "urzatheplaneswalker",
+          "Player2": "LucasG1ggs",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "VitorCarvalho01",
+          "Player2": "RIDDLE0423",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "AFX",
+          "Player2": "gr33nashe",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "beexcellent",
+          "Player2": "LucasG1ggs",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "achillies27",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "DMianete",
+          "Player2": "Erik157751",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "duckduckmongoose",
+          "Player2": "JPA93",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Heebie_Jeebies",
+          "Player2": "RIDDLE0423",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "hrwk",
+          "Player2": "Johnni",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Huuii",
+          "Player2": "wonderPreaux",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "jvidarte",
+          "Player2": "SB3K",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "lampalot",
+          "Player2": "SauTay",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ozymandias17",
+          "Player2": "Mr_shank",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Pharina",
+          "Player2": "Peter__Pan",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "piao",
+          "Player2": "choutin",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "silviawataru",
+          "Player2": "thescuba96",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "stu909090",
+          "Player2": "Bawer",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TeaW1thRum",
+          "Player2": "jmanpro27",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Tomjones11235",
+          "Player2": "Kinteraiser",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "urzatheplaneswalker",
+          "Player2": "ragavanejoyer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "VitorCarvalho01",
+          "Player2": "ferrarix",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "AFX",
+          "Player2": "Heebie_Jeebies",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "jmanpro27",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DMianete",
+          "Player2": "VitorCarvalho01",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Erik157751",
+          "Player2": "beexcellent",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "gr33nashe",
+          "Player2": "LucasG1ggs",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "hrwk",
+          "Player2": "Kinteraiser",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "JPA93",
+          "Player2": "ragavanejoyer",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "jvidarte",
+          "Player2": "Johnni",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "lampalot",
+          "Player2": "duckduckmongoose",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Mr_shank",
+          "Player2": "Pharina",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Peter__Pan",
+          "Player2": "choutin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "piao",
+          "Player2": "ferrarix",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "RIDDLE0423",
+          "Player2": "TeaW1thRum",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SauTay",
+          "Player2": "wonderPreaux",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "SB3K",
+          "Player2": "achillies27",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "silviawataru",
+          "Player2": "Ozymandias17",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Tomjones11235",
+          "Player2": "Bawer",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "urzatheplaneswalker",
+          "Player2": "stu909090",
+          "Result": "1-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "bless_von",
+          "Player2": "hrwk",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DMianete",
+          "Player2": "SB3K",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "duckduckmongoose",
+          "Player2": "Tomjones11235",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Erik157751",
+          "Player2": "jvidarte",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "gr33nashe",
+          "Player2": "Huuii",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Heebie_Jeebies",
+          "Player2": "beexcellent",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "JPA93",
+          "Player2": "Johnni",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "lampalot",
+          "Player2": "stu909090",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mr_shank",
+          "Player2": "ragavanejoyer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ozymandias17",
+          "Player2": "SauTay",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Peter__Pan",
+          "Player2": "jmanpro27",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Pharina",
+          "Player2": "ferrarix",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "RIDDLE0423",
+          "Player2": "Bawer",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "silviawataru",
+          "Player2": "AFX",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "TeaW1thRum",
+          "Player2": "Kinteraiser",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "urzatheplaneswalker",
+          "Player2": "piao",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "VitorCarvalho01",
+          "Player2": "achillies27",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "AFX",
+          "Player2": "SB3K",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "beexcellent",
+          "Player2": "Bawer",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DMianete",
+          "Player2": "lampalot",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "duckduckmongoose",
+          "Player2": "jvidarte",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Erik157751",
+          "Player2": "Mr_shank",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ferrarix",
+          "Player2": "Peter__Pan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "gr33nashe",
+          "Player2": "choutin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Heebie_Jeebies",
+          "Player2": "piao",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "hrwk",
+          "Player2": "jmanpro27",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JPA93",
+          "Player2": "Huuii",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Ozymandias17",
+          "Player2": "Pharina",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ragavanejoyer",
+          "Player2": "Tomjones11235",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "RIDDLE0423",
+          "Player2": "achillies27",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "silviawataru",
+          "Player2": "SauTay",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "stu909090",
+          "Player2": "bless_von",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "TeaW1thRum",
+          "Player2": "Johnni",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "urzatheplaneswalker",
+          "Player2": "VitorCarvalho01",
+          "Result": "1-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "AFX",
+          "Player2": "VitorCarvalho01",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Bawer",
+          "Player2": "choutin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "beexcellent",
+          "Player2": "Tomjones11235",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DMianete",
+          "Player2": "bless_von",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "duckduckmongoose",
+          "Player2": "SauTay",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "gr33nashe",
+          "Player2": "achillies27",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "hrwk",
+          "Player2": "Pharina",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JPA93",
+          "Player2": "Mr_shank",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jvidarte",
+          "Player2": "Heebie_Jeebies",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "lampalot",
+          "Player2": "Erik157751",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Ozymandias17",
+          "Player2": "Peter__Pan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "piao",
+          "Player2": "Huuii",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "silviawataru",
+          "Player2": "ragavanejoyer",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "stu909090",
+          "Player2": "SB3K",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TeaW1thRum",
+          "Player2": "ferrarix",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "urzatheplaneswalker",
+          "Player2": "RIDDLE0423",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "AFX",
+          "Player2": "Erik157751",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DMianete",
+          "Player2": "duckduckmongoose",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "silviawataru",
+          "Player2": "VitorCarvalho01",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "urzatheplaneswalker",
+          "Player2": "lampalot",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "DMianete",
+          "Player2": "AFX",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "silviawataru",
+          "Player2": "urzatheplaneswalker",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "DMianete",
+          "Player2": "silviawataru",
+          "Result": "2-1-0"
+        }
+      ]
+    }
+  ]
+}

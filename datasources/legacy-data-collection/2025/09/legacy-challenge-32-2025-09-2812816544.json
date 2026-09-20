@@ -1,0 +1,763 @@
+{
+  "Tournament": {
+    "Id": "legacy-challenge-32-2025-09-2812816544",
+    "Date": "2025-09-28",
+    "Name": "Legacy Challenge 32",
+    "PlayerCount": 40,
+    "Source": "legacy-data-collection",
+    "SheetId": "1lN7rO-0-FLqkl25VZyvdWV6sKeVSz9iOZjvLFRzqYB0"
+  },
+  "Players": [
+    {
+      "Player": "Lord_Beerus",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "musasabi",
+      "Archetype": "Mystic Forge Combo"
+    },
+    {
+      "Player": "Munchlax446",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "ford0076",
+      "Archetype": "Cephalid Breakfast"
+    },
+    {
+      "Player": "TheGrimLavamancer",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "Maxtortion",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "lia2022",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "run1998",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "triplesleeved",
+      "Archetype": "Mystic Forge Combo"
+    },
+    {
+      "Player": "hARAlN",
+      "Archetype": "Stiflenought"
+    },
+    {
+      "Player": "_INF_",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "C_S_W____",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "choutin",
+      "Archetype": "Red Stompy"
+    },
+    {
+      "Player": "fingers1991",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "GoblinElder",
+      "Archetype": "Red Stompy"
+    },
+    {
+      "Player": "kanican",
+      "Archetype": "Mystic Forge Combo"
+    },
+    {
+      "Player": "into_play",
+      "Archetype": "Mono Green Cloudpost"
+    },
+    {
+      "Player": "Scooby_Snacks",
+      "Archetype": "Colorless Cloudpost"
+    },
+    {
+      "Player": "Nanovo",
+      "Archetype": "Red Stompy"
+    },
+    {
+      "Player": "DarkDepthsAniki",
+      "Archetype": "Golgari Depths"
+    },
+    {
+      "Player": "ZYX-FXY",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "Joe_L",
+      "Archetype": "Omni-Tell"
+    },
+    {
+      "Player": "wubwgn22",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "btraut",
+      "Archetype": "Lands"
+    },
+    {
+      "Player": "Venom1",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "BiIIyBruto",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "hellonewton",
+      "Archetype": "Cradle Control"
+    },
+    {
+      "Player": "KoolooLimpah",
+      "Archetype": "Red Stompy"
+    },
+    {
+      "Player": "WANDERING_LOTUS",
+      "Archetype": "Other Aggro"
+    },
+    {
+      "Player": "Brogtar",
+      "Archetype": "Other Land Based/Fair GSZ"
+    },
+    {
+      "Player": "wongdeck",
+      "Archetype": "Lands"
+    },
+    {
+      "Player": "Shadowz2005",
+      "Archetype": "Eldrazi"
+    },
+    {
+      "Player": "frylokk757",
+      "Archetype": "Red Stompy"
+    },
+    {
+      "Player": "SpoonDonkey",
+      "Archetype": "Nadu Midrange Combo"
+    },
+    {
+      "Player": "fishduggery",
+      "Archetype": "Nadu Midrange Combo"
+    },
+    {
+      "Player": "dadbodmcgee",
+      "Archetype": "Lands"
+    },
+    {
+      "Player": "Srogers90",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "TeaW1thRum",
+      "Archetype": "Jeskai Control"
+    },
+    {
+      "Player": "RingoDeathStarr",
+      "Archetype": "Red Painter"
+    },
+    {
+      "Player": "EmperorOppai",
+      "Archetype": "Dimir Tempo"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_INF_",
+          "Player2": "ZYX-FXY",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Brogtar",
+          "Player2": "TeaW1thRum",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "C_S_W____",
+          "Player2": "WANDERING_LOTUS",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "RingoDeathStarr",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DarkDepthsAniki",
+          "Player2": "wubwgn22",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "fingers1991",
+          "Player2": "fishduggery",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "frylokk757",
+          "Player2": "EmperorOppai",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "hARAlN",
+          "Player2": "GoblinElder",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "into_play",
+          "Player2": "Srogers90",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Joe_L",
+          "Player2": "Shadowz2005",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kanican",
+          "Player2": "hellonewton",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "lia2022",
+          "Player2": "dadbodmcgee",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "ford0076",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "wongdeck",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "Maxtortion",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Nanovo",
+          "Player2": "btraut",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "run1998",
+          "Player2": "triplesleeved",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Scooby_Snacks",
+          "Player2": "BiIIyBruto",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TheGrimLavamancer",
+          "Player2": "KoolooLimpah",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Venom1",
+          "Player2": "SpoonDonkey",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_INF_",
+          "Player2": "Scooby_Snacks",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "BiIIyBruto",
+          "Player2": "EmperorOppai",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "C_S_W____",
+          "Player2": "wubwgn22",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "fingers1991",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "DarkDepthsAniki",
+          "Player2": "WANDERING_LOTUS",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ford0076",
+          "Player2": "fishduggery",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "GoblinElder",
+          "Player2": "Venom1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "hARAlN",
+          "Player2": "Srogers90",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Joe_L",
+          "Player2": "btraut",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "KoolooLimpah",
+          "Player2": "SpoonDonkey",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "lia2022",
+          "Player2": "frylokk757",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "Munchlax446",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Maxtortion",
+          "Player2": "kanican",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "Shadowz2005",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Nanovo",
+          "Player2": "dadbodmcgee",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "run1998",
+          "Player2": "into_play",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TheGrimLavamancer",
+          "Player2": "Brogtar",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "triplesleeved",
+          "Player2": "TeaW1thRum",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "wongdeck",
+          "Player2": "RingoDeathStarr",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ZYX-FXY",
+          "Player2": "hellonewton",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_INF_",
+          "Player2": "fingers1991",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "C_S_W____",
+          "Player2": "hellonewton",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ford0076",
+          "Player2": "into_play",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "GoblinElder",
+          "Player2": "frylokk757",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "hARAlN",
+          "Player2": "wongdeck",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kanican",
+          "Player2": "Joe_L",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "lia2022",
+          "Player2": "btraut",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "wubwgn22",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Maxtortion",
+          "Player2": "run1998",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "DarkDepthsAniki",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "BiIIyBruto",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Nanovo",
+          "Player2": "Brogtar",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Scooby_Snacks",
+          "Player2": "KoolooLimpah",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Shadowz2005",
+          "Player2": "Srogers90",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "SpoonDonkey",
+          "Player2": "dadbodmcgee",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TheGrimLavamancer",
+          "Player2": "Venom1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "triplesleeved",
+          "Player2": "choutin",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ZYX-FXY",
+          "Player2": "EmperorOppai",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_INF_",
+          "Player2": "wubwgn22",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "BiIIyBruto",
+          "Player2": "wongdeck",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "C_S_W____",
+          "Player2": "Nanovo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "WANDERING_LOTUS",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DarkDepthsAniki",
+          "Player2": "Brogtar",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ford0076",
+          "Player2": "GoblinElder",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "hARAlN",
+          "Player2": "kanican",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "hellonewton",
+          "Player2": "frylokk757",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "into_play",
+          "Player2": "Joe_L",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "Venom1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Maxtortion",
+          "Player2": "lia2022",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "run1998",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "btraut",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TheGrimLavamancer",
+          "Player2": "fingers1991",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "triplesleeved",
+          "Player2": "Scooby_Snacks",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ZYX-FXY",
+          "Player2": "SpoonDonkey",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "C_S_W____",
+          "Player2": "fingers1991",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "BiIIyBruto",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ford0076",
+          "Player2": "lia2022",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "GoblinElder",
+          "Player2": "kanican",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "into_play",
+          "Player2": "frylokk757",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "_INF_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "Munchlax446",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Nanovo",
+          "Player2": "DarkDepthsAniki",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "run1998",
+          "Player2": "hellonewton",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Scooby_Snacks",
+          "Player2": "wubwgn22",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TheGrimLavamancer",
+          "Player2": "Maxtortion",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "triplesleeved",
+          "Player2": "hARAlN",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "ZYX-FXY",
+          "Player2": "Venom1",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_INF_",
+          "Player2": "BiIIyBruto",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "into_play",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DarkDepthsAniki",
+          "Player2": "frylokk757",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ford0076",
+          "Player2": "ZYX-FXY",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Joe_L",
+          "Player2": "hellonewton",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kanican",
+          "Player2": "Venom1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "lia2022",
+          "Player2": "C_S_W____",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "TheGrimLavamancer",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Maxtortion",
+          "Player2": "hARAlN",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "GoblinElder",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "Scooby_Snacks",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "run1998",
+          "Player2": "Nanovo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "triplesleeved",
+          "Player2": "fingers1991",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "ford0076",
+          "Player2": "Maxtortion",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "run1998",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "lia2022",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "TheGrimLavamancer",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "ford0076",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "Munchlax446",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "musasabi",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ]
+}

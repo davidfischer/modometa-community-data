@@ -1,0 +1,788 @@
+{
+  "Tournament": {
+    "Id": "legacy-challenge-32-2025-03-3012761328",
+    "Date": "2025-03-30",
+    "Name": "Legacy Challenge 32",
+    "PlayerCount": 40,
+    "Source": "legacy-data-collection",
+    "SheetId": "1s1DA0HikdW8jN21cc4qUBsTiQHuEuA9stLf0h3bMMps"
+  },
+  "Players": [
+    {
+      "Player": "SiL3nTGoaT",
+      "Archetype": "Red Stompy"
+    },
+    {
+      "Player": "yoshiwata",
+      "Archetype": "Esper Vial"
+    },
+    {
+      "Player": "choutin",
+      "Archetype": "Eldrazi"
+    },
+    {
+      "Player": "JUJUBEAN__2004",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "dmdupuis",
+      "Archetype": "Omni-Tell"
+    },
+    {
+      "Player": "Andy_Over",
+      "Archetype": "Red Stompy"
+    },
+    {
+      "Player": "fingers1991",
+      "Archetype": "Blue Painter"
+    },
+    {
+      "Player": "jakobpablo",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "Srogers90",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "lollerstank",
+      "Archetype": "Mystic Forge Combo"
+    },
+    {
+      "Player": "jibeta",
+      "Archetype": "Jeskai Control"
+    },
+    {
+      "Player": "nedyahiske",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "big-snack-enjoyer",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "Row2015",
+      "Archetype": "Eldrazi"
+    },
+    {
+      "Player": "C_S_W____",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "-Nausea-",
+      "Archetype": "Coveted Jewel Combo"
+    },
+    {
+      "Player": "el-pollo-lolo",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "Roodslay",
+      "Archetype": "Mono Black Reanimator"
+    },
+    {
+      "Player": "fclyra",
+      "Archetype": "Death and Taxes (60 Card)"
+    },
+    {
+      "Player": "clan",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "SireOfMana",
+      "Archetype": "Sneak and Show"
+    },
+    {
+      "Player": "TheOtherCody",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "Sarlanga",
+      "Archetype": "Red Stompy"
+    },
+    {
+      "Player": "habsburger",
+      "Archetype": "Grixis Tempo"
+    },
+    {
+      "Player": "solace",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "_INF_",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "_Batutinha_",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "Kricha13",
+      "Archetype": "Dimir Reanimator"
+    },
+    {
+      "Player": "Filho_do_MOL",
+      "Archetype": "Blue Painter"
+    },
+    {
+      "Player": "MIKOTAM",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "medvedev",
+      "Archetype": "Blue Painter"
+    },
+    {
+      "Player": "EmperorOppai",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "Ryuho090",
+      "Archetype": "Blue Painter"
+    },
+    {
+      "Player": "ScreenwriterNY",
+      "Archetype": "Blue Painter"
+    },
+    {
+      "Player": "XanaZero",
+      "Archetype": "Blue Painter"
+    },
+    {
+      "Player": "JimbroIII",
+      "Archetype": "Omni-Tell"
+    },
+    {
+      "Player": "ChessNight5030",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "newbrak",
+      "Archetype": "Standstill"
+    },
+    {
+      "Player": "wonderPreaux",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "kanican",
+      "Archetype": "Blue Painter"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_INF_",
+          "Player2": "medvedev",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Andy_Over",
+          "Player2": "TheOtherCody",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "big-snack-enjoyer",
+          "Player2": "SireOfMana",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "C_S_W____",
+          "Player2": "XanaZero",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "habsburger",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "clan",
+          "Player2": "wonderPreaux",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "dmdupuis",
+          "Player2": "_Batutinha_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "EmperorOppai",
+          "Player2": "kanican",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "fclyra",
+          "Player2": "solace",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Filho_do_MOL",
+          "Player2": "MIKOTAM",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "fingers1991",
+          "Player2": "Roodslay",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "jakobpablo",
+          "Player2": "el-pollo-lolo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jibeta",
+          "Player2": "Kricha13",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "JimbroIII",
+          "Player2": "ChessNight5030",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "JUJUBEAN__2004",
+          "Player2": "Ryuho090",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "nedyahiske",
+          "Player2": "ScreenwriterNY",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Row2015",
+          "Player2": "-Nausea-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SiL3nTGoaT",
+          "Player2": "newbrak",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Srogers90",
+          "Player2": "lollerstank",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "Sarlanga",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "-Nausea-",
+          "Player2": "kanican",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "medvedev",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "big-snack-enjoyer",
+          "Player2": "XanaZero",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "C_S_W____",
+          "Player2": "ChessNight5030",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "el-pollo-lolo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "dmdupuis",
+          "Player2": "EmperorOppai",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "fingers1991",
+          "Player2": "_INF_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "habsburger",
+          "Player2": "MIKOTAM",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jibeta",
+          "Player2": "clan",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "JUJUBEAN__2004",
+          "Player2": "Andy_Over",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Kricha13",
+          "Player2": "Ryuho090",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "lollerstank",
+          "Player2": "fclyra",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "nedyahiske",
+          "Player2": "Row2015",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Roodslay",
+          "Player2": "wonderPreaux",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Sarlanga",
+          "Player2": "JimbroIII",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ScreenwriterNY",
+          "Player2": "newbrak",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SiL3nTGoaT",
+          "Player2": "jakobpablo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SireOfMana",
+          "Player2": "solace",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "TheOtherCody",
+          "Player2": "Filho_do_MOL",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "Srogers90",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_INF_",
+          "Player2": "MIKOTAM",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Andy_Over",
+          "Player2": "solace",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "big-snack-enjoyer",
+          "Player2": "Kricha13",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "C_S_W____",
+          "Player2": "clan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "EmperorOppai",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "dmdupuis",
+          "Player2": "habsburger",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "el-pollo-lolo",
+          "Player2": "kanican",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "fclyra",
+          "Player2": "_Batutinha_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "fingers1991",
+          "Player2": "Row2015",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "jakobpablo",
+          "Player2": "medvedev",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "jibeta",
+          "Player2": "ScreenwriterNY",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "JUJUBEAN__2004",
+          "Player2": "Filho_do_MOL",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "lollerstank",
+          "Player2": "JimbroIII",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "nedyahiske",
+          "Player2": "Ryuho090",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Roodslay",
+          "Player2": "SireOfMana",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SiL3nTGoaT",
+          "Player2": "yoshiwata",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Srogers90",
+          "Player2": "-Nausea-",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "TheOtherCody",
+          "Player2": "XanaZero",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "Filho_do_MOL",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "big-snack-enjoyer",
+          "Player2": "_INF_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "C_S_W____",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "clan",
+          "Player2": "MIKOTAM",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "dmdupuis",
+          "Player2": "Andy_Over",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "el-pollo-lolo",
+          "Player2": "SireOfMana",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "fclyra",
+          "Player2": "JimbroIII",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "jakobpablo",
+          "Player2": "solace",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jibeta",
+          "Player2": "habsburger",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "JUJUBEAN__2004",
+          "Player2": "lollerstank",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Kricha13",
+          "Player2": "EmperorOppai",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "nedyahiske",
+          "Player2": "Roodslay",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Row2015",
+          "Player2": "TheOtherCody",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Sarlanga",
+          "Player2": "medvedev",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "SiL3nTGoaT",
+          "Player2": "-Nausea-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Srogers90",
+          "Player2": "Ryuho090",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "fingers1991",
+          "Result": "1-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "-Nausea-",
+          "Player2": "TheOtherCody",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Andy_Over",
+          "Player2": "nedyahiske",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "big-snack-enjoyer",
+          "Player2": "Roodslay",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "JUJUBEAN__2004",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "dmdupuis",
+          "Player2": "fingers1991",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "fclyra",
+          "Player2": "clan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Filho_do_MOL",
+          "Player2": "medvedev",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jakobpablo",
+          "Player2": "jibeta",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Kricha13",
+          "Player2": "JimbroIII",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "lollerstank",
+          "Player2": "MIKOTAM",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Sarlanga",
+          "Player2": "habsburger",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "SiL3nTGoaT",
+          "Player2": "Row2015",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "SireOfMana",
+          "Player2": "_INF_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Srogers90",
+          "Player2": "el-pollo-lolo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "C_S_W____",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "Kricha13",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "big-snack-enjoyer",
+          "Player2": "-Nausea-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "jibeta",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "el-pollo-lolo",
+          "Player2": "Sarlanga",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "fingers1991",
+          "Player2": "lollerstank",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "jakobpablo",
+          "Player2": "fclyra",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "JUJUBEAN__2004",
+          "Player2": "Row2015",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "JimbroIII",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "nedyahiske",
+          "Player2": "C_S_W____",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Roodslay",
+          "Player2": "Filho_do_MOL",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "SiL3nTGoaT",
+          "Player2": "Andy_Over",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SireOfMana",
+          "Player2": "MIKOTAM",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Srogers90",
+          "Player2": "clan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TheOtherCody",
+          "Player2": "habsburger",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "dmdupuis",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "choutin",
+          "Player2": "fingers1991",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JUJUBEAN__2004",
+          "Player2": "dmdupuis",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "SiL3nTGoaT",
+          "Player2": "jakobpablo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "Andy_Over",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "SiL3nTGoaT",
+          "Player2": "choutin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "JUJUBEAN__2004",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "SiL3nTGoaT",
+          "Player2": "yoshiwata",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ]
+}
