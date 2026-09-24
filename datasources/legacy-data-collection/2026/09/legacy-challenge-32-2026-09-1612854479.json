@@ -1,0 +1,795 @@
+{
+  "Tournament": {
+    "Id": "legacy-challenge-32-2026-09-1612854479",
+    "Date": "2026-09-16",
+    "Name": "Legacy Challenge 32",
+    "PlayerCount": 43,
+    "Source": "legacy-data-collection",
+    "SheetId": "1QjTtjeoEWUPX4tof5aXCaqLqmyjfKp2GLwpEWoXwofo"
+  },
+  "Players": [
+    {
+      "Player": "Dioferreira",
+      "Archetype": "Beanstalk Control (Non-Yorion)"
+    },
+    {
+      "Player": "gzy120",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "Cachorrowo",
+      "Archetype": "Creative Technique"
+    },
+    {
+      "Player": "Jumba",
+      "Archetype": "Tron"
+    },
+    {
+      "Player": "lifeisaresource",
+      "Archetype": "Ruby Storm"
+    },
+    {
+      "Player": "renatoaraujo",
+      "Archetype": "Boros Energy"
+    },
+    {
+      "Player": "chanel-santini",
+      "Archetype": "Eldrazi"
+    },
+    {
+      "Player": "XanaZero",
+      "Archetype": "Other Permanent Combo"
+    },
+    {
+      "Player": "4FunNoWin",
+      "Archetype": "Rakdos Reanimator"
+    },
+    {
+      "Player": "SilversRayleigh",
+      "Archetype": "Eldrazi"
+    },
+    {
+      "Player": "doctorbattle",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "Selfeisek",
+      "Archetype": "Mardu Energy"
+    },
+    {
+      "Player": "boryas",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "fazparte",
+      "Archetype": "Boros Energy"
+    },
+    {
+      "Player": "Univerce",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "MeninoNey",
+      "Archetype": "Living End"
+    },
+    {
+      "Player": "haveaboavida",
+      "Archetype": "Other Control"
+    },
+    {
+      "Player": "erojas86",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "GodOfSlaughter",
+      "Archetype": "Tron"
+    },
+    {
+      "Player": "Schiaveto",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "Joe_L",
+      "Archetype": "Omni-Tell"
+    },
+    {
+      "Player": "KeepAny7vsYou",
+      "Archetype": "Boros Energy"
+    },
+    {
+      "Player": "Unlif3",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "illgamesh",
+      "Archetype": "Lands"
+    },
+    {
+      "Player": "Otazz",
+      "Archetype": "Saga Storm"
+    },
+    {
+      "Player": "DelverFofoqueiro",
+      "Archetype": "Eldrazi"
+    },
+    {
+      "Player": "WadeB",
+      "Archetype": "Nic Fit"
+    },
+    {
+      "Player": "ecobaronen",
+      "Archetype": "Other Control"
+    },
+    {
+      "Player": "Mc_Randolf",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "DayBreakMe",
+      "Archetype": "Tron"
+    },
+    {
+      "Player": "DominiqueTutor",
+      "Archetype": "Grixis Control"
+    },
+    {
+      "Player": "Jnickerson",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "Slasher21",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "blacklotusknight",
+      "Archetype": "Rakdos Reanimator"
+    },
+    {
+      "Player": "Cirxi",
+      "Archetype": "Saga Storm"
+    },
+    {
+      "Player": "marceliiine",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "HJ_Kaiser",
+      "Archetype": "Unknown Deck"
+    },
+    {
+      "Player": "TonyScapone",
+      "Archetype": "Riddlesmith Combo"
+    },
+    {
+      "Player": "Killah_SUV",
+      "Archetype": "Sewer-Cam Combo"
+    },
+    {
+      "Player": "unworldlyorigin",
+      "Archetype": "Boros Energy"
+    },
+    {
+      "Player": "nao_xx",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "JPA93",
+      "Archetype": "Sneak and Show"
+    },
+    {
+      "Player": "Sev123",
+      "Archetype": "Dimir Tempo"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "boryas",
+          "Player2": "Mc_Randolf",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Cachorrowo",
+          "Player2": "marceliiine",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "chanel-santini",
+          "Player2": "Killah_SUV",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dioferreira",
+          "Player2": "4FunNoWin",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "doctorbattle",
+          "Player2": "blacklotusknight",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "DayBreakMe",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "fazparte",
+          "Player2": "erojas86",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "GodOfSlaughter",
+          "Player2": "Sev123",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "gzy120",
+          "Player2": "HJ_Kaiser",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "haveaboavida",
+          "Player2": "JPA93",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Joe_L",
+          "Player2": "WadeB",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "illgamesh",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "KeepAny7vsYou",
+          "Player2": "nao_xx",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "lifeisaresource",
+          "Player2": "Jnickerson",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MeninoNey",
+          "Player2": "Slasher21",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Otazz",
+          "Player2": "DominiqueTutor",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "renatoaraujo",
+          "Player2": "Univerce",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Schiaveto",
+          "Player2": "Cirxi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SilversRayleigh",
+          "Player2": "DelverFofoqueiro",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Unlif3",
+          "Player2": "unworldlyorigin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "XanaZero",
+          "Player2": "TonyScapone",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "4FunNoWin",
+          "Player2": "DayBreakMe",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Cachorrowo",
+          "Player2": "SilversRayleigh",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "chanel-santini",
+          "Player2": "haveaboavida",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Cirxi",
+          "Player2": "unworldlyorigin",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DelverFofoqueiro",
+          "Player2": "Slasher21",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Dioferreira",
+          "Player2": "GodOfSlaughter",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "doctorbattle",
+          "Player2": "Univerce",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "erojas86",
+          "Player2": "TonyScapone",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "fazparte",
+          "Player2": "Unlif3",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "gzy120",
+          "Player2": "boryas",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "illgamesh",
+          "Player2": "blacklotusknight",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Jnickerson",
+          "Player2": "Killah_SUV",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "Schiaveto",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "lifeisaresource",
+          "Player2": "DominiqueTutor",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Mc_Randolf",
+          "Player2": "Sev123",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MeninoNey",
+          "Player2": "Joe_L",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Otazz",
+          "Player2": "JPA93",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "renatoaraujo",
+          "Player2": "marceliiine",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "KeepAny7vsYou",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "WadeB",
+          "Player2": "nao_xx",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "XanaZero",
+          "Player2": "ecobaronen",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "4FunNoWin",
+          "Player2": "fazparte",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "blacklotusknight",
+          "Player2": "TonyScapone",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "boryas",
+          "Player2": "Otazz",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Cachorrowo",
+          "Player2": "lifeisaresource",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "DelverFofoqueiro",
+          "Player2": "DayBreakMe",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dioferreira",
+          "Player2": "MeninoNey",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "doctorbattle",
+          "Player2": "WadeB",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "erojas86",
+          "Player2": "Jnickerson",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "GodOfSlaughter",
+          "Player2": "Cirxi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "gzy120",
+          "Player2": "Unlif3",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "haveaboavida",
+          "Player2": "KeepAny7vsYou",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "illgamesh",
+          "Player2": "ecobaronen",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "chanel-santini",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "renatoaraujo",
+          "Player2": "DominiqueTutor",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Schiaveto",
+          "Player2": "Slasher21",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "SilversRayleigh",
+          "Player2": "Joe_L",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Univerce",
+          "Player2": "Mc_Randolf",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "XanaZero",
+          "Player2": "Selfeisek",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "4FunNoWin",
+          "Player2": "GodOfSlaughter",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Cachorrowo",
+          "Player2": "Univerce",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DelverFofoqueiro",
+          "Player2": "DominiqueTutor",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Dioferreira",
+          "Player2": "chanel-santini",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "erojas86",
+          "Player2": "Schiaveto",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "fazparte",
+          "Player2": "Jnickerson",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "gzy120",
+          "Player2": "lifeisaresource",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Joe_L",
+          "Player2": "blacklotusknight",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "SilversRayleigh",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "KeepAny7vsYou",
+          "Player2": "illgamesh",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MeninoNey",
+          "Player2": "ecobaronen",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Otazz",
+          "Player2": "Cirxi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "renatoaraujo",
+          "Player2": "haveaboavida",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "boryas",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "WadeB",
+          "Player2": "Mc_Randolf",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "XanaZero",
+          "Player2": "doctorbattle",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "Cachorrowo",
+          "Player2": "MeninoNey",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "chanel-santini",
+          "Player2": "4FunNoWin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DayBreakMe",
+          "Player2": "blacklotusknight",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Dioferreira",
+          "Player2": "boryas",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "fazparte",
+          "Player2": "DelverFofoqueiro",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "gzy120",
+          "Player2": "doctorbattle",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "illgamesh",
+          "Player2": "Mc_Randolf",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Joe_L",
+          "Player2": "Otazz",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "erojas86",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "lifeisaresource",
+          "Player2": "XanaZero",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "renatoaraujo",
+          "Player2": "GodOfSlaughter",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Schiaveto",
+          "Player2": "ecobaronen",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "haveaboavida",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SilversRayleigh",
+          "Player2": "KeepAny7vsYou",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Univerce",
+          "Player2": "WadeB",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "4FunNoWin",
+          "Player2": "Joe_L",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "boryas",
+          "Player2": "Schiaveto",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Cachorrowo",
+          "Player2": "doctorbattle",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dioferreira",
+          "Player2": "lifeisaresource",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "fazparte",
+          "Player2": "MeninoNey",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "GodOfSlaughter",
+          "Player2": "DayBreakMe",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "gzy120",
+          "Player2": "Otazz",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "haveaboavida",
+          "Player2": "illgamesh",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "XanaZero",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "KeepAny7vsYou",
+          "Player2": "DelverFofoqueiro",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "renatoaraujo",
+          "Player2": "chanel-santini",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "erojas86",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "SilversRayleigh",
+          "Player2": "Univerce",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "Cachorrowo",
+          "Player2": "chanel-santini",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dioferreira",
+          "Player2": "XanaZero",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "gzy120",
+          "Player2": "lifeisaresource",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "renatoaraujo",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "Dioferreira",
+          "Player2": "Cachorrowo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "gzy120",
+          "Player2": "Jumba",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "Dioferreira",
+          "Player2": "gzy120",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ]
+}
