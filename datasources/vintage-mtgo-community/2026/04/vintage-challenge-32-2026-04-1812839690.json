@@ -1,0 +1,750 @@
+{
+  "Tournament": {
+    "Id": "vintage-challenge-32-2026-04-1812839690",
+    "Date": "2026-04-18",
+    "Name": "Vintage Challenge 32",
+    "PlayerCount": 38,
+    "Source": "vintage-mtgo-community",
+    "SheetId": "1DfOH1EsTrGGRemt5Qm1w8O3HALqd1YkbbPA5Kc3y4oo"
+  },
+  "Players": [
+    {
+      "Player": "Marghar",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "Miharu_Fuyumiya",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "JayCutler",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "LucasG1ggs",
+      "Archetype": "Other Lurrus"
+    },
+    {
+      "Player": "gusti99",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "Wesal",
+      "Archetype": "Oath"
+    },
+    {
+      "Player": "mourning palace",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "JakeTMS",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "Lord_Beerus",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "Tunaktunak",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "Sommertroll",
+      "Archetype": "Oath"
+    },
+    {
+      "Player": "Cyberpunker",
+      "Archetype": "Oath"
+    },
+    {
+      "Player": "zippzipp_",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "tao_bye_bye",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "BiggestBird",
+      "Archetype": "Other Lurrus"
+    },
+    {
+      "Player": "Theflotist",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "sandydogmtg",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "desolutionist",
+      "Archetype": "Lurrus Breach"
+    },
+    {
+      "Player": "jben",
+      "Archetype": "Other Lurrus"
+    },
+    {
+      "Player": "Montolio",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "WLS",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "Parrotlet",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "Sentoe187",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "Terminus0",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "jev_",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "s8shock",
+      "Archetype": "Other Lurrus"
+    },
+    {
+      "Player": "THENINETAILEDF0X",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "Ecoscuro",
+      "Archetype": "Oath"
+    },
+    {
+      "Player": "ChessNight5030",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "thedeck84",
+      "Archetype": "Lurrus Breach"
+    },
+    {
+      "Player": "Erik157751",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "Aigis",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "Biggzius",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "lampalot",
+      "Archetype": "Other Lurrus"
+    },
+    {
+      "Player": "TentacleFan",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "bomberboss",
+      "Archetype": "Blue Control"
+    },
+    {
+      "Player": "4FunNoWin",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "karatedom",
+      "Archetype": "Other Lurrus"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "BiggestBird",
+          "Player2": "jben",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ChessNight5030",
+          "Player2": "4FunNoWin",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Cyberpunker",
+          "Player2": "Parrotlet",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "gusti99",
+          "Player2": "Theflotist",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JakeTMS",
+          "Player2": "thedeck84",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "JayCutler",
+          "Player2": "THENINETAILEDF0X",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "lampalot",
+          "Player2": "karatedom",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Marghar",
+          "Player2": "LucasG1ggs",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Miharu_Fuyumiya",
+          "Player2": "bomberboss",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Montolio",
+          "Player2": "Erik157751",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "mourning palace",
+          "Player2": "TentacleFan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "sandydogmtg",
+          "Player2": "Biggzius",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Sentoe187",
+          "Player2": "Aigis",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Sommertroll",
+          "Player2": "Ecoscuro",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "tao_bye_bye",
+          "Player2": "desolutionist",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tunaktunak",
+          "Player2": "s8shock",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Wesal",
+          "Player2": "Lord_Beerus",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "WLS",
+          "Player2": "jev_",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "zippzipp_",
+          "Player2": "Terminus0",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "Aigis",
+          "Player2": "Biggzius",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "desolutionist",
+          "Player2": "WLS",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ecoscuro",
+          "Player2": "thedeck84",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "gusti99",
+          "Player2": "tao_bye_bye",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JakeTMS",
+          "Player2": "ChessNight5030",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "JayCutler",
+          "Player2": "sandydogmtg",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "jben",
+          "Player2": "4FunNoWin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "Cyberpunker",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Marghar",
+          "Player2": "lampalot",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Miharu_Fuyumiya",
+          "Player2": "zippzipp_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Montolio",
+          "Player2": "s8shock",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "mourning palace",
+          "Player2": "Tunaktunak",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Parrotlet",
+          "Player2": "jev_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Sommertroll",
+          "Player2": "Sentoe187",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Terminus0",
+          "Player2": "bomberboss",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Theflotist",
+          "Player2": "karatedom",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "THENINETAILEDF0X",
+          "Player2": "Erik157751",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Wesal",
+          "Player2": "BiggestBird",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "BiggestBird",
+          "Player2": "lampalot",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Cyberpunker",
+          "Player2": "THENINETAILEDF0X",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "desolutionist",
+          "Player2": "s8shock",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "gusti99",
+          "Player2": "JakeTMS",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "Biggzius",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "jev_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Marghar",
+          "Player2": "JayCutler",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Miharu_Fuyumiya",
+          "Player2": "Sentoe187",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Montolio",
+          "Player2": "thedeck84",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "mourning palace",
+          "Player2": "Parrotlet",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "sandydogmtg",
+          "Player2": "Aigis",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Sommertroll",
+          "Player2": "Terminus0",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Theflotist",
+          "Player2": "ChessNight5030",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tunaktunak",
+          "Player2": "Erik157751",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Wesal",
+          "Player2": "jben",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "WLS",
+          "Player2": "Ecoscuro",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "zippzipp_",
+          "Player2": "tao_bye_bye",
+          "Result": "1-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "Cyberpunker",
+          "Player2": "sandydogmtg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "desolutionist",
+          "Player2": "Montolio",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "gusti99",
+          "Player2": "Tunaktunak",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JayCutler",
+          "Player2": "Theflotist",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "jben",
+          "Player2": "thedeck84",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jev_",
+          "Player2": "Ecoscuro",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "tao_bye_bye",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "Sentoe187",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Marghar",
+          "Player2": "Parrotlet",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Miharu_Fuyumiya",
+          "Player2": "mourning palace",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "s8shock",
+          "Player2": "THENINETAILEDF0X",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Sommertroll",
+          "Player2": "BiggestBird",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Terminus0",
+          "Player2": "lampalot",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Wesal",
+          "Player2": "JakeTMS",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "WLS",
+          "Player2": "Biggzius",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "zippzipp_",
+          "Player2": "Aigis",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "desolutionist",
+          "Player2": "Sentoe187",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Ecoscuro",
+          "Player2": "lampalot",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "gusti99",
+          "Player2": "mourning palace",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "JakeTMS",
+          "Player2": "Parrotlet",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "JayCutler",
+          "Player2": "Wesal",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "jev_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "Montolio",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Marghar",
+          "Player2": "Miharu_Fuyumiya",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "s8shock",
+          "Player2": "Biggzius",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Sommertroll",
+          "Player2": "Cyberpunker",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "tao_bye_bye",
+          "Player2": "BiggestBird",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Theflotist",
+          "Player2": "jben",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Tunaktunak",
+          "Player2": "Terminus0",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "WLS",
+          "Player2": "THENINETAILEDF0X",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "zippzipp_",
+          "Player2": "sandydogmtg",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "Cyberpunker",
+          "Player2": "s8shock",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JakeTMS",
+          "Player2": "Sommertroll",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "JayCutler",
+          "Player2": "mourning palace",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "jben",
+          "Player2": "Parrotlet",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "BiggestBird",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "gusti99",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Marghar",
+          "Player2": "Wesal",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Miharu_Fuyumiya",
+          "Player2": "Montolio",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "sandydogmtg",
+          "Player2": "jev_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "tao_bye_bye",
+          "Player2": "Ecoscuro",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "THENINETAILEDF0X",
+          "Player2": "lampalot",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Tunaktunak",
+          "Player2": "Theflotist",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "WLS",
+          "Player2": "Terminus0",
+          "Result": "0-1-0"
+        },
+        {
+          "Player1": "zippzipp_",
+          "Player2": "desolutionist",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "JayCutler",
+          "Player2": "mourning palace",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "gusti99",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Marghar",
+          "Player2": "JakeTMS",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Miharu_Fuyumiya",
+          "Player2": "Wesal",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "Marghar",
+          "Player2": "LucasG1ggs",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Miharu_Fuyumiya",
+          "Player2": "JayCutler",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "Marghar",
+          "Player2": "Miharu_Fuyumiya",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ]
+}

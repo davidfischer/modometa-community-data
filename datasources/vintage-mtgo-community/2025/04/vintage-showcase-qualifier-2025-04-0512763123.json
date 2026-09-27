@@ -1,0 +1,557 @@
+{
+  "Tournament": {
+    "Id": "vintage-showcase-qualifier-2025-04-0512763123",
+    "Date": "2025-04-05",
+    "Name": "Vintage Showcase Qualifier",
+    "PlayerCount": 30,
+    "Source": "vintage-mtgo-community",
+    "SheetId": "1faViVA-zsOoIyDohzO-yfe5tkMO4hq4_cd3ETRdhTMY"
+  },
+  "Players": [
+    {
+      "Player": "WingedHussar",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "Matti",
+      "Archetype": "Oath"
+    },
+    {
+      "Player": "CrazyMorango",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "desolutionist",
+      "Archetype": "Lurrus Breach"
+    },
+    {
+      "Player": "PierrePoilievre2025",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "cicciogire",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "Munchlax446",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "bernardocssa",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "_Falcon_",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "Montolio",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "Sprouts",
+      "Archetype": "Lurrus DRS"
+    },
+    {
+      "Player": "MarcoIa",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "Patxi",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "TristanJWL",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "Mogg_Flunkies",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "LuckyLuce",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "Jositoshekel",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "xDingusKhan",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "Mogged",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "Lollopollo2001",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "_Chamytinho_",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "discoverN",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "etoustar",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "nekonekoneko",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "gr33nashe",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "Koby",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "TonyScapone",
+      "Archetype": "Beseech Storm"
+    },
+    {
+      "Player": "nicoprietob",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "txepi",
+      "Archetype": "Beseech Storm"
+    },
+    {
+      "Player": "Gerschi",
+      "Archetype": "Lurrus Breach"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Chamytinho_",
+          "Player2": "gr33nashe",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Falcon_",
+          "Player2": "TristanJWL",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "cicciogire",
+          "Player2": "MarcoIa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "CrazyMorango",
+          "Player2": "Sprouts",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "desolutionist",
+          "Player2": "Lollopollo2001",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "etoustar",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Matti",
+          "Player2": "Jositoshekel",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mogg_Flunkies",
+          "Player2": "txepi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "nicoprietob",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Montolio",
+          "Player2": "nekonekoneko",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "TonyScapone",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Patxi",
+          "Player2": "Koby",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "PierrePoilievre2025",
+          "Player2": "LuckyLuce",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "WingedHussar",
+          "Player2": "bernardocssa",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "xDingusKhan",
+          "Player2": "Gerschi",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "bernardocssa",
+          "Player2": "nicoprietob",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "cicciogire",
+          "Player2": "Patxi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "CrazyMorango",
+          "Player2": "desolutionist",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "Gerschi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "gr33nashe",
+          "Player2": "Koby",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Jositoshekel",
+          "Player2": "TonyScapone",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Lollopollo2001",
+          "Player2": "txepi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MarcoIa",
+          "Player2": "LuckyLuce",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Matti",
+          "Player2": "Mogged",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mogg_Flunkies",
+          "Player2": "_Chamytinho_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Montolio",
+          "Player2": "xDingusKhan",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "_Falcon_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "PierrePoilievre2025",
+          "Player2": "etoustar",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Sprouts",
+          "Player2": "TristanJWL",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "WingedHussar",
+          "Player2": "nekonekoneko",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Falcon_",
+          "Player2": "_Chamytinho_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "CrazyMorango",
+          "Player2": "Munchlax446",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "desolutionist",
+          "Player2": "Jositoshekel",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LuckyLuce",
+          "Player2": "TonyScapone",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MarcoIa",
+          "Player2": "discoverN",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Matti",
+          "Player2": "bernardocssa",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Montolio",
+          "Player2": "Mogg_Flunkies",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "nekonekoneko",
+          "Player2": "Koby",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Patxi",
+          "Player2": "Lollopollo2001",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "PierrePoilievre2025",
+          "Player2": "cicciogire",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Sprouts",
+          "Player2": "Mogged",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "WingedHussar",
+          "Player2": "etoustar",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "xDingusKhan",
+          "Player2": "gr33nashe",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "bernardocssa",
+          "Player2": "Patxi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "cicciogire",
+          "Player2": "_Falcon_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "CrazyMorango",
+          "Player2": "Montolio",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "desolutionist",
+          "Player2": "Mogg_Flunkies",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "nekonekoneko",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Jositoshekel",
+          "Player2": "Lollopollo2001",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "LuckyLuce",
+          "Player2": "_Chamytinho_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Matti",
+          "Player2": "PierrePoilievre2025",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "etoustar",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "MarcoIa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Sprouts",
+          "Player2": "gr33nashe",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TristanJWL",
+          "Player2": "TonyScapone",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "WingedHussar",
+          "Player2": "xDingusKhan",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Chamytinho_",
+          "Player2": "Koby",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Falcon_",
+          "Player2": "Jositoshekel",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "cicciogire",
+          "Player2": "Montolio",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "CrazyMorango",
+          "Player2": "PierrePoilievre2025",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Lollopollo2001",
+          "Player2": "gr33nashe",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MarcoIa",
+          "Player2": "xDingusKhan",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Matti",
+          "Player2": "Sprouts",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Mogg_Flunkies",
+          "Player2": "LuckyLuce",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "bernardocssa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Patxi",
+          "Player2": "Mogged",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TristanJWL",
+          "Player2": "discoverN",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "WingedHussar",
+          "Player2": "desolutionist",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "CrazyMorango",
+          "Player2": "bernardocssa",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "desolutionist",
+          "Player2": "PierrePoilievre2025",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Matti",
+          "Player2": "Munchlax446",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "WingedHussar",
+          "Player2": "cicciogire",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "Matti",
+          "Player2": "desolutionist",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "WingedHussar",
+          "Player2": "CrazyMorango",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "WingedHussar",
+          "Player2": "Matti",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ]
+}

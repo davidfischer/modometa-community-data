@@ -1,0 +1,768 @@
+{
+  "Tournament": {
+    "Id": "vintage-challenge-32-2025-06-2712799991",
+    "Date": "2025-06-27",
+    "Name": "Vintage Challenge 32",
+    "PlayerCount": 40,
+    "Source": "vintage-mtgo-community",
+    "SheetId": "1v152c5PvNvW-eYbWVGls7WpgB-tqLTRYTSH-h7r7oZo"
+  },
+  "Players": [
+    {
+      "Player": "desolutionist",
+      "Archetype": "Tinker"
+    },
+    {
+      "Player": "WingedHussar",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "frostyyy_",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "Tsubasa_Cat",
+      "Archetype": "Lurrus Doomsday"
+    },
+    {
+      "Player": "xDingusKhan",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "luvadepedreiro",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "Jumba",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "LasVegasChaos",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "ruzapyea",
+      "Archetype": "Beseech Storm"
+    },
+    {
+      "Player": "Andy_Over",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "416FrowningTable",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "IpseVenenaBibas",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "Frejat",
+      "Archetype": "Other Lurrus"
+    },
+    {
+      "Player": "karatedom",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "Magic_Dads71522",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "-CAPS-",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "morsaaa",
+      "Archetype": "Other Lurrus"
+    },
+    {
+      "Player": "O_danielakos",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "RPSbonjwa",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "TonyScapone",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "_Chamytinho_",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "WadeB",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "revenantkioku",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "MathiasHardStyle",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "izzy-wilde",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "OhTw0Dr0p",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "novaschin22",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "JayCutler",
+      "Archetype": "PO"
+    },
+    {
+      "Player": "billsive",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "albertoSD",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "jben",
+      "Archetype": "Countervine"
+    },
+    {
+      "Player": "LucasG1ggs",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "MrApple65",
+      "Archetype": "Other Lurrus"
+    },
+    {
+      "Player": "xfile",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "MagerMistake",
+      "Archetype": "Beseech Storm"
+    },
+    {
+      "Player": "blackdecks99",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "kaikas",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "i_b_TRUE",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "underdog111",
+      "Archetype": "Scam"
+    },
+    {
+      "Player": "crK",
+      "Archetype": "Raker Shops"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "-CAPS-",
+          "Player2": "crK",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Andy_Over",
+          "Player2": "billsive",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "desolutionist",
+          "Player2": "MagerMistake",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Frejat",
+          "Player2": "underdog111",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "frostyyy_",
+          "Player2": "MathiasHardStyle",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "IpseVenenaBibas",
+          "Player2": "kaikas",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "izzy-wilde",
+          "Player2": "novaschin22",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JayCutler",
+          "Player2": "jben",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "karatedom",
+          "Player2": "blackdecks99",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "LasVegasChaos",
+          "Player2": "i_b_TRUE",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "luvadepedreiro",
+          "Player2": "RPSbonjwa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Magic_Dads71522",
+          "Player2": "LucasG1ggs",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "morsaaa",
+          "Player2": "_Chamytinho_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "revenantkioku",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ruzapyea",
+          "Player2": "albertoSD",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TonyScapone",
+          "Player2": "MrApple65",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "xfile",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "WadeB",
+          "Player2": "OhTw0Dr0p",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "WingedHussar",
+          "Player2": "416FrowningTable",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "xDingusKhan",
+          "Player2": "Jumba",
+          "Result": "1-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "-CAPS-",
+          "Player2": "O_danielakos",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "416FrowningTable",
+          "Player2": "albertoSD",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "_Chamytinho_",
+          "Player2": "crK",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Andy_Over",
+          "Player2": "blackdecks99",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "desolutionist",
+          "Player2": "Magic_Dads71522",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "frostyyy_",
+          "Player2": "jben",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "IpseVenenaBibas",
+          "Player2": "Frejat",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "karatedom",
+          "Player2": "WadeB",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "LasVegasChaos",
+          "Player2": "izzy-wilde",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "i_b_TRUE",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "luvadepedreiro",
+          "Player2": "ruzapyea",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MathiasHardStyle",
+          "Player2": "kaikas",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "morsaaa",
+          "Player2": "MrApple65",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "OhTw0Dr0p",
+          "Player2": "novaschin22",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "revenantkioku",
+          "Player2": "JayCutler",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "RPSbonjwa",
+          "Player2": "MagerMistake",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TonyScapone",
+          "Player2": "underdog111",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "billsive",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "WingedHussar",
+          "Player2": "Jumba",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "xDingusKhan",
+          "Player2": "xfile",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "416FrowningTable",
+          "Player2": "revenantkioku",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Chamytinho_",
+          "Player2": "MathiasHardStyle",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Andy_Over",
+          "Player2": "RPSbonjwa",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "desolutionist",
+          "Player2": "Frejat",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "frostyyy_",
+          "Player2": "luvadepedreiro",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "IpseVenenaBibas",
+          "Player2": "izzy-wilde",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "karatedom",
+          "Player2": "morsaaa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LasVegasChaos",
+          "Player2": "-CAPS-",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "novaschin22",
+          "Player2": "MagerMistake",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "billsive",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "OhTw0Dr0p",
+          "Player2": "MrApple65",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ruzapyea",
+          "Player2": "Magic_Dads71522",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TonyScapone",
+          "Player2": "albertoSD",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "Jumba",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "WadeB",
+          "Player2": "JayCutler",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "WingedHussar",
+          "Player2": "LucasG1ggs",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "xDingusKhan",
+          "Player2": "jben",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "416FrowningTable",
+          "Player2": "RPSbonjwa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Andy_Over",
+          "Player2": "O_danielakos",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "desolutionist",
+          "Player2": "karatedom",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "frostyyy_",
+          "Player2": "OhTw0Dr0p",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "IpseVenenaBibas",
+          "Player2": "_Chamytinho_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "izzy-wilde",
+          "Player2": "JayCutler",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "morsaaa",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Magic_Dads71522",
+          "Player2": "jben",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MathiasHardStyle",
+          "Player2": "LucasG1ggs",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "revenantkioku",
+          "Player2": "novaschin22",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ruzapyea",
+          "Player2": "-CAPS-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TonyScapone",
+          "Player2": "WadeB",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "LasVegasChaos",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "WingedHussar",
+          "Player2": "Frejat",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "xDingusKhan",
+          "Player2": "luvadepedreiro",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "416FrowningTable",
+          "Player2": "MathiasHardStyle",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Chamytinho_",
+          "Player2": "OhTw0Dr0p",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "desolutionist",
+          "Player2": "LasVegasChaos",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "frostyyy_",
+          "Player2": "morsaaa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "IpseVenenaBibas",
+          "Player2": "-CAPS-",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "JayCutler",
+          "Player2": "LucasG1ggs",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "Frejat",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Magic_Dads71522",
+          "Player2": "WadeB",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "izzy-wilde",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "revenantkioku",
+          "Player2": "jben",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "RPSbonjwa",
+          "Player2": "novaschin22",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ruzapyea",
+          "Player2": "Andy_Over",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "luvadepedreiro",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "WingedHussar",
+          "Player2": "TonyScapone",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "xDingusKhan",
+          "Player2": "karatedom",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "416FrowningTable",
+          "Player2": "_Chamytinho_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "desolutionist",
+          "Player2": "Tsubasa_Cat",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Frejat",
+          "Player2": "morsaaa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "frostyyy_",
+          "Player2": "Andy_Over",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "IpseVenenaBibas",
+          "Player2": "TonyScapone",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "O_danielakos",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "luvadepedreiro",
+          "Player2": "-CAPS-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "novaschin22",
+          "Player2": "JayCutler",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "revenantkioku",
+          "Player2": "MathiasHardStyle",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "RPSbonjwa",
+          "Player2": "OhTw0Dr0p",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ruzapyea",
+          "Player2": "karatedom",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "WadeB",
+          "Player2": "izzy-wilde",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "WingedHussar",
+          "Player2": "Magic_Dads71522",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "xDingusKhan",
+          "Player2": "LasVegasChaos",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "desolutionist",
+          "Player2": "LasVegasChaos",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "frostyyy_",
+          "Player2": "luvadepedreiro",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "xDingusKhan",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "WingedHussar",
+          "Player2": "Jumba",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "desolutionist",
+          "Player2": "frostyyy_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "WingedHussar",
+          "Player2": "Tsubasa_Cat",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "desolutionist",
+          "Player2": "WingedHussar",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ]
+}

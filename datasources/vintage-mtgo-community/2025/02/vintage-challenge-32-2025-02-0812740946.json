@@ -1,0 +1,816 @@
+{
+  "Tournament": {
+    "Id": "vintage-challenge-32-2025-02-0812740946",
+    "Date": "2025-02-08",
+    "Name": "Vintage Challenge 32",
+    "PlayerCount": 42,
+    "Source": "vintage-mtgo-community",
+    "SheetId": "1VoSlPi0MQBJF1Msgi2r5Z1ffX8IdMLWOzUcV3Z9DfoM"
+  },
+  "Players": [
+    {
+      "Player": "Diem4x",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "O_danielakos",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "Cabezadebolo",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "ZollZollZoll",
+      "Archetype": "Countervine"
+    },
+    {
+      "Player": "matttothec",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "Rhianne",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "LasVegasChaos",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "HellMonkey",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "OrnatePuzzles",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "Sahakvic",
+      "Archetype": "Countervine"
+    },
+    {
+      "Player": "Munchlax446",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "MarcoIa",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "Jumba",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "JakeTMS",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "WadeB",
+      "Archetype": "Beseech Storm"
+    },
+    {
+      "Player": "bgg88",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "MyPotatoes",
+      "Archetype": "Red Prison"
+    },
+    {
+      "Player": "lampalot",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "Gheeds",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "Flossed",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "Xenowan",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "Montolio",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "MayhemDJ",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "mashirorc",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "Cachorrowo",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "Alex_Brown",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "thedeck84",
+      "Archetype": "Breach"
+    },
+    {
+      "Player": "jev_",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "Firetruck",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "JuanmaAT",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "TonyScapone",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "magiclaszlo",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "Erik157751",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "MJ_23",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "ecobaronen",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "Jenara19",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "LucasG1ggs",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "Wizard_2002",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "GontiLordOfStuff",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "Wesal",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "death_grips",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "albertoSD",
+      "Archetype": "UB Lurrus Control"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "bgg88",
+          "Player2": "Xenowan",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Cabezadebolo",
+          "Player2": "GontiLordOfStuff",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Diem4x",
+          "Player2": "Flossed",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "LucasG1ggs",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Erik157751",
+          "Player2": "Jenara19",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "HellMonkey",
+          "Player2": "Montolio",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "JakeTMS",
+          "Player2": "Wizard_2002",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "jev_",
+          "Player2": "Firetruck",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "JuanmaAT",
+          "Player2": "magiclaszlo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LasVegasChaos",
+          "Player2": "Wesal",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MarcoIa",
+          "Player2": "death_grips",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "matttothec",
+          "Player2": "Cachorrowo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MayhemDJ",
+          "Player2": "MJ_23",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "Jumba",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MyPotatoes",
+          "Player2": "TonyScapone",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "albertoSD",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "OrnatePuzzles",
+          "Player2": "lampalot",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Rhianne",
+          "Player2": "Alex_Brown",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Sahakvic",
+          "Player2": "thedeck84",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "WadeB",
+          "Player2": "mashirorc",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ZollZollZoll",
+          "Player2": "Gheeds",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "Cabezadebolo",
+          "Player2": "bgg88",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Diem4x",
+          "Player2": "TonyScapone",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Gheeds",
+          "Player2": "jev_",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "HellMonkey",
+          "Player2": "Munchlax446",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "JakeTMS",
+          "Player2": "ecobaronen",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "Jenara19",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "lampalot",
+          "Player2": "magiclaszlo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "LasVegasChaos",
+          "Player2": "MJ_23",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "albertoSD",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "mashirorc",
+          "Player2": "Alex_Brown",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "matttothec",
+          "Player2": "Firetruck",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Montolio",
+          "Player2": "GontiLordOfStuff",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MyPotatoes",
+          "Player2": "Flossed",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "MayhemDJ",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "OrnatePuzzles",
+          "Player2": "Erik157751",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Rhianne",
+          "Player2": "MarcoIa",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Sahakvic",
+          "Player2": "JuanmaAT",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "thedeck84",
+          "Player2": "Wesal",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Xenowan",
+          "Player2": "death_grips",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ZollZollZoll",
+          "Player2": "WadeB",
+          "Result": "1-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "Cabezadebolo",
+          "Player2": "Erik157751",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Diem4x",
+          "Player2": "Xenowan",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Firetruck",
+          "Player2": "ecobaronen",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Flossed",
+          "Player2": "Alex_Brown",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Gheeds",
+          "Player2": "GontiLordOfStuff",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "HellMonkey",
+          "Player2": "JakeTMS",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jev_",
+          "Player2": "MJ_23",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JuanmaAT",
+          "Player2": "LucasG1ggs",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "Montolio",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "lampalot",
+          "Player2": "MayhemDJ",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "LasVegasChaos",
+          "Player2": "thedeck84",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "magiclaszlo",
+          "Player2": "Wesal",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MarcoIa",
+          "Player2": "Cachorrowo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "mashirorc",
+          "Player2": "Jenara19",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "matttothec",
+          "Player2": "MyPotatoes",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "bgg88",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "OrnatePuzzles",
+          "Player2": "WadeB",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Rhianne",
+          "Player2": "Sahakvic",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TonyScapone",
+          "Player2": "death_grips",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ZollZollZoll",
+          "Player2": "Munchlax446",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "Cabezadebolo",
+          "Player2": "Gheeds",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Diem4x",
+          "Player2": "jev_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Flossed",
+          "Player2": "magiclaszlo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "WadeB",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "LasVegasChaos",
+          "Player2": "Alex_Brown",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MarcoIa",
+          "Player2": "JuanmaAT",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "mashirorc",
+          "Player2": "Erik157751",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "matttothec",
+          "Player2": "OrnatePuzzles",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MayhemDJ",
+          "Player2": "thedeck84",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Montolio",
+          "Player2": "Cachorrowo",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "ecobaronen",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "MyPotatoes",
+          "Player2": "Firetruck",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "HellMonkey",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Rhianne",
+          "Player2": "bgg88",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Sahakvic",
+          "Player2": "JakeTMS",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TonyScapone",
+          "Player2": "LucasG1ggs",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Xenowan",
+          "Player2": "MJ_23",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ZollZollZoll",
+          "Player2": "lampalot",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "bgg88",
+          "Player2": "Alex_Brown",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Cabezadebolo",
+          "Player2": "OrnatePuzzles",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Diem4x",
+          "Player2": "Cachorrowo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Flossed",
+          "Player2": "LucasG1ggs",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "JakeTMS",
+          "Player2": "thedeck84",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "lampalot",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "LasVegasChaos",
+          "Player2": "WadeB",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "mashirorc",
+          "Player2": "TonyScapone",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "matttothec",
+          "Player2": "HellMonkey",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MayhemDJ",
+          "Player2": "Jenara19",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Montolio",
+          "Player2": "magiclaszlo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "jev_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "Rhianne",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Sahakvic",
+          "Player2": "MyPotatoes",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Xenowan",
+          "Player2": "JuanmaAT",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ZollZollZoll",
+          "Player2": "MarcoIa",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "Cabezadebolo",
+          "Player2": "Sahakvic",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Diem4x",
+          "Player2": "ZollZollZoll",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Gheeds",
+          "Player2": "Jenara19",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "HellMonkey",
+          "Player2": "WadeB",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "JakeTMS",
+          "Player2": "mashirorc",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "MyPotatoes",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "lampalot",
+          "Player2": "Cachorrowo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MarcoIa",
+          "Player2": "Flossed",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "matttothec",
+          "Player2": "Rhianne",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MayhemDJ",
+          "Player2": "TonyScapone",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Montolio",
+          "Player2": "JuanmaAT",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "bgg88",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "LasVegasChaos",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "OrnatePuzzles",
+          "Player2": "Xenowan",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "Cabezadebolo",
+          "Player2": "HellMonkey",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Diem4x",
+          "Player2": "LasVegasChaos",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "Rhianne",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ZollZollZoll",
+          "Player2": "matttothec",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "Diem4x",
+          "Player2": "ZollZollZoll",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "Cabezadebolo",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "Diem4x",
+          "Player2": "O_danielakos",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ]
+}
