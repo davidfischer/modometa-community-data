@@ -1,0 +1,580 @@
+{
+  "Tournament": {
+    "Id": "vintage-challenge-32-2025-07-2012803702",
+    "Date": "2025-07-20",
+    "Name": "Vintage Challenge 32",
+    "PlayerCount": 32,
+    "Source": "vintage-mtgo-community",
+    "SheetId": "1FCMzlbc-4bLhaG7ZKXN8knE1BVznUnRiGPNdSBh5bi4"
+  },
+  "Players": [
+    {
+      "Player": "DrPP",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "medvedev",
+      "Archetype": "Lurrus DRS"
+    },
+    {
+      "Player": "Alico",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "Tsubasa_Cat",
+      "Archetype": "Lurrus Doomsday"
+    },
+    {
+      "Player": "desolutionist",
+      "Archetype": "Tinker"
+    },
+    {
+      "Player": "_Shikamaru_",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "izzy-wilde",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "RikRin",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "_Shatun_",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "KingSedris",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "crK",
+      "Archetype": "Other Shops"
+    },
+    {
+      "Player": "John1111",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "Terminus0",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "-Vidar-",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "SingPanMan",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "choutin",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "bless_von",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "Zero_mana",
+      "Archetype": "Other Shops"
+    },
+    {
+      "Player": "Munchlax446",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "oosunq",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "adm29",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "AFX",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "_dr4gun0v_",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "blackdecks99",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "Filly",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "TricksterGod",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "jez_organix",
+      "Archetype": "Countervine"
+    },
+    {
+      "Player": "Molimo1987",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "DB_bhobbsie",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "s063",
+      "Archetype": "Lurrus DRS"
+    },
+    {
+      "Player": "missflood",
+      "Archetype": "Tinker"
+    },
+    {
+      "Player": "albertoSD",
+      "Archetype": "Esper Lurrus Control"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Shikamaru_",
+          "Player2": "TricksterGod",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Alico",
+          "Player2": "John1111",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "blackdecks99",
+          "Player2": "albertoSD",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "AFX",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "adm29",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "desolutionist",
+          "Player2": "DB_bhobbsie",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DrPP",
+          "Player2": "izzy-wilde",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Filly",
+          "Player2": "jez_organix",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "KingSedris",
+          "Player2": "-Vidar-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "_Shatun_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "missflood",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "oosunq",
+          "Player2": "_dr4gun0v_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "RikRin",
+          "Player2": "Terminus0",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "SingPanMan",
+          "Player2": "choutin",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "s063",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Zero_mana",
+          "Player2": "Molimo1987",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "-Vidar-",
+          "Player2": "albertoSD",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_dr4gun0v_",
+          "Player2": "s063",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Shatun_",
+          "Player2": "TricksterGod",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "adm29",
+          "Player2": "Molimo1987",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Alico",
+          "Player2": "_Shikamaru_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "oosunq",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "Munchlax446",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "desolutionist",
+          "Player2": "Filly",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DrPP",
+          "Player2": "choutin",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "izzy-wilde",
+          "Player2": "jez_organix",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "John1111",
+          "Player2": "AFX",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "Zero_mana",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "RikRin",
+          "Player2": "KingSedris",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "SingPanMan",
+          "Player2": "DB_bhobbsie",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Terminus0",
+          "Player2": "missflood",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "blackdecks99",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "-Vidar-",
+          "Player2": "choutin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Shatun_",
+          "Player2": "Zero_mana",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Shikamaru_",
+          "Player2": "Munchlax446",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "AFX",
+          "Player2": "Molimo1987",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Alico",
+          "Player2": "Tsubasa_Cat",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "desolutionist",
+          "Player2": "crK",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DrPP",
+          "Player2": "bless_von",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "izzy-wilde",
+          "Player2": "SingPanMan",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "John1111",
+          "Player2": "_dr4gun0v_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "KingSedris",
+          "Player2": "adm29",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "RikRin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "oosunq",
+          "Player2": "Filly",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Terminus0",
+          "Player2": "blackdecks99",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TricksterGod",
+          "Player2": "jez_organix",
+          "Result": "1-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Shikamaru_",
+          "Player2": "John1111",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "AFX",
+          "Player2": "TricksterGod",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Alico",
+          "Player2": "crK",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "jez_organix",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DrPP",
+          "Player2": "medvedev",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "izzy-wilde",
+          "Player2": "bless_von",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "KingSedris",
+          "Player2": "oosunq",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "_dr4gun0v_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "RikRin",
+          "Player2": "_Shatun_",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "SingPanMan",
+          "Player2": "Filly",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Terminus0",
+          "Player2": "-Vidar-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "desolutionist",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Zero_mana",
+          "Player2": "adm29",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "-Vidar-",
+          "Player2": "oosunq",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "_Shikamaru_",
+          "Player2": "izzy-wilde",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "adm29",
+          "Player2": "_dr4gun0v_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Alico",
+          "Player2": "KingSedris",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "choutin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DrPP",
+          "Player2": "desolutionist",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "John1111",
+          "Player2": "bless_von",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "Terminus0",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "jez_organix",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "RikRin",
+          "Player2": "AFX",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "SingPanMan",
+          "Player2": "Zero_mana",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "_Shatun_",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "Alico",
+          "Player2": "izzy-wilde",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DrPP",
+          "Player2": "RikRin",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "_Shikamaru_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "desolutionist",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "DrPP",
+          "Player2": "Tsubasa_Cat",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "Alico",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "DrPP",
+          "Player2": "medvedev",
+          "Result": "2-1-0"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,924 @@
+{
+  "Tournament": {
+    "Id": "vintage-challenge-32-2026-02-1412833038",
+    "Date": "2026-02-14",
+    "Name": "Vintage Challenge 32",
+    "PlayerCount": 49,
+    "Source": "vintage-mtgo-community",
+    "SheetId": "17o9-7jGi8zVBleZPvl9n3lHbVhDMKSQYIBEAdkRUNoM"
+  },
+  "Players": [
+    {
+      "Player": "Sommertroll",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "DaveKaplan",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "AFX",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "desolutionist",
+      "Archetype": "Tinker"
+    },
+    {
+      "Player": "duke12",
+      "Archetype": "BUG"
+    },
+    {
+      "Player": "DelverFofoqueiro",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "AyeItsNick",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "Scooby_Snacks",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "Lord_Beerus",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "Caleb_Yetman",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "Artie_Bucco_Jr",
+      "Archetype": "Lurrus Vault Key"
+    },
+    {
+      "Player": "cantillon",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "CardGameAddict",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "OhDee402",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "acydcytryk",
+      "Archetype": "Aggrovine"
+    },
+    {
+      "Player": "Antarctica",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "Erik157751",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "sandydogmtg",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "JackSparr0w",
+      "Archetype": "BUG"
+    },
+    {
+      "Player": "GoblinElder",
+      "Archetype": "BUG"
+    },
+    {
+      "Player": "4FunNoWin",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "piao",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "FL_LegacyClub",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "musasabi",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "Mogged",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "magiclaszlo",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "Mistakenn",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "Ark4n",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "Montolio",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "TradingonTilt",
+      "Archetype": "BUG"
+    },
+    {
+      "Player": "xDingusKhan",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "Wizard_2002",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "TonyScapone",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "Tunaktunak",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "Marghar",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "lordoflifegain",
+      "Archetype": "BUG"
+    },
+    {
+      "Player": "HyuugaHeir",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "thedeck84",
+      "Archetype": "Lurrus Breach"
+    },
+    {
+      "Player": "thaVoiceofReason",
+      "Archetype": "Lurrus DRS"
+    },
+    {
+      "Player": "maouthunder",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "Billbuscus",
+      "Archetype": "PO"
+    },
+    {
+      "Player": "Kenzaburo",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "xfile",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "jake-upLVT",
+      "Archetype": "BUG"
+    },
+    {
+      "Player": "MrxB",
+      "Archetype": "BUG"
+    },
+    {
+      "Player": "molimomaro",
+      "Archetype": "PO"
+    },
+    {
+      "Player": "discoverN",
+      "Archetype": "Lurrus Breach"
+    },
+    {
+      "Player": "etoustar",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "Terminus0",
+      "Archetype": "Raker Shops"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "acydcytryk",
+          "Player2": "GoblinElder",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Antarctica",
+          "Player2": "4FunNoWin",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "thedeck84",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Artie_Bucco_Jr",
+          "Player2": "maouthunder",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "AyeItsNick",
+          "Player2": "Erik157751",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Caleb_Yetman",
+          "Player2": "jake-upLVT",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "cantillon",
+          "Player2": "musasabi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "CardGameAddict",
+          "Player2": "MrxB",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DaveKaplan",
+          "Player2": "FL_LegacyClub",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DelverFofoqueiro",
+          "Player2": "thaVoiceofReason",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "desolutionist",
+          "Player2": "Wizard_2002",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "duke12",
+          "Player2": "xDingusKhan",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "JackSparr0w",
+          "Player2": "magiclaszlo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Marghar",
+          "Player2": "HyuugaHeir",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Mistakenn",
+          "Player2": "Billbuscus",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "molimomaro",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Montolio",
+          "Player2": "Terminus0",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "OhDee402",
+          "Player2": "etoustar",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "piao",
+          "Player2": "lordoflifegain",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "sandydogmtg",
+          "Player2": "Kenzaburo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Scooby_Snacks",
+          "Player2": "Lord_Beerus",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Sommertroll",
+          "Player2": "xfile",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TonyScapone",
+          "Player2": "discoverN",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TradingonTilt",
+          "Player2": "Tunaktunak",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "4FunNoWin",
+          "Player2": "musasabi",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "acydcytryk",
+          "Player2": "sandydogmtg",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "AFX",
+          "Player2": "TonyScapone",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Antarctica",
+          "Player2": "discoverN",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "MrxB",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "AyeItsNick",
+          "Player2": "thaVoiceofReason",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Caleb_Yetman",
+          "Player2": "cantillon",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "CardGameAddict",
+          "Player2": "Erik157751",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DaveKaplan",
+          "Player2": "Mogged",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DelverFofoqueiro",
+          "Player2": "thedeck84",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "desolutionist",
+          "Player2": "OhDee402",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "duke12",
+          "Player2": "JackSparr0w",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "HyuugaHeir",
+          "Player2": "maouthunder",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "FL_LegacyClub",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "lordoflifegain",
+          "Player2": "Kenzaburo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "magiclaszlo",
+          "Player2": "Mistakenn",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Montolio",
+          "Player2": "Billbuscus",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "piao",
+          "Player2": "Marghar",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Scooby_Snacks",
+          "Player2": "Artie_Bucco_Jr",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Sommertroll",
+          "Player2": "TradingonTilt",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tunaktunak",
+          "Player2": "Terminus0",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Wizard_2002",
+          "Player2": "xfile",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "xDingusKhan",
+          "Player2": "etoustar",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "4FunNoWin",
+          "Player2": "Mogged",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "acydcytryk",
+          "Player2": "TradingonTilt",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "AFX",
+          "Player2": "Caleb_Yetman",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Antarctica",
+          "Player2": "lordoflifegain",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Artie_Bucco_Jr",
+          "Player2": "Ark4n",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "AyeItsNick",
+          "Player2": "thedeck84",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "cantillon",
+          "Player2": "JackSparr0w",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "CardGameAddict",
+          "Player2": "sandydogmtg",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DaveKaplan",
+          "Player2": "Montolio",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "desolutionist",
+          "Player2": "piao",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "duke12",
+          "Player2": "DelverFofoqueiro",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Erik157751",
+          "Player2": "maouthunder",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "FL_LegacyClub",
+          "Player2": "Marghar",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "HyuugaHeir",
+          "Player2": "Kenzaburo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "GoblinElder",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "magiclaszlo",
+          "Player2": "Tunaktunak",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Mistakenn",
+          "Player2": "Terminus0",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "OhDee402",
+          "Player2": "musasabi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Sommertroll",
+          "Player2": "Scooby_Snacks",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Wizard_2002",
+          "Player2": "Billbuscus",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "xDingusKhan",
+          "Player2": "TonyScapone",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "acydcytryk",
+          "Player2": "Erik157751",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "AFX",
+          "Player2": "DelverFofoqueiro",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "maouthunder",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Artie_Bucco_Jr",
+          "Player2": "Montolio",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "AyeItsNick",
+          "Player2": "magiclaszlo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Caleb_Yetman",
+          "Player2": "xDingusKhan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "cantillon",
+          "Player2": "Wizard_2002",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DaveKaplan",
+          "Player2": "CardGameAddict",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "duke12",
+          "Player2": "sandydogmtg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "FL_LegacyClub",
+          "Player2": "TonyScapone",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "GoblinElder",
+          "Player2": "thedeck84",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "HyuugaHeir",
+          "Player2": "Terminus0",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "JackSparr0w",
+          "Player2": "musasabi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "Antarctica",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Marghar",
+          "Player2": "Billbuscus",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mistakenn",
+          "Player2": "thaVoiceofReason",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "TradingonTilt",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "OhDee402",
+          "Player2": "piao",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Scooby_Snacks",
+          "Player2": "4FunNoWin",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Sommertroll",
+          "Player2": "desolutionist",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Tunaktunak",
+          "Player2": "lordoflifegain",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "4FunNoWin",
+          "Player2": "xDingusKhan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "acydcytryk",
+          "Player2": "JackSparr0w",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "AFX",
+          "Player2": "desolutionist",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Antarctica",
+          "Player2": "Mistakenn",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Artie_Bucco_Jr",
+          "Player2": "OhDee402",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "AyeItsNick",
+          "Player2": "Lord_Beerus",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "cantillon",
+          "Player2": "Tunaktunak",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DaveKaplan",
+          "Player2": "duke12",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "DelverFofoqueiro",
+          "Player2": "Erik157751",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "GoblinElder",
+          "Player2": "magiclaszlo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "HyuugaHeir",
+          "Player2": "thaVoiceofReason",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "Montolio",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "TradingonTilt",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "piao",
+          "Player2": "Ark4n",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "sandydogmtg",
+          "Player2": "Marghar",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Scooby_Snacks",
+          "Player2": "CardGameAddict",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Sommertroll",
+          "Player2": "Caleb_Yetman",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TonyScapone",
+          "Player2": "lordoflifegain",
+          "Result": "1-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "acydcytryk",
+          "Player2": "Mogged",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Antarctica",
+          "Player2": "Erik157751",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "HyuugaHeir",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "AyeItsNick",
+          "Player2": "Scooby_Snacks",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Caleb_Yetman",
+          "Player2": "sandydogmtg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "CardGameAddict",
+          "Player2": "4FunNoWin",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DaveKaplan",
+          "Player2": "desolutionist",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DelverFofoqueiro",
+          "Player2": "cantillon",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "duke12",
+          "Player2": "Artie_Bucco_Jr",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "FL_LegacyClub",
+          "Player2": "Montolio",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "JackSparr0w",
+          "Player2": "TonyScapone",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "piao",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "magiclaszlo",
+          "Player2": "xDingusKhan",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Mistakenn",
+          "Player2": "Tunaktunak",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "Marghar",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "OhDee402",
+          "Player2": "GoblinElder",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Sommertroll",
+          "Player2": "AFX",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TradingonTilt",
+          "Player2": "lordoflifegain",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "AFX",
+          "Player2": "Scooby_Snacks",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DaveKaplan",
+          "Player2": "AyeItsNick",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "desolutionist",
+          "Player2": "duke12",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Sommertroll",
+          "Player2": "DelverFofoqueiro",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "DaveKaplan",
+          "Player2": "desolutionist",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Sommertroll",
+          "Player2": "AFX",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "Sommertroll",
+          "Player2": "DaveKaplan",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ]
+}

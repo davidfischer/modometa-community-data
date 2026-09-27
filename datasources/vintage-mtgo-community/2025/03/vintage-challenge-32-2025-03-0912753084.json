@@ -1,0 +1,797 @@
+{
+  "Tournament": {
+    "Id": "vintage-challenge-32-2025-03-0912753084",
+    "Date": "2025-03-09",
+    "Name": "Vintage Challenge 32",
+    "PlayerCount": 41,
+    "Source": "vintage-mtgo-community",
+    "SheetId": "12-hWQ8YCgwVCAHoL1G3cVWOxkn2Gq8Q-5CEBwc12vZ4"
+  },
+  "Players": [
+    {
+      "Player": "Tsubasa_Cat",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "medvedev",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "RogeDeckWins",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "SingPanMan",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "_Joseba_",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "Hampuse1",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "_INF_",
+      "Archetype": "Lurrus DRS"
+    },
+    {
+      "Player": "kristofff",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "Erik157751",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "Munchlax446",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "crK",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "piao",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "mashirorc",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "unluckymonkey",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "oosunq",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "KingHairy",
+      "Archetype": "Lurrus Breach"
+    },
+    {
+      "Player": "Firetruck",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "Andrea94",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "Jinjaa",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "TrueHero",
+      "Archetype": "Lurrus Breach"
+    },
+    {
+      "Player": "LORiWWA",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "nicoprietob",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "discoverN",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "_Shatun_",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "SpikeBoltHelix",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "Wesal",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "Magic_Dads71522",
+      "Archetype": "Oath"
+    },
+    {
+      "Player": "choutin",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "albertoSD",
+      "Archetype": "PO"
+    },
+    {
+      "Player": "desolutionist",
+      "Archetype": "Lurrus Breach"
+    },
+    {
+      "Player": "_Pady_",
+      "Archetype": "PO"
+    },
+    {
+      "Player": "BERNASTORRES",
+      "Archetype": "Lurrus DRS"
+    },
+    {
+      "Player": "DInglis",
+      "Archetype": "Lurrus Breach"
+    },
+    {
+      "Player": "DB_bhobbsie",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "Bezerra_da_Silva",
+      "Archetype": "Oath"
+    },
+    {
+      "Player": "MafiaDoSplit",
+      "Archetype": "Oath"
+    },
+    {
+      "Player": "SPyromancer",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "morenoHARDCORE",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "_epinephrine",
+      "Archetype": "Oath"
+    },
+    {
+      "Player": "pirol94",
+      "Archetype": "#N/A"
+    },
+    {
+      "Player": "musasabi",
+      "Archetype": "Tinker"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_INF_",
+          "Player2": "KingHairy",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Joseba_",
+          "Player2": "kristofff",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Pady_",
+          "Player2": "DB_bhobbsie",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Bezerra_da_Silva",
+          "Player2": "musasabi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Erik157751",
+          "Player2": "BERNASTORRES",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Firetruck",
+          "Player2": "pirol94",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Hampuse1",
+          "Player2": "_Shatun_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jinjaa",
+          "Player2": "nicoprietob",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Magic_Dads71522",
+          "Player2": "albertoSD",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "mashirorc",
+          "Player2": "DInglis",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "SPyromancer",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "Wesal",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "oosunq",
+          "Player2": "Andrea94",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "piao",
+          "Player2": "morenoHARDCORE",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "RogeDeckWins",
+          "Player2": "LORiWWA",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "SingPanMan",
+          "Player2": "choutin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SpikeBoltHelix",
+          "Player2": "desolutionist",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TrueHero",
+          "Player2": "discoverN",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "MafiaDoSplit",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "unluckymonkey",
+          "Player2": "_epinephrine",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_INF_",
+          "Player2": "Magic_Dads71522",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "_Joseba_",
+          "Player2": "KingHairy",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Andrea94",
+          "Player2": "SPyromancer",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "BERNASTORRES",
+          "Player2": "morenoHARDCORE",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "_Shatun_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "desolutionist",
+          "Player2": "_epinephrine",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "DInglis",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Erik157751",
+          "Player2": "piao",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Hampuse1",
+          "Player2": "TrueHero",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kristofff",
+          "Player2": "MafiaDoSplit",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LORiWWA",
+          "Player2": "SpikeBoltHelix",
+          "Result": "0-1-0"
+        },
+        {
+          "Player1": "mashirorc",
+          "Player2": "Firetruck",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "Jinjaa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "oosunq",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "nicoprietob",
+          "Player2": "musasabi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "RogeDeckWins",
+          "Player2": "_Pady_",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "SingPanMan",
+          "Player2": "DB_bhobbsie",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "albertoSD",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "unluckymonkey",
+          "Player2": "Bezerra_da_Silva",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Wesal",
+          "Player2": "choutin",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_INF_",
+          "Player2": "morenoHARDCORE",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Joseba_",
+          "Player2": "SpikeBoltHelix",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "Bezerra_da_Silva",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Andrea94",
+          "Player2": "TrueHero",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "_Pady_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "BERNASTORRES",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "SPyromancer",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Hampuse1",
+          "Player2": "Firetruck",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Jinjaa",
+          "Player2": "_Shatun_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "KingHairy",
+          "Player2": "desolutionist",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kristofff",
+          "Player2": "DB_bhobbsie",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Magic_Dads71522",
+          "Player2": "musasabi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "SingPanMan",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "LORiWWA",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "nicoprietob",
+          "Player2": "DInglis",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "piao",
+          "Player2": "mashirorc",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "RogeDeckWins",
+          "Player2": "Wesal",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "Erik157751",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "unluckymonkey",
+          "Player2": "oosunq",
+          "Result": "1-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_INF_",
+          "Player2": "Firetruck",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "_Joseba_",
+          "Player2": "oosunq",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "_Shatun_",
+          "Player2": "DB_bhobbsie",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "desolutionist",
+          "Player2": "DInglis",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "Wesal",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Erik157751",
+          "Player2": "crK",
+          "Result": "0-1-0"
+        },
+        {
+          "Player1": "Jinjaa",
+          "Player2": "SpikeBoltHelix",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "KingHairy",
+          "Player2": "BERNASTORRES",
+          "Result": "0-0-0"
+        },
+        {
+          "Player1": "kristofff",
+          "Player2": "unluckymonkey",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Magic_Dads71522",
+          "Player2": "_Pady_",
+          "Result": "1-1-0"
+        },
+        {
+          "Player1": "mashirorc",
+          "Player2": "Andrea94",
+          "Result": "0-1-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "albertoSD",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "piao",
+          "Player2": "choutin",
+          "Result": "1-1-0"
+        },
+        {
+          "Player1": "RogeDeckWins",
+          "Player2": "nicoprietob",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SingPanMan",
+          "Player2": "Hampuse1",
+          "Result": "1-1-0"
+        },
+        {
+          "Player1": "TrueHero",
+          "Player2": "LORiWWA",
+          "Result": "1-1-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "medvedev",
+          "Result": "1-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_INF_",
+          "Player2": "kristofff",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "albertoSD",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "DB_bhobbsie",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Erik157751",
+          "Player2": "desolutionist",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Firetruck",
+          "Player2": "Wesal",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Hampuse1",
+          "Player2": "KingHairy",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LORiWWA",
+          "Player2": "DInglis",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "mashirorc",
+          "Player2": "_Shatun_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "_Joseba_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "crK",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "piao",
+          "Player2": "SpikeBoltHelix",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "RogeDeckWins",
+          "Player2": "Andrea94",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "SingPanMan",
+          "Player2": "Jinjaa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TrueHero",
+          "Player2": "Magic_Dads71522",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "oosunq",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "unluckymonkey",
+          "Player2": "nicoprietob",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "crK",
+          "Player2": "Firetruck",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "Magic_Dads71522",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Erik157751",
+          "Player2": "Jinjaa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Hampuse1",
+          "Player2": "Munchlax446",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kristofff",
+          "Player2": "TrueHero",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LORiWWA",
+          "Player2": "choutin",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "mashirorc",
+          "Player2": "oosunq",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "RogeDeckWins",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "nicoprietob",
+          "Player2": "_Shatun_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "piao",
+          "Player2": "KingHairy",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SingPanMan",
+          "Player2": "_Joseba_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "_INF_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "unluckymonkey",
+          "Player2": "Andrea94",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Wesal",
+          "Player2": "_Pady_",
+          "Result": "1-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "medvedev",
+          "Player2": "kristofff",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "RogeDeckWins",
+          "Player2": "_INF_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "SingPanMan",
+          "Player2": "Hampuse1",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "_Joseba_",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "medvedev",
+          "Player2": "RogeDeckWins",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "SingPanMan",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "medvedev",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ]
+}

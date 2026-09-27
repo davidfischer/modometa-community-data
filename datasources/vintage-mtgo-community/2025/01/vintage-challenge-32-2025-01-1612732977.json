@@ -1,0 +1,774 @@
+{
+  "Tournament": {
+    "Id": "vintage-challenge-32-2025-01-1612732977",
+    "Date": "2025-01-16",
+    "Name": "Vintage Challenge 32",
+    "PlayerCount": 39,
+    "Source": "vintage-mtgo-community",
+    "SheetId": "1xrzigQkI7eRCwM4PPXvudgxJPWvHZObq9GvYSFFQYVI"
+  },
+  "Players": [
+    {
+      "Player": "Tsubasa_Cat",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "_Batutinha_",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "death_grips",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "wiky",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "_Chamytinho_",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "RedandSnap1",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "Killah_SUV",
+      "Archetype": "Eldrazi"
+    },
+    {
+      "Player": "Dr. Jon Osterman",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "lordoflifegain",
+      "Archetype": "BUG"
+    },
+    {
+      "Player": "slaxx",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "TrueHero",
+      "Archetype": "Oath"
+    },
+    {
+      "Player": "unluckymonkey",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "dolly_d84",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "Jumba",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "Graciasportanto",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "MarcoIa",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "bless_von",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "albertoSD",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "FranMtg",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "ecobaronen",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "O_danielakos",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "Montolio",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "adm29",
+      "Archetype": "Other Shops"
+    },
+    {
+      "Player": "PintuMtg",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "Viatt",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "Ale_Mtg",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "wongdeck",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "LasVegasChaos",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "ice_nine_BIGFAN",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "_Shatun_",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "pirol94",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "KingHairy",
+      "Archetype": "Lurrus DRS"
+    },
+    {
+      "Player": "La_Ele",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "LucasG1ggs",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "haqe",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "-CAPS-",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "gatekappa",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "IamActuallyLvL1",
+      "Archetype": "Aggrovine"
+    },
+    {
+      "Player": "cicciogire",
+      "Archetype": "Esper Lurrus Control"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "pirol94",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Chamytinho_",
+          "Player2": "Ale_Mtg",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "cicciogire",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "dolly_d84",
+          "Player2": "adm29",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Dr. Jon Osterman",
+          "Player2": "Montolio",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Graciasportanto",
+          "Player2": "FranMtg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "haqe",
+          "Player2": "IamActuallyLvL1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "bless_von",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Killah_SUV",
+          "Player2": "slaxx",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "La_Ele",
+          "Player2": "-CAPS-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "lordoflifegain",
+          "Player2": "ecobaronen",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "MarcoIa",
+          "Player2": "LasVegasChaos",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "ice_nine_BIGFAN",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "RedandSnap1",
+          "Player2": "LucasG1ggs",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TrueHero",
+          "Player2": "PintuMtg",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "wiky",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "unluckymonkey",
+          "Player2": "_Shatun_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Viatt",
+          "Player2": "gatekappa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "wongdeck",
+          "Player2": "KingHairy",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "death_grips",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Chamytinho_",
+          "Player2": "KingHairy",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Shatun_",
+          "Player2": "cicciogire",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "-CAPS-",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "dolly_d84",
+          "Player2": "PintuMtg",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Dr. Jon Osterman",
+          "Player2": "adm29",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "FranMtg",
+          "Player2": "Ale_Mtg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Graciasportanto",
+          "Player2": "ice_nine_BIGFAN",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "ecobaronen",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Killah_SUV",
+          "Player2": "La_Ele",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "lordoflifegain",
+          "Player2": "wongdeck",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MarcoIa",
+          "Player2": "haqe",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Montolio",
+          "Player2": "LasVegasChaos",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "pirol94",
+          "Player2": "LucasG1ggs",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "RedandSnap1",
+          "Player2": "Viatt",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "slaxx",
+          "Player2": "O_danielakos",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TrueHero",
+          "Player2": "albertoSD",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "gatekappa",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "wiky",
+          "Player2": "unluckymonkey",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "Dr. Jon Osterman",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Chamytinho_",
+          "Player2": "albertoSD",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ale_Mtg",
+          "Player2": "LucasG1ggs",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "death_grips",
+          "Player2": "MarcoIa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "dolly_d84",
+          "Player2": "O_danielakos",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "Viatt",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Killah_SUV",
+          "Player2": "Jumba",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LasVegasChaos",
+          "Player2": "La_Ele",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "lordoflifegain",
+          "Player2": "KingHairy",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "PintuMtg",
+          "Player2": "_Shatun_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "RedandSnap1",
+          "Player2": "adm29",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "slaxx",
+          "Player2": "bless_von",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "TrueHero",
+          "Player2": "ice_nine_BIGFAN",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "pirol94",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "unluckymonkey",
+          "Player2": "FranMtg",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "wiky",
+          "Player2": "Graciasportanto",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "wongdeck",
+          "Player2": "-CAPS-",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "adm29",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Chamytinho_",
+          "Player2": "bless_von",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "death_grips",
+          "Player2": "Jumba",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "dolly_d84",
+          "Player2": "_Shatun_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dr. Jon Osterman",
+          "Player2": "Ale_Mtg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "-CAPS-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "FranMtg",
+          "Player2": "ice_nine_BIGFAN",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Killah_SUV",
+          "Player2": "MarcoIa",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "lordoflifegain",
+          "Player2": "Viatt",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Montolio",
+          "Player2": "wongdeck",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "LucasG1ggs",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "RedandSnap1",
+          "Player2": "Graciasportanto",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "slaxx",
+          "Player2": "La_Ele",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TrueHero",
+          "Player2": "LasVegasChaos",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "albertoSD",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "unluckymonkey",
+          "Player2": "pirol94",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "wiky",
+          "Player2": "PintuMtg",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "Graciasportanto",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Ale_Mtg",
+          "Player2": "ice_nine_BIGFAN",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "death_grips",
+          "Player2": "RedandSnap1",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "dolly_d84",
+          "Player2": "wongdeck",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dr. Jon Osterman",
+          "Player2": "bless_von",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "LasVegasChaos",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "lordoflifegain",
+          "Player2": "Jumba",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "-CAPS-",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "MarcoIa",
+          "Player2": "albertoSD",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Montolio",
+          "Player2": "La_Ele",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "_Shatun_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "slaxx",
+          "Player2": "PintuMtg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TrueHero",
+          "Player2": "FranMtg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "Killah_SUV",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "unluckymonkey",
+          "Player2": "adm29",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "wiky",
+          "Player2": "_Chamytinho_",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "lordoflifegain",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "_Chamytinho_",
+          "Player2": "TrueHero",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "_Shatun_",
+          "Player2": "La_Ele",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "LasVegasChaos",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "wongdeck",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "dolly_d84",
+          "Player2": "ecobaronen",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Dr. Jon Osterman",
+          "Player2": "Graciasportanto",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ice_nine_BIGFAN",
+          "Player2": "-CAPS-",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Killah_SUV",
+          "Player2": "FranMtg",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Montolio",
+          "Player2": "PintuMtg",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "adm29",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "slaxx",
+          "Player2": "MarcoIa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "death_grips",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "unluckymonkey",
+          "Player2": "Jumba",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "wiky",
+          "Player2": "RedandSnap1",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "RedandSnap1",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "death_grips",
+          "Player2": "Dr. Jon Osterman",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "_Chamytinho_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "wiky",
+          "Player2": "Killah_SUV",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "wiky",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "death_grips",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "_Batutinha_",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ]
+}

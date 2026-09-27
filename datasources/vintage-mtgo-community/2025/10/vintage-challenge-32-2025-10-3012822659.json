@@ -1,0 +1,685 @@
+{
+  "Tournament": {
+    "Id": "vintage-challenge-32-2025-10-3012822659",
+    "Date": "2025-10-30",
+    "Name": "Vintage Challenge 32",
+    "PlayerCount": 33,
+    "Source": "vintage-mtgo-community",
+    "SheetId": "19iXzTKL5PqBj5OjKXDTlmvkkDZmrrhpNOw71FPPkmN0"
+  },
+  "Players": [
+    {
+      "Player": "jade-venus",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "WadeB",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "slaxx",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "cicciogire",
+      "Archetype": "Lurrus Breach"
+    },
+    {
+      "Player": "Tsubasa_Cat",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "_Shatun_",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "Aaa258",
+      "Archetype": "Tinker"
+    },
+    {
+      "Player": "AFX",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "etoustar",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "CrazyDiamond513",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "Peppembr",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "4FunNoWin",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "TheManLand",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "itstime",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "e0068",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "LasVegasChaos",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "SilversRayleigh",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "HyuugaHeir",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "Antarctica",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "Montolio",
+      "Archetype": "Other Lurrus"
+    },
+    {
+      "Player": "DethFrmAbove",
+      "Archetype": "Lurrus Breach"
+    },
+    {
+      "Player": "Bunbuneru",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "DrPP",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "TradingonTilt",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "Magic_Dads71522",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "adm29",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "oosunq",
+      "Archetype": "Countervine"
+    },
+    {
+      "Player": "blackdecks99",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "O_danielakos",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "silencsong",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "kaikas",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "parkss",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "The_shallow_grave",
+      "Archetype": "Sphere Shops"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "4FunNoWin",
+          "Player2": "silencsong",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Shatun_",
+          "Player2": "parkss",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Aaa258",
+          "Player2": "etoustar",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "AFX",
+          "Player2": "CrazyDiamond513",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Antarctica",
+          "Player2": "Magic_Dads71522",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Bunbuneru",
+          "Player2": "adm29",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DethFrmAbove",
+          "Player2": "kaikas",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DrPP",
+          "Player2": "oosunq",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "e0068",
+          "Player2": "TradingonTilt",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jade-venus",
+          "Player2": "cicciogire",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "LasVegasChaos",
+          "Player2": "HyuugaHeir",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Montolio",
+          "Player2": "The_shallow_grave",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "SilversRayleigh",
+          "Player2": "O_danielakos",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "slaxx",
+          "Player2": "TheManLand",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "Peppembr",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "WadeB",
+          "Player2": "blackdecks99",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "4FunNoWin",
+          "Player2": "DrPP",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "_Shatun_",
+          "Player2": "e0068",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Aaa258",
+          "Player2": "LasVegasChaos",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "AFX",
+          "Player2": "parkss",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "cicciogire",
+          "Player2": "Bunbuneru",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "CrazyDiamond513",
+          "Player2": "Antarctica",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "etoustar",
+          "Player2": "Peppembr",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "HyuugaHeir",
+          "Player2": "silencsong",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "itstime",
+          "Player2": "blackdecks99",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "jade-venus",
+          "Player2": "The_shallow_grave",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Magic_Dads71522",
+          "Player2": "adm29",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "SilversRayleigh",
+          "Player2": "kaikas",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "slaxx",
+          "Player2": "O_danielakos",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TradingonTilt",
+          "Player2": "oosunq",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "Montolio",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "WadeB",
+          "Player2": "DethFrmAbove",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Shatun_",
+          "Player2": "4FunNoWin",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Aaa258",
+          "Player2": "CrazyDiamond513",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "AFX",
+          "Player2": "etoustar",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Antarctica",
+          "Player2": "oosunq",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "DethFrmAbove",
+          "Player2": "DrPP",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "e0068",
+          "Player2": "adm29",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "jade-venus",
+          "Player2": "blackdecks99",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "LasVegasChaos",
+          "Player2": "Bunbuneru",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Peppembr",
+          "Player2": "Magic_Dads71522",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "silencsong",
+          "Player2": "The_shallow_grave",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "SilversRayleigh",
+          "Player2": "Montolio",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "slaxx",
+          "Player2": "cicciogire",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TheManLand",
+          "Player2": "HyuugaHeir",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TradingonTilt",
+          "Player2": "kaikas",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "itstime",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "WadeB",
+          "Player2": "O_danielakos",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "AFX",
+          "Player2": "4FunNoWin",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Bunbuneru",
+          "Player2": "silencsong",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "cicciogire",
+          "Player2": "LasVegasChaos",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "CrazyDiamond513",
+          "Player2": "TheManLand",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "DrPP",
+          "Player2": "O_danielakos",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "etoustar",
+          "Player2": "Antarctica",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "HyuugaHeir",
+          "Player2": "Magic_Dads71522",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "jade-venus",
+          "Player2": "itstime",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Montolio",
+          "Player2": "oosunq",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Peppembr",
+          "Player2": "adm29",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SilversRayleigh",
+          "Player2": "DethFrmAbove",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "slaxx",
+          "Player2": "Aaa258",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TradingonTilt",
+          "Player2": "blackdecks99",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "_Shatun_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "WadeB",
+          "Player2": "e0068",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "4FunNoWin",
+          "Player2": "TradingonTilt",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "AFX",
+          "Player2": "TheManLand",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Antarctica",
+          "Player2": "adm29",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "cicciogire",
+          "Player2": "Tsubasa_Cat",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "CrazyDiamond513",
+          "Player2": "silencsong",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "e0068",
+          "Player2": "oosunq",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "etoustar",
+          "Player2": "Montolio",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "itstime",
+          "Player2": "HyuugaHeir",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "jade-venus",
+          "Player2": "SilversRayleigh",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LasVegasChaos",
+          "Player2": "DrPP",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Magic_Dads71522",
+          "Player2": "kaikas",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Peppembr",
+          "Player2": "Bunbuneru",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "slaxx",
+          "Player2": "_Shatun_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "WadeB",
+          "Player2": "Aaa258",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "4FunNoWin",
+          "Player2": "Montolio",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Aaa258",
+          "Player2": "HyuugaHeir",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "adm29",
+          "Player2": "silencsong",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Antarctica",
+          "Player2": "TradingonTilt",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "cicciogire",
+          "Player2": "TheManLand",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "CrazyDiamond513",
+          "Player2": "LasVegasChaos",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DrPP",
+          "Player2": "Magic_Dads71522",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "etoustar",
+          "Player2": "e0068",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "itstime",
+          "Player2": "Bunbuneru",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jade-venus",
+          "Player2": "AFX",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Peppembr",
+          "Player2": "SilversRayleigh",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "slaxx",
+          "Player2": "Tsubasa_Cat",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "WadeB",
+          "Player2": "_Shatun_",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "cicciogire",
+          "Player2": "Tsubasa_Cat",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "jade-venus",
+          "Player2": "_Shatun_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "slaxx",
+          "Player2": "AFX",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "WadeB",
+          "Player2": "Aaa258",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "jade-venus",
+          "Player2": "slaxx",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "WadeB",
+          "Player2": "cicciogire",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "jade-venus",
+          "Player2": "WadeB",
+          "Result": "2-1-0"
+        }
+      ]
+    }
+  ]
+}

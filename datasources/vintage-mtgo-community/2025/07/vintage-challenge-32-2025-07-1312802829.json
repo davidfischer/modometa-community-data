@@ -1,0 +1,580 @@
+{
+  "Tournament": {
+    "Id": "vintage-challenge-32-2025-07-1312802829",
+    "Date": "2025-07-13",
+    "Name": "Vintage Challenge 32",
+    "PlayerCount": 32,
+    "Source": "vintage-mtgo-community",
+    "SheetId": "11Ol1Ql2aOQK5LqSAvHxw86ZCR63afG-JcWdYAuIubNM"
+  },
+  "Players": [
+    {
+      "Player": "_Shikamaru_",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "powered_by_VANYA",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "musasabi",
+      "Archetype": "Oath"
+    },
+    {
+      "Player": "Montolio",
+      "Archetype": "Other Lurrus"
+    },
+    {
+      "Player": "crK",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "JayCutler",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "_Joseba_",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "piao",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "Fantaman95",
+      "Archetype": "Lurrus Breach"
+    },
+    {
+      "Player": "Lollopollo2001",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "s8shock",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "416FrowningTable",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "discoverN",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "medvedev",
+      "Archetype": "Lurrus DRS"
+    },
+    {
+      "Player": "Tsubasa_Cat",
+      "Archetype": "Lurrus Doomsday"
+    },
+    {
+      "Player": "RespectTheCat",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "oosunq",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "Erik157751",
+      "Archetype": "Tinker"
+    },
+    {
+      "Player": "Terminus0",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "_epinephrine",
+      "Archetype": "PO"
+    },
+    {
+      "Player": "Cachorrowo",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "kristofff",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "DB_revenantkioku",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "SingPanMan",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "Ayyypeks",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "adm29",
+      "Archetype": "Other Shops"
+    },
+    {
+      "Player": "desolutionist",
+      "Archetype": "Tinker"
+    },
+    {
+      "Player": "_Shatun_",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "RatherBplayingMTG",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "TrueHero",
+      "Archetype": "Blue Control"
+    },
+    {
+      "Player": "satu2112",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "EVhuner",
+      "Archetype": "Esper Lurrus Control"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Joseba_",
+          "Player2": "oosunq",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Shikamaru_",
+          "Player2": "adm29",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "Fantaman95",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DB_revenantkioku",
+          "Player2": "TrueHero",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "Cachorrowo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "JayCutler",
+          "Player2": "RatherBplayingMTG",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Lollopollo2001",
+          "Player2": "Erik157751",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "_Shatun_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Montolio",
+          "Player2": "s8shock",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "desolutionist",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "piao",
+          "Player2": "416FrowningTable",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "powered_by_VANYA",
+          "Player2": "_epinephrine",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "RespectTheCat",
+          "Player2": "kristofff",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SingPanMan",
+          "Player2": "EVhuner",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Terminus0",
+          "Player2": "satu2112",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "Ayyypeks",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_epinephrine",
+          "Player2": "TrueHero",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "_Joseba_",
+          "Player2": "Erik157751",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "_Shikamaru_",
+          "Player2": "Lollopollo2001",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Cachorrowo",
+          "Player2": "RatherBplayingMTG",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "JayCutler",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Fantaman95",
+          "Player2": "_Shatun_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kristofff",
+          "Player2": "EVhuner",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "RespectTheCat",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Montolio",
+          "Player2": "SingPanMan",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "oosunq",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "piao",
+          "Player2": "discoverN",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "powered_by_VANYA",
+          "Player2": "Ayyypeks",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "s8shock",
+          "Player2": "desolutionist",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Terminus0",
+          "Player2": "DB_revenantkioku",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "adm29",
+          "Result": "1-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "416FrowningTable",
+          "Player2": "adm29",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_epinephrine",
+          "Player2": "SingPanMan",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "_Joseba_",
+          "Player2": "kristofff",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Shikamaru_",
+          "Player2": "RespectTheCat",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "Terminus0",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "desolutionist",
+          "Player2": "_Shatun_",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Fantaman95",
+          "Player2": "Cachorrowo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JayCutler",
+          "Player2": "discoverN",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Lollopollo2001",
+          "Player2": "oosunq",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "Ayyypeks",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Montolio",
+          "Player2": "piao",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "powered_by_VANYA",
+          "Player2": "musasabi",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "s8shock",
+          "Player2": "DB_revenantkioku",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "RatherBplayingMTG",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Joseba_",
+          "Player2": "416FrowningTable",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Shikamaru_",
+          "Player2": "Montolio",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Cachorrowo",
+          "Player2": "SingPanMan",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "adm29",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Erik157751",
+          "Player2": "_Shatun_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Fantaman95",
+          "Player2": "_epinephrine",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JayCutler",
+          "Player2": "piao",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Lollopollo2001",
+          "Player2": "Terminus0",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "crK",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "oosunq",
+          "Player2": "DB_revenantkioku",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "powered_by_VANYA",
+          "Player2": "RespectTheCat",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "s8shock",
+          "Player2": "medvedev",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "kristofff",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "416FrowningTable",
+          "Player2": "Cachorrowo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "_Joseba_",
+          "Player2": "Lollopollo2001",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Shikamaru_",
+          "Player2": "musasabi",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "s8shock",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "DB_revenantkioku",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JayCutler",
+          "Player2": "Fantaman95",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kristofff",
+          "Player2": "_Shatun_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "Erik157751",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "oosunq",
+          "Player2": "adm29",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "piao",
+          "Player2": "Terminus0",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "powered_by_VANYA",
+          "Player2": "Montolio",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SingPanMan",
+          "Player2": "desolutionist",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "RespectTheCat",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "_Shikamaru_",
+          "Player2": "_Joseba_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Montolio",
+          "Player2": "crK",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "piao",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "powered_by_VANYA",
+          "Player2": "JayCutler",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "_Shikamaru_",
+          "Player2": "Montolio",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "powered_by_VANYA",
+          "Player2": "musasabi",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "_Shikamaru_",
+          "Player2": "powered_by_VANYA",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ]
+}

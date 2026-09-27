@@ -1,0 +1,538 @@
+{
+  "Tournament": {
+    "Id": "vintage-challenge-16-2026-09-1712854620",
+    "Date": "2026-09-17",
+    "Name": "Vintage Challenge 16",
+    "PlayerCount": 29,
+    "Source": "vintage-mtgo-community",
+    "SheetId": "1xDZd8Uq1_cPBCEn7bKYpdDAbDgBwEHSYJURUFaxWy68"
+  },
+  "Players": [
+    {
+      "Player": "Mogged",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "zippzipp_",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "Danielpena397",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "Marmotte_Lambda",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "_Shikamaru_",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "JustABee5",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "Tsubasa_Cat",
+      "Archetype": "Lurrus Doomsday"
+    },
+    {
+      "Player": "fazparte",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "jeunejulio",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "CrazyDiamond513",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "AFX",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "PoderosissimoNinja",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "Aced5",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "MeninoNey",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "bcs8995",
+      "Archetype": "Oath"
+    },
+    {
+      "Player": "adm29",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "Wesal",
+      "Archetype": "Oath"
+    },
+    {
+      "Player": "DethFrmAbove",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "DelverFofoqueiro",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "ravidel85",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "AmadeusPro",
+      "Archetype": "Lurrus Breach"
+    },
+    {
+      "Player": "trogdor1396",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "DominiqueTutor",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "etoustar",
+      "Archetype": "Oath"
+    },
+    {
+      "Player": "Domotoro",
+      "Archetype": "Tinker"
+    },
+    {
+      "Player": "jessy_samek",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "monzatubarao",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "molimomaro",
+      "Archetype": "PO"
+    },
+    {
+      "Player": "Erik157751",
+      "Archetype": "Initiative"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Shikamaru_",
+          "Player2": "Wesal",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "AFX",
+          "Player2": "Aced5",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "bcs8995",
+          "Player2": "trogdor1396",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Domotoro",
+          "Player2": "molimomaro",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "etoustar",
+          "Player2": "Erik157751",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "fazparte",
+          "Player2": "CrazyDiamond513",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jeunejulio",
+          "Player2": "DelverFofoqueiro",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "JustABee5",
+          "Player2": "adm29",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MeninoNey",
+          "Player2": "AmadeusPro",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "DominiqueTutor",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "PoderosissimoNinja",
+          "Player2": "monzatubarao",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ravidel85",
+          "Player2": "jessy_samek",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "DethFrmAbove",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "zippzipp_",
+          "Player2": "Danielpena397",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Shikamaru_",
+          "Player2": "jeunejulio",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "bcs8995",
+          "Player2": "DominiqueTutor",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "CrazyDiamond513",
+          "Player2": "Aced5",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Danielpena397",
+          "Player2": "etoustar",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DelverFofoqueiro",
+          "Player2": "molimomaro",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DethFrmAbove",
+          "Player2": "Domotoro",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "fazparte",
+          "Player2": "jessy_samek",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "JustABee5",
+          "Player2": "AmadeusPro",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Marmotte_Lambda",
+          "Player2": "AFX",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "adm29",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "PoderosissimoNinja",
+          "Player2": "trogdor1396",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ravidel85",
+          "Player2": "Erik157751",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "MeninoNey",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Wesal",
+          "Player2": "monzatubarao",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Shikamaru_",
+          "Player2": "adm29",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Aced5",
+          "Player2": "monzatubarao",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "bcs8995",
+          "Player2": "ravidel85",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "CrazyDiamond513",
+          "Player2": "molimomaro",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Danielpena397",
+          "Player2": "Tsubasa_Cat",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DethFrmAbove",
+          "Player2": "DelverFofoqueiro",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DominiqueTutor",
+          "Player2": "Erik157751",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "jeunejulio",
+          "Player2": "trogdor1396",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "JustABee5",
+          "Player2": "Domotoro",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Marmotte_Lambda",
+          "Player2": "fazparte",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MeninoNey",
+          "Player2": "jessy_samek",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "PoderosissimoNinja",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Wesal",
+          "Player2": "etoustar",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "zippzipp_",
+          "Player2": "AFX",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "Aced5",
+          "Player2": "DominiqueTutor",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "AFX",
+          "Player2": "AmadeusPro",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Danielpena397",
+          "Player2": "Marmotte_Lambda",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DelverFofoqueiro",
+          "Player2": "ravidel85",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "fazparte",
+          "Player2": "PoderosissimoNinja",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "jessy_samek",
+          "Player2": "monzatubarao",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "jeunejulio",
+          "Player2": "bcs8995",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JustABee5",
+          "Player2": "DethFrmAbove",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MeninoNey",
+          "Player2": "adm29",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "_Shikamaru_",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "CrazyDiamond513",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "zippzipp_",
+          "Player2": "Wesal",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "Aced5",
+          "Player2": "adm29",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "AFX",
+          "Player2": "Domotoro",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "bcs8995",
+          "Player2": "DelverFofoqueiro",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Danielpena397",
+          "Player2": "_Shikamaru_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jeunejulio",
+          "Player2": "CrazyDiamond513",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "JustABee5",
+          "Player2": "Tsubasa_Cat",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MeninoNey",
+          "Player2": "Wesal",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "Marmotte_Lambda",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "PoderosissimoNinja",
+          "Player2": "DethFrmAbove",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ravidel85",
+          "Player2": "monzatubarao",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "zippzipp_",
+          "Player2": "fazparte",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "Danielpena397",
+          "Player2": "fazparte",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Marmotte_Lambda",
+          "Player2": "_Shikamaru_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "JustABee5",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "zippzipp_",
+          "Player2": "Tsubasa_Cat",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "Mogged",
+          "Player2": "Danielpena397",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "zippzipp_",
+          "Player2": "Marmotte_Lambda",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "Mogged",
+          "Player2": "zippzipp_",
+          "Result": "1-0-0"
+        }
+      ]
+    }
+  ]
+}

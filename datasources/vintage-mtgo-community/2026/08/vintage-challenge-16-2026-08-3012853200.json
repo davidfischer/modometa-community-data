@@ -1,0 +1,551 @@
+{
+  "Tournament": {
+    "Id": "vintage-challenge-16-2026-08-3012853200",
+    "Date": "2026-08-30",
+    "Name": "Vintage Challenge 16",
+    "PlayerCount": 31,
+    "Source": "vintage-mtgo-community",
+    "SheetId": "1hxQQ9AyXE2YJj3khS_VBYaql0LAVOdjJRMFq-9ATRT0"
+  },
+  "Players": [
+    {
+      "Player": "otakkun",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "zuranthus",
+      "Archetype": "Oath"
+    },
+    {
+      "Player": "jev_",
+      "Archetype": "Lurrus DRS"
+    },
+    {
+      "Player": "SingPanMan",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "etoustar",
+      "Archetype": "Lurrus Vault Key"
+    },
+    {
+      "Player": "MegaSwampert",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "jibeta",
+      "Archetype": "Oath"
+    },
+    {
+      "Player": "zippzipp_",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "_INF_",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "mononofu",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "taku123",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "svessesvv",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "Nanovo",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "-yursus-",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "sandydogmtg",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "crK",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "TheKing82",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "ejk",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "yoshiwata",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "choutin",
+      "Archetype": "PO"
+    },
+    {
+      "Player": "boytriton",
+      "Archetype": "Lurrus DRS"
+    },
+    {
+      "Player": "Dreddybajs",
+      "Archetype": "Lurrus Vault Key"
+    },
+    {
+      "Player": "Wesal",
+      "Archetype": "Oath"
+    },
+    {
+      "Player": "EnihcamAmgine",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "adm29",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "Slasher21",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "Lostwanderer",
+      "Archetype": "Lurrus DRS"
+    },
+    {
+      "Player": "FranciscoCR91",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "medvedev",
+      "Archetype": "Oath"
+    },
+    {
+      "Player": "NathanLipetz",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "lordoflifegain",
+      "Archetype": "UB Lurrus Control"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "-yursus-",
+          "Player2": "choutin",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_INF_",
+          "Player2": "yoshiwata",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "boytriton",
+          "Player2": "NathanLipetz",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ejk",
+          "Player2": "lordoflifegain",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "etoustar",
+          "Player2": "Slasher21",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "jev_",
+          "Player2": "Lostwanderer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jibeta",
+          "Player2": "crK",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MegaSwampert",
+          "Player2": "taku123",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "mononofu",
+          "Player2": "Dreddybajs",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SingPanMan",
+          "Player2": "FranciscoCR91",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "svessesvv",
+          "Player2": "EnihcamAmgine",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TheKing82",
+          "Player2": "adm29",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Wesal",
+          "Player2": "medvedev",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "zippzipp_",
+          "Player2": "sandydogmtg",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "zuranthus",
+          "Player2": "Nanovo",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "-yursus-",
+          "Player2": "FranciscoCR91",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_INF_",
+          "Player2": "choutin",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "boytriton",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "EnihcamAmgine",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "etoustar",
+          "Player2": "Wesal",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jev_",
+          "Player2": "zippzipp_",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "jibeta",
+          "Player2": "medvedev",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MegaSwampert",
+          "Player2": "NathanLipetz",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Nanovo",
+          "Player2": "Lostwanderer",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "otakkun",
+          "Player2": "svessesvv",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "sandydogmtg",
+          "Player2": "TheKing82",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "SingPanMan",
+          "Player2": "mononofu",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "taku123",
+          "Player2": "adm29",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "lordoflifegain",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "zuranthus",
+          "Player2": "ejk",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "-yursus-",
+          "Player2": "ejk",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_INF_",
+          "Player2": "mononofu",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "boytriton",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "NathanLipetz",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "etoustar",
+          "Player2": "zippzipp_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "jev_",
+          "Player2": "TheKing82",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "jibeta",
+          "Player2": "Lostwanderer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MegaSwampert",
+          "Player2": "EnihcamAmgine",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "otakkun",
+          "Player2": "taku123",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "sandydogmtg",
+          "Player2": "FranciscoCR91",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SingPanMan",
+          "Player2": "Wesal",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "svessesvv",
+          "Player2": "Nanovo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "adm29",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "zuranthus",
+          "Player2": "crK",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "-yursus-",
+          "Player2": "boytriton",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "etoustar",
+          "Player2": "_INF_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "jev_",
+          "Player2": "mononofu",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "jibeta",
+          "Player2": "zippzipp_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MegaSwampert",
+          "Player2": "yoshiwata",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Nanovo",
+          "Player2": "ejk",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "otakkun",
+          "Player2": "zuranthus",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "sandydogmtg",
+          "Player2": "adm29",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "SingPanMan",
+          "Player2": "taku123",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "svessesvv",
+          "Player2": "crK",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TheKing82",
+          "Player2": "choutin",
+          "Result": "1-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "ejk",
+          "Player2": "adm29",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "jev_",
+          "Player2": "svessesvv",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "jibeta",
+          "Player2": "-yursus-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "mononofu",
+          "Player2": "boytriton",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Nanovo",
+          "Player2": "crK",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "otakkun",
+          "Player2": "MegaSwampert",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "sandydogmtg",
+          "Player2": "yoshiwata",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SingPanMan",
+          "Player2": "_INF_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "taku123",
+          "Player2": "Dreddybajs",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "zippzipp_",
+          "Player2": "choutin",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "zuranthus",
+          "Player2": "etoustar",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "jev_",
+          "Player2": "jibeta",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "otakkun",
+          "Player2": "etoustar",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SingPanMan",
+          "Player2": "MegaSwampert",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "zuranthus",
+          "Player2": "zippzipp_",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "otakkun",
+          "Player2": "SingPanMan",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "zuranthus",
+          "Player2": "jev_",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "otakkun",
+          "Player2": "zuranthus",
+          "Result": "2-1-0"
+        }
+      ]
+    }
+  ]
+}

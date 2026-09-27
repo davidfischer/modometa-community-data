@@ -1,0 +1,932 @@
+{
+  "Tournament": {
+    "Id": "vintage-challenge-32-2026-01-3112831736",
+    "Date": "2026-01-31",
+    "Name": "Vintage Challenge 32",
+    "PlayerCount": 51,
+    "Source": "vintage-mtgo-community",
+    "SheetId": "1Y3WDJAzlgjABBO9PteGpdwh2hYp9wqzj_GroocyQLc0"
+  },
+  "Players": [
+    {
+      "Player": "CardGameAddict",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "jake-upLVT",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "CrazyDiamond513",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "Sprouts",
+      "Archetype": "BUG"
+    },
+    {
+      "Player": "whiterenren",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "Kenzaburo",
+      "Archetype": "Lurrus Breach"
+    },
+    {
+      "Player": "MayhemDJ",
+      "Archetype": "PO"
+    },
+    {
+      "Player": "Bezerra_da_Silva",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "etoustar",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "atraxa77",
+      "Archetype": "Oath"
+    },
+    {
+      "Player": "Capitano_CL",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "LasVegasChaos",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "Erik157751",
+      "Archetype": "Oath"
+    },
+    {
+      "Player": "O_danielakos",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "4FunNoWin",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "discoverN",
+      "Archetype": "Lurrus Breach"
+    },
+    {
+      "Player": "Ecoscuro",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "EddyViscosity",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "magiclaszlo",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "tao_bye_bye",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "lordoflifegain",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "Jacopogiacomoni",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "Selfeisek",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "MissTrigger",
+      "Archetype": "Scam"
+    },
+    {
+      "Player": "VitorCarvalho01",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "Wooded_Raptus",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "Ark4n",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "WLS",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "cicciogire",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "WadeB",
+      "Archetype": "Scam"
+    },
+    {
+      "Player": "maouthunder",
+      "Archetype": "Oath"
+    },
+    {
+      "Player": "piao",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "FL_LegacyClub",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "reojund",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "TradingonTilt",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "xDingusKhan",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "MarcoIa",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "EmperorOppai",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "GGoggles",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "ChessNight5030",
+      "Archetype": "Other Lurrus"
+    },
+    {
+      "Player": "Cazuza",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "cantillon",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "MrxB",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "wutup",
+      "Archetype": "Merfolk"
+    },
+    {
+      "Player": "thedeck84",
+      "Archetype": "Lurrus Breach"
+    },
+    {
+      "Player": "Navas",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "Wesal",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "blackdecks99",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "MJ_23",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "karatedom",
+      "Archetype": "Countervine"
+    },
+    {
+      "Player": "fingers1991",
+      "Archetype": "Raker Shops"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "4FunNoWin",
+          "Player2": "Ecoscuro",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "xDingusKhan",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "atraxa77",
+          "Player2": "TradingonTilt",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Bezerra_da_Silva",
+          "Player2": "Navas",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Capitano_CL",
+          "Player2": "Cazuza",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "CardGameAddict",
+          "Player2": "Wooded_Raptus",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "cicciogire",
+          "Player2": "MrxB",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "CrazyDiamond513",
+          "Player2": "cantillon",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "FL_LegacyClub",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "EddyViscosity",
+          "Player2": "Jacopogiacomoni",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Erik157751",
+          "Player2": "blackdecks99",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "etoustar",
+          "Player2": "reojund",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "GGoggles",
+          "Player2": "karatedom",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Kenzaburo",
+          "Player2": "magiclaszlo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LasVegasChaos",
+          "Player2": "MarcoIa",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "lordoflifegain",
+          "Player2": "EmperorOppai",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MayhemDJ",
+          "Player2": "maouthunder",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "thedeck84",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "piao",
+          "Player2": "fingers1991",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "MissTrigger",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Sprouts",
+          "Player2": "ChessNight5030",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "tao_bye_bye",
+          "Player2": "Wesal",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "VitorCarvalho01",
+          "Player2": "WLS",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "WadeB",
+          "Player2": "MJ_23",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "whiterenren",
+          "Player2": "wutup",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "4FunNoWin",
+          "Player2": "Ark4n",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Capitano_CL",
+          "Player2": "Jacopogiacomoni",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "CardGameAddict",
+          "Player2": "piao",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ChessNight5030",
+          "Player2": "blackdecks99",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "CrazyDiamond513",
+          "Player2": "Bezerra_da_Silva",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "GGoggles",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "EddyViscosity",
+          "Player2": "TradingonTilt",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "EmperorOppai",
+          "Player2": "fingers1991",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Erik157751",
+          "Player2": "Selfeisek",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "etoustar",
+          "Player2": "O_danielakos",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "FL_LegacyClub",
+          "Player2": "Navas",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jake-upLVT",
+          "Player2": "lordoflifegain",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Kenzaburo",
+          "Player2": "cicciogire",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "LasVegasChaos",
+          "Player2": "Ecoscuro",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "magiclaszlo",
+          "Player2": "thedeck84",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "maouthunder",
+          "Player2": "Wesal",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MarcoIa",
+          "Player2": "karatedom",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MayhemDJ",
+          "Player2": "atraxa77",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MissTrigger",
+          "Player2": "wutup",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MrxB",
+          "Player2": "MJ_23",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "reojund",
+          "Player2": "cantillon",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Sprouts",
+          "Player2": "WLS",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "tao_bye_bye",
+          "Player2": "xDingusKhan",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "VitorCarvalho01",
+          "Player2": "Wooded_Raptus",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "whiterenren",
+          "Player2": "WadeB",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "4FunNoWin",
+          "Player2": "GGoggles",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "TradingonTilt",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "atraxa77",
+          "Player2": "Selfeisek",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Bezerra_da_Silva",
+          "Player2": "Ecoscuro",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "CardGameAddict",
+          "Player2": "tao_bye_bye",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Cazuza",
+          "Player2": "cantillon",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "CrazyDiamond513",
+          "Player2": "EmperorOppai",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "etoustar",
+          "Player2": "Erik157751",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "FL_LegacyClub",
+          "Player2": "xDingusKhan",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "jake-upLVT",
+          "Player2": "WLS",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Kenzaburo",
+          "Player2": "Capitano_CL",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "LasVegasChaos",
+          "Player2": "Jacopogiacomoni",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "lordoflifegain",
+          "Player2": "piao",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "maouthunder",
+          "Player2": "MrxB",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MayhemDJ",
+          "Player2": "discoverN",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MissTrigger",
+          "Player2": "MarcoIa",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "EddyViscosity",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Sprouts",
+          "Player2": "magiclaszlo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "VitorCarvalho01",
+          "Player2": "reojund",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "WadeB",
+          "Player2": "ChessNight5030",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "whiterenren",
+          "Player2": "cicciogire",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Wooded_Raptus",
+          "Player2": "wutup",
+          "Result": "1-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "4FunNoWin",
+          "Player2": "cicciogire",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "atraxa77",
+          "Player2": "Erik157751",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Capitano_CL",
+          "Player2": "maouthunder",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "CardGameAddict",
+          "Player2": "MayhemDJ",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "CrazyDiamond513",
+          "Player2": "MissTrigger",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "EddyViscosity",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Ecoscuro",
+          "Player2": "lordoflifegain",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jacopogiacomoni",
+          "Player2": "Wooded_Raptus",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "jake-upLVT",
+          "Player2": "Bezerra_da_Silva",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Kenzaburo",
+          "Player2": "FL_LegacyClub",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "LasVegasChaos",
+          "Player2": "WLS",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "magiclaszlo",
+          "Player2": "Cazuza",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "Ark4n",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "piao",
+          "Player2": "cantillon",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "reojund",
+          "Player2": "xDingusKhan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "MrxB",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Sprouts",
+          "Player2": "WadeB",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "tao_bye_bye",
+          "Player2": "VitorCarvalho01",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TradingonTilt",
+          "Player2": "MarcoIa",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "whiterenren",
+          "Player2": "etoustar",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "atraxa77",
+          "Player2": "tao_bye_bye",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Capitano_CL",
+          "Player2": "Ecoscuro",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "CardGameAddict",
+          "Player2": "whiterenren",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "reojund",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Erik157751",
+          "Player2": "WadeB",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "etoustar",
+          "Player2": "EddyViscosity",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "FL_LegacyClub",
+          "Player2": "MarcoIa",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "jake-upLVT",
+          "Player2": "CrazyDiamond513",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Kenzaburo",
+          "Player2": "Bezerra_da_Silva",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "LasVegasChaos",
+          "Player2": "4FunNoWin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "lordoflifegain",
+          "Player2": "Jacopogiacomoni",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "magiclaszlo",
+          "Player2": "Selfeisek",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MissTrigger",
+          "Player2": "piao",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "maouthunder",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Sprouts",
+          "Player2": "MayhemDJ",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TradingonTilt",
+          "Player2": "cantillon",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "VitorCarvalho01",
+          "Player2": "cicciogire",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Wooded_Raptus",
+          "Player2": "xDingusKhan",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "4FunNoWin",
+          "Player2": "EddyViscosity",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "piao",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Bezerra_da_Silva",
+          "Player2": "lordoflifegain",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "CardGameAddict",
+          "Player2": "etoustar",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "CrazyDiamond513",
+          "Player2": "atraxa77",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "Ecoscuro",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Erik157751",
+          "Player2": "MissTrigger",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Jacopogiacomoni",
+          "Player2": "MarcoIa",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "jake-upLVT",
+          "Player2": "LasVegasChaos",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MayhemDJ",
+          "Player2": "magiclaszlo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "VitorCarvalho01",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "reojund",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Sprouts",
+          "Player2": "Capitano_CL",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "whiterenren",
+          "Player2": "Kenzaburo",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Wooded_Raptus",
+          "Player2": "TradingonTilt",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "CardGameAddict",
+          "Player2": "MayhemDJ",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "CrazyDiamond513",
+          "Player2": "Kenzaburo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jake-upLVT",
+          "Player2": "Bezerra_da_Silva",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Sprouts",
+          "Player2": "whiterenren",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "CardGameAddict",
+          "Player2": "Sprouts",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jake-upLVT",
+          "Player2": "CrazyDiamond513",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "CardGameAddict",
+          "Player2": "jake-upLVT",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ]
+}

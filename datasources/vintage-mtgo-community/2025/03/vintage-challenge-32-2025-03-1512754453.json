@@ -1,0 +1,900 @@
+{
+  "Tournament": {
+    "Id": "vintage-challenge-32-2025-03-1512754453",
+    "Date": "2025-03-15",
+    "Name": "Vintage Challenge 32",
+    "PlayerCount": 48,
+    "Source": "vintage-mtgo-community",
+    "SheetId": "1vwswWbPV9xYz7Nml9RDnXmeLPHdH9lTRDGrp4vZz34s"
+  },
+  "Players": [
+    {
+      "Player": "desolutionist",
+      "Archetype": "Lurrus Breach"
+    },
+    {
+      "Player": "Navas",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "Jumba",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "Miharu_Fuyumiya",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "big-snack-enjoyer",
+      "Archetype": "Other Lurrus"
+    },
+    {
+      "Player": "s8shock",
+      "Archetype": "Tinker"
+    },
+    {
+      "Player": "unluckymonkey",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "Bezerra_da_Silva",
+      "Archetype": "PO"
+    },
+    {
+      "Player": "RogeDeckWins",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "VitorCarvalho01",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "Tunaktunak",
+      "Archetype": "Beseech Storm"
+    },
+    {
+      "Player": "LORiWWA",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "JakeTMS",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "chanel-santini",
+      "Archetype": "Breach"
+    },
+    {
+      "Player": "UlyssesInvictus",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "LasVegasChaos",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "Firetruck",
+      "Archetype": "Countervine"
+    },
+    {
+      "Player": "mashirorc",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "Dogeminer02",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "MAFS",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "lordoflifegain",
+      "Archetype": "Lurrus DRS"
+    },
+    {
+      "Player": "Parrotlet",
+      "Archetype": "Beseech Storm"
+    },
+    {
+      "Player": "ThiGuyAgain365164",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "Illao1",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "-Nausea-",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "tao_bye_bye",
+      "Archetype": "PO"
+    },
+    {
+      "Player": "B-Carp",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "Thalai",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "Cuikui",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "gr33nashe",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "-CAPS-",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "etoustar",
+      "Archetype": "Oath"
+    },
+    {
+      "Player": "Capitano_CL",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "Erik157751",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "ScreenwriterNY",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "Tsubasa_Cat",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "_INF_",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "CrazyDiamond513",
+      "Archetype": "Lurrus Breach"
+    },
+    {
+      "Player": "BiggestBird",
+      "Archetype": "Blue Control"
+    },
+    {
+      "Player": "TaJoordan",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "pepeteam",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "nedyahiske",
+      "Archetype": "Oath"
+    },
+    {
+      "Player": "HyuugaHeir",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "papaRMSKY",
+      "Archetype": "Countervine"
+    },
+    {
+      "Player": "markdm",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "MagerMistake",
+      "Archetype": "Beseech Storm"
+    },
+    {
+      "Player": "VsTheWorld",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "oosunq",
+      "Archetype": "Esper Lurrus Control"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "-CAPS-",
+          "Player2": "Capitano_CL",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "-Nausea-",
+          "Player2": "markdm",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Bezerra_da_Silva",
+          "Player2": "JakeTMS",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "big-snack-enjoyer",
+          "Player2": "Cuikui",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "desolutionist",
+          "Player2": "pepeteam",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Dogeminer02",
+          "Player2": "MAFS",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Erik157751",
+          "Player2": "BiggestBird",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "etoustar",
+          "Player2": "oosunq",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Illao1",
+          "Player2": "Tsubasa_Cat",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "_INF_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LasVegasChaos",
+          "Player2": "Firetruck",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "LORiWWA",
+          "Player2": "VsTheWorld",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "mashirorc",
+          "Player2": "MagerMistake",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Miharu_Fuyumiya",
+          "Player2": "nedyahiske",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Navas",
+          "Player2": "HyuugaHeir",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Parrotlet",
+          "Player2": "ThiGuyAgain365164",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "RogeDeckWins",
+          "Player2": "B-Carp",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "s8shock",
+          "Player2": "papaRMSKY",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ScreenwriterNY",
+          "Player2": "TaJoordan",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "tao_bye_bye",
+          "Player2": "CrazyDiamond513",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Tunaktunak",
+          "Player2": "Thalai",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "UlyssesInvictus",
+          "Player2": "lordoflifegain",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "unluckymonkey",
+          "Player2": "chanel-santini",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "VitorCarvalho01",
+          "Player2": "gr33nashe",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "-CAPS-",
+          "Player2": "papaRMSKY",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Bezerra_da_Silva",
+          "Player2": "Capitano_CL",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "big-snack-enjoyer",
+          "Player2": "LORiWWA",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "chanel-santini",
+          "Player2": "Illao1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Cuikui",
+          "Player2": "VsTheWorld",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "desolutionist",
+          "Player2": "lordoflifegain",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Erik157751",
+          "Player2": "oosunq",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "etoustar",
+          "Player2": "TaJoordan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "gr33nashe",
+          "Player2": "_INF_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "JakeTMS",
+          "Player2": "tao_bye_bye",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "CrazyDiamond513",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "LasVegasChaos",
+          "Player2": "B-Carp",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "MAFS",
+          "Player2": "nedyahiske",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "mashirorc",
+          "Player2": "-Nausea-",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Miharu_Fuyumiya",
+          "Player2": "Thalai",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Navas",
+          "Player2": "Tsubasa_Cat",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Parrotlet",
+          "Player2": "BiggestBird",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "s8shock",
+          "Player2": "Firetruck",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ScreenwriterNY",
+          "Player2": "pepeteam",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ThiGuyAgain365164",
+          "Player2": "MagerMistake",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "UlyssesInvictus",
+          "Player2": "HyuugaHeir",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "unluckymonkey",
+          "Player2": "RogeDeckWins",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "VitorCarvalho01",
+          "Player2": "Dogeminer02",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "-Nausea-",
+          "Player2": "CrazyDiamond513",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Capitano_CL",
+          "Player2": "_INF_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Cuikui",
+          "Player2": "ScreenwriterNY",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "desolutionist",
+          "Player2": "VitorCarvalho01",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Dogeminer02",
+          "Player2": "BiggestBird",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Firetruck",
+          "Player2": "lordoflifegain",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "gr33nashe",
+          "Player2": "VsTheWorld",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "big-snack-enjoyer",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LasVegasChaos",
+          "Player2": "HyuugaHeir",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "LORiWWA",
+          "Player2": "TaJoordan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MAFS",
+          "Player2": "Tsubasa_Cat",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "mashirorc",
+          "Player2": "etoustar",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Miharu_Fuyumiya",
+          "Player2": "Bezerra_da_Silva",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Navas",
+          "Player2": "Parrotlet",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "s8shock",
+          "Player2": "RogeDeckWins",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "tao_bye_bye",
+          "Player2": "papaRMSKY",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Thalai",
+          "Player2": "-CAPS-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ThiGuyAgain365164",
+          "Player2": "B-Carp",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Tunaktunak",
+          "Player2": "Illao1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "UlyssesInvictus",
+          "Player2": "Erik157751",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "unluckymonkey",
+          "Player2": "JakeTMS",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "-CAPS-",
+          "Player2": "TaJoordan",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "-Nausea-",
+          "Player2": "Thalai",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "B-Carp",
+          "Player2": "HyuugaHeir",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Bezerra_da_Silva",
+          "Player2": "etoustar",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "big-snack-enjoyer",
+          "Player2": "s8shock",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "chanel-santini",
+          "Player2": "Tsubasa_Cat",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "desolutionist",
+          "Player2": "mashirorc",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Illao1",
+          "Player2": "gr33nashe",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JakeTMS",
+          "Player2": "_INF_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "ThiGuyAgain365164",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "LasVegasChaos",
+          "Player2": "BiggestBird",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "lordoflifegain",
+          "Player2": "CrazyDiamond513",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LORiWWA",
+          "Player2": "Cuikui",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MAFS",
+          "Player2": "Parrotlet",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Navas",
+          "Player2": "Miharu_Fuyumiya",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "RogeDeckWins",
+          "Player2": "Dogeminer02",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "tao_bye_bye",
+          "Player2": "Erik157751",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tunaktunak",
+          "Player2": "Firetruck",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "UlyssesInvictus",
+          "Player2": "ScreenwriterNY",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "unluckymonkey",
+          "Player2": "VitorCarvalho01",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "Bezerra_da_Silva",
+          "Player2": "Firetruck",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "chanel-santini",
+          "Player2": "-CAPS-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Cuikui",
+          "Player2": "Erik157751",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "desolutionist",
+          "Player2": "big-snack-enjoyer",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Dogeminer02",
+          "Player2": "lordoflifegain",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "gr33nashe",
+          "Player2": "HyuugaHeir",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JakeTMS",
+          "Player2": "B-Carp",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "-Nausea-",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "LasVegasChaos",
+          "Player2": "Illao1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Miharu_Fuyumiya",
+          "Player2": "LORiWWA",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Navas",
+          "Player2": "MAFS",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Parrotlet",
+          "Player2": "tao_bye_bye",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "RogeDeckWins",
+          "Player2": "Tunaktunak",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "s8shock",
+          "Player2": "mashirorc",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ThiGuyAgain365164",
+          "Player2": "ScreenwriterNY",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "unluckymonkey",
+          "Player2": "UlyssesInvictus",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "VitorCarvalho01",
+          "Player2": "Thalai",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "big-snack-enjoyer",
+          "Player2": "unluckymonkey",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "chanel-santini",
+          "Player2": "Firetruck",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Cuikui",
+          "Player2": "HyuugaHeir",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "desolutionist",
+          "Player2": "Navas",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Illao1",
+          "Player2": "Thalai",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JakeTMS",
+          "Player2": "gr33nashe",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "Bezerra_da_Silva",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "LasVegasChaos",
+          "Player2": "mashirorc",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "lordoflifegain",
+          "Player2": "-CAPS-",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LORiWWA",
+          "Player2": "MAFS",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Miharu_Fuyumiya",
+          "Player2": "s8shock",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Parrotlet",
+          "Player2": "Erik157751",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "RogeDeckWins",
+          "Player2": "-Nausea-",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Tunaktunak",
+          "Player2": "Dogeminer02",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "UlyssesInvictus",
+          "Player2": "ThiGuyAgain365164",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "VitorCarvalho01",
+          "Player2": "tao_bye_bye",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "desolutionist",
+          "Player2": "unluckymonkey",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "s8shock",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Miharu_Fuyumiya",
+          "Player2": "big-snack-enjoyer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Navas",
+          "Player2": "Bezerra_da_Silva",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "desolutionist",
+          "Player2": "Miharu_Fuyumiya",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Navas",
+          "Player2": "Jumba",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "desolutionist",
+          "Player2": "Navas",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,698 @@
+{
+  "Tournament": {
+    "Id": "vintage-challenge-32-2025-10-1712820709",
+    "Date": "2025-10-17",
+    "Name": "Vintage Challenge 32",
+    "PlayerCount": 35,
+    "Source": "vintage-mtgo-community",
+    "SheetId": "1ohFihMRm83fDniNn5o8DffQhv2QMIpjq8FmSCpixAE4"
+  },
+  "Players": [
+    {
+      "Player": "_Shatun_",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "_Batutinha_",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "Rivori9",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "chanel-santini",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "desolutionist",
+      "Archetype": "Lurrus Breach"
+    },
+    {
+      "Player": "Tsubasa_Cat",
+      "Archetype": "Lurrus Doomsday"
+    },
+    {
+      "Player": "WadeB",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "BiggestBird",
+      "Archetype": "PO"
+    },
+    {
+      "Player": "gusti99",
+      "Archetype": "Lurrus Doomsday"
+    },
+    {
+      "Player": "blackdecks99",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "GengsKhan",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "TaJoordan",
+      "Archetype": "Countervine"
+    },
+    {
+      "Player": "_4L3",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "TradingonTilt",
+      "Archetype": "Oath"
+    },
+    {
+      "Player": "crK",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "itstime",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "revenantkioku",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "musasabi",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "novaschin22",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "IamActuallyLvL1",
+      "Archetype": "Blue Control"
+    },
+    {
+      "Player": "Boin",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "Magic_Dads71522",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "LasVegasChaos",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "choutin",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "silencsong",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "O_danielakos",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "markdm",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "vwxyza648204",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "XShockWaveX",
+      "Archetype": "Blue Control"
+    },
+    {
+      "Player": "Munchlax446",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "luvadepedreiro",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "jake-upLVT",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "parkss",
+      "Archetype": "Lurrus DRS"
+    },
+    {
+      "Player": "albertoSD",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "i_b_TRUE",
+      "Archetype": "UB Lurrus Control"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_4L3",
+          "Player2": "choutin",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "albertoSD",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Shatun_",
+          "Player2": "vwxyza648204",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "BiggestBird",
+          "Player2": "luvadepedreiro",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "blackdecks99",
+          "Player2": "Magic_Dads71522",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Boin",
+          "Player2": "LasVegasChaos",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "chanel-santini",
+          "Player2": "novaschin22",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "i_b_TRUE",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "desolutionist",
+          "Player2": "silencsong",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "gusti99",
+          "Player2": "jake-upLVT",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "IamActuallyLvL1",
+          "Player2": "O_danielakos",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "itstime",
+          "Player2": "musasabi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "revenantkioku",
+          "Player2": "parkss",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Rivori9",
+          "Player2": "Tsubasa_Cat",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TaJoordan",
+          "Player2": "markdm",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "TradingonTilt",
+          "Player2": "Munchlax446",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "WadeB",
+          "Player2": "GengsKhan",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_4L3",
+          "Player2": "luvadepedreiro",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "markdm",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Shatun_",
+          "Player2": "BiggestBird",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "IamActuallyLvL1",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "desolutionist",
+          "Player2": "revenantkioku",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "GengsKhan",
+          "Player2": "parkss",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "gusti99",
+          "Player2": "choutin",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "itstime",
+          "Player2": "XShockWaveX",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LasVegasChaos",
+          "Player2": "Munchlax446",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Magic_Dads71522",
+          "Player2": "silencsong",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "i_b_TRUE",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Rivori9",
+          "Player2": "chanel-santini",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "TaJoordan",
+          "Player2": "jake-upLVT",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TradingonTilt",
+          "Player2": "Boin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "O_danielakos",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "vwxyza648204",
+          "Player2": "albertoSD",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "WadeB",
+          "Player2": "blackdecks99",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "crK",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "_Shatun_",
+          "Player2": "chanel-santini",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "BiggestBird",
+          "Player2": "novaschin22",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Boin",
+          "Player2": "choutin",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "desolutionist",
+          "Player2": "WadeB",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "GengsKhan",
+          "Player2": "markdm",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "gusti99",
+          "Player2": "musasabi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "LasVegasChaos",
+          "Player2": "silencsong",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Magic_Dads71522",
+          "Player2": "luvadepedreiro",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "revenantkioku",
+          "Player2": "XShockWaveX",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Rivori9",
+          "Player2": "blackdecks99",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TaJoordan",
+          "Player2": "_4L3",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "TradingonTilt",
+          "Player2": "itstime",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "IamActuallyLvL1",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "vwxyza648204",
+          "Player2": "Munchlax446",
+          "Result": "1-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "desolutionist",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "_Shatun_",
+          "Player2": "TradingonTilt",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "BiggestBird",
+          "Player2": "Boin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "blackdecks99",
+          "Player2": "Munchlax446",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "chanel-santini",
+          "Player2": "LasVegasChaos",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "GengsKhan",
+          "Player2": "_4L3",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "IamActuallyLvL1",
+          "Player2": "XShockWaveX",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Magic_Dads71522",
+          "Player2": "choutin",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "markdm",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "novaschin22",
+          "Player2": "vwxyza648204",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Rivori9",
+          "Player2": "gusti99",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "silencsong",
+          "Player2": "luvadepedreiro",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TaJoordan",
+          "Player2": "crK",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "itstime",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "WadeB",
+          "Player2": "revenantkioku",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "_4L3",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "_Shatun_",
+          "Player2": "desolutionist",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "blackdecks99",
+          "Player2": "crK",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "chanel-santini",
+          "Player2": "gusti99",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "luvadepedreiro",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "GengsKhan",
+          "Player2": "vwxyza648204",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "IamActuallyLvL1",
+          "Player2": "Boin",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "itstime",
+          "Player2": "silencsong",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Magic_Dads71522",
+          "Player2": "Munchlax446",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "novaschin22",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Rivori9",
+          "Player2": "BiggestBird",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TaJoordan",
+          "Player2": "revenantkioku",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "LasVegasChaos",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "WadeB",
+          "Player2": "TradingonTilt",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Shatun_",
+          "Player2": "_Batutinha_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "BiggestBird",
+          "Player2": "TradingonTilt",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "blackdecks99",
+          "Player2": "_4L3",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Boin",
+          "Player2": "Magic_Dads71522",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "chanel-santini",
+          "Player2": "musasabi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "choutin",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "desolutionist",
+          "Player2": "gusti99",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "IamActuallyLvL1",
+          "Player2": "Munchlax446",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "novaschin22",
+          "Player2": "LasVegasChaos",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "revenantkioku",
+          "Player2": "silencsong",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Rivori9",
+          "Player2": "GengsKhan",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "TaJoordan",
+          "Player2": "itstime",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "WadeB",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "WadeB",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Shatun_",
+          "Player2": "BiggestBird",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "chanel-santini",
+          "Player2": "desolutionist",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Rivori9",
+          "Player2": "Tsubasa_Cat",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "chanel-santini",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Shatun_",
+          "Player2": "Rivori9",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "_Shatun_",
+          "Player2": "_Batutinha_",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ]
+}

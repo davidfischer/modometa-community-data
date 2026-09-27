@@ -1,0 +1,570 @@
+{
+  "Tournament": {
+    "Id": "vintage-challenge-32-2025-07-0612801668",
+    "Date": "2025-07-06",
+    "Name": "Vintage Challenge 32",
+    "PlayerCount": 32,
+    "Source": "vintage-mtgo-community",
+    "SheetId": "1qOXs7cFh3YAOF07y59srgrMzBUTCGuJBz_kWjyCv40w"
+  },
+  "Players": [
+    {
+      "Player": "Tsubasa_Cat",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "desolutionist",
+      "Archetype": "Tinker"
+    },
+    {
+      "Player": "crK",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "SingPanMan",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "_Shikamaru_",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "Terminus0",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "ChessNight5030",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "DB_revenantkioku",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "Tunaktunak",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "2345678",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "bless_von",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "_epinephrine",
+      "Archetype": "PO"
+    },
+    {
+      "Player": "mortr3d",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "musasabi",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "death_grips",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "discoverN",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "albertoSD",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "Callenutg1",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "Filho_do_MOL",
+      "Archetype": "Lurrus Breach"
+    },
+    {
+      "Player": "Minest110",
+      "Archetype": "PO"
+    },
+    {
+      "Player": "TaJoordan",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "Ark4n",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "SimoCr",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "boytriton",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "KingHairy",
+      "Archetype": "Lurrus Breach"
+    },
+    {
+      "Player": "adm29",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "Sommertroll",
+      "Archetype": "Lurrus DRS"
+    },
+    {
+      "Player": "frostyyy_",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "MyPotatoes",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "Dreddybajs",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "2radMTG",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "unluckymonkey",
+      "Archetype": "Lurrus PO"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "2345678",
+          "Player2": "adm29",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "_epinephrine",
+          "Player2": "2radMTG",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Shikamaru_",
+          "Player2": "boytriton",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ChessNight5030",
+          "Player2": "musasabi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "SimoCr",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DB_revenantkioku",
+          "Player2": "discoverN",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "desolutionist",
+          "Player2": "Callenutg1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "KingHairy",
+          "Player2": "frostyyy_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Minest110",
+          "Player2": "Dreddybajs",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "mortr3d",
+          "Player2": "death_grips",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "SingPanMan",
+          "Player2": "Filho_do_MOL",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Sommertroll",
+          "Player2": "unluckymonkey",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "TaJoordan",
+          "Player2": "Ark4n",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Terminus0",
+          "Player2": "albertoSD",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "MyPotatoes",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tunaktunak",
+          "Player2": "bless_von",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "2345678",
+          "Player2": "Filho_do_MOL",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "_epinephrine",
+          "Player2": "mortr3d",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "_Shikamaru_",
+          "Player2": "Ark4n",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "2radMTG",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Callenutg1",
+          "Player2": "MyPotatoes",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ChessNight5030",
+          "Player2": "Minest110",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "DB_revenantkioku",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "desolutionist",
+          "Player2": "KingHairy",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "frostyyy_",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "boytriton",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "SingPanMan",
+          "Player2": "Dreddybajs",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TaJoordan",
+          "Player2": "adm29",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Terminus0",
+          "Player2": "SimoCr",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "albertoSD",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tunaktunak",
+          "Player2": "Sommertroll",
+          "Result": "1-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "adm29",
+          "Player2": "2radMTG",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "Filho_do_MOL",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "death_grips",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Callenutg1",
+          "Player2": "Dreddybajs",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ChessNight5030",
+          "Player2": "_epinephrine",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "Tunaktunak",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DB_revenantkioku",
+          "Player2": "TaJoordan",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "desolutionist",
+          "Player2": "_Shikamaru_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "SimoCr",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Minest110",
+          "Player2": "frostyyy_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "mortr3d",
+          "Player2": "KingHairy",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "SingPanMan",
+          "Player2": "musasabi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Terminus0",
+          "Player2": "Ark4n",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "2345678",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "2345678",
+          "Player2": "albertoSD",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Shikamaru_",
+          "Player2": "Callenutg1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "ChessNight5030",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DB_revenantkioku",
+          "Player2": "mortr3d",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "death_grips",
+          "Player2": "Ark4n",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "KingHairy",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Filho_do_MOL",
+          "Player2": "boytriton",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "adm29",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "SingPanMan",
+          "Player2": "_epinephrine",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TaJoordan",
+          "Player2": "SimoCr",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Terminus0",
+          "Player2": "bless_von",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "desolutionist",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tunaktunak",
+          "Player2": "Minest110",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_epinephrine",
+          "Player2": "Minest110",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "_Shikamaru_",
+          "Player2": "DB_revenantkioku",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "Callenutg1",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "death_grips",
+          "Player2": "TaJoordan",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "desolutionist",
+          "Player2": "ChessNight5030",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "adm29",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "mortr3d",
+          "Player2": "Filho_do_MOL",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "albertoSD",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "SingPanMan",
+          "Player2": "2345678",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Terminus0",
+          "Player2": "Tunaktunak",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "crK",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "crK",
+          "Player2": "Terminus0",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "desolutionist",
+          "Player2": "ChessNight5030",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SingPanMan",
+          "Player2": "_Shikamaru_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "DB_revenantkioku",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "desolutionist",
+          "Player2": "crK",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "SingPanMan",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "desolutionist",
+          "Result": "2-1-0"
+        }
+      ]
+    }
+  ]
+}

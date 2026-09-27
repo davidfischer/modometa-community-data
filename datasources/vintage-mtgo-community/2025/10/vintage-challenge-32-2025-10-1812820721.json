@@ -1,0 +1,948 @@
+{
+  "Tournament": {
+    "Id": "vintage-challenge-32-2025-10-1812820721",
+    "Date": "2025-10-18",
+    "Name": "Vintage Challenge 32",
+    "PlayerCount": 50,
+    "Source": "vintage-mtgo-community",
+    "SheetId": "1q6TqGUHSzJqyr2u5b7uQ8BgvHwOH0-mtNHi1LMQI-tM"
+  },
+  "Players": [
+    {
+      "Player": "LucasG1ggs",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "bless_von",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "Terminus0",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "lordoflifegain",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "Sommertroll",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "Diem4x",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "CardGameAddict",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "jake-upLVT",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "musasabi",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "Entropy263",
+      "Archetype": "Oath"
+    },
+    {
+      "Player": "Burnigh0",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "IamActuallyLvL1",
+      "Archetype": "Blue Control"
+    },
+    {
+      "Player": "CrazyDiamond513",
+      "Archetype": "Lurrus Breach"
+    },
+    {
+      "Player": "DelverFofoqueiro",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "Sharter87",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "YoungElf",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "Theflotist",
+      "Archetype": "Tinker"
+    },
+    {
+      "Player": "Aigis",
+      "Archetype": "Lurrus Breach"
+    },
+    {
+      "Player": "_Shatun_",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "etoustar",
+      "Archetype": "Oath"
+    },
+    {
+      "Player": "Redhotphil87",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "desolutionist",
+      "Archetype": "Lurrus Breach"
+    },
+    {
+      "Player": "TradingonTilt",
+      "Archetype": "Oath"
+    },
+    {
+      "Player": "wickedeasy81",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "ChessNight5030",
+      "Archetype": "Lurrus DRS"
+    },
+    {
+      "Player": "magiclaszlo",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "Skpchino",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "itstime",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "Peppembr",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "i_b_TRUE",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "John1111",
+      "Archetype": "Lurrus Breach"
+    },
+    {
+      "Player": "boytriton",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "bgoose321",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "JayCutler",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "gr33nashe",
+      "Archetype": "Lurrus Doomsday"
+    },
+    {
+      "Player": "thedeck84",
+      "Archetype": "Lurrus Breach"
+    },
+    {
+      "Player": "JoostdB",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "wiky",
+      "Archetype": "Lurrus Breach"
+    },
+    {
+      "Player": "HoldTheElle",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "gusti99",
+      "Archetype": "Lurrus Doomsday"
+    },
+    {
+      "Player": "_4L3",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "NishaTelya",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "TrueHero",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "Wesal",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "albertoSD",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "Falkoneye",
+      "Archetype": "PO"
+    },
+    {
+      "Player": "HyuugaHeir",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "alicoco",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "WadeB",
+      "Archetype": "Red Prison"
+    },
+    {
+      "Player": "Navas",
+      "Archetype": "Sphere Shops"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "Aigis",
+          "Player2": "wickedeasy81",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "bgoose321",
+          "Player2": "Navas",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "Diem4x",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Burnigh0",
+          "Player2": "etoustar",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "CardGameAddict",
+          "Player2": "TrueHero",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ChessNight5030",
+          "Player2": "Falkoneye",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "CrazyDiamond513",
+          "Player2": "Wesal",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DelverFofoqueiro",
+          "Player2": "i_b_TRUE",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Entropy263",
+          "Player2": "JoostdB",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "gusti99",
+          "Player2": "WadeB",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "itstime",
+          "Player2": "HoldTheElle",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "jake-upLVT",
+          "Player2": "gr33nashe",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "lordoflifegain",
+          "Player2": "IamActuallyLvL1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "_Shatun_",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "magiclaszlo",
+          "Player2": "John1111",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "JayCutler",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Peppembr",
+          "Player2": "boytriton",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Redhotphil87",
+          "Player2": "thedeck84",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Sharter87",
+          "Player2": "NishaTelya",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Skpchino",
+          "Player2": "alicoco",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Sommertroll",
+          "Player2": "desolutionist",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Terminus0",
+          "Player2": "albertoSD",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Theflotist",
+          "Player2": "HyuugaHeir",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "wiky",
+          "Player2": "_4L3",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "YoungElf",
+          "Player2": "TradingonTilt",
+          "Result": "1-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Shatun_",
+          "Player2": "gusti99",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Aigis",
+          "Player2": "John1111",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "_4L3",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Burnigh0",
+          "Player2": "JayCutler",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "CardGameAddict",
+          "Player2": "HoldTheElle",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DelverFofoqueiro",
+          "Player2": "HyuugaHeir",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "desolutionist",
+          "Player2": "alicoco",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Diem4x",
+          "Player2": "Skpchino",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "etoustar",
+          "Player2": "ChessNight5030",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "gr33nashe",
+          "Player2": "JoostdB",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "IamActuallyLvL1",
+          "Player2": "TrueHero",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "itstime",
+          "Player2": "WadeB",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jake-upLVT",
+          "Player2": "i_b_TRUE",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "lordoflifegain",
+          "Player2": "Entropy263",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "Peppembr",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "magiclaszlo",
+          "Player2": "albertoSD",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "boytriton",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "NishaTelya",
+          "Player2": "Navas",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Redhotphil87",
+          "Player2": "TradingonTilt",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Sommertroll",
+          "Player2": "CrazyDiamond513",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Terminus0",
+          "Player2": "Sharter87",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Theflotist",
+          "Player2": "bgoose321",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "wiky",
+          "Player2": "Falkoneye",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "YoungElf",
+          "Player2": "wickedeasy81",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "bless_von",
+          "Player2": "gusti99",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Burnigh0",
+          "Player2": "CrazyDiamond513",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "CardGameAddict",
+          "Player2": "Aigis",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "ChessNight5030",
+          "Player2": "_4L3",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DelverFofoqueiro",
+          "Player2": "gr33nashe",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Entropy263",
+          "Player2": "Redhotphil87",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "IamActuallyLvL1",
+          "Player2": "wiky",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "itstime",
+          "Player2": "thedeck84",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "jake-upLVT",
+          "Player2": "bgoose321",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "JoostdB",
+          "Player2": "HyuugaHeir",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "lordoflifegain",
+          "Player2": "desolutionist",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "i_b_TRUE",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "magiclaszlo",
+          "Player2": "HoldTheElle",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "_Shatun_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Peppembr",
+          "Player2": "JayCutler",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Sharter87",
+          "Player2": "boytriton",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Sommertroll",
+          "Player2": "etoustar",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Terminus0",
+          "Player2": "Diem4x",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Theflotist",
+          "Player2": "John1111",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "TradingonTilt",
+          "Player2": "Skpchino",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "wickedeasy81",
+          "Player2": "NishaTelya",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "YoungElf",
+          "Player2": "Falkoneye",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "bless_von",
+          "Player2": "boytriton",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Burnigh0",
+          "Player2": "Redhotphil87",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "CardGameAddict",
+          "Player2": "John1111",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "CrazyDiamond513",
+          "Player2": "gusti99",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DelverFofoqueiro",
+          "Player2": "magiclaszlo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "desolutionist",
+          "Player2": "NishaTelya",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Diem4x",
+          "Player2": "_Shatun_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "gr33nashe",
+          "Player2": "thedeck84",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "IamActuallyLvL1",
+          "Player2": "itstime",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jake-upLVT",
+          "Player2": "Aigis",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "lordoflifegain",
+          "Player2": "etoustar",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "TradingonTilt",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Peppembr",
+          "Player2": "i_b_TRUE",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Sharter87",
+          "Player2": "bgoose321",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Skpchino",
+          "Player2": "JoostdB",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Sommertroll",
+          "Player2": "musasabi",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Terminus0",
+          "Player2": "Entropy263",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Theflotist",
+          "Player2": "_4L3",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "wickedeasy81",
+          "Player2": "ChessNight5030",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "wiky",
+          "Player2": "HyuugaHeir",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "YoungElf",
+          "Player2": "HoldTheElle",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Shatun_",
+          "Player2": "Skpchino",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "lordoflifegain",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "boytriton",
+          "Player2": "gr33nashe",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Burnigh0",
+          "Player2": "ChessNight5030",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "CardGameAddict",
+          "Player2": "Entropy263",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "CrazyDiamond513",
+          "Player2": "i_b_TRUE",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DelverFofoqueiro",
+          "Player2": "Sharter87",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "desolutionist",
+          "Player2": "TradingonTilt",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Diem4x",
+          "Player2": "Aigis",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "etoustar",
+          "Player2": "bgoose321",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "jake-upLVT",
+          "Player2": "musasabi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "JayCutler",
+          "Player2": "_4L3",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "JoostdB",
+          "Player2": "NishaTelya",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "Terminus0",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "magiclaszlo",
+          "Player2": "wiky",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Peppembr",
+          "Player2": "HyuugaHeir",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Redhotphil87",
+          "Player2": "itstime",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Sommertroll",
+          "Player2": "IamActuallyLvL1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Theflotist",
+          "Player2": "wickedeasy81",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "YoungElf",
+          "Player2": "thedeck84",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "bless_von",
+          "Player2": "jake-upLVT",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "CardGameAddict",
+          "Player2": "Burnigh0",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "CrazyDiamond513",
+          "Player2": "Redhotphil87",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Diem4x",
+          "Player2": "musasabi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Entropy263",
+          "Player2": "Aigis",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "IamActuallyLvL1",
+          "Player2": "ChessNight5030",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "itstime",
+          "Player2": "i_b_TRUE",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "lordoflifegain",
+          "Player2": "magiclaszlo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "DelverFofoqueiro",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Peppembr",
+          "Player2": "bgoose321",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Sharter87",
+          "Player2": "_Shatun_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Skpchino",
+          "Player2": "gr33nashe",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Terminus0",
+          "Player2": "Sommertroll",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Theflotist",
+          "Player2": "etoustar",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TradingonTilt",
+          "Player2": "JayCutler",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "wickedeasy81",
+          "Player2": "JoostdB",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "YoungElf",
+          "Player2": "desolutionist",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "bless_von",
+          "Player2": "jake-upLVT",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "lordoflifegain",
+          "Player2": "Sommertroll",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "CardGameAddict",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Terminus0",
+          "Player2": "Diem4x",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "bless_von",
+          "Player2": "Terminus0",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "lordoflifegain",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "bless_von",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ]
+}

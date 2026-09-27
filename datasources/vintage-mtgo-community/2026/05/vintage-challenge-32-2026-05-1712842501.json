@@ -1,0 +1,570 @@
+{
+  "Tournament": {
+    "Id": "vintage-challenge-32-2026-05-1712842501",
+    "Date": "2026-05-17",
+    "Name": "Vintage Challenge 32",
+    "PlayerCount": 32,
+    "Source": "vintage-mtgo-community",
+    "SheetId": "15aQx9So_J3Clnk7aYqgoKIvX5A6TKNPu7dtcUUx3IPA"
+  },
+  "Players": [
+    {
+      "Player": "zippzipp_",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "HazuhiroNakamura",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "choutin",
+      "Archetype": "PO"
+    },
+    {
+      "Player": "Darkmattergun",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "SatoruGojo",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "wiky",
+      "Archetype": "Other Lurrus"
+    },
+    {
+      "Player": "SimoCr",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "vwxyza648204",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "Folero",
+      "Archetype": "Lurrus Breach"
+    },
+    {
+      "Player": "yoshiwata",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "jev_",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "LeoFa",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "Dreddybajs",
+      "Archetype": "Lurrus Breach"
+    },
+    {
+      "Player": "sandydogmtg",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "Cyberpunker",
+      "Archetype": "Oath"
+    },
+    {
+      "Player": "Munchlax446",
+      "Archetype": "Oath"
+    },
+    {
+      "Player": "Tamarindo",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "Wesal",
+      "Archetype": "Oath"
+    },
+    {
+      "Player": "Xenowan",
+      "Archetype": "Other Lurrus"
+    },
+    {
+      "Player": "RogeDeckWins",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "Ark4n",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "SingPanMan",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "lordoflifegain",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "blackdecks99",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "Tunaktunak",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "adm29",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "MyPotatoes",
+      "Archetype": "BUG"
+    },
+    {
+      "Player": "Archer365",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "crK",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "Ignotus97",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "2plus2isfive",
+      "Archetype": "Lurrus Doomsday"
+    },
+    {
+      "Player": "jake-upLVT",
+      "Archetype": "Other Lurrus"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "adm29",
+          "Player2": "jake-upLVT",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "blackdecks99",
+          "Player2": "Ignotus97",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "Xenowan",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Darkmattergun",
+          "Player2": "SimoCr",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Folero",
+          "Player2": "crK",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "HazuhiroNakamura",
+          "Player2": "RogeDeckWins",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jev_",
+          "Player2": "MyPotatoes",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "LeoFa",
+          "Player2": "Ark4n",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "Tamarindo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "SatoruGojo",
+          "Player2": "Cyberpunker",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "SingPanMan",
+          "Player2": "2plus2isfive",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "vwxyza648204",
+          "Player2": "sandydogmtg",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Wesal",
+          "Player2": "lordoflifegain",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "wiky",
+          "Player2": "Archer365",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "Tunaktunak",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "zippzipp_",
+          "Player2": "Dreddybajs",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "Ark4n",
+          "Player2": "Archer365",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "sandydogmtg",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Cyberpunker",
+          "Player2": "Ignotus97",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Darkmattergun",
+          "Player2": "MyPotatoes",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "RogeDeckWins",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Folero",
+          "Player2": "LeoFa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "HazuhiroNakamura",
+          "Player2": "jev_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "lordoflifegain",
+          "Player2": "jake-upLVT",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "crK",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SatoruGojo",
+          "Player2": "wiky",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "SimoCr",
+          "Player2": "Tamarindo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tunaktunak",
+          "Player2": "2plus2isfive",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "vwxyza648204",
+          "Player2": "SingPanMan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Xenowan",
+          "Player2": "adm29",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "Wesal",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "zippzipp_",
+          "Player2": "blackdecks99",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "choutin",
+          "Player2": "Ark4n",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Cyberpunker",
+          "Player2": "Wesal",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Darkmattergun",
+          "Player2": "blackdecks99",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "HazuhiroNakamura",
+          "Player2": "Folero",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jev_",
+          "Player2": "SingPanMan",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "LeoFa",
+          "Player2": "lordoflifegain",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "Tunaktunak",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "RogeDeckWins",
+          "Player2": "adm29",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "sandydogmtg",
+          "Player2": "crK",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SatoruGojo",
+          "Player2": "Tamarindo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "vwxyza648204",
+          "Player2": "Xenowan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "wiky",
+          "Player2": "SimoCr",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "zippzipp_",
+          "Player2": "yoshiwata",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "choutin",
+          "Player2": "Folero",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Cyberpunker",
+          "Player2": "Tunaktunak",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Darkmattergun",
+          "Player2": "jev_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "adm29",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "HazuhiroNakamura",
+          "Player2": "SimoCr",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LeoFa",
+          "Player2": "RogeDeckWins",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "sandydogmtg",
+          "Player2": "SingPanMan",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "SatoruGojo",
+          "Player2": "Munchlax446",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Tamarindo",
+          "Player2": "lordoflifegain",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "wiky",
+          "Player2": "Wesal",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "Xenowan",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "zippzipp_",
+          "Player2": "vwxyza648204",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "choutin",
+          "Player2": "SimoCr",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Cyberpunker",
+          "Player2": "lordoflifegain",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Darkmattergun",
+          "Player2": "LeoFa",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Dreddybajs",
+          "Player2": "Tunaktunak",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Folero",
+          "Player2": "Wesal",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jev_",
+          "Player2": "RogeDeckWins",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "Xenowan",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "sandydogmtg",
+          "Player2": "Ark4n",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SatoruGojo",
+          "Player2": "yoshiwata",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SingPanMan",
+          "Player2": "adm29",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "wiky",
+          "Player2": "vwxyza648204",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "zippzipp_",
+          "Player2": "HazuhiroNakamura",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "choutin",
+          "Player2": "wiky",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Darkmattergun",
+          "Player2": "SatoruGojo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "HazuhiroNakamura",
+          "Player2": "SimoCr",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "zippzipp_",
+          "Player2": "vwxyza648204",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "HazuhiroNakamura",
+          "Player2": "Darkmattergun",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "zippzipp_",
+          "Player2": "choutin",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "zippzipp_",
+          "Player2": "HazuhiroNakamura",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ]
+}

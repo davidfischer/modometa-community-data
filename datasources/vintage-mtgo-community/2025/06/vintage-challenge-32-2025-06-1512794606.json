@@ -1,0 +1,585 @@
+{
+  "Tournament": {
+    "Id": "vintage-challenge-32-2025-06-1512794606",
+    "Date": "2025-06-15",
+    "Name": "Vintage Challenge 32",
+    "PlayerCount": 32,
+    "Source": "vintage-mtgo-community",
+    "SheetId": "1j0D-bh7bOe-V8WPIfGGAKTQfXLLZowzDlw9gme6mdWo"
+  },
+  "Players": [
+    {
+      "Player": "TeamLeaderNA",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "AFX",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "Hampuse1",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "helvetti",
+      "Archetype": "PO"
+    },
+    {
+      "Player": "kabloom",
+      "Archetype": "Lurrus Breach"
+    },
+    {
+      "Player": "svessesvv",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "crK",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "unluckymonkey",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "RatherBplayingMTG",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "Sommertroll",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "musasabi",
+      "Archetype": "Beseech Storm"
+    },
+    {
+      "Player": "Antarctica",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "TrueHero",
+      "Archetype": "PO"
+    },
+    {
+      "Player": "_Joseba_",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "Ondoval",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "bless_von",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "choutin",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "piao",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "_Shatun_",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "burrarun",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "SingPanMan",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "desolutionist",
+      "Archetype": "Lurrus Breach"
+    },
+    {
+      "Player": "discoverN",
+      "Archetype": "Lurrus Doomsday"
+    },
+    {
+      "Player": "ARAPAKO",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "Navas",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "yoshiwata",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "etoustar",
+      "Archetype": "Other Lurrus"
+    },
+    {
+      "Player": "SquidOdoom",
+      "Archetype": "Red Prison"
+    },
+    {
+      "Player": "kristofff",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "Ark4n",
+      "Archetype": "Other Lurrus"
+    },
+    {
+      "Player": "DB_TrueHero",
+      "Archetype": "Lurrus DRS"
+    },
+    {
+      "Player": "Bawer",
+      "Archetype": "Initiative"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Joseba_",
+          "Player2": "ARAPAKO",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "AFX",
+          "Player2": "yoshiwata",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Antarctica",
+          "Player2": "SquidOdoom",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "DB_TrueHero",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "burrarun",
+          "Player2": "desolutionist",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "Navas",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "etoustar",
+          "Player2": "kristofff",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Hampuse1",
+          "Player2": "Ark4n",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "helvetti",
+          "Player2": "musasabi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kabloom",
+          "Player2": "crK",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Ondoval",
+          "Player2": "_Shatun_",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "piao",
+          "Player2": "Bawer",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "svessesvv",
+          "Player2": "RatherBplayingMTG",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TeamLeaderNA",
+          "Player2": "choutin",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TrueHero",
+          "Player2": "SingPanMan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "unluckymonkey",
+          "Player2": "Sommertroll",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Joseba_",
+          "Player2": "Ark4n",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "AFX",
+          "Player2": "bless_von",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "burrarun",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "desolutionist",
+          "Player2": "discoverN",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Hampuse1",
+          "Player2": "Antarctica",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "helvetti",
+          "Player2": "ARAPAKO",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kabloom",
+          "Player2": "SingPanMan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "Bawer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ondoval",
+          "Player2": "SquidOdoom",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "piao",
+          "Player2": "_Shatun_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "RatherBplayingMTG",
+          "Player2": "yoshiwata",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Sommertroll",
+          "Player2": "kristofff",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "svessesvv",
+          "Player2": "TrueHero",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TeamLeaderNA",
+          "Player2": "etoustar",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "unluckymonkey",
+          "Player2": "Navas",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Joseba_",
+          "Player2": "discoverN",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "AFX",
+          "Player2": "unluckymonkey",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "desolutionist",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "etoustar",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Hampuse1",
+          "Player2": "crK",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "helvetti",
+          "Player2": "piao",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kabloom",
+          "Player2": "_Shatun_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kristofff",
+          "Player2": "Ark4n",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "TrueHero",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Ondoval",
+          "Player2": "burrarun",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "RatherBplayingMTG",
+          "Player2": "Antarctica",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SingPanMan",
+          "Player2": "Bawer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Sommertroll",
+          "Player2": "Navas",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TeamLeaderNA",
+          "Player2": "svessesvv",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "SquidOdoom",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Joseba_",
+          "Player2": "piao",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "_Shatun_",
+          "Player2": "yoshiwata",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "AFX",
+          "Player2": "helvetti",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Antarctica",
+          "Player2": "kristofff",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "Navas",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "burrarun",
+          "Player2": "discoverN",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "musasabi",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Hampuse1",
+          "Player2": "svessesvv",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kabloom",
+          "Player2": "unluckymonkey",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "RatherBplayingMTG",
+          "Player2": "choutin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SingPanMan",
+          "Player2": "desolutionist",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "TeamLeaderNA",
+          "Player2": "Sommertroll",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TrueHero",
+          "Player2": "Ondoval",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "AFX",
+          "Player2": "svessesvv",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Antarctica",
+          "Player2": "desolutionist",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "choutin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "piao",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "SquidOdoom",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Hampuse1",
+          "Player2": "helvetti",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kabloom",
+          "Player2": "RatherBplayingMTG",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "yoshiwata",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SingPanMan",
+          "Player2": "kristofff",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Sommertroll",
+          "Player2": "Ondoval",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TeamLeaderNA",
+          "Player2": "_Joseba_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TrueHero",
+          "Player2": "_Shatun_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "unluckymonkey",
+          "Player2": "burrarun",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "AFX",
+          "Player2": "svessesvv",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Hampuse1",
+          "Player2": "unluckymonkey",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "helvetti",
+          "Player2": "crK",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TeamLeaderNA",
+          "Player2": "kabloom",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "AFX",
+          "Player2": "helvetti",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TeamLeaderNA",
+          "Player2": "Hampuse1",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "TeamLeaderNA",
+          "Player2": "AFX",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ]
+}

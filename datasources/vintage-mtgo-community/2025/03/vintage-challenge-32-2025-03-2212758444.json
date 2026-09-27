@@ -1,0 +1,942 @@
+{
+  "Tournament": {
+    "Id": "vintage-challenge-32-2025-03-2212758444",
+    "Date": "2025-03-22",
+    "Name": "Vintage Challenge 32",
+    "PlayerCount": 51,
+    "Source": "vintage-mtgo-community",
+    "SheetId": "13SCL1UkZuQ7IbIgdkm5tN1MfW_xyERw6E_mG7jYWDfA"
+  },
+  "Players": [
+    {
+      "Player": "Munchlax446",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "_Batutinha_",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "discoverN",
+      "Archetype": "Lurrus Breach"
+    },
+    {
+      "Player": "holkkarit",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "mRichi",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "Kenzaburo",
+      "Archetype": "Lurrus Breach"
+    },
+    {
+      "Player": "_Chamytinho_",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "Beekeeper",
+      "Archetype": "Beseech Storm"
+    },
+    {
+      "Player": "Viatt",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "FL_LegacyClub",
+      "Archetype": "Oath"
+    },
+    {
+      "Player": "medvedev",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "etoustar",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "Dafne17",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "musasabi",
+      "Archetype": "Beseech Storm"
+    },
+    {
+      "Player": "unluckymonkey",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "Bezerra_da_Silva",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "Miharu_Fuyumiya",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "Lord_Beerus",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "dch97e",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "RainerZahnfall92",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "chanel-santini",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "otakkun",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "desolutionist",
+      "Archetype": "Lurrus Breach"
+    },
+    {
+      "Player": "XShockWaveX",
+      "Archetype": "PO"
+    },
+    {
+      "Player": "oskiyaa",
+      "Archetype": "Lurrus DRS"
+    },
+    {
+      "Player": "Minest110",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "LucaAshok",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "RespectTheCat",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "markdm",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "thedeck84",
+      "Archetype": "Breach"
+    },
+    {
+      "Player": "Erik157751",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "monzatubarao",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "Jumba",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "piao",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "VitorCarvalho01",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "DB_bhobbsie",
+      "Archetype": "Countervine"
+    },
+    {
+      "Player": "EVhuner",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "karatedom",
+      "Archetype": "Countervine"
+    },
+    {
+      "Player": "frostyyy_",
+      "Archetype": "Oath"
+    },
+    {
+      "Player": "gr33nashe",
+      "Archetype": "Lurrus Breach"
+    },
+    {
+      "Player": "ChessNight5030",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "matttothec",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "DInglis",
+      "Archetype": "Lurrus Breach"
+    },
+    {
+      "Player": "barczek",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "Boin",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "oosunq",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "Gobern",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "Cuikui",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "_against_",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "MagerMistake",
+      "Archetype": "Beseech Storm"
+    },
+    {
+      "Player": "mashirorc",
+      "Archetype": "Lurrus PO"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "monzatubarao",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Chamytinho_",
+          "Player2": "dch97e",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Beekeeper",
+          "Player2": "Gobern",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Dafne17",
+          "Player2": "matttothec",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "desolutionist",
+          "Player2": "markdm",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "DB_bhobbsie",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "etoustar",
+          "Player2": "Bezerra_da_Silva",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "FL_LegacyClub",
+          "Player2": "oskiyaa",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "frostyyy_",
+          "Player2": "ChessNight5030",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "holkkarit",
+          "Player2": "Miharu_Fuyumiya",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "MagerMistake",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Kenzaburo",
+          "Player2": "Lord_Beerus",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LucaAshok",
+          "Player2": "karatedom",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "oosunq",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Minest110",
+          "Player2": "DInglis",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "mRichi",
+          "Player2": "gr33nashe",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "Erik157751",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "Boin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "otakkun",
+          "Player2": "Cuikui",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "piao",
+          "Player2": "mashirorc",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "RainerZahnfall92",
+          "Player2": "RespectTheCat",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "thedeck84",
+          "Player2": "EVhuner",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "unluckymonkey",
+          "Player2": "chanel-santini",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Viatt",
+          "Player2": "barczek",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "VitorCarvalho01",
+          "Player2": "_against_",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "etoustar",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Beekeeper",
+          "Player2": "Viatt",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Bezerra_da_Silva",
+          "Player2": "barczek",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "chanel-santini",
+          "Player2": "Erik157751",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ChessNight5030",
+          "Player2": "DInglis",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "dch97e",
+          "Player2": "XShockWaveX",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "desolutionist",
+          "Player2": "Jumba",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "Dafne17",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "FL_LegacyClub",
+          "Player2": "EVhuner",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "gr33nashe",
+          "Player2": "MagerMistake",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "holkkarit",
+          "Player2": "medvedev",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "karatedom",
+          "Player2": "Gobern",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "DB_bhobbsie",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "markdm",
+          "Player2": "Cuikui",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "matttothec",
+          "Player2": "mashirorc",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Miharu_Fuyumiya",
+          "Player2": "Boin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Minest110",
+          "Player2": "piao",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "mRichi",
+          "Player2": "Kenzaburo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "VitorCarvalho01",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "frostyyy_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "oskiyaa",
+          "Player2": "_against_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "RainerZahnfall92",
+          "Player2": "LucaAshok",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "RespectTheCat",
+          "Player2": "monzatubarao",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "thedeck84",
+          "Player2": "oosunq",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "unluckymonkey",
+          "Player2": "otakkun",
+          "Result": "1-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "discoverN",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Chamytinho_",
+          "Player2": "ChessNight5030",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Beekeeper",
+          "Player2": "dch97e",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Bezerra_da_Silva",
+          "Player2": "EVhuner",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "chanel-santini",
+          "Player2": "VitorCarvalho01",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Dafne17",
+          "Player2": "monzatubarao",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DInglis",
+          "Player2": "mashirorc",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Erik157751",
+          "Player2": "Cuikui",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "etoustar",
+          "Player2": "oskiyaa",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "holkkarit",
+          "Player2": "otakkun",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Kenzaburo",
+          "Player2": "karatedom",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "barczek",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "markdm",
+          "Player2": "Jumba",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "piao",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Miharu_Fuyumiya",
+          "Player2": "DB_bhobbsie",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Minest110",
+          "Player2": "RespectTheCat",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "mRichi",
+          "Player2": "FL_LegacyClub",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "desolutionist",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "RainerZahnfall92",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "thedeck84",
+          "Player2": "matttothec",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "unluckymonkey",
+          "Player2": "gr33nashe",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Viatt",
+          "Player2": "LucaAshok",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "XShockWaveX",
+          "Player2": "frostyyy_",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "Jumba",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Chamytinho_",
+          "Player2": "medvedev",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Dafne17",
+          "Player2": "chanel-santini",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "dch97e",
+          "Player2": "oskiyaa",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "desolutionist",
+          "Player2": "gr33nashe",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "mRichi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "etoustar",
+          "Player2": "frostyyy_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "FL_LegacyClub",
+          "Player2": "piao",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "holkkarit",
+          "Player2": "RainerZahnfall92",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Kenzaburo",
+          "Player2": "XShockWaveX",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "DInglis",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LucaAshok",
+          "Player2": "Erik157751",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "markdm",
+          "Player2": "VitorCarvalho01",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Miharu_Fuyumiya",
+          "Player2": "otakkun",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "Beekeeper",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "thedeck84",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "RespectTheCat",
+          "Player2": "EVhuner",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "unluckymonkey",
+          "Player2": "Minest110",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Viatt",
+          "Player2": "Bezerra_da_Silva",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "_Chamytinho_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Bezerra_da_Silva",
+          "Player2": "oskiyaa",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Dafne17",
+          "Player2": "markdm",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "holkkarit",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "etoustar",
+          "Player2": "XShockWaveX",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "FL_LegacyClub",
+          "Player2": "Jumba",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "Minest110",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "LucaAshok",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Miharu_Fuyumiya",
+          "Player2": "desolutionist",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "monzatubarao",
+          "Player2": "DInglis",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "mRichi",
+          "Player2": "Beekeeper",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "Kenzaburo",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "chanel-santini",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "otakkun",
+          "Player2": "piao",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "RespectTheCat",
+          "Player2": "thedeck84",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "unluckymonkey",
+          "Player2": "dch97e",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Viatt",
+          "Player2": "RainerZahnfall92",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "VitorCarvalho01",
+          "Player2": "gr33nashe",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "otakkun",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Beekeeper",
+          "Player2": "RainerZahnfall92",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Bezerra_da_Silva",
+          "Player2": "Miharu_Fuyumiya",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dafne17",
+          "Player2": "RespectTheCat",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "musasabi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "etoustar",
+          "Player2": "desolutionist",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "holkkarit",
+          "Player2": "_Chamytinho_",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Kenzaburo",
+          "Player2": "Viatt",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "chanel-santini",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LucaAshok",
+          "Player2": "Jumba",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "markdm",
+          "Player2": "Erik157751",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "dch97e",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "mRichi",
+          "Player2": "unluckymonkey",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "FL_LegacyClub",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "oskiyaa",
+          "Player2": "VitorCarvalho01",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "thedeck84",
+          "Player2": "monzatubarao",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "XShockWaveX",
+          "Player2": "piao",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "mRichi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "Beekeeper",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "holkkarit",
+          "Player2": "Kenzaburo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "_Chamytinho_",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "holkkarit",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "discoverN",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "Munchlax446",
+          "Player2": "_Batutinha_",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ]
+}

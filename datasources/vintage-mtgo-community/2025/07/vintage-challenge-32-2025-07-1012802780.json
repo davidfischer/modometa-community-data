@@ -1,0 +1,783 @@
+{
+  "Tournament": {
+    "Id": "vintage-challenge-32-2025-07-1012802780",
+    "Date": "2025-07-10",
+    "Name": "Vintage Challenge 32",
+    "PlayerCount": 40,
+    "Source": "vintage-mtgo-community",
+    "SheetId": "1beD4RlE8f_QT5drOXDNJn36GD3Nv_0-11OUrKOLZCLA"
+  },
+  "Players": [
+    {
+      "Player": "KadettiKersantti",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "Viatt",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "RPSbonjwa",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "_Shikamaru_",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "unluckymonkey",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "oosunq",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "ReprintDarkRitual",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "etoustar",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "Ale_Mtg",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "medvedev",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "valentinaaaa",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "_Joseba_",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "Capitano_CL",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "WadeB",
+      "Archetype": "Red Prison"
+    },
+    {
+      "Player": "chanel-santini",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "adm29",
+      "Archetype": "Other Shops"
+    },
+    {
+      "Player": "Tsubasa_Cat",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "death_grips",
+      "Archetype": "Tinker"
+    },
+    {
+      "Player": "VitorCarvalho01",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "J0hnWick",
+      "Archetype": "PO"
+    },
+    {
+      "Player": "Erik157751",
+      "Archetype": "Tinker"
+    },
+    {
+      "Player": "Magic_Dads71522",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "_Shatun_",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "frostyyy_",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "MahfuzVanGogh",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "pokerswizard",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "Andy_Over",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "O_danielakos",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "pirol94",
+      "Archetype": "Countervine"
+    },
+    {
+      "Player": "Hampuse1",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "matttothec",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "Montolio",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "TheManLand",
+      "Archetype": "Tinker"
+    },
+    {
+      "Player": "Dreddybajs",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "desolutionist",
+      "Archetype": "Tinker"
+    },
+    {
+      "Player": "parkss",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "TonyScapone",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "Sprouts",
+      "Archetype": "Other Lurrus"
+    },
+    {
+      "Player": "TadalaDe20",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "IpseVenenaBibas",
+      "Archetype": "Initiative"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Shikamaru_",
+          "Player2": "oosunq",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ale_Mtg",
+          "Player2": "death_grips",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Capitano_CL",
+          "Player2": "Hampuse1",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "chanel-santini",
+          "Player2": "TonyScapone",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "desolutionist",
+          "Player2": "parkss",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Erik157751",
+          "Player2": "TheManLand",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "etoustar",
+          "Player2": "Dreddybajs",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "frostyyy_",
+          "Player2": "TadalaDe20",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "J0hnWick",
+          "Player2": "Andy_Over",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "KadettiKersantti",
+          "Player2": "Montolio",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "matttothec",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "pokerswizard",
+          "Player2": "IpseVenenaBibas",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ReprintDarkRitual",
+          "Player2": "_Joseba_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "RPSbonjwa",
+          "Player2": "MahfuzVanGogh",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "pirol94",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "unluckymonkey",
+          "Player2": "O_danielakos",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "valentinaaaa",
+          "Player2": "Sprouts",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Viatt",
+          "Player2": "adm29",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "VitorCarvalho01",
+          "Player2": "Magic_Dads71522",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "WadeB",
+          "Player2": "_Shatun_",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Joseba_",
+          "Player2": "Andy_Over",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "_Shatun_",
+          "Player2": "TheManLand",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "_Shikamaru_",
+          "Player2": "Montolio",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "adm29",
+          "Player2": "IpseVenenaBibas",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Ale_Mtg",
+          "Player2": "MahfuzVanGogh",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Capitano_CL",
+          "Player2": "Tsubasa_Cat",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "death_grips",
+          "Player2": "pirol94",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "etoustar",
+          "Player2": "valentinaaaa",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "J0hnWick",
+          "Player2": "Erik157751",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "KadettiKersantti",
+          "Player2": "pokerswizard",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Magic_Dads71522",
+          "Player2": "TadalaDe20",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "matttothec",
+          "Player2": "Dreddybajs",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "parkss",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "oosunq",
+          "Player2": "TonyScapone",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ReprintDarkRitual",
+          "Player2": "frostyyy_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "RPSbonjwa",
+          "Player2": "medvedev",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "unluckymonkey",
+          "Player2": "chanel-santini",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Viatt",
+          "Player2": "WadeB",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "VitorCarvalho01",
+          "Player2": "Hampuse1",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Joseba_",
+          "Player2": "MahfuzVanGogh",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Shatun_",
+          "Player2": "matttothec",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Shikamaru_",
+          "Player2": "TheManLand",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "adm29",
+          "Player2": "Dreddybajs",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Ale_Mtg",
+          "Player2": "Magic_Dads71522",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Andy_Over",
+          "Player2": "pirol94",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Capitano_CL",
+          "Player2": "IpseVenenaBibas",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Erik157751",
+          "Player2": "frostyyy_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "etoustar",
+          "Player2": "Montolio",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "J0hnWick",
+          "Player2": "Hampuse1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "KadettiKersantti",
+          "Player2": "death_grips",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "Tsubasa_Cat",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "oosunq",
+          "Player2": "chanel-santini",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "pokerswizard",
+          "Player2": "O_danielakos",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ReprintDarkRitual",
+          "Player2": "VitorCarvalho01",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "RPSbonjwa",
+          "Player2": "valentinaaaa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "unluckymonkey",
+          "Player2": "WadeB",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Viatt",
+          "Player2": "TadalaDe20",
+          "Result": "1-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Joseba_",
+          "Player2": "TheManLand",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Shatun_",
+          "Player2": "Montolio",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Shikamaru_",
+          "Player2": "frostyyy_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "adm29",
+          "Player2": "death_grips",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Ale_Mtg",
+          "Player2": "valentinaaaa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Capitano_CL",
+          "Player2": "Andy_Over",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "chanel-santini",
+          "Player2": "Magic_Dads71522",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "etoustar",
+          "Player2": "J0hnWick",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "KadettiKersantti",
+          "Player2": "RPSbonjwa",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MahfuzVanGogh",
+          "Player2": "IpseVenenaBibas",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "Hampuse1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "oosunq",
+          "Player2": "medvedev",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "Dreddybajs",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "unluckymonkey",
+          "Player2": "ReprintDarkRitual",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Viatt",
+          "Player2": "pirol94",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "VitorCarvalho01",
+          "Player2": "pokerswizard",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "WadeB",
+          "Player2": "Erik157751",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Joseba_",
+          "Player2": "Erik157751",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "_Shikamaru_",
+          "Player2": "WadeB",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Ale_Mtg",
+          "Player2": "VitorCarvalho01",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Andy_Over",
+          "Player2": "matttothec",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Capitano_CL",
+          "Player2": "O_danielakos",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "chanel-santini",
+          "Player2": "_Shatun_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "J0hnWick",
+          "Player2": "pirol94",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "KadettiKersantti",
+          "Player2": "Viatt",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Magic_Dads71522",
+          "Player2": "IpseVenenaBibas",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MahfuzVanGogh",
+          "Player2": "Hampuse1",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "frostyyy_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "oosunq",
+          "Player2": "adm29",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ReprintDarkRitual",
+          "Player2": "etoustar",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "RPSbonjwa",
+          "Player2": "unluckymonkey",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "death_grips",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "valentinaaaa",
+          "Player2": "pokerswizard",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Joseba_",
+          "Player2": "adm29",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "_Shatun_",
+          "Player2": "pokerswizard",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Ale_Mtg",
+          "Player2": "Capitano_CL",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "death_grips",
+          "Player2": "frostyyy_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Erik157751",
+          "Player2": "Andy_Over",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "KadettiKersantti",
+          "Player2": "_Shikamaru_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Magic_Dads71522",
+          "Player2": "Hampuse1",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "VitorCarvalho01",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "matttothec",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "ReprintDarkRitual",
+          "Player2": "J0hnWick",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "RPSbonjwa",
+          "Player2": "oosunq",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "unluckymonkey",
+          "Player2": "etoustar",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "valentinaaaa",
+          "Player2": "Tsubasa_Cat",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Viatt",
+          "Player2": "chanel-santini",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "_Shikamaru_",
+          "Player2": "oosunq",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "KadettiKersantti",
+          "Player2": "etoustar",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "RPSbonjwa",
+          "Player2": "ReprintDarkRitual",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Viatt",
+          "Player2": "unluckymonkey",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "KadettiKersantti",
+          "Player2": "_Shikamaru_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Viatt",
+          "Player2": "RPSbonjwa",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "KadettiKersantti",
+          "Player2": "Viatt",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,732 @@
+{
+  "Tournament": {
+    "Id": "vintage-challenge-32-2025-06-2212798182",
+    "Date": "2025-06-22",
+    "Name": "Vintage Challenge 32",
+    "PlayerCount": 36,
+    "Source": "vintage-mtgo-community",
+    "SheetId": "176rk5Mv8rZw0EsAAnv9I9cZWz44Q1PIsUQ8a1fiY02w"
+  },
+  "Players": [
+    {
+      "Player": "discoverN",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "John1111",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "desolutionist",
+      "Archetype": "Tinker"
+    },
+    {
+      "Player": "Will_Split",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "Ark4n",
+      "Archetype": "Blue Control"
+    },
+    {
+      "Player": "crK",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "ChessNight5030",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "HouseOfManaMTG",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "holkkarit",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "Erik157751",
+      "Archetype": "Tinker"
+    },
+    {
+      "Player": "Minest110",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "snoopy-magic",
+      "Archetype": "Oath"
+    },
+    {
+      "Player": "Mazzy7887",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "Navas",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "TrueHero",
+      "Archetype": "PO"
+    },
+    {
+      "Player": "adm29",
+      "Archetype": "Other Shops"
+    },
+    {
+      "Player": "_Chamytinho_",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "Jinjaa",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "musasabi",
+      "Archetype": "Beseech Storm"
+    },
+    {
+      "Player": "Cachorrowo",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "Tsubasa_Cat",
+      "Archetype": "Lurrus Doomsday"
+    },
+    {
+      "Player": "_Joseba_",
+      "Archetype": "Other Lurrus"
+    },
+    {
+      "Player": "Srogers90",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "Mmfood",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "trinity",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "kristofff",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "SingPanMan",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "Montolio",
+      "Archetype": "Other Lurrus"
+    },
+    {
+      "Player": "svessesvv",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "satu2112",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "Antarctica",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "SirScriggles",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "blackdecks99",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "etoustar",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "unluckymonkey",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "SquidOdoom",
+      "Archetype": "Red Prison"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Joseba_",
+          "Player2": "Mmfood",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "adm29",
+          "Player2": "SquidOdoom",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "_Chamytinho_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ChessNight5030",
+          "Player2": "snoopy-magic",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "satu2112",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "desolutionist",
+          "Player2": "musasabi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "Antarctica",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Erik157751",
+          "Player2": "trinity",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "holkkarit",
+          "Player2": "Mazzy7887",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "HouseOfManaMTG",
+          "Player2": "Cachorrowo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jinjaa",
+          "Player2": "svessesvv",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "John1111",
+          "Player2": "Will_Split",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kristofff",
+          "Player2": "etoustar",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Minest110",
+          "Player2": "TrueHero",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Navas",
+          "Player2": "unluckymonkey",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "SingPanMan",
+          "Player2": "Montolio",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Srogers90",
+          "Player2": "blackdecks99",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "SirScriggles",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Chamytinho_",
+          "Player2": "Antarctica",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "_Joseba_",
+          "Player2": "Montolio",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "kristofff",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Cachorrowo",
+          "Player2": "SquidOdoom",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ChessNight5030",
+          "Player2": "adm29",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "Jinjaa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "desolutionist",
+          "Player2": "Erik157751",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "HouseOfManaMTG",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "holkkarit",
+          "Player2": "etoustar",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "John1111",
+          "Player2": "Mmfood",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mazzy7887",
+          "Player2": "Tsubasa_Cat",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Minest110",
+          "Player2": "Navas",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "blackdecks99",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "snoopy-magic",
+          "Player2": "trinity",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Srogers90",
+          "Player2": "SingPanMan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "svessesvv",
+          "Player2": "SirScriggles",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TrueHero",
+          "Player2": "unluckymonkey",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Will_Split",
+          "Player2": "satu2112",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "adm29",
+          "Player2": "musasabi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Antarctica",
+          "Player2": "SquidOdoom",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "Navas",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Cachorrowo",
+          "Player2": "Mmfood",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ChessNight5030",
+          "Player2": "Mazzy7887",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "Erik157751",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "desolutionist",
+          "Player2": "Srogers90",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "John1111",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "holkkarit",
+          "Player2": "_Joseba_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "HouseOfManaMTG",
+          "Player2": "TrueHero",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Jinjaa",
+          "Player2": "SingPanMan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Minest110",
+          "Player2": "Tsubasa_Cat",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "satu2112",
+          "Player2": "SirScriggles",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "snoopy-magic",
+          "Player2": "_Chamytinho_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "trinity",
+          "Player2": "svessesvv",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Will_Split",
+          "Player2": "kristofff",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Joseba_",
+          "Player2": "kristofff",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ChessNight5030",
+          "Player2": "_Chamytinho_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "desolutionist",
+          "Player2": "Mazzy7887",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "crK",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Erik157751",
+          "Player2": "Navas",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "holkkarit",
+          "Player2": "Jinjaa",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "HouseOfManaMTG",
+          "Player2": "Tsubasa_Cat",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "John1111",
+          "Player2": "Ark4n",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Minest110",
+          "Player2": "adm29",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Mmfood",
+          "Player2": "SirScriggles",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "Antarctica",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "SingPanMan",
+          "Player2": "svessesvv",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "snoopy-magic",
+          "Player2": "Montolio",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "trinity",
+          "Player2": "satu2112",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TrueHero",
+          "Player2": "Cachorrowo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Will_Split",
+          "Player2": "Srogers90",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Chamytinho_",
+          "Player2": "SingPanMan",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "adm29",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ChessNight5030",
+          "Player2": "holkkarit",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "Navas",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "Mazzy7887",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Erik157751",
+          "Player2": "Mmfood",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "HouseOfManaMTG",
+          "Player2": "_Joseba_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "John1111",
+          "Player2": "desolutionist",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "kristofff",
+          "Player2": "Antarctica",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Minest110",
+          "Player2": "Cachorrowo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Montolio",
+          "Player2": "svessesvv",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "trinity",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "snoopy-magic",
+          "Player2": "Jinjaa",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "satu2112",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Will_Split",
+          "Player2": "TrueHero",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Joseba_",
+          "Player2": "SingPanMan",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Cachorrowo",
+          "Player2": "trinity",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ChessNight5030",
+          "Player2": "Navas",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "Mazzy7887",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "desolutionist",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Erik157751",
+          "Player2": "TrueHero",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "HouseOfManaMTG",
+          "Player2": "_Chamytinho_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Jinjaa",
+          "Player2": "Mmfood",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "John1111",
+          "Player2": "holkkarit",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kristofff",
+          "Player2": "Montolio",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Minest110",
+          "Player2": "musasabi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "snoopy-magic",
+          "Player2": "adm29",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "svessesvv",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Will_Split",
+          "Player2": "Ark4n",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "desolutionist",
+          "Player2": "ChessNight5030",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "crK",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "John1111",
+          "Player2": "HouseOfManaMTG",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Will_Split",
+          "Player2": "Ark4n",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "discoverN",
+          "Player2": "desolutionist",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "John1111",
+          "Player2": "Will_Split",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "discoverN",
+          "Player2": "John1111",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ]
+}

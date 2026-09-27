@@ -1,0 +1,718 @@
+{
+  "Tournament": {
+    "Id": "vintage-challenge-32-2025-03-3012761329",
+    "Date": "2025-03-30",
+    "Name": "Vintage Challenge 32",
+    "PlayerCount": 35,
+    "Source": "vintage-mtgo-community",
+    "SheetId": "1_3u1ny9LSorf3sjcsM3wpsManHjcYp2jWjcIaMjQPIE"
+  },
+  "Players": [
+    {
+      "Player": "SingPanMan",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "Wesal",
+      "Archetype": "Other Aggro"
+    },
+    {
+      "Player": "yoshiwata",
+      "Archetype": "BUG"
+    },
+    {
+      "Player": "_INF_",
+      "Archetype": "Lurrus Breach"
+    },
+    {
+      "Player": "Ayyypeks",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "MyPotatoes",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "John1111",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "LasVegasChaos",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "boytriton",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "EthanBird",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "desolutionist",
+      "Archetype": "Lurrus Breach"
+    },
+    {
+      "Player": "jade-venus",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "TaJoordan",
+      "Archetype": "Countervine"
+    },
+    {
+      "Player": "RogeDeckWins",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "trinity",
+      "Archetype": "Lurrus Breach"
+    },
+    {
+      "Player": "Callenutg1",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "crK",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "helvetti",
+      "Archetype": "Oath"
+    },
+    {
+      "Player": "discoverN",
+      "Archetype": "Lurrus Breach"
+    },
+    {
+      "Player": "_Shatun_",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "musasabi",
+      "Archetype": "Beseech Storm"
+    },
+    {
+      "Player": "mysteryman21",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "choutin",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "kristofff",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "mumu123",
+      "Archetype": "Beseech Storm"
+    },
+    {
+      "Player": "Lathyrus",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "medvedev",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "scipios",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "frostyyy_",
+      "Archetype": "Oath"
+    },
+    {
+      "Player": "albertoSD",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "GigaChadSigmaMale",
+      "Archetype": "Scam"
+    },
+    {
+      "Player": "_Chamytinho_",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "mashirorc",
+      "Archetype": "Beseech Storm"
+    },
+    {
+      "Player": "IamActuallyLvL1",
+      "Archetype": "Oath"
+    },
+    {
+      "Player": "Clockwork Dean",
+      "Archetype": "Scam"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_INF_",
+          "Player2": "musasabi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ayyypeks",
+          "Player2": "trinity",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "boytriton",
+          "Player2": "helvetti",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "Clockwork Dean",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "desolutionist",
+          "Player2": "kristofff",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "EthanBird",
+          "Player2": "frostyyy_",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "jade-venus",
+          "Player2": "mashirorc",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "John1111",
+          "Player2": "Lathyrus",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "LasVegasChaos",
+          "Player2": "IamActuallyLvL1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "mumu123",
+          "Player2": "albertoSD",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MyPotatoes",
+          "Player2": "discoverN",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "mysteryman21",
+          "Player2": "medvedev",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "RogeDeckWins",
+          "Player2": "_Chamytinho_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "scipios",
+          "Player2": "GigaChadSigmaMale",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "TaJoordan",
+          "Player2": "_Shatun_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Wesal",
+          "Player2": "Callenutg1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "choutin",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_INF_",
+          "Player2": "TaJoordan",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Shatun_",
+          "Player2": "_Chamytinho_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Callenutg1",
+          "Player2": "scipios",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "medvedev",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "desolutionist",
+          "Player2": "crK",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "EthanBird",
+          "Player2": "mashirorc",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "helvetti",
+          "Player2": "discoverN",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "John1111",
+          "Player2": "albertoSD",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kristofff",
+          "Player2": "Lathyrus",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "LasVegasChaos",
+          "Player2": "GigaChadSigmaMale",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "mumu123",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MyPotatoes",
+          "Player2": "jade-venus",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "RogeDeckWins",
+          "Player2": "frostyyy_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SingPanMan",
+          "Player2": "boytriton",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "trinity",
+          "Player2": "Clockwork Dean",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Wesal",
+          "Player2": "Ayyypeks",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "mysteryman21",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Chamytinho_",
+          "Player2": "mashirorc",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_INF_",
+          "Player2": "crK",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ayyypeks",
+          "Player2": "boytriton",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Callenutg1",
+          "Player2": "mumu123",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "musasabi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "EthanBird",
+          "Player2": "_Shatun_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "helvetti",
+          "Player2": "mysteryman21",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jade-venus",
+          "Player2": "TaJoordan",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "John1111",
+          "Player2": "desolutionist",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "LasVegasChaos",
+          "Player2": "RogeDeckWins",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Lathyrus",
+          "Player2": "GigaChadSigmaMale",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "medvedev",
+          "Player2": "scipios",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MyPotatoes",
+          "Player2": "kristofff",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "SingPanMan",
+          "Player2": "choutin",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Wesal",
+          "Player2": "frostyyy_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "trinity",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_INF_",
+          "Player2": "helvetti",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Shatun_",
+          "Player2": "Lathyrus",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ayyypeks",
+          "Player2": "John1111",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "boytriton",
+          "Player2": "RogeDeckWins",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "choutin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "desolutionist",
+          "Player2": "jade-venus",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "_Chamytinho_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LasVegasChaos",
+          "Player2": "TaJoordan",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "mumu123",
+          "Player2": "medvedev",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MyPotatoes",
+          "Player2": "mysteryman21",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "scipios",
+          "Player2": "mashirorc",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SingPanMan",
+          "Player2": "GigaChadSigmaMale",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "trinity",
+          "Player2": "kristofff",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Wesal",
+          "Player2": "EthanBird",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "Callenutg1",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_INF_",
+          "Player2": "RogeDeckWins",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ayyypeks",
+          "Player2": "LasVegasChaos",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "boytriton",
+          "Player2": "mysteryman21",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Callenutg1",
+          "Player2": "discoverN",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "scipios",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "_Shatun_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "desolutionist",
+          "Player2": "mumu123",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "EthanBird",
+          "Player2": "trinity",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "GigaChadSigmaMale",
+          "Player2": "mashirorc",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "helvetti",
+          "Player2": "_Chamytinho_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kristofff",
+          "Player2": "medvedev",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "Lathyrus",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SingPanMan",
+          "Player2": "jade-venus",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Wesal",
+          "Player2": "MyPotatoes",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "John1111",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_INF_",
+          "Player2": "MyPotatoes",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Shatun_",
+          "Player2": "medvedev",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "boytriton",
+          "Player2": "jade-venus",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "desolutionist",
+          "Player2": "Callenutg1",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "choutin",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "EthanBird",
+          "Player2": "helvetti",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "John1111",
+          "Player2": "crK",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kristofff",
+          "Player2": "GigaChadSigmaMale",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Lathyrus",
+          "Player2": "mashirorc",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "mysteryman21",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "scipios",
+          "Player2": "_Chamytinho_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "SingPanMan",
+          "Player2": "LasVegasChaos",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "trinity",
+          "Player2": "mumu123",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Wesal",
+          "Player2": "RogeDeckWins",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "Ayyypeks",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "_INF_",
+          "Player2": "Ayyypeks",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "SingPanMan",
+          "Player2": "John1111",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Wesal",
+          "Player2": "MyPotatoes",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "LasVegasChaos",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "SingPanMan",
+          "Player2": "yoshiwata",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Wesal",
+          "Player2": "_INF_",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "SingPanMan",
+          "Player2": "Wesal",
+          "Result": "2-1-0"
+        }
+      ]
+    }
+  ]
+}

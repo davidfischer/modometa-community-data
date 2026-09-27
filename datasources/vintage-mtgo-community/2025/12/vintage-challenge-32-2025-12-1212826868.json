@@ -1,0 +1,683 @@
+{
+  "Tournament": {
+    "Id": "vintage-challenge-32-2025-12-1212826868",
+    "Date": "2025-12-12",
+    "Name": "Vintage Challenge 32",
+    "PlayerCount": 35,
+    "Source": "vintage-mtgo-community",
+    "SheetId": "13m8ERswMp3JrR_CbLjv-7CQbHDm5EbB5DWaIRQAc_48"
+  },
+  "Players": [
+    {
+      "Player": "La_Ele",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "_Chamytinho_",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "LasVegasChaos",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "Ecoscuro",
+      "Archetype": "Oath"
+    },
+    {
+      "Player": "ecobaronen",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "albertoSD",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "The_Lion91",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "CLTLegacyLeague",
+      "Archetype": "Lurrus Breach"
+    },
+    {
+      "Player": "mei0024",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "GrunnTLK",
+      "Archetype": "Oath"
+    },
+    {
+      "Player": "caio402",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "luvadepedreiro",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "CapTenPlanIt",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "desolutionist",
+      "Archetype": "Lurrus Breach"
+    },
+    {
+      "Player": "LucasG1ggs",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "Tsubasa_Cat",
+      "Archetype": "Lurrus Doomsday"
+    },
+    {
+      "Player": "T1_Tinker",
+      "Archetype": "Countervine"
+    },
+    {
+      "Player": "Selfeisek",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "musasabi",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "Frejat",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "adm29",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "DrPP",
+      "Archetype": "Scam"
+    },
+    {
+      "Player": "Munchlax446",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "_Batutinha_",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "maouthunder",
+      "Archetype": "Oath"
+    },
+    {
+      "Player": "duke12",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "Magic_Dads71522",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "jake-upLVT",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "TradingonTilt",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "Capitano_CL",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "DB_xerioc",
+      "Archetype": "Other"
+    },
+    {
+      "Player": "wutup",
+      "Archetype": "Other"
+    },
+    {
+      "Player": "DB_YungDingo",
+      "Archetype": "Scam"
+    },
+    {
+      "Player": "WadeB",
+      "Archetype": "Countervine"
+    },
+    {
+      "Player": "blub_blub",
+      "Archetype": "Doomsday"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Chamytinho_",
+          "Player2": "DB_xerioc",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "caio402",
+          "Player2": "wutup",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "CLTLegacyLeague",
+          "Player2": "_Batutinha_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "desolutionist",
+          "Player2": "adm29",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "mei0024",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ecoscuro",
+          "Player2": "TradingonTilt",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "GrunnTLK",
+          "Player2": "LucasG1ggs",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "jake-upLVT",
+          "Player2": "Capitano_CL",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "La_Ele",
+          "Player2": "Magic_Dads71522",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LasVegasChaos",
+          "Player2": "albertoSD",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "luvadepedreiro",
+          "Player2": "DrPP",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "duke12",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "WadeB",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "maouthunder",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "T1_Tinker",
+          "Player2": "blub_blub",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "The_Lion91",
+          "Player2": "DB_YungDingo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "Frejat",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "WadeB",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "_Chamytinho_",
+          "Player2": "Selfeisek",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "adm29",
+          "Player2": "Magic_Dads71522",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "caio402",
+          "Player2": "desolutionist",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "CapTenPlanIt",
+          "Player2": "musasabi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "CLTLegacyLeague",
+          "Player2": "Tsubasa_Cat",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DrPP",
+          "Player2": "jake-upLVT",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "The_Lion91",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Ecoscuro",
+          "Player2": "albertoSD",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Frejat",
+          "Player2": "Capitano_CL",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "GrunnTLK",
+          "Player2": "wutup",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "La_Ele",
+          "Player2": "duke12",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "LasVegasChaos",
+          "Player2": "luvadepedreiro",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "T1_Tinker",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "maouthunder",
+          "Player2": "DB_YungDingo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "mei0024",
+          "Player2": "TradingonTilt",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "blub_blub",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Chamytinho_",
+          "Player2": "desolutionist",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "CLTLegacyLeague",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "caio402",
+          "Player2": "jake-upLVT",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "Munchlax446",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Ecoscuro",
+          "Player2": "musasabi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Frejat",
+          "Player2": "maouthunder",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "GrunnTLK",
+          "Player2": "_Batutinha_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "La_Ele",
+          "Player2": "CapTenPlanIt",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LasVegasChaos",
+          "Player2": "adm29",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "DrPP",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "luvadepedreiro",
+          "Player2": "Magic_Dads71522",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "mei0024",
+          "Player2": "duke12",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "T1_Tinker",
+          "Player2": "Selfeisek",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "The_Lion91",
+          "Player2": "Tsubasa_Cat",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "TradingonTilt",
+          "Player2": "Capitano_CL",
+          "Result": "1-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "TradingonTilt",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "_Chamytinho_",
+          "Player2": "CLTLegacyLeague",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "adm29",
+          "Player2": "maouthunder",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "mei0024",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "desolutionist",
+          "Player2": "DrPP",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "T1_Tinker",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ecoscuro",
+          "Player2": "Tsubasa_Cat",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "GrunnTLK",
+          "Player2": "CapTenPlanIt",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "La_Ele",
+          "Player2": "LucasG1ggs",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "LasVegasChaos",
+          "Player2": "caio402",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "luvadepedreiro",
+          "Player2": "Munchlax446",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "duke12",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "Capitano_CL",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "The_Lion91",
+          "Player2": "Frejat",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "Magic_Dads71522",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "Tsubasa_Cat",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "caio402",
+          "Player2": "Selfeisek",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "CapTenPlanIt",
+          "Player2": "Frejat",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "CLTLegacyLeague",
+          "Player2": "GrunnTLK",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "desolutionist",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Ecoscuro",
+          "Player2": "mei0024",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "La_Ele",
+          "Player2": "_Chamytinho_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LasVegasChaos",
+          "Player2": "The_Lion91",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LucasG1ggs",
+          "Player2": "musasabi",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "luvadepedreiro",
+          "Player2": "maouthunder",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "TradingonTilt",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "T1_Tinker",
+          "Player2": "DrPP",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Chamytinho_",
+          "Player2": "GrunnTLK",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "musasabi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "caio402",
+          "Player2": "adm29",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "CLTLegacyLeague",
+          "Player2": "LucasG1ggs",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Frejat",
+          "Player2": "Munchlax446",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "La_Ele",
+          "Player2": "ecobaronen",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "LasVegasChaos",
+          "Player2": "Ecoscuro",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "luvadepedreiro",
+          "Player2": "T1_Tinker",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "mei0024",
+          "Player2": "CapTenPlanIt",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "_Batutinha_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "The_Lion91",
+          "Player2": "desolutionist",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "Magic_Dads71522",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "_Chamytinho_",
+          "Player2": "The_Lion91",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ecoscuro",
+          "Player2": "ecobaronen",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "La_Ele",
+          "Player2": "albertoSD",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LasVegasChaos",
+          "Player2": "CLTLegacyLeague",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "_Chamytinho_",
+          "Player2": "Ecoscuro",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "La_Ele",
+          "Player2": "LasVegasChaos",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "La_Ele",
+          "Player2": "_Chamytinho_",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ]
+}

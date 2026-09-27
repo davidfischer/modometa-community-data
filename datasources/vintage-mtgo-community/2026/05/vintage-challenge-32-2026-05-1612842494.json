@@ -1,0 +1,595 @@
+{
+  "Tournament": {
+    "Id": "vintage-challenge-32-2026-05-1612842494",
+    "Date": "2026-05-16",
+    "Name": "Vintage Challenge 32",
+    "PlayerCount": 32,
+    "Source": "vintage-mtgo-community",
+    "SheetId": "1CFLBZSMhkvHYKf0ZLhJ4qWZ3kMHwFmKrVSgFbkYSH50"
+  },
+  "Players": [
+    {
+      "Player": "Trailovsky",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "Archer365",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "AFX",
+      "Archetype": "Lurrus Breach"
+    },
+    {
+      "Player": "Miharu_Fuyumiya",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "Wizard_2002",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "WLS",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "musasabi",
+      "Archetype": "Oath"
+    },
+    {
+      "Player": "OhDee402",
+      "Archetype": "Tinker"
+    },
+    {
+      "Player": "PsiVen",
+      "Archetype": "Oath"
+    },
+    {
+      "Player": "Ark4n",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "reojund",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "Wesal",
+      "Archetype": "Oath"
+    },
+    {
+      "Player": "desolutionist",
+      "Archetype": "Lurrus Breach"
+    },
+    {
+      "Player": "gusti99",
+      "Archetype": "Lurrus Doomsday"
+    },
+    {
+      "Player": "Montolio",
+      "Archetype": "Other Lurrus"
+    },
+    {
+      "Player": "Tienmtg",
+      "Archetype": "Lurrus Doomsday"
+    },
+    {
+      "Player": "Dr. Jon Osterman",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "HyuugaHeir",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "Filly",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "Navas",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "Erik157751",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "DelverFofoqueiro",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "max_9",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "adm29",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "tao_bye_bye",
+      "Archetype": "Tinker"
+    },
+    {
+      "Player": "unemployment",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "Sommertroll",
+      "Archetype": "Oath"
+    },
+    {
+      "Player": "thedeck84",
+      "Archetype": "Lurrus Breach"
+    },
+    {
+      "Player": "Lord_Beerus",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "ChessNight5030",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "karatedom",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "chumgod",
+      "Archetype": "Countervine"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "AFX",
+          "Player2": "ChessNight5030",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Archer365",
+          "Player2": "unemployment",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "Lord_Beerus",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "desolutionist",
+          "Player2": "adm29",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dr. Jon Osterman",
+          "Player2": "DelverFofoqueiro",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Erik157751",
+          "Player2": "chumgod",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "gusti99",
+          "Player2": "HyuugaHeir",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "max_9",
+          "Player2": "thedeck84",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Miharu_Fuyumiya",
+          "Player2": "Wesal",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "OhDee402",
+          "Player2": "Sommertroll",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "PsiVen",
+          "Player2": "Montolio",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "reojund",
+          "Player2": "Filly",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tienmtg",
+          "Player2": "Navas",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Trailovsky",
+          "Player2": "musasabi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Wizard_2002",
+          "Player2": "tao_bye_bye",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "WLS",
+          "Player2": "karatedom",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "adm29",
+          "Player2": "Sommertroll",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "AFX",
+          "Player2": "Erik157751",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Archer365",
+          "Player2": "gusti99",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "desolutionist",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Dr. Jon Osterman",
+          "Player2": "Navas",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "HyuugaHeir",
+          "Player2": "chumgod",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "max_9",
+          "Player2": "karatedom",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Miharu_Fuyumiya",
+          "Player2": "OhDee402",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Montolio",
+          "Player2": "unemployment",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "Filly",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "tao_bye_bye",
+          "Player2": "ChessNight5030",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tienmtg",
+          "Player2": "DelverFofoqueiro",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Trailovsky",
+          "Player2": "thedeck84",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Wesal",
+          "Player2": "Lord_Beerus",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Wizard_2002",
+          "Player2": "reojund",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "WLS",
+          "Player2": "PsiVen",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "adm29",
+          "Player2": "karatedom",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "AFX",
+          "Player2": "Miharu_Fuyumiya",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Archer365",
+          "Player2": "Dr. Jon Osterman",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DelverFofoqueiro",
+          "Player2": "chumgod",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Filly",
+          "Player2": "unemployment",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "gusti99",
+          "Player2": "Erik157751",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Montolio",
+          "Player2": "tao_bye_bye",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "desolutionist",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "OhDee402",
+          "Player2": "HyuugaHeir",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "PsiVen",
+          "Player2": "Navas",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "reojund",
+          "Player2": "Sommertroll",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tienmtg",
+          "Player2": "thedeck84",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Trailovsky",
+          "Player2": "Wizard_2002",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Wesal",
+          "Player2": "max_9",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "WLS",
+          "Player2": "Ark4n",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "adm29",
+          "Player2": "unemployment",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "AFX",
+          "Player2": "Ark4n",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Archer365",
+          "Player2": "Wizard_2002",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "DelverFofoqueiro",
+          "Player2": "Sommertroll",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "desolutionist",
+          "Player2": "Filly",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "HyuugaHeir",
+          "Player2": "thedeck84",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "max_9",
+          "Player2": "tao_bye_bye",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Miharu_Fuyumiya",
+          "Player2": "WLS",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "Montolio",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Navas",
+          "Player2": "Erik157751",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "OhDee402",
+          "Player2": "reojund",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "PsiVen",
+          "Player2": "Tienmtg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Trailovsky",
+          "Player2": "Dr. Jon Osterman",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Wesal",
+          "Player2": "gusti99",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "Archer365",
+          "Player2": "Miharu_Fuyumiya",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "DelverFofoqueiro",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "desolutionist",
+          "Player2": "Navas",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Erik157751",
+          "Player2": "unemployment",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Filly",
+          "Player2": "Sommertroll",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "gusti99",
+          "Player2": "max_9",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Montolio",
+          "Player2": "HyuugaHeir",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "Wesal",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "OhDee402",
+          "Player2": "PsiVen",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "reojund",
+          "Player2": "tao_bye_bye",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tienmtg",
+          "Player2": "Dr. Jon Osterman",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Trailovsky",
+          "Player2": "AFX",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Wizard_2002",
+          "Player2": "WLS",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "AFX",
+          "Player2": "musasabi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Archer365",
+          "Player2": "OhDee402",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Miharu_Fuyumiya",
+          "Player2": "WLS",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Trailovsky",
+          "Player2": "Wizard_2002",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "Archer365",
+          "Player2": "Miharu_Fuyumiya",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Trailovsky",
+          "Player2": "AFX",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "Trailovsky",
+          "Player2": "Archer365",
+          "Result": "2-1-0"
+        }
+      ]
+    }
+  ]
+}

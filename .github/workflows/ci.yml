@@ -43,3 +43,6 @@ jobs:
 
       - name: Validate legacy challenges YAML
         run: uv run pull-ldc --validate
+
+      - name: Validate vintage challenges YAML
+        run: uv run pull-vmc --validate

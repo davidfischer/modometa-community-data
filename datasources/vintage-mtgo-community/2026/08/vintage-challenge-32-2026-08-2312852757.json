@@ -1,0 +1,900 @@
+{
+  "Tournament": {
+    "Id": "vintage-challenge-32-2026-08-2312852757",
+    "Date": "2026-08-23",
+    "Name": "Vintage Challenge 32",
+    "PlayerCount": 48,
+    "Source": "vintage-mtgo-community",
+    "SheetId": "1nmQRWuqLtx3iPskmMKPUs4bCzBTTqLg-G5S3TpS5Rpw"
+  },
+  "Players": [
+    {
+      "Player": "WLS",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "DelverFofoqueiro",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "FranMtg",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "Domotoro",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "Wizard_2002",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "FarmerLGG",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "DethFrmAbove",
+      "Archetype": "Lurrus Vault Key"
+    },
+    {
+      "Player": "Slasher21",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "The_Lion91",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "blacklotusknight",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "crK",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "Lord_Beerus",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "AFX",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "ChessNight5030",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "TaJoordan",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "Firetruck",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "TonyScapone",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "Univerce",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "jathbrisk",
+      "Archetype": "Tinker"
+    },
+    {
+      "Player": "IamActuallyLvL1",
+      "Archetype": "Lurrus Vault Key"
+    },
+    {
+      "Player": "PsiVen",
+      "Archetype": "Oath"
+    },
+    {
+      "Player": "deibu",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "BLJ",
+      "Archetype": "Countervine"
+    },
+    {
+      "Player": "_Batutinha_",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "harmonywoods",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "VitorCarvalho01",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "Aced5",
+      "Archetype": "Lurrus Breach"
+    },
+    {
+      "Player": "EnihcamAmgine",
+      "Archetype": "Lurrus Breach"
+    },
+    {
+      "Player": "Fluzzarn",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "MrxB",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "Montolio",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "mechrataal",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "FL_LegacyClub",
+      "Archetype": "Oath"
+    },
+    {
+      "Player": "duke12",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "Shaolimatadordeporco",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "MackSmith",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "karatedom",
+      "Archetype": "Countervine"
+    },
+    {
+      "Player": "HJ_Kaiser",
+      "Archetype": "Lurrus DRS"
+    },
+    {
+      "Player": "Solidsnake408",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "TurnOneWin",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "CrazyDiamond513",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "MahfuzVanGogh",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "Plagic86",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "drt5091",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "Magician15",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "Alico",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "Magic_Dads71522",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "DominiqueTutor",
+      "Archetype": "Aggrovine"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "AFX",
+          "Player2": "drt5091",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "BLJ",
+          "Player2": "Magic_Dads71522",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ChessNight5030",
+          "Player2": "MackSmith",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "mechrataal",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "deibu",
+          "Player2": "Aced5",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "DelverFofoqueiro",
+          "Player2": "The_Lion91",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DethFrmAbove",
+          "Player2": "blacklotusknight",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Domotoro",
+          "Player2": "jathbrisk",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "FarmerLGG",
+          "Player2": "Fluzzarn",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Firetruck",
+          "Player2": "EnihcamAmgine",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "FranMtg",
+          "Player2": "Plagic86",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "harmonywoods",
+          "Player2": "karatedom",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "IamActuallyLvL1",
+          "Player2": "HJ_Kaiser",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "Magician15",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Montolio",
+          "Player2": "Alico",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MrxB",
+          "Player2": "TurnOneWin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Slasher21",
+          "Player2": "PsiVen",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Solidsnake408",
+          "Player2": "DominiqueTutor",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TaJoordan",
+          "Player2": "FL_LegacyClub",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TonyScapone",
+          "Player2": "duke12",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Univerce",
+          "Player2": "_Batutinha_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "VitorCarvalho01",
+          "Player2": "Shaolimatadordeporco",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Wizard_2002",
+          "Player2": "CrazyDiamond513",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "WLS",
+          "Player2": "MahfuzVanGogh",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "MahfuzVanGogh",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "AFX",
+          "Player2": "ChessNight5030",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "BLJ",
+          "Player2": "Montolio",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "Plagic86",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "deibu",
+          "Player2": "Magician15",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DelverFofoqueiro",
+          "Player2": "IamActuallyLvL1",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DethFrmAbove",
+          "Player2": "drt5091",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Domotoro",
+          "Player2": "FarmerLGG",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Firetruck",
+          "Player2": "CrazyDiamond513",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "FL_LegacyClub",
+          "Player2": "HJ_Kaiser",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "FranMtg",
+          "Player2": "Aced5",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "harmonywoods",
+          "Player2": "Fluzzarn",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jathbrisk",
+          "Player2": "PsiVen",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "Solidsnake408",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MrxB",
+          "Player2": "mechrataal",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Slasher21",
+          "Player2": "blacklotusknight",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TaJoordan",
+          "Player2": "Shaolimatadordeporco",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "The_Lion91",
+          "Player2": "Magic_Dads71522",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TonyScapone",
+          "Player2": "Alico",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TurnOneWin",
+          "Player2": "DominiqueTutor",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Univerce",
+          "Player2": "EnihcamAmgine",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "VitorCarvalho01",
+          "Player2": "MackSmith",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Wizard_2002",
+          "Player2": "duke12",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "WLS",
+          "Player2": "karatedom",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "Aced5",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "AFX",
+          "Player2": "BLJ",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "blacklotusknight",
+          "Player2": "TurnOneWin",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "deibu",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DelverFofoqueiro",
+          "Player2": "Wizard_2002",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DethFrmAbove",
+          "Player2": "Shaolimatadordeporco",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Domotoro",
+          "Player2": "harmonywoods",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "EnihcamAmgine",
+          "Player2": "Solidsnake408",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "FarmerLGG",
+          "Player2": "ChessNight5030",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Firetruck",
+          "Player2": "MackSmith",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "FL_LegacyClub",
+          "Player2": "Magic_Dads71522",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Fluzzarn",
+          "Player2": "drt5091",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "FranMtg",
+          "Player2": "Univerce",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "jathbrisk",
+          "Player2": "duke12",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "MrxB",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "mechrataal",
+          "Player2": "karatedom",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "PsiVen",
+          "Player2": "DominiqueTutor",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Slasher21",
+          "Player2": "Montolio",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "The_Lion91",
+          "Player2": "IamActuallyLvL1",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TonyScapone",
+          "Player2": "HJ_Kaiser",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "VitorCarvalho01",
+          "Player2": "Plagic86",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "WLS",
+          "Player2": "TaJoordan",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "HJ_Kaiser",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "AFX",
+          "Player2": "MrxB",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "blacklotusknight",
+          "Player2": "EnihcamAmgine",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "BLJ",
+          "Player2": "Shaolimatadordeporco",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ChessNight5030",
+          "Player2": "jathbrisk",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "TaJoordan",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "deibu",
+          "Player2": "Fluzzarn",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DelverFofoqueiro",
+          "Player2": "Lord_Beerus",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DethFrmAbove",
+          "Player2": "Montolio",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Domotoro",
+          "Player2": "Wizard_2002",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Firetruck",
+          "Player2": "Aced5",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "FranMtg",
+          "Player2": "The_Lion91",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "harmonywoods",
+          "Player2": "DominiqueTutor",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "IamActuallyLvL1",
+          "Player2": "TurnOneWin",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "PsiVen",
+          "Player2": "Solidsnake408",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Slasher21",
+          "Player2": "Univerce",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TonyScapone",
+          "Player2": "mechrataal",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "VitorCarvalho01",
+          "Player2": "FL_LegacyClub",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "WLS",
+          "Player2": "FarmerLGG",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "VitorCarvalho01",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "blacklotusknight",
+          "Player2": "Firetruck",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "BLJ",
+          "Player2": "mechrataal",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ChessNight5030",
+          "Player2": "deibu",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "jathbrisk",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DelverFofoqueiro",
+          "Player2": "Slasher21",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DethFrmAbove",
+          "Player2": "TonyScapone",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Domotoro",
+          "Player2": "PsiVen",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "FarmerLGG",
+          "Player2": "MrxB",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "FL_LegacyClub",
+          "Player2": "TurnOneWin",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "FranMtg",
+          "Player2": "AFX",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "harmonywoods",
+          "Player2": "Aced5",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "IamActuallyLvL1",
+          "Player2": "Montolio",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "Univerce",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TaJoordan",
+          "Player2": "Fluzzarn",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "The_Lion91",
+          "Player2": "EnihcamAmgine",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "WLS",
+          "Player2": "Wizard_2002",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "AFX",
+          "Player2": "IamActuallyLvL1",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "blacklotusknight",
+          "Player2": "jathbrisk",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ChessNight5030",
+          "Player2": "FL_LegacyClub",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "deibu",
+          "Player2": "Montolio",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DelverFofoqueiro",
+          "Player2": "DethFrmAbove",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Domotoro",
+          "Player2": "Univerce",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "FarmerLGG",
+          "Player2": "crK",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "FranMtg",
+          "Player2": "Slasher21",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "PsiVen",
+          "Player2": "TurnOneWin",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TaJoordan",
+          "Player2": "BLJ",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "The_Lion91",
+          "Player2": "_Batutinha_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TonyScapone",
+          "Player2": "harmonywoods",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "VitorCarvalho01",
+          "Player2": "MrxB",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Wizard_2002",
+          "Player2": "Firetruck",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "WLS",
+          "Player2": "Lord_Beerus",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "DelverFofoqueiro",
+          "Player2": "Slasher21",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Domotoro",
+          "Player2": "Wizard_2002",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "FranMtg",
+          "Player2": "FarmerLGG",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "WLS",
+          "Player2": "DethFrmAbove",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "DelverFofoqueiro",
+          "Player2": "FranMtg",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "WLS",
+          "Player2": "Domotoro",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "WLS",
+          "Player2": "DelverFofoqueiro",
+          "Result": "1-0-0"
+        }
+      ]
+    }
+  ]
+}

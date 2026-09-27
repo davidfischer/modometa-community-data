@@ -1,0 +1,680 @@
+{
+  "Tournament": {
+    "Id": "vintage-challenge-32-2025-11-3012825482",
+    "Date": "2025-11-30",
+    "Name": "Vintage Challenge 32",
+    "PlayerCount": 33,
+    "Source": "vintage-mtgo-community",
+    "SheetId": "1im6nXq7glG6QJ4VTvQBjkChAxb63NGyzN4ASG5HEbIw"
+  },
+  "Players": [
+    {
+      "Player": "LasVegasChaos",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "musasabi",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "Selfeisek",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "Sfugliatella2021",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "Terminus0",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "TrueHero",
+      "Archetype": "Blue Control"
+    },
+    {
+      "Player": "Zenith777",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "Ecoscuro",
+      "Archetype": "Oath"
+    },
+    {
+      "Player": "_Joseba_",
+      "Archetype": "Scam"
+    },
+    {
+      "Player": "cicciogire",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "etoustar",
+      "Archetype": "Oath"
+    },
+    {
+      "Player": "FranciscoCR91",
+      "Archetype": "Countervine"
+    },
+    {
+      "Player": "OhDee402",
+      "Archetype": "Breach"
+    },
+    {
+      "Player": "yoshiwata",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "crK",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "albertoSD",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "Munchlax446",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "jez_organix",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "sm294",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "HazuhiroNakamura",
+      "Archetype": "PO"
+    },
+    {
+      "Player": "AlurenMagic",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "heaviermelero",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "Asa_Akira",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "desolutionist",
+      "Archetype": "Lurrus Breach"
+    },
+    {
+      "Player": "Callenutg1",
+      "Archetype": "Lurrus Breach"
+    },
+    {
+      "Player": "AmadeusPro",
+      "Archetype": "Scam"
+    },
+    {
+      "Player": "_Shatun_",
+      "Archetype": "Scam"
+    },
+    {
+      "Player": "boytriton",
+      "Archetype": "Scam"
+    },
+    {
+      "Player": "Tsubasa_Cat",
+      "Archetype": "Lurrus Doomsday"
+    },
+    {
+      "Player": "adm29",
+      "Archetype": "Other Lurrus"
+    },
+    {
+      "Player": "_dr4gun0v_",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "SingPanMan",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "Bunbuneru",
+      "Archetype": "Other"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Joseba_",
+          "Player2": "adm29",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Asa_Akira",
+          "Player2": "_Shatun_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "cicciogire",
+          "Player2": "_dr4gun0v_",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "desolutionist",
+          "Player2": "Tsubasa_Cat",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Ecoscuro",
+          "Player2": "crK",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "FranciscoCR91",
+          "Player2": "HazuhiroNakamura",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "heaviermelero",
+          "Player2": "SingPanMan",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "LasVegasChaos",
+          "Player2": "boytriton",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "Sfugliatella2021",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "OhDee402",
+          "Player2": "albertoSD",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "Bunbuneru",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "sm294",
+          "Player2": "AlurenMagic",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Terminus0",
+          "Player2": "Munchlax446",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "TrueHero",
+          "Player2": "Callenutg1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "jez_organix",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Zenith777",
+          "Player2": "AmadeusPro",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Shatun_",
+          "Player2": "Bunbuneru",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Callenutg1",
+          "Player2": "Tsubasa_Cat",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "cicciogire",
+          "Player2": "etoustar",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "albertoSD",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Ecoscuro",
+          "Player2": "sm294",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "HazuhiroNakamura",
+          "Player2": "boytriton",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "jez_organix",
+          "Player2": "AmadeusPro",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "LasVegasChaos",
+          "Player2": "FranciscoCR91",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "Asa_Akira",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "_Joseba_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "AlurenMagic",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Sfugliatella2021",
+          "Player2": "adm29",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Terminus0",
+          "Player2": "SingPanMan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TrueHero",
+          "Player2": "OhDee402",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "heaviermelero",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Zenith777",
+          "Player2": "desolutionist",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Joseba_",
+          "Player2": "desolutionist",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "boytriton",
+          "Player2": "Tsubasa_Cat",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "Callenutg1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ecoscuro",
+          "Player2": "albertoSD",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "FranciscoCR91",
+          "Player2": "_Shatun_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "HazuhiroNakamura",
+          "Player2": "heaviermelero",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LasVegasChaos",
+          "Player2": "Asa_Akira",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "AmadeusPro",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "etoustar",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "OhDee402",
+          "Player2": "AlurenMagic",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "TrueHero",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Sfugliatella2021",
+          "Player2": "cicciogire",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "sm294",
+          "Player2": "adm29",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Terminus0",
+          "Player2": "jez_organix",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Zenith777",
+          "Player2": "yoshiwata",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Joseba_",
+          "Player2": "heaviermelero",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "Munchlax446",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "cicciogire",
+          "Player2": "Callenutg1",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "desolutionist",
+          "Player2": "boytriton",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "etoustar",
+          "Player2": "AlurenMagic",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "HazuhiroNakamura",
+          "Player2": "AmadeusPro",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jez_organix",
+          "Player2": "_Shatun_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "LasVegasChaos",
+          "Player2": "Selfeisek",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "Zenith777",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "OhDee402",
+          "Player2": "adm29",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Sfugliatella2021",
+          "Player2": "FranciscoCR91",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Terminus0",
+          "Player2": "Ecoscuro",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TrueHero",
+          "Player2": "crK",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "sm294",
+          "Result": "1-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Joseba_",
+          "Player2": "OhDee402",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Shatun_",
+          "Player2": "boytriton",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "AmadeusPro",
+          "Player2": "Tsubasa_Cat",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "cicciogire",
+          "Player2": "AlurenMagic",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ecoscuro",
+          "Player2": "heaviermelero",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "FranciscoCR91",
+          "Player2": "crK",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "jez_organix",
+          "Player2": "desolutionist",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LasVegasChaos",
+          "Player2": "TrueHero",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "Callenutg1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "Selfeisek",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Sfugliatella2021",
+          "Player2": "Zenith777",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "sm294",
+          "Player2": "HazuhiroNakamura",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Terminus0",
+          "Player2": "etoustar",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "albertoSD",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Joseba_",
+          "Player2": "yoshiwata",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "albertoSD",
+          "Player2": "desolutionist",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "AlurenMagic",
+          "Player2": "AmadeusPro",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Callenutg1",
+          "Player2": "adm29",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "cicciogire",
+          "Player2": "FranciscoCR91",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "heaviermelero",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ecoscuro",
+          "Player2": "jez_organix",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "HazuhiroNakamura",
+          "Player2": "Tsubasa_Cat",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "LasVegasChaos",
+          "Player2": "sm294",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "boytriton",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "TrueHero",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "etoustar",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Sfugliatella2021",
+          "Player2": "Terminus0",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Zenith777",
+          "Player2": "OhDee402",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "LasVegasChaos",
+          "Player2": "Terminus0",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "Ecoscuro",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "Zenith777",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Sfugliatella2021",
+          "Player2": "TrueHero",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "LasVegasChaos",
+          "Player2": "Selfeisek",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "Sfugliatella2021",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "LasVegasChaos",
+          "Player2": "musasabi",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ]
+}

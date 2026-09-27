@@ -1,0 +1,782 @@
+{
+  "Tournament": {
+    "Id": "vintage-challenge-32-2026-06-0612843803",
+    "Date": "2026-06-06",
+    "Name": "Vintage Challenge 32",
+    "PlayerCount": 41,
+    "Source": "vintage-mtgo-community",
+    "SheetId": "1nPioAGU0e3xpSw-HDlVQq-u_g90aDYW8fmUQHDFOrfA"
+  },
+  "Players": [
+    {
+      "Player": "blackdecks99",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "novaschin22",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "magiclaszlo",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "AFX",
+      "Archetype": "Oath"
+    },
+    {
+      "Player": "COMBO-BOY",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "Wizard_2002",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "notmi",
+      "Archetype": "Lurrus Breach"
+    },
+    {
+      "Player": "GGoggles",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "WLS",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "MJ_23",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "RagingMachismo",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "Erik157751",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "eggybenny",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "tao_bye_bye",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "Richie727",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "Miharu_Fuyumiya",
+      "Archetype": "Oath"
+    },
+    {
+      "Player": "zippzipp_",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "Montolio",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "_Batutinha_",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "Darkmattergun",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "Jumba",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "Who_Now",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "Ark4n",
+      "Archetype": "Tinker"
+    },
+    {
+      "Player": "DominiqueTutor",
+      "Archetype": "Other Shops"
+    },
+    {
+      "Player": "jaarseth",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "boytriton",
+      "Archetype": "Oath"
+    },
+    {
+      "Player": "Sommertroll",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "RogeDeckWins",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "PsiVen",
+      "Archetype": "Oath"
+    },
+    {
+      "Player": "thedeck84",
+      "Archetype": "Lurrus Breach"
+    },
+    {
+      "Player": "Viatt",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "HyuugaHeir",
+      "Archetype": "Countervine"
+    },
+    {
+      "Player": "simmsey",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "jamiewvh",
+      "Archetype": "Other Lurrus"
+    },
+    {
+      "Player": "Wesal",
+      "Archetype": "Oath"
+    },
+    {
+      "Player": "Navas",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "_Shikamaru_",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "wutup",
+      "Archetype": "Other Lurrus"
+    },
+    {
+      "Player": "Caleb_Yetman",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "Parrotlet",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "CrazyDiamond513",
+      "Archetype": "Jewel Shops"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "AFX",
+          "Player2": "notmi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "_Shikamaru_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "blackdecks99",
+          "Player2": "zippzipp_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "boytriton",
+          "Player2": "simmsey",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "COMBO-BOY",
+          "Player2": "tao_bye_bye",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "DominiqueTutor",
+          "Player2": "jaarseth",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "eggybenny",
+          "Player2": "Viatt",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Erik157751",
+          "Player2": "Sommertroll",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "GGoggles",
+          "Player2": "wutup",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "thedeck84",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "magiclaszlo",
+          "Player2": "Caleb_Yetman",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MJ_23",
+          "Player2": "HyuugaHeir",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Montolio",
+          "Player2": "_Batutinha_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "novaschin22",
+          "Player2": "Darkmattergun",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "PsiVen",
+          "Player2": "Wesal",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "RagingMachismo",
+          "Player2": "RogeDeckWins",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Richie727",
+          "Player2": "Parrotlet",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Who_Now",
+          "Player2": "jamiewvh",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Wizard_2002",
+          "Player2": "CrazyDiamond513",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "WLS",
+          "Player2": "Navas",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "Darkmattergun",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "AFX",
+          "Player2": "boytriton",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "jaarseth",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "blackdecks99",
+          "Player2": "thedeck84",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "COMBO-BOY",
+          "Player2": "Wesal",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DominiqueTutor",
+          "Player2": "Navas",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "GGoggles",
+          "Player2": "tao_bye_bye",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "HyuugaHeir",
+          "Player2": "simmsey",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "jamiewvh",
+          "Player2": "Caleb_Yetman",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "Sommertroll",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "magiclaszlo",
+          "Player2": "Erik157751",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Miharu_Fuyumiya",
+          "Player2": "Who_Now",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "MJ_23",
+          "Player2": "Viatt",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Montolio",
+          "Player2": "PsiVen",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "notmi",
+          "Player2": "eggybenny",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "novaschin22",
+          "Player2": "WLS",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "RagingMachismo",
+          "Player2": "Richie727",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "RogeDeckWins",
+          "Player2": "CrazyDiamond513",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Wizard_2002",
+          "Player2": "_Shikamaru_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "zippzipp_",
+          "Player2": "wutup",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "DominiqueTutor",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "AFX",
+          "Player2": "Richie727",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "blackdecks99",
+          "Player2": "magiclaszlo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "boytriton",
+          "Player2": "RogeDeckWins",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "COMBO-BOY",
+          "Player2": "simmsey",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Darkmattergun",
+          "Player2": "Caleb_Yetman",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "eggybenny",
+          "Player2": "HyuugaHeir",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Erik157751",
+          "Player2": "tao_bye_bye",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "GGoggles",
+          "Player2": "MJ_23",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "Who_Now",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Miharu_Fuyumiya",
+          "Player2": "jamiewvh",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "notmi",
+          "Player2": "thedeck84",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "novaschin22",
+          "Player2": "Ark4n",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "RagingMachismo",
+          "Player2": "Viatt",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Wizard_2002",
+          "Player2": "Montolio",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "WLS",
+          "Player2": "jaarseth",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "zippzipp_",
+          "Player2": "PsiVen",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "jaarseth",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "AFX",
+          "Player2": "WLS",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "PsiVen",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "blackdecks99",
+          "Player2": "tao_bye_bye",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "COMBO-BOY",
+          "Player2": "GGoggles",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Darkmattergun",
+          "Player2": "thedeck84",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DominiqueTutor",
+          "Player2": "RogeDeckWins",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "eggybenny",
+          "Player2": "Who_Now",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Erik157751",
+          "Player2": "HyuugaHeir",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "magiclaszlo",
+          "Player2": "zippzipp_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Miharu_Fuyumiya",
+          "Player2": "Jumba",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "notmi",
+          "Player2": "Montolio",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "novaschin22",
+          "Player2": "Richie727",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "RagingMachismo",
+          "Player2": "boytriton",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Sommertroll",
+          "Player2": "simmsey",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Wizard_2002",
+          "Player2": "MJ_23",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "blackdecks99",
+          "Player2": "Wizard_2002",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "COMBO-BOY",
+          "Player2": "Miharu_Fuyumiya",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "eggybenny",
+          "Player2": "jaarseth",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Erik157751",
+          "Player2": "boytriton",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "GGoggles",
+          "Player2": "Darkmattergun",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "Ark4n",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "magiclaszlo",
+          "Player2": "notmi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MJ_23",
+          "Player2": "_Batutinha_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "novaschin22",
+          "Player2": "AFX",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "PsiVen",
+          "Player2": "simmsey",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Richie727",
+          "Player2": "Montolio",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "RogeDeckWins",
+          "Player2": "HyuugaHeir",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "tao_bye_bye",
+          "Player2": "Who_Now",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "WLS",
+          "Player2": "RagingMachismo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "zippzipp_",
+          "Player2": "DominiqueTutor",
+          "Result": "1-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "Ark4n",
+          "Player2": "boytriton",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "blackdecks99",
+          "Player2": "RagingMachismo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "COMBO-BOY",
+          "Player2": "MJ_23",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Darkmattergun",
+          "Player2": "simmsey",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "eggybenny",
+          "Player2": "Jumba",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Erik157751",
+          "Player2": "Richie727",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "GGoggles",
+          "Player2": "DominiqueTutor",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "magiclaszlo",
+          "Player2": "AFX",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "notmi",
+          "Player2": "_Batutinha_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "novaschin22",
+          "Player2": "Wizard_2002",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "PsiVen",
+          "Player2": "HyuugaHeir",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "tao_bye_bye",
+          "Player2": "Montolio",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Who_Now",
+          "Player2": "RogeDeckWins",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "WLS",
+          "Player2": "Miharu_Fuyumiya",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "zippzipp_",
+          "Player2": "jaarseth",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "AFX",
+          "Player2": "COMBO-BOY",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "blackdecks99",
+          "Player2": "GGoggles",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "magiclaszlo",
+          "Player2": "notmi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "novaschin22",
+          "Player2": "Wizard_2002",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "blackdecks99",
+          "Player2": "AFX",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "novaschin22",
+          "Player2": "magiclaszlo",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "blackdecks99",
+          "Player2": "novaschin22",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ]
+}

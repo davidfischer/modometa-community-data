@@ -1,0 +1,694 @@
+{
+  "Tournament": {
+    "Id": "vintage-challenge-32-2025-01-1212730989",
+    "Date": "2025-01-12",
+    "Name": "Vintage Challenge 32",
+    "PlayerCount": 34,
+    "Source": "vintage-mtgo-community",
+    "SheetId": "1S0Mkw_YQd2em51UOC5q-bOznHnmCn7Bn5ytlbiqs3Ys"
+  },
+  "Players": [
+    {
+      "Player": "death_grips",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "etoustar",
+      "Archetype": "Eldrazi"
+    },
+    {
+      "Player": "_Chamytinho_",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "dingzhen",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "CrazyDiamond513",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "_INF_",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "crK",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "unluckymonkey",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "molimomaro",
+      "Archetype": "Breach"
+    },
+    {
+      "Player": "_Batutinha_",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "bless_von",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "SingPanMan",
+      "Archetype": "Merfolk"
+    },
+    {
+      "Player": "RogeDeckWins",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "Munchlax446",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "Shuichi_Saito",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "Summer_Bloom",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "CaboGrosso",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "king_of_fae",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "choutin",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "vwxyza648204",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "DOG_KOKO",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "_Joseba_",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "Mogged",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "haqe",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "jednompojednom11",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "JTlemmon",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "Wesal",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "Marcuzinho",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "Srogers90",
+      "Archetype": "Lurrus DRS"
+    },
+    {
+      "Player": "MagerMistake",
+      "Archetype": "Breach"
+    },
+    {
+      "Player": "Nanovo",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "FranMtg",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "albertoSD",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "EiJunCHN",
+      "Archetype": "Jewel Shops"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "Mogged",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Chamytinho_",
+          "Player2": "DOG_KOKO",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "_INF_",
+          "Player2": "choutin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "Marcuzinho",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "CrazyDiamond513",
+          "Player2": "unluckymonkey",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "FranMtg",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "death_grips",
+          "Player2": "CaboGrosso",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "dingzhen",
+          "Player2": "Wesal",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "etoustar",
+          "Player2": "Summer_Bloom",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jednompojednom11",
+          "Player2": "Nanovo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "JTlemmon",
+          "Player2": "MagerMistake",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "king_of_fae",
+          "Player2": "haqe",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "molimomaro",
+          "Player2": "SingPanMan",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "vwxyza648204",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "RogeDeckWins",
+          "Player2": "_Joseba_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Shuichi_Saito",
+          "Player2": "albertoSD",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Srogers90",
+          "Player2": "EiJunCHN",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "Shuichi_Saito",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "_Chamytinho_",
+          "Player2": "MagerMistake",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "_Joseba_",
+          "Player2": "Marcuzinho",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "CaboGrosso",
+          "Player2": "choutin",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "CrazyDiamond513",
+          "Player2": "Munchlax446",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "bless_von",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "death_grips",
+          "Player2": "_INF_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "dingzhen",
+          "Player2": "RogeDeckWins",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "DOG_KOKO",
+          "Player2": "JTlemmon",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "etoustar",
+          "Player2": "Srogers90",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "haqe",
+          "Player2": "jednompojednom11",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "molimomaro",
+          "Player2": "FranMtg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SingPanMan",
+          "Player2": "Mogged",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Summer_Bloom",
+          "Player2": "EiJunCHN",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "unluckymonkey",
+          "Player2": "king_of_fae",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "vwxyza648204",
+          "Player2": "albertoSD",
+          "Result": "1-1-0"
+        },
+        {
+          "Player1": "Wesal",
+          "Player2": "Nanovo",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "Munchlax446",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Chamytinho_",
+          "Player2": "haqe",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Joseba_",
+          "Player2": "Srogers90",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "DOG_KOKO",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "CrazyDiamond513",
+          "Player2": "crK",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "death_grips",
+          "Player2": "Mogged",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "dingzhen",
+          "Player2": "bless_von",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "etoustar",
+          "Player2": "_INF_",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "jednompojednom11",
+          "Player2": "JTlemmon",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Marcuzinho",
+          "Player2": "FranMtg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "molimomaro",
+          "Player2": "vwxyza648204",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Nanovo",
+          "Player2": "albertoSD",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "RogeDeckWins",
+          "Player2": "Shuichi_Saito",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SingPanMan",
+          "Player2": "Wesal",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Summer_Bloom",
+          "Player2": "MagerMistake",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "unluckymonkey",
+          "Player2": "CaboGrosso",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "haqe",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "_Chamytinho_",
+          "Player2": "_INF_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "Wesal",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "CaboGrosso",
+          "Player2": "Nanovo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "CrazyDiamond513",
+          "Player2": "RogeDeckWins",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "Shuichi_Saito",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "death_grips",
+          "Player2": "unluckymonkey",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "dingzhen",
+          "Player2": "_Joseba_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "etoustar",
+          "Player2": "molimomaro",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "king_of_fae",
+          "Player2": "MagerMistake",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "JTlemmon",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "Marcuzinho",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "SingPanMan",
+          "Player2": "jednompojednom11",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Summer_Bloom",
+          "Player2": "DOG_KOKO",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "vwxyza648204",
+          "Player2": "Srogers90",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Chamytinho_",
+          "Player2": "RogeDeckWins",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "JTlemmon",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "MagerMistake",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "CrazyDiamond513",
+          "Player2": "_INF_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "_Batutinha_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "death_grips",
+          "Player2": "SingPanMan",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "etoustar",
+          "Player2": "dingzhen",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "king_of_fae",
+          "Player2": "Mogged",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "molimomaro",
+          "Player2": "jednompojednom11",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "_Joseba_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Shuichi_Saito",
+          "Player2": "CaboGrosso",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "unluckymonkey",
+          "Player2": "Summer_Bloom",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "vwxyza648204",
+          "Player2": "haqe",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "RogeDeckWins",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "_Chamytinho_",
+          "Player2": "CrazyDiamond513",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_INF_",
+          "Player2": "crK",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_Joseba_",
+          "Player2": "jednompojednom11",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "vwxyza648204",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "CaboGrosso",
+          "Player2": "JTlemmon",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "haqe",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "death_grips",
+          "Player2": "Summer_Bloom",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "dingzhen",
+          "Player2": "king_of_fae",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DOG_KOKO",
+          "Player2": "MagerMistake",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "etoustar",
+          "Player2": "unluckymonkey",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "molimomaro",
+          "Player2": "Munchlax446",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SingPanMan",
+          "Player2": "Shuichi_Saito",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "_Chamytinho_",
+          "Player2": "_INF_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "death_grips",
+          "Player2": "crK",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "dingzhen",
+          "Player2": "CrazyDiamond513",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "etoustar",
+          "Player2": "unluckymonkey",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "death_grips",
+          "Player2": "_Chamytinho_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "etoustar",
+          "Player2": "dingzhen",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "death_grips",
+          "Player2": "etoustar",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ]
+}

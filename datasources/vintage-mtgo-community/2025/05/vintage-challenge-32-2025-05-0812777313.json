@@ -1,0 +1,797 @@
+{
+  "Tournament": {
+    "Id": "vintage-challenge-32-2025-05-0812777313",
+    "Date": "2025-05-08",
+    "Name": "Vintage Challenge 32",
+    "PlayerCount": 41,
+    "Source": "vintage-mtgo-community",
+    "SheetId": "1afXF5qzyEGSyYB_qYvZ_XY89SK2DinfY12MiiS2_6-I"
+  },
+  "Players": [
+    {
+      "Player": "Ark4n",
+      "Archetype": "Other Lurrus"
+    },
+    {
+      "Player": "unluckymonkey",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "Munchlax446",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "GodOfSlaughter",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "etoustar",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "mortr3d",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "Aaa258",
+      "Archetype": "Other Lurrus"
+    },
+    {
+      "Player": "TrueHero",
+      "Archetype": "Blue Control"
+    },
+    {
+      "Player": "Illao1",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "McWinSauce",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "satu2112",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "_Shatun_",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "Killah_SUV",
+      "Archetype": "Lurrus Breach"
+    },
+    {
+      "Player": "RespectTheCat",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "AFX",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "mei0024",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "patrick50",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "musasabi",
+      "Archetype": "Scam"
+    },
+    {
+      "Player": "lordoflifegain",
+      "Archetype": "BUG"
+    },
+    {
+      "Player": "LORiWWA",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "Jumba",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "Firetruck",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "FerMTG",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "Schiaveto",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "s8shock",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "bless_von",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "wcl",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "GoblinElder",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "kristofff",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "GengsKhan",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "John_Cabral",
+      "Archetype": "Countervine"
+    },
+    {
+      "Player": "kasa",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "Montolio",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "DelverFofoqueiro",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "Ignotus97",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "Tsubasa_Cat",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "TonyScapone",
+      "Archetype": "Beseech Storm"
+    },
+    {
+      "Player": "Viatt",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "MackSmith",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "missflood",
+      "Archetype": "Blue Control"
+    },
+    {
+      "Player": "Bugsy69",
+      "Archetype": "Blue Control"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Shatun_",
+          "Player2": "kristofff",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Aaa258",
+          "Player2": "GoblinElder",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "AFX",
+          "Player2": "Bugsy69",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "musasabi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "etoustar",
+          "Player2": "Jumba",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "FerMTG",
+          "Player2": "DelverFofoqueiro",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "GodOfSlaughter",
+          "Player2": "Ignotus97",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Illao1",
+          "Player2": "bless_von",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "lordoflifegain",
+          "Player2": "Tsubasa_Cat",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "McWinSauce",
+          "Player2": "Viatt",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "mei0024",
+          "Player2": "GengsKhan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "mortr3d",
+          "Player2": "John_Cabral",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "wcl",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "patrick50",
+          "Player2": "Montolio",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "RespectTheCat",
+          "Player2": "missflood",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "s8shock",
+          "Player2": "kasa",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "satu2112",
+          "Player2": "TonyScapone",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Schiaveto",
+          "Player2": "MackSmith",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TrueHero",
+          "Player2": "Firetruck",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "unluckymonkey",
+          "Player2": "LORiWWA",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "Aaa258",
+          "Player2": "RespectTheCat",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "Illao1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "missflood",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "etoustar",
+          "Player2": "lordoflifegain",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "FerMTG",
+          "Player2": "Ignotus97",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Firetruck",
+          "Player2": "TonyScapone",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "GengsKhan",
+          "Player2": "John_Cabral",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "GodOfSlaughter",
+          "Player2": "Tsubasa_Cat",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "MackSmith",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "kasa",
+          "Player2": "Viatt",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Killah_SUV",
+          "Player2": "s8shock",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "LORiWWA",
+          "Player2": "wcl",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "McWinSauce",
+          "Player2": "DelverFofoqueiro",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Montolio",
+          "Player2": "Bugsy69",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "_Shatun_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "kristofff",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "patrick50",
+          "Player2": "Schiaveto",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "satu2112",
+          "Player2": "mei0024",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "TrueHero",
+          "Player2": "AFX",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "unluckymonkey",
+          "Player2": "mortr3d",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "Aaa258",
+          "Player2": "mei0024",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "Munchlax446",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "etoustar",
+          "Player2": "bless_von",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Firetruck",
+          "Player2": "Montolio",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "GoblinElder",
+          "Player2": "DelverFofoqueiro",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "GodOfSlaughter",
+          "Player2": "Jumba",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Illao1",
+          "Player2": "kasa",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Killah_SUV",
+          "Player2": "FerMTG",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "McWinSauce",
+          "Player2": "s8shock",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "mortr3d",
+          "Player2": "_Shatun_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "patrick50",
+          "Player2": "lordoflifegain",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "RespectTheCat",
+          "Player2": "musasabi",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "satu2112",
+          "Player2": "John_Cabral",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Schiaveto",
+          "Player2": "kristofff",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TrueHero",
+          "Player2": "LORiWWA",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "unluckymonkey",
+          "Player2": "AFX",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "wcl",
+          "Player2": "GengsKhan",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Shatun_",
+          "Player2": "Jumba",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "McWinSauce",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "DelverFofoqueiro",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "etoustar",
+          "Player2": "s8shock",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "FerMTG",
+          "Player2": "Montolio",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Firetruck",
+          "Player2": "GoblinElder",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "GodOfSlaughter",
+          "Player2": "patrick50",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Illao1",
+          "Player2": "AFX",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kristofff",
+          "Player2": "GengsKhan",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "LORiWWA",
+          "Player2": "John_Cabral",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "mortr3d",
+          "Player2": "lordoflifegain",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "mei0024",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "kasa",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "RespectTheCat",
+          "Player2": "wcl",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "satu2112",
+          "Player2": "Killah_SUV",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TrueHero",
+          "Player2": "Schiaveto",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "unluckymonkey",
+          "Player2": "Aaa258",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Shatun_",
+          "Player2": "s8shock",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "AFX",
+          "Player2": "bless_von",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "GodOfSlaughter",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "etoustar",
+          "Player2": "Firetruck",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "FerMTG",
+          "Player2": "Schiaveto",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "GengsKhan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Killah_SUV",
+          "Player2": "LORiWWA",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kristofff",
+          "Player2": "DelverFofoqueiro",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "McWinSauce",
+          "Player2": "musasabi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "mei0024",
+          "Player2": "GoblinElder",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "mortr3d",
+          "Player2": "Aaa258",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "Illao1",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "RespectTheCat",
+          "Player2": "lordoflifegain",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "satu2112",
+          "Player2": "patrick50",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "unluckymonkey",
+          "Player2": "TrueHero",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "wcl",
+          "Player2": "John_Cabral",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Shatun_",
+          "Player2": "mei0024",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Aaa258",
+          "Player2": "AFX",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "mortr3d",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "etoustar",
+          "Player2": "satu2112",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "GengsKhan",
+          "Player2": "DelverFofoqueiro",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Illao1",
+          "Player2": "musasabi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "wcl",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Killah_SUV",
+          "Player2": "Firetruck",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kristofff",
+          "Player2": "John_Cabral",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "lordoflifegain",
+          "Player2": "s8shock",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "LORiWWA",
+          "Player2": "bless_von",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "McWinSauce",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "RespectTheCat",
+          "Player2": "patrick50",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Schiaveto",
+          "Player2": "GoblinElder",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TrueHero",
+          "Player2": "FerMTG",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "unluckymonkey",
+          "Player2": "GodOfSlaughter",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "Ark4n",
+          "Player2": "Aaa258",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "GodOfSlaughter",
+          "Player2": "etoustar",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "mortr3d",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "unluckymonkey",
+          "Player2": "TrueHero",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "Ark4n",
+          "Player2": "Munchlax446",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "unluckymonkey",
+          "Player2": "GodOfSlaughter",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "Ark4n",
+          "Player2": "unluckymonkey",
+          "Result": "2-1-0"
+        }
+      ]
+    }
+  ]
+}

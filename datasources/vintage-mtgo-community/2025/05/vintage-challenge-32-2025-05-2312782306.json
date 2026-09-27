@@ -1,0 +1,751 @@
+{
+  "Tournament": {
+    "Id": "vintage-challenge-32-2025-05-2312782306",
+    "Date": "2025-05-23",
+    "Name": "Vintage Challenge 32",
+    "PlayerCount": 37,
+    "Source": "vintage-mtgo-community",
+    "SheetId": "12UbnJdOW_B7b9Z5wv-aiDuC5lk4suQAVfObuGrCvLBk"
+  },
+  "Players": [
+    {
+      "Player": "Bullwinkkle6705",
+      "Archetype": "PO"
+    },
+    {
+      "Player": "Shuichi_Saito",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "_Shatun_",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "death_grips",
+      "Archetype": "PO"
+    },
+    {
+      "Player": "Munchlax446",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "unluckymonkey",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "molimomaro",
+      "Archetype": "PO"
+    },
+    {
+      "Player": "MarcoIa",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "Tsubasa_Cat",
+      "Archetype": "Lurrus Doomsday"
+    },
+    {
+      "Player": "discoverN",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "EnihcamAmgine",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "Messi_10",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "crK",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "kaikas",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "rbrb",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "FarmerLGG",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "Magic_Dads71522",
+      "Archetype": "Oath"
+    },
+    {
+      "Player": "RatherBplayingMTG",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "satu2112",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "Jumba",
+      "Archetype": "PO"
+    },
+    {
+      "Player": "VitorCarvalho01",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "bless_von",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "MayhemDJ",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "musasabi",
+      "Archetype": "Beseech Storm"
+    },
+    {
+      "Player": "revenantkioku",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "Frejat",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "Montolio",
+      "Archetype": "Lurrus DRS"
+    },
+    {
+      "Player": "mosh110",
+      "Archetype": "Blue Control"
+    },
+    {
+      "Player": "_J0SE_",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "s063",
+      "Archetype": "Lurrus Breach"
+    },
+    {
+      "Player": "nicoprietob",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "silencsong",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "Lord_Beerus",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "ecobaronen",
+      "Archetype": "Lurrus DRS"
+    },
+    {
+      "Player": "EVhuner",
+      "Archetype": "Lurrus Breach"
+    },
+    {
+      "Player": "albertoSD",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "IamActuallyLvL1",
+      "Archetype": "Lurrus PO"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_J0SE_",
+          "Player2": "s063",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "_Shatun_",
+          "Player2": "MarcoIa",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Bullwinkkle6705",
+          "Player2": "MayhemDJ",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "bless_von",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "death_grips",
+          "Player2": "silencsong",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "IamActuallyLvL1",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "EnihcamAmgine",
+          "Player2": "satu2112",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "FarmerLGG",
+          "Player2": "mosh110",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "Lord_Beerus",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kaikas",
+          "Player2": "musasabi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Magic_Dads71522",
+          "Player2": "ecobaronen",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Messi_10",
+          "Player2": "EVhuner",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "molimomaro",
+          "Player2": "Montolio",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "Frejat",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "rbrb",
+          "Player2": "nicoprietob",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "revenantkioku",
+          "Player2": "albertoSD",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "VitorCarvalho01",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "unluckymonkey",
+          "Player2": "RatherBplayingMTG",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Shatun_",
+          "Player2": "EVhuner",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "silencsong",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Bullwinkkle6705",
+          "Player2": "rbrb",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "FarmerLGG",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "death_grips",
+          "Player2": "s063",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "Magic_Dads71522",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "revenantkioku",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "MarcoIa",
+          "Player2": "Tsubasa_Cat",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MayhemDJ",
+          "Player2": "Montolio",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Messi_10",
+          "Player2": "Frejat",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "molimomaro",
+          "Player2": "kaikas",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "mosh110",
+          "Player2": "ecobaronen",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "nicoprietob",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "Lord_Beerus",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "RatherBplayingMTG",
+          "Player2": "_J0SE_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "satu2112",
+          "Player2": "IamActuallyLvL1",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Shuichi_Saito",
+          "Player2": "albertoSD",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "unluckymonkey",
+          "Player2": "EnihcamAmgine",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_J0SE_",
+          "Player2": "silencsong",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Shatun_",
+          "Player2": "rbrb",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Bullwinkkle6705",
+          "Player2": "unluckymonkey",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "death_grips",
+          "Player2": "crK",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "Messi_10",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "EnihcamAmgine",
+          "Player2": "s063",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "FarmerLGG",
+          "Player2": "Montolio",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Frejat",
+          "Player2": "ecobaronen",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "VitorCarvalho01",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kaikas",
+          "Player2": "RatherBplayingMTG",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "IamActuallyLvL1",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Magic_Dads71522",
+          "Player2": "musasabi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MayhemDJ",
+          "Player2": "mosh110",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "molimomaro",
+          "Player2": "MarcoIa",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "satu2112",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Shuichi_Saito",
+          "Player2": "revenantkioku",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "bless_von",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Shatun_",
+          "Player2": "FarmerLGG",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "Lord_Beerus",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Bullwinkkle6705",
+          "Player2": "death_grips",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "EnihcamAmgine",
+          "Player2": "Jumba",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kaikas",
+          "Player2": "revenantkioku",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MayhemDJ",
+          "Player2": "Frejat",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Messi_10",
+          "Player2": "crK",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Montolio",
+          "Player2": "IamActuallyLvL1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "mosh110",
+          "Player2": "silencsong",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "discoverN",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "_J0SE_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "RatherBplayingMTG",
+          "Player2": "s063",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "rbrb",
+          "Player2": "satu2112",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Shuichi_Saito",
+          "Player2": "molimomaro",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "Magic_Dads71522",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "unluckymonkey",
+          "Player2": "MarcoIa",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "VitorCarvalho01",
+          "Player2": "nicoprietob",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Shatun_",
+          "Player2": "EnihcamAmgine",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "bless_von",
+          "Player2": "MayhemDJ",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Bullwinkkle6705",
+          "Player2": "kaikas",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "FarmerLGG",
+          "Player2": "revenantkioku",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MarcoIa",
+          "Player2": "RatherBplayingMTG",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Messi_10",
+          "Player2": "Magic_Dads71522",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "molimomaro",
+          "Player2": "discoverN",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "mosh110",
+          "Player2": "_J0SE_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "unluckymonkey",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "Frejat",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "rbrb",
+          "Player2": "Jumba",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "satu2112",
+          "Player2": "nicoprietob",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Shuichi_Saito",
+          "Player2": "death_grips",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Tsubasa_Cat",
+          "Player2": "crK",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "VitorCarvalho01",
+          "Player2": "Montolio",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "Bullwinkkle6705",
+          "Player2": "FarmerLGG",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "death_grips",
+          "Player2": "Tsubasa_Cat",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "kaikas",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "EnihcamAmgine",
+          "Player2": "crK",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Frejat",
+          "Player2": "_J0SE_",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Magic_Dads71522",
+          "Player2": "Montolio",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MarcoIa",
+          "Player2": "VitorCarvalho01",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MayhemDJ",
+          "Player2": "revenantkioku",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Messi_10",
+          "Player2": "musasabi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Munchlax446",
+          "Player2": "molimomaro",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "RatherBplayingMTG",
+          "Player2": "bless_von",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "rbrb",
+          "Player2": "silencsong",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "satu2112",
+          "Player2": "mosh110",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Shuichi_Saito",
+          "Player2": "_Shatun_",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "unluckymonkey",
+          "Player2": "Jumba",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "_Shatun_",
+          "Player2": "unluckymonkey",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Bullwinkkle6705",
+          "Player2": "molimomaro",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "death_grips",
+          "Player2": "Munchlax446",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Shuichi_Saito",
+          "Player2": "MarcoIa",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "Bullwinkkle6705",
+          "Player2": "_Shatun_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Shuichi_Saito",
+          "Player2": "death_grips",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "Bullwinkkle6705",
+          "Player2": "Shuichi_Saito",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ]
+}

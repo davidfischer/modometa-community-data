@@ -1,0 +1,463 @@
+{
+  "Tournament": {
+    "Id": "vintage-challenge-16-2026-09-2012854513",
+    "Date": "2026-09-20",
+    "Name": "Vintage Challenge 16",
+    "PlayerCount": 24,
+    "Source": "vintage-mtgo-community",
+    "SheetId": "1Eh03490kQEjtFAEvBKrnwaSEhW7FqH9raPgbx00deH4"
+  },
+  "Players": [
+    {
+      "Player": "etoustar",
+      "Archetype": "Lurrus Vault Key"
+    },
+    {
+      "Player": "Capriccioso",
+      "Archetype": "Lurrus Breach"
+    },
+    {
+      "Player": "musasabi",
+      "Archetype": "Oath"
+    },
+    {
+      "Player": "helvetti",
+      "Archetype": "Oath"
+    },
+    {
+      "Player": "_INF_",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "cappe23",
+      "Archetype": "Other Lurrus"
+    },
+    {
+      "Player": "TheKing82",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "zippzipp_",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "vwxyza648204",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "Rivori9",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "Terminus0",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "scalo94",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "Antarctica",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "AgostiniMik",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "Boucha",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "Shuichi_Saito",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "adm29",
+      "Archetype": "Other Shops"
+    },
+    {
+      "Player": "crK",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "duke12",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "haveaboavida",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "Nanovo",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "trinity",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "Wesal",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "taku123",
+      "Archetype": "Breach"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "AgostiniMik",
+          "Player2": "adm29",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Boucha",
+          "Player2": "Wesal",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "cappe23",
+          "Player2": "Antarctica",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Capriccioso",
+          "Player2": "haveaboavida",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "Nanovo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "duke12",
+          "Player2": "taku123",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "etoustar",
+          "Player2": "TheKing82",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "helvetti",
+          "Player2": "Rivori9",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "_INF_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "scalo94",
+          "Player2": "trinity",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "vwxyza648204",
+          "Player2": "Terminus0",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "zippzipp_",
+          "Player2": "Shuichi_Saito",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_INF_",
+          "Player2": "haveaboavida",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Antarctica",
+          "Player2": "Nanovo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "cappe23",
+          "Player2": "duke12",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Capriccioso",
+          "Player2": "crK",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "etoustar",
+          "Player2": "musasabi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "helvetti",
+          "Player2": "AgostiniMik",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Rivori9",
+          "Player2": "Wesal",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Shuichi_Saito",
+          "Player2": "adm29",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Terminus0",
+          "Player2": "trinity",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TheKing82",
+          "Player2": "taku123",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "vwxyza648204",
+          "Player2": "Boucha",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "zippzipp_",
+          "Player2": "scalo94",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_INF_",
+          "Player2": "crK",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Antarctica",
+          "Player2": "adm29",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "cappe23",
+          "Player2": "zippzipp_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Capriccioso",
+          "Player2": "vwxyza648204",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "etoustar",
+          "Player2": "helvetti",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "haveaboavida",
+          "Player2": "Nanovo",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "duke12",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Rivori9",
+          "Player2": "Boucha",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Terminus0",
+          "Player2": "AgostiniMik",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TheKing82",
+          "Player2": "scalo94",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_INF_",
+          "Player2": "Rivori9",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "adm29",
+          "Player2": "haveaboavida",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "AgostiniMik",
+          "Player2": "crK",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Boucha",
+          "Player2": "Shuichi_Saito",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Capriccioso",
+          "Player2": "helvetti",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "etoustar",
+          "Player2": "cappe23",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "TheKing82",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "scalo94",
+          "Player2": "Nanovo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Terminus0",
+          "Player2": "Antarctica",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "zippzipp_",
+          "Player2": "vwxyza648204",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_INF_",
+          "Player2": "Terminus0",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "adm29",
+          "Player2": "Nanovo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "etoustar",
+          "Player2": "Capriccioso",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "helvetti",
+          "Player2": "Boucha",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "cappe23",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "scalo94",
+          "Player2": "crK",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Shuichi_Saito",
+          "Player2": "haveaboavida",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TheKing82",
+          "Player2": "Antarctica",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "vwxyza648204",
+          "Player2": "AgostiniMik",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "zippzipp_",
+          "Player2": "Rivori9",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "Capriccioso",
+          "Player2": "cappe23",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "etoustar",
+          "Player2": "zippzipp_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "helvetti",
+          "Player2": "_INF_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "TheKing82",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "Capriccioso",
+          "Player2": "musasabi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "etoustar",
+          "Player2": "helvetti",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "etoustar",
+          "Player2": "Capriccioso",
+          "Result": "2-1-0"
+        }
+      ]
+    }
+  ]
+}
