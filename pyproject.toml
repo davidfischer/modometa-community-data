@@ -20,6 +20,7 @@ dependencies = [
 
 [project.scripts]
 pull-ldc = "modometa_community_data.ldc:main"
+pull-vmc = "modometa_community_data.vmc:main"
 
 
 

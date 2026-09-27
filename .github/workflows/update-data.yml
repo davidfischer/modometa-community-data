@@ -33,15 +33,25 @@ jobs:
       - name: Install dependencies
         run: uv sync
 
-      - name: Pull recent and unprocessed challenges
+      - name: Pull recent and unprocessed Legacy challenges
         env:
           USER_AGENT: ${{ vars.USER_AGENT }}
         run: |
           START_DATE=$(date --date="a week ago" "+%Y-%m-%d")
-          echo "Reprocessing challenges since ${START_DATE}..."
+          echo "Reprocessing Legacy challenges since ${START_DATE}..."
           uv run pull-ldc --force --start-date="${START_DATE}"
-          echo "Processing all remaining unprocessed challenges..."
+          echo "Processing all remaining unprocessed Legacy challenges..."
           uv run pull-ldc
+
+      - name: Pull recent and unprocessed Vintage challenges
+        env:
+          USER_AGENT: ${{ vars.USER_AGENT }}
+        run: |
+          START_DATE=$(date --date="a week ago" "+%Y-%m-%d")
+          echo "Reprocessing Vintage challenges since ${START_DATE}..."
+          uv run pull-vmc --force --start-date="${START_DATE}"
+          echo "Processing all remaining unprocessed Vintage challenges..."
+          uv run pull-vmc
 
       - name: Commit and push changes
         run: |

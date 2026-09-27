@@ -1,0 +1,1031 @@
+# Vintage Challenges 2026 - Vintage MTGO Community Google Sheet Mapping
+# Generated from official MTGO tournament calendar and Vintage MTGO Community merge sheet.
+#
+# Schema per entry:
+#   date: Tournament date (YYYY-MM-DD)
+#   name: Tournament name
+#   uri: Official MTGO tournament decklist URL
+#   sheet_id: Google Sheet ID (from docs.google.com/spreadsheets/d/<ID>/...) or null
+#   tab: Tab name in the Google Sheet (defaults to "Standings")
+
+vintage-challenge-32-2026-01-0112828149:
+  date: '2026-01-01'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-01-0112828149'
+  sheet_id: '1f7cyw49HJFquKROjbPyFaE-vyItMnF3Z0A9Bz3CDZ9Q'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-01-0212828170:
+  date: '2026-01-02'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-01-0212828170'
+  sheet_id: '1mdk7SciRbHwVN1-VA9kAyBmSkl6Lxl7V7CFxg8uxMzU'
+  tab: 'Standings'
+
+vintage-showcase-challenge-2026-01-0312828044:
+  date: '2026-01-03'
+  name: 'Vintage Showcase Challenge'
+  uri: 'https://www.mtgo.com/decklist/vintage-showcase-challenge-2026-01-0312828044'
+  sheet_id: '1VcLCQYnz14iDAtzEtdLutlddsmPbAIvaaIMJQMMG278'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-01-0812829337:
+  date: '2026-01-08'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-01-0812829337'
+  sheet_id: '1uox0zxP98Qu_9VGQDvXwSj2XMkTA3GLueWUIkpd9pPw'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-01-0912829358:
+  date: '2026-01-09'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-01-0912829358'
+  sheet_id: '11pxESajjYKe-AMnqumaPfkW3v2MmAA_wHdbQDtYBB_I'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-01-1012829370:
+  date: '2026-01-10'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-01-1012829370'
+  sheet_id: '1TwSeNrf02YjxE6tVMv69UvC20ANsu73Oixmy40mPfiE'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-01-1112829377:
+  date: '2026-01-11'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-01-1112829377'
+  sheet_id: '1FrWpgjo0WvCK06rSyKkqWWRzvBQgkVbzLJ4qZODOBpU'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-01-1512830020:
+  date: '2026-01-15'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-01-1512830020'
+  sheet_id: '1A7SDlcX6zvZNNH7ouEo5_9h8rSEmt9J3sMJBkCIEses'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-01-1612830041:
+  date: '2026-01-16'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-01-1612830041'
+  sheet_id: '1AmosXMy06bMYGGn1ZUSus5LLf1H9YN6VyaM5dVnckeQ'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-01-1712830053:
+  date: '2026-01-17'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-01-1712830053'
+  sheet_id: '192PoBOL56THMec-3S_7Q-c4NuJpbZtKkUdh09hilw-c'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-01-1812830060:
+  date: '2026-01-18'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-01-1812830060'
+  sheet_id: '1gXOMC7gFU51FCeqg-9IVE7R1QXhGTmqXpqioVgMB5Eo'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-01-2212830617:
+  date: '2026-01-22'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-01-2212830617'
+  sheet_id: '1337V5ixpEftG3sjNjc8q_4v2ippJeeNtyWPL3L70O98'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-01-2312830638:
+  date: '2026-01-23'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-01-2312830638'
+  sheet_id: '1fgnsb6wGNDhdsOgW_oHkXoG-4Kecn98k3CCM8fKckkY'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-01-2412830650:
+  date: '2026-01-24'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-01-2412830650'
+  sheet_id: '1sI-B3WrYhwiDhs7HFMllZ11MBVGJER8887eGBHppbVA'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-01-2512830657:
+  date: '2026-01-25'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-01-2512830657'
+  sheet_id: '19NH0x7LtZqZ3Am9Q-s2E3nUTfaBs_7h9TkpFw0WR1kU'
+  tab: 'Standings'
+
+vintage-rc-super-qualifier-2026-01-2512830593:
+  date: '2026-01-25'
+  name: 'Vintage RC Super Qualifier'
+  uri: 'https://www.mtgo.com/decklist/vintage-rc-super-qualifier-2026-01-2512830593'
+  sheet_id: '1fBxSuUz5iOe4SXmPi1S_ntZZF1m-MiVv8HxX64nVSWE'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-01-2912831703:
+  date: '2026-01-29'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-01-2912831703'
+  sheet_id: '1SHztMHHWUtIP33oGYlCwFDf3zuzlxQYfxxmeJRYB3gw'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-01-3012831724:
+  date: '2026-01-30'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-01-3012831724'
+  sheet_id: '1qcIfQmP2P-Rdkk_5px9tCc4RYF5owz89WPRpkuWxazQ'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-01-3112831736:
+  date: '2026-01-31'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-01-3112831736'
+  sheet_id: '1Y3WDJAzlgjABBO9PteGpdwh2hYp9wqzj_GroocyQLc0'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-02-0112831743:
+  date: '2026-02-01'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-02-0112831743'
+  sheet_id: '1nEO-A0qo-oftr6sUWG2UxzUuRXwQkyFxeWzqyo0U978'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-02-0512832498:
+  date: '2026-02-05'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-02-0512832498'
+  sheet_id: '1qJ2CjONEp-izkZZVvyBphWWwKWQKtRbsprDGROnXMf4'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-02-0612832519:
+  date: '2026-02-06'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-02-0612832519'
+  sheet_id: '1lI3Cf2gfB4K4Lb_BLYyKmfOa_u1dete_04vJLPhX1Fc'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-02-0712832531:
+  date: '2026-02-07'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-02-0712832531'
+  sheet_id: '1rGtXY_b-SKUbOLuzqL8i-oj09TlAJbSmd3Ra1BavwkA'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-02-0812832538:
+  date: '2026-02-08'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-02-0812832538'
+  sheet_id: '1piFv8rajHL3DajRyu1oQJleTG3bb5BOcxmhBhxKXMXE'
+  tab: 'Standings'
+
+vintage-showcase-challenge-2026-02-0812832487:
+  date: '2026-02-08'
+  name: 'Vintage Showcase Challenge'
+  uri: 'https://www.mtgo.com/decklist/vintage-showcase-challenge-2026-02-0812832487'
+  sheet_id: '161NvKA_c71yeJLi_AEdEI_9j8HNa1wJ87gvtiL9etLg'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-02-1212833005:
+  date: '2026-02-12'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-02-1212833005'
+  sheet_id: '1Wz_q1_JvP1K-Sx6H4meihYnAV3GJPQeqKbgX1Kpege4'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-02-1312833026:
+  date: '2026-02-13'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-02-1312833026'
+  sheet_id: '1Ojaa5vSYESjsKP2hs_mnv_DtYepQ5Gbt9lwqRDMgs9w'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-02-1412833038:
+  date: '2026-02-14'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-02-1412833038'
+  sheet_id: '17o9-7jGi8zVBleZPvl9n3lHbVhDMKSQYIBEAdkRUNoM'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-02-1512833045:
+  date: '2026-02-15'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-02-1512833045'
+  sheet_id: '1NQ0VdrISOwS7ZunK9L4zWDHEhZxkY3vAeypgyWWlZ6s'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-02-1912833515:
+  date: '2026-02-19'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-02-1912833515'
+  sheet_id: '1nsRw5bCHY_mjpKOrXz7bOz4lmDdeM0VSGwe08OUY8_o'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-02-2012833536:
+  date: '2026-02-20'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-02-2012833536'
+  sheet_id: '1MGnm5PVnEEMCoXAv54fsIyI6NUTdaSA57gYi1Heh19w'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-02-2112833548:
+  date: '2026-02-21'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-02-2112833548'
+  sheet_id: '16do--W3qt53VeA31-QwTCjhNjpirx2ztK2JWerpHU0c'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-02-2212833555:
+  date: '2026-02-22'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-02-2212833555'
+  sheet_id: '1Dque1Q5q8afRmwDKS-4712dnGML9HTkCuGLbBDxPP1M'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-02-2612834044:
+  date: '2026-02-26'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-02-2612834044'
+  sheet_id: '1IoZRV0H0ePd5M3nSGPvrVodiVa4aZFv_811mUvUoCq0'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-02-2712834065:
+  date: '2026-02-27'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-02-2712834065'
+  sheet_id: '1jbrCJHOltvq-0RUGvxIMLPeFY6KQBSTtKIT4s8xcuXg'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-02-2812834077:
+  date: '2026-02-28'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-02-2812834077'
+  sheet_id: '1qyqHvX05Hre4tAyZd6vtElNUefD5yMjwUF0N8p9Ig_s'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-03-0112834084:
+  date: '2026-03-01'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-03-0112834084'
+  sheet_id: '1Xpjpm0r78YKQ8esEurDmxrrD5uMbmTyCvCrnw9lY1zI'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-03-0512834480:
+  date: '2026-03-05'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-03-0512834480'
+  sheet_id: '1kmoDPfJSAaVsqnUlv4ySDyl7cbOfOk-1bQRO1wAEGMg'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-03-0612834501:
+  date: '2026-03-06'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-03-0612834501'
+  sheet_id: '19nP3cnm3ZETXLiRaoLcRWyeFq2Mro8BG7juNqsOZNaQ'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-03-0712834513:
+  date: '2026-03-07'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-03-0712834513'
+  sheet_id: '1-kMQ2XURDtND-R_sPSKYjRKJAlMvlBVKxdGxxDnBz1E'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-03-0812834520:
+  date: '2026-03-08'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-03-0812834520'
+  sheet_id: '1JGFVzFzT4eCNkfTfNXSjtB4FKRGvNMjvkDBVTT6p6UI'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-03-1212835283:
+  date: '2026-03-12'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-03-1212835283'
+  sheet_id: '1SJtJ4oZn6joWx2ksui-s5rR6i7kegWUjRi3L8D-gtDU'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-03-1312835305:
+  date: '2026-03-13'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-03-1312835305'
+  sheet_id: '1_Mr2gU55sKbF_KwnwhyE2cQlnsMMmijml3EMsOzXwcg'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-03-1412835317:
+  date: '2026-03-14'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-03-1412835317'
+  sheet_id: '1aUfKUB6zZtIJ8RZaHM9mv2J6CF64dYz8C7SfmCQMcB8'
+  tab: 'Standings'
+
+vintage-showcase-challenge-2026-03-1412835270:
+  date: '2026-03-14'
+  name: 'Vintage Showcase Challenge'
+  uri: 'https://www.mtgo.com/decklist/vintage-showcase-challenge-2026-03-1412835270'
+  sheet_id: '1NNmk-kUuwaNgi0pWVvTqWvskx8VyVTJoUDImDVzWdFw'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-03-1912835965:
+  date: '2026-03-19'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-03-1912835965'
+  sheet_id: '1X_KrATjHULV3kgLGpq5LwyCwXttEh7sIn4K58WTy-Og'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-03-2012835987:
+  date: '2026-03-20'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-03-2012835987'
+  sheet_id: '1KIClVWf_3QOxtWD4Mln1l6MNBdMIL6-kigbeUGXO2gQ'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-03-2112835999:
+  date: '2026-03-21'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-03-2112835999'
+  sheet_id: '1AIDuOHQVuzCE09vKQYR_C7TCTf6f9Q2qpDW5clUquLQ'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-03-2212836006:
+  date: '2026-03-22'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-03-2212836006'
+  sheet_id: '1UgVY3XVSMxq2FkAOikBCfaVgUhTh4Q18y0oGWKOC1uI'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-03-2612836737:
+  date: '2026-03-26'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-03-2612836737'
+  sheet_id: '1yQjshPIQODCOZx6dDFn_X7MqKNuy8XDfp4tnCpU9k50'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-03-2712836758:
+  date: '2026-03-27'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-03-2712836758'
+  sheet_id: '1HeizcBnC0xTqklU6Hi91hP3q4QjZ5KhTfbX248HT09I'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-03-2812836770:
+  date: '2026-03-28'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-03-2812836770'
+  sheet_id: '1WNHGDeA6XWun8Fmx5yKGUdx3XGGfKefje1tc6aP7Zs0'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-04-0212838098:
+  date: '2026-04-02'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-04-0212838098'
+  sheet_id: '1ceymMjclRg7cBIkk_pZTRoHbMV8lFXETZbZvwrQWLPY'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-04-0312838119:
+  date: '2026-04-03'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-04-0312838119'
+  sheet_id: '147VRRZVE3lCCGjg0AUKnflEfXxOfVPeuuHn_1aDJyAU'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-04-0412838131:
+  date: '2026-04-04'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-04-0412838131'
+  sheet_id: '1PaQh8_NFZyl0skSEu2TIF4WMGdRZ3P1ec_kdI0o2Qtg'
+  tab: 'Standings'
+
+vintage-showcase-qualifier-2026-04-0412838086:
+  date: '2026-04-04'
+  name: 'Vintage Showcase Qualifier'
+  uri: 'https://www.mtgo.com/decklist/vintage-showcase-qualifier-2026-04-0412838086'
+  sheet_id: '1L3Z2qZq9c7ltL4wjtxURh9UMOKVZOtsTYlR_KvOh-5E'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-04-0512838138:
+  date: '2026-04-05'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-04-0512838138'
+  sheet_id: '1ldbi9wT2ulkluMP2muvmWJmy_uENUlOwK0AJwwfs1dk'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-04-0912838856:
+  date: '2026-04-09'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-04-0912838856'
+  sheet_id: '1enZkD5w11EnDNGdF-3qYmmFIfSkWKWwb6-A4EA-_hgo'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-04-1012838878:
+  date: '2026-04-10'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-04-1012838878'
+  sheet_id: '1d_cAKhpiT60Kfijm6dc7X75_l8ZsF4gnPY1KQMSnxVg'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-04-1112838890:
+  date: '2026-04-11'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-04-1112838890'
+  sheet_id: '1UyPuxg09Fl98pyUrpNr98rSA5ukMMneshON_GmIKBow'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-04-1212838897:
+  date: '2026-04-12'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-04-1212838897'
+  sheet_id: '1-IR4wcYZNZNEHHXn-LvGVpY-M-hrPGGNJYPNh-JLVgU'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-04-1612839656:
+  date: '2026-04-16'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-04-1612839656'
+  sheet_id: '1NNueBRFpys4Eyu-hwMg3z2KnUMt0SCq5V7AB7hQ6C64'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-04-1712839678:
+  date: '2026-04-17'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-04-1712839678'
+  sheet_id: '10k72-VRgL_MiEG3qLqWU6NWMxri0-i1-R_5ANLaR5Q8'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-04-1812839690:
+  date: '2026-04-18'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-04-1812839690'
+  sheet_id: '1DfOH1EsTrGGRemt5Qm1w8O3HALqd1YkbbPA5Kc3y4oo'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-04-1912839697:
+  date: '2026-04-19'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-04-1912839697'
+  sheet_id: '1g-5Kco8NYcwFdIjOW42Kk4hkQyYCzn6uXPyGuY9j8_Q'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-04-2312840525:
+  date: '2026-04-23'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-04-2312840525'
+  sheet_id: '1q6rRyCshmt0cW8HkZN5uq26yYuOTG7_CHe3zdsCMENQ'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-04-2412840545:
+  date: '2026-04-24'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-04-2412840545'
+  sheet_id: '15_5OmUI6YjIrjF8qkgVb-iLF5h2YuBKln936_ARIxwM'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-04-2512840557:
+  date: '2026-04-25'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-04-2512840557'
+  sheet_id: '1XQiWyHZUfIYPwgcjo44QzZ34Rt0UqLWEHq-Picuzwk8'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-04-2612840564:
+  date: '2026-04-26'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-04-2612840564'
+  sheet_id: '1gLNEsscq4ym9HD7XV_lZC_aqR5SBWlnQREknqUsXDZs'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-04-3012841328:
+  date: '2026-04-30'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-04-3012841328'
+  sheet_id: '1Y2iZuMFP9WXl_UzG5NqEbnejtgNQqR6PSpRkebhCJF4'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-05-0112841349:
+  date: '2026-05-01'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-05-0112841349'
+  sheet_id: '1AN09X7p8NcbUV4Is_4Gyn1Hgo0V_yVliXE6V8_pHUMc'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-05-0212841361:
+  date: '2026-05-02'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-05-0212841361'
+  sheet_id: '1rv7Y87Q-IALqQM9mPogowmVnyXgIR6-6wwCLFnyome4'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-05-0312841368:
+  date: '2026-05-03'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-05-0312841368'
+  sheet_id: '1QRnPRtKfw7H-uiqUZaDWbALiG10xBpi8Yd4vsOveXo0'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-05-0712842058:
+  date: '2026-05-07'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-05-0712842058'
+  sheet_id: '1YQkjaiY_m87VHKF9jGUkmyUKcnqOsdrvU4zmSmcO770'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-05-0812842079:
+  date: '2026-05-08'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-05-0812842079'
+  sheet_id: '1LdNPJD2sIPelyFTaWp8g7_IdESmoLHQVCREgvY7WhAQ'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-05-0912842091:
+  date: '2026-05-09'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-05-0912842091'
+  sheet_id: '1yk2rVWTmooVIc90gIIvM4h0oJ_D2-WtmLAA_mJDgd-I'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-05-1012842098:
+  date: '2026-05-10'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-05-1012842098'
+  sheet_id: '1hxFPVpelrwloqPh2A_HI2KsP3YSA8lvNQk80H2exAGw'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-05-1412842461:
+  date: '2026-05-14'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-05-1412842461'
+  sheet_id: '1XuJUHeWqCTFzzCPp1k9hEnaI-vhaSQkqOgwRLBpU-fE'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-05-1512842482:
+  date: '2026-05-15'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-05-1512842482'
+  sheet_id: '1Iw6vnDqEDqkAESmgDUtfj0JjfBs6ROyGZKK-wL_nPoM'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-05-1612842494:
+  date: '2026-05-16'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-05-1612842494'
+  sheet_id: '1CFLBZSMhkvHYKf0ZLhJ4qWZ3kMHwFmKrVSgFbkYSH50'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-05-1712842501:
+  date: '2026-05-17'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-05-1712842501'
+  sheet_id: '15aQx9So_J3Clnk7aYqgoKIvX5A6TKNPu7dtcUUx3IPA'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-05-2112842888:
+  date: '2026-05-21'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-05-2112842888'
+  sheet_id: '19gUwyford9n_dzYO6jwfftq_WkURsi5SasWHAs4M5BY'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-05-2212842909:
+  date: '2026-05-22'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-05-2212842909'
+  sheet_id: '1z6UWUxgR6DO5-byZvCBBAndvPeM398gCgWjxi9oUN_E'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-05-2312842920:
+  date: '2026-05-23'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-05-2312842920'
+  sheet_id: '1fZrCTUGeJk8AhYB0Ef_PJpLNVqWKMG6czff-mNUCoa8'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-05-2412842927:
+  date: '2026-05-24'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-05-2412842927'
+  sheet_id: '1sj81rZaV4eXqzMYINXD87rwU9UvbitaqbWs9JD1qtoo'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-05-2812843378:
+  date: '2026-05-28'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-05-2812843378'
+  sheet_id: '11zzoHINLDwED9qhQJla-TViTIkpRutKrOXd2HjCgW7c'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-05-2912843400:
+  date: '2026-05-29'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-05-2912843400'
+  sheet_id: '153mF8ATQH43P4Ax71shO-C4yhTvIHs-GKgMOsOEuXI4'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-05-3012843411:
+  date: '2026-05-30'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-05-3012843411'
+  sheet_id: '1ahYEWq9ProxxioTQ14JSgOJa3uHJ4IGVBYwnzmF0zRU'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-06-0412843770:
+  date: '2026-06-04'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-06-0412843770'
+  sheet_id: '1rYlC2_6K92QQ8Z_y3vpyFDjdSG37o6vf35-AP1cYFlM'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-06-0512843791:
+  date: '2026-06-05'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-06-0512843791'
+  sheet_id: '1mF38jx7v5uNjdcJWbiL-EgNJOU3RgUSiXeQ3dqMk8oE'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-06-0612843803:
+  date: '2026-06-06'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-06-0612843803'
+  sheet_id: '1nPioAGU0e3xpSw-HDlVQq-u_g90aDYW8fmUQHDFOrfA'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-06-1112844292:
+  date: '2026-06-11'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-06-1112844292'
+  sheet_id: '11C2OHxtf8mBu8ygOW1e-f0OX-Ex-GQrsJfnjj0iA74A'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-06-1212844313:
+  date: '2026-06-12'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-06-1212844313'
+  sheet_id: '1kPHwICf7Y7thxplRSGjUY66p86ldKeMQ_mTuhetTqEM'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-06-1312844325:
+  date: '2026-06-13'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-06-1312844325'
+  sheet_id: '1DcYmdLgxvPdOEI5yB_UU5_2d3C-0u9O3hHA7EbpY5sM'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-06-1412844332:
+  date: '2026-06-14'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-06-1412844332'
+  sheet_id: '1MKe6R5b0lWm-sUl8X0kqMsuKckkjkuvIxb_axGgSwlc'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-06-1812844828:
+  date: '2026-06-18'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-06-1812844828'
+  sheet_id: '1qK0JFwiszPbE2NPaWImFfc2SP64KIyjKPUAD-qfQ34Y'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-06-1912844849:
+  date: '2026-06-19'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-06-1912844849'
+  sheet_id: '1P-YLsOPzySCyVwk_smCxgpYtmE_AGYo0px-Yv2f2SOg'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-06-2012844861:
+  date: '2026-06-20'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-06-2012844861'
+  sheet_id: '1hg1fjR_IQBJ0N_dBz-xSvxNuyZ2s6gvgdDZ-Ni8-c6Q'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-06-2112844868:
+  date: '2026-06-21'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-06-2112844868'
+  sheet_id: '16BG7ANh8OOWkWiYOoQcIuU5dQ-4QDmdGGQ8YyLru8D8'
+  tab: 'Standings'
+
+vintage-rc-qualifier-2026-06-2112844802:
+  date: '2026-06-21'
+  name: 'Vintage RC Qualifier'
+  uri: 'https://www.mtgo.com/decklist/vintage-rc-qualifier-2026-06-2112844802'
+  sheet_id: '1NwiHHoqcaAnXWoxz7NlnA4MP4tHBfcg45AAft-okrKQ'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-06-2512845640:
+  date: '2026-06-25'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-06-2512845640'
+  sheet_id: '1EDR-q_SXDVp_OZVkmBa_XsxuDc8nYydFDBGYTHa0kM0'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-06-2612845661:
+  date: '2026-06-26'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-06-2612845661'
+  sheet_id: '1TJxALEMQRfElJb1MQpoAch0ozzaIoR00Y2084QsUup0'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-06-2712845673:
+  date: '2026-06-27'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-06-2712845673'
+  sheet_id: '1OkZ_QVGZxRFjAJtOx56PbL6iYrzocz6XQyfTtKHUjig'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-07-0212846457:
+  date: '2026-07-02'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-07-0212846457'
+  sheet_id: '1sgFzzxuXHXKM-GhBmM69HCo-XE6QlwPkQs7YH91yadY'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-07-0312846478:
+  date: '2026-07-03'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-07-0312846478'
+  sheet_id: '1QUK_443_u2dgJzB8KdrvzDAMrV03icuygOpsS9G8sEo'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-07-0412846490:
+  date: '2026-07-04'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-07-0412846490'
+  sheet_id: '1AwB1tOPs9sm9Sr9KfYWS-EcqqDXz-nKTTpOozpKYEWk'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-07-0912847100:
+  date: '2026-07-09'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-07-0912847100'
+  sheet_id: '1lvSbaK8ONt5b6iwmmq1qZE_XOYrXc6iMwQ4BXc0yY3w'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-07-1012847121:
+  date: '2026-07-10'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-07-1012847121'
+  sheet_id: '1Nek9O4qE3fceQrtX-ttYtVThimqbK-iWFUShRAstrNg'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-07-1112847132:
+  date: '2026-07-11'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-07-1112847132'
+  sheet_id: '11HSw9B1bGlnpqSSAd91_iBTAoUBEe4PN8WbdJUrNOZ8'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-07-1612847675:
+  date: '2026-07-16'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-07-1612847675'
+  sheet_id: '1VOvMU1BzTBNPycPWRslfrf0Aa2nJN4QVeAt3TVqFlXQ'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-07-1712847688:
+  date: '2026-07-17'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-07-1712847688'
+  sheet_id: '1jpg6fAZdok_TO2_BiQSeHyuZoHnzw73gUy5Y5Oi8Lko'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-07-1812847700:
+  date: '2026-07-18'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-07-1812847700'
+  sheet_id: '1BryUA-e6x4yByaalz4grtr3LtRYMMRDuLzbvBsDdbI4'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-07-1912847706:
+  date: '2026-07-19'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-07-1912847706'
+  sheet_id: '1RagNHTa4Hyam0Jd-d7cOd4rvAEMJ23-1m4JrTKUyPrI'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-07-2312848175:
+  date: '2026-07-23'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-07-2312848175'
+  sheet_id: '1EYydfssLxzUC4icpEZbHfY_hUiz94UEGmEGla-Gl8X0'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-07-2412848196:
+  date: '2026-07-24'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-07-2412848196'
+  sheet_id: '17j0iDFlJiQ0YT6OuS4o5jwp69yfNcCdPw4zXRWlBi24'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-07-2512848208:
+  date: '2026-07-25'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-07-2512848208'
+  sheet_id: '13VHViWo-VvVbapHdw-Wa5gAGAwzi5r66uhWM8z7EwlY'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-07-3012849436:
+  date: '2026-07-30'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-07-3012849436'
+  sheet_id: '1IfBdmLfSQyugkqlLydQFDipnwTDd07iJxsmZMmtVU-k'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-07-3112849457:
+  date: '2026-07-31'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-07-3112849457'
+  sheet_id: '1dRkBsAupqP7Es2koHM60REgnPQ79o-SjtTmFKxvaglk'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-08-0112849469:
+  date: '2026-08-01'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-08-0112849469'
+  sheet_id: '1ofBMs9IEfHv4eKiZrPnKxuVXwzGqRrjhr1Me-2jOK2U'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-08-0212849476:
+  date: '2026-08-02'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-08-0212849476'
+  sheet_id: '18cjhx71xmugpB2_2I6f6F6fU_IP9i0l4X2DglmW_AOM'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-08-0612850869:
+  date: '2026-08-06'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-08-0612850869'
+  sheet_id: '1zd-uCXdiZhw6nJv1lKo9CHftNRV90ZVgDzrgZ9Nz9_I'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-08-0712850819:
+  date: '2026-08-07'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-08-0712850819'
+  sheet_id: '18WYQ_-k1eclr_QGdoPhL8NtOYOmDXU_8b2jtL1Qss68'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-08-0812851099:
+  date: '2026-08-08'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-08-0812851099'
+  sheet_id: '1Jp0gaajGPtYIc_Hp7kOWA6QX72UxCzEFo_y4wgnZYsQ'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-08-1312851634:
+  date: '2026-08-13'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-08-1312851634'
+  sheet_id: '1kwRD6bbqu4TdK6QP1sRN7qXErVtGTkRStzQzZUhcykQ'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-08-1412851655:
+  date: '2026-08-14'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-08-1412851655'
+  sheet_id: '1AHKC7ro3igMldfO6tD4UD-g917lwI5MonyGxXeaBJ0I'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-08-1512851667:
+  date: '2026-08-15'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-08-1512851667'
+  sheet_id: '1uUV08MQUwifnP7yxfyQ8ffgylFL_P20D1-1OQZ5m3AY'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-08-1612851674:
+  date: '2026-08-16'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-08-1612851674'
+  sheet_id: '1P-1PahUnVxhibYIC7rX-EgvRBgx_k35FYN7VqKnAfkk'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-08-2212852743:
+  date: '2026-08-22'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-08-2212852743'
+  sheet_id: '1XkW1ODWBnBUKeyAUYDV8oChumDPqDU2z3JKj5aKHRp4'
+  tab: 'Standings'
+
+vintage-challenge-16-2026-08-2312852750:
+  date: '2026-08-23'
+  name: 'Vintage Challenge 16'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-16-2026-08-2312852750'
+  sheet_id: '1V8tfWqiXC29o4oYeklwHDzb3FrUdra32KuU3dODIf1w'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-08-2312852757:
+  date: '2026-08-23'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-08-2312852757'
+  sheet_id: '1nmQRWuqLtx3iPskmMKPUs4bCzBTTqLg-G5S3TpS5Rpw'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-08-2712853173:
+  date: '2026-08-27'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-08-2712853173'
+  sheet_id: '1dzBwTW--lV6kR3HjdhGJuVvHKJgwiR717xXZLU69ihY'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-08-2912853193:
+  date: '2026-08-29'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-08-2912853193'
+  sheet_id: '1Kv67kh1P2wt2JjKHYLAeIpJaiA0WQYUBD1LXudi-Yi4'
+  tab: 'Standings'
+
+vintage-challenge-16-2026-08-3012853200:
+  date: '2026-08-30'
+  name: 'Vintage Challenge 16'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-16-2026-08-3012853200'
+  sheet_id: '1hxQQ9AyXE2YJj3khS_VBYaql0LAVOdjJRMFq-9ATRT0'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-08-3012853207:
+  date: '2026-08-30'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-08-3012853207'
+  sheet_id: '10sqV3FAhucrRsfr_PIA764r4QqJkjKhey6YSWcJJE9c'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-09-0312853669:
+  date: '2026-09-03'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-09-0312853669'
+  sheet_id: '1ZmB0u6JodKLY_hs1OfeA4W_J1ospcNoow11A7lZ802w'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-09-0512853689:
+  date: '2026-09-05'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-09-0512853689'
+  sheet_id: '1loN5WNGT7_EVHiikBMOzGYn_2EqYoBj-OTy8h_oX0jI'
+  tab: 'Standings'
+
+vintage-challenge-16-2026-09-0612853782:
+  date: '2026-09-06'
+  name: 'Vintage Challenge 16'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-16-2026-09-0612853782'
+  sheet_id: '1P3DKAPPpJNS0vfgI_SAXQBspgOWfqyig1QRCwfbW1ok'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-09-0612853703:
+  date: '2026-09-06'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-09-0612853703'
+  sheet_id: '1Ql0kbrcyWA_7Q-y7CV83-4f57Y9gYqR_TNyxv5_XNMk'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-09-1012854062:
+  date: '2026-09-10'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-09-1012854062'
+  sheet_id: '1hxfh5BZ8UORtBNzSj3tddZm-awOtk-Ai2oUlBb-oflg'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-09-1212854082:
+  date: '2026-09-12'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-09-1212854082'
+  sheet_id: '11aadkCl9HrKj3OyzWjM-sSSxHkJWAtnxGw87vR7BHBI'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-09-1312854096:
+  date: '2026-09-13'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-09-1312854096'
+  sheet_id: '1eGR5BsFFESKmp8BziNDdBf0QbIi3o2l3j4hGlCiq0xc'
+  tab: 'Standings'
+
+vintage-challenge-16-2026-09-1712854620:
+  date: '2026-09-17'
+  name: 'Vintage Challenge 16'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-16-2026-09-1712854620'
+  sheet_id: '1xDZd8Uq1_cPBCEn7bKYpdDAbDgBwEHSYJURUFaxWy68'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-09-1912854506:
+  date: '2026-09-19'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-09-1912854506'
+  sheet_id: '1C-zV2tj7_wj6e381D_SXjZA6rzwc0ZBHCsTHNKtR5X0'
+  tab: 'Standings'
+
+vintage-challenge-16-2026-09-2012854513:
+  date: '2026-09-20'
+  name: 'Vintage Challenge 16'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-16-2026-09-2012854513'
+  sheet_id: '1Eh03490kQEjtFAEvBKrnwaSEhW7FqH9raPgbx00deH4'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-09-2012854520:
+  date: '2026-09-20'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-09-2012854520'
+  sheet_id: '1EWSE2ZjNAmVhFATAku9LWvVldETKz8_s1cawsysbaPo'
+  tab: 'Standings'
+
+vintage-challenge-32-2026-09-2412854903:
+  date: '2026-09-24'
+  name: 'Vintage Challenge 32'
+  uri: 'https://www.mtgo.com/decklist/vintage-challenge-32-2026-09-2412854903'
+  sheet_id: null
+  tab: 'Standings'

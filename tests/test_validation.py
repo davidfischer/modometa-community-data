@@ -7,11 +7,21 @@ import yaml
 from modometa_community_data.ldc import main
 from modometa_community_data.ldc import validate_all_legacy_challenges_yamls
 from modometa_community_data.ldc import validate_legacy_challenges_yaml
+from modometa_community_data.vmc import main as main_vmc
+from modometa_community_data.vmc import validate_all_vintage_challenges_yamls
+from modometa_community_data.vmc import validate_vintage_challenges_yaml
 
 
 def test_repo_legacy_challenges_yamls_valid():
     """Verify that all legacy_challenges.yaml files in the repository are valid and have required keys ('date', 'name', 'uri')."""
     total_entries, errors = validate_all_legacy_challenges_yamls()
+    assert len(errors) == 0, f"Found validation errors: {errors}"
+    assert total_entries > 0, "Expected at least one challenge entry to be validated"
+
+
+def test_repo_vintage_challenges_yamls_valid():
+    """Verify that all vintage_challenges.yaml files in the repository are valid and have required keys ('date', 'name', 'uri')."""
+    total_entries, errors = validate_all_vintage_challenges_yamls()
     assert len(errors) == 0, f"Found validation errors: {errors}"
     assert total_entries > 0, "Expected at least one challenge entry to be validated"
 
@@ -132,4 +142,54 @@ def test_main_validate_failure(monkeypatch):
         pytest.raises(SystemExit) as exc_info,
     ):
         main()
+    assert exc_info.value.code == 1
+
+
+def test_validate_vintage_challenges_yaml_valid(tmp_path: Path):
+    """Test validating a valid vintage_challenges.yaml file."""
+    yaml_content = {
+        "vintage-challenge-32-2026-01-01": {
+            "date": "2026-01-01",
+            "name": "Vintage Challenge 32",
+            "uri": "https://www.mtgo.com/decklist/vintage-challenge-32-2026-01-01",
+            "sheet_id": None,
+            "tab": "Standings",
+        }
+    }
+    file_path = tmp_path / "vintage_challenges.yaml"
+    file_path.write_text(yaml.dump(yaml_content), encoding="utf-8")
+
+    errors = validate_vintage_challenges_yaml(file_path)
+    assert errors == []
+
+
+def test_validate_all_vintage_challenges_yamls_empty_dir(tmp_path: Path):
+    """Test that directory without valid year vintage_challenges.yaml returns an error."""
+    count, errors = validate_all_vintage_challenges_yamls(tmp_path)
+    assert count == 0
+    assert len(errors) == 1
+    assert "No vintage_challenges.yaml files found" in errors[0]
+
+
+def test_main_validate_success_vmc(monkeypatch):
+    """Test that pull-vmc --validate CLI option exits cleanly on success."""
+    monkeypatch.setattr("sys.argv", ["pull-vmc", "--validate"])
+    with patch(
+        "modometa_community_data.vmc.validate_all_vintage_challenges_yamls",
+        return_value=(42, []),
+    ):
+        main_vmc()
+
+
+def test_main_validate_failure_vmc(monkeypatch):
+    """Test that pull-vmc --validate CLI option exits with code 1 on errors."""
+    monkeypatch.setattr("sys.argv", ["pull-vmc", "--validate"])
+    with (
+        patch(
+            "modometa_community_data.vmc.validate_all_vintage_challenges_yamls",
+            return_value=(0, ["error 1"]),
+        ),
+        pytest.raises(SystemExit) as exc_info,
+    ):
+        main_vmc()
     assert exc_info.value.code == 1

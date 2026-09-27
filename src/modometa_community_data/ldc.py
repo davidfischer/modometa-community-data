@@ -6,102 +6,55 @@ import datetime
 import io
 import json
 import logging
-import os
 import re
 import sys
-import time
-import urllib.parse
 from collections import defaultdict
 from pathlib import Path
 from typing import Any
 
-import requests
 import yaml
-from bs4 import BeautifulSoup
 
+from modometa_community_data.common import DEFAULT_USER_AGENT
+from modometa_community_data.common import REPO_ROOT
+from modometa_community_data.common import REQUIRED_CHALLENGE_KEYS
+from modometa_community_data.common import SCORE_RE
+from modometa_community_data.common import USER_AGENT
+from modometa_community_data.common import deduce_swiss_rounds
+from modometa_community_data.common import (
+    dump_challenges_yaml as dump_challenges_yaml_base,
+)
+from modometa_community_data.common import fetch_sheet_csv
+from modometa_community_data.common import parse_date
+from modometa_community_data.common import parse_match_result
+from modometa_community_data.mtgo import MTGO_CALENDAR_URL
+from modometa_community_data.mtgo import fetch_mtgo_calendar_challenges
+
+
+__all__ = [
+    "DEFAULT_USER_AGENT",
+    "MTGO_CALENDAR_URL",
+    "REPO_ROOT",
+    "REQUIRED_CHALLENGE_KEYS",
+    "ROUND_HEADER_RE",
+    "SCORE_RE",
+    "USER_AGENT",
+    "deduce_swiss_rounds",
+    "dump_challenges_yaml",
+    "fetch_mtgo_calendar_challenges",
+    "fetch_sheet_csv",
+    "main",
+    "parse_date",
+    "parse_ldc_sheet_csv",
+    "parse_match_result",
+    "process_challenge",
+    "update_yaml_for_year",
+    "validate_all_legacy_challenges_yamls",
+    "validate_legacy_challenges_yaml",
+]
 
 logger = logging.getLogger(__name__)
 
-SCORE_RE = re.compile(r"^(\d+)-(\d+)(?:-(\d+))?$")
 ROUND_HEADER_RE = re.compile(r"(?i)^round\s*(\d+)")
-REPO_ROOT = Path(__file__).resolve().parent.parent.parent
-MTGO_CALENDAR_URL = "https://www.mtgo.com/decklists/{year}/{month:02d}"
-REQUIRED_CHALLENGE_KEYS = ("date", "name", "uri")
-DEFAULT_USER_AGENT = "MODOMeta-Community-Data-Puller/0.1 (+https://modometa.com)"
-USER_AGENT = os.environ.get("USER_AGENT", DEFAULT_USER_AGENT)
-
-
-def deduce_swiss_rounds(player_count: int | None) -> int:
-    """Determine standard MTG Swiss rounds from player attendance (MTR Appendix E)."""
-    if player_count is None:
-        return 7
-    if player_count <= 8:
-        return 3
-    elif player_count <= 16:
-        return 4
-    elif player_count <= 32:
-        return 5
-    elif player_count <= 64:
-        return 6
-    elif player_count <= 128:
-        return 7
-    elif player_count <= 226:
-        return 8
-    else:
-        return 9
-
-
-def parse_match_result(score_str: str) -> tuple[int, int, int] | None:
-    """Parse match result score into (p1_wins, p2_wins, draws) or None if invalid."""
-    if not score_str:
-        return None
-    cleaned = score_str.strip()
-    if cleaned.lower() in {"bye", "drop", "dq", "split"}:
-        return None
-    match = SCORE_RE.match(cleaned)
-    if not match:
-        return None
-    w1 = int(match.group(1))
-    w2 = int(match.group(2))
-    draws = int(match.group(3)) if match.group(3) else 0
-    return w1, w2, draws
-
-
-def parse_date(date_val: Any) -> datetime.date | None:
-    """Parse date value from string or date/datetime object into datetime.date."""
-    if isinstance(date_val, datetime.datetime):
-        return date_val.date()
-    if isinstance(date_val, datetime.date):
-        return date_val
-    if isinstance(date_val, str):
-        cleaned = date_val.strip()
-        if not cleaned:
-            return None
-        if len(cleaned) >= 10 and cleaned[4] == "-" and cleaned[7] == "-":
-            cleaned = cleaned[:10]
-        try:
-            return datetime.date.fromisoformat(cleaned)
-        except ValueError:
-            return None
-    return None
-
-
-def fetch_sheet_csv(sheet_id: str, tab: str = "Match Up Input") -> str:
-    """Fetch CSV content from public Google Sheet via gviz endpoint without auth."""
-    quoted_tab = urllib.parse.quote(tab)
-    url = f"https://docs.google.com/spreadsheets/d/{sheet_id}/gviz/tq?tqx=out:csv&sheet={quoted_tab}"
-    logger.debug("Fetching sheet CSV from: %s", url)
-
-    headers = {
-        "User-Agent": USER_AGENT,
-    }
-    try:
-        resp = requests.get(url, headers=headers, timeout=30)
-        resp.raise_for_status()
-        return resp.text
-    except Exception as exc:
-        logger.error("Failed to fetch Google Sheet %s tab '%s': %s", sheet_id, tab, exc)
-        raise
 
 
 def parse_ldc_sheet_csv(
@@ -374,97 +327,9 @@ def dump_challenges_yaml(challenges: dict[str, dict[str, Any]], year: int) -> st
         '#   tab: Tab name in the Google Sheet (defaults to "Match Up Input")',
         "",
     ]
-    for slug, meta in challenges.items():
-        date_val = meta.get("date", "")
-        name_val = str(meta.get("name", "")).replace("'", "''")
-        uri_val = meta.get("uri", "")
-        sheet_id_val = meta.get("sheet_id")
-        tab_val = str(meta.get("tab") or "Match Up Input").replace("'", "''")
-
-        lines.append(f"{slug}:")
-        lines.append(f"  date: '{date_val}'")
-        lines.append(f"  name: '{name_val}'")
-        lines.append(f"  uri: '{uri_val}'")
-        if sheet_id_val is None:
-            lines.append("  sheet_id: null")
-        else:
-            sheet_id_str = str(sheet_id_val).replace("'", "''")
-            lines.append(f"  sheet_id: '{sheet_id_str}'")
-        lines.append(f"  tab: '{tab_val}'")
-        lines.append("")
-
-    return "\n".join(lines)
-
-
-def fetch_mtgo_calendar_challenges(
-    year: int,
-    session: requests.Session | None = None,
-) -> dict[str, dict[str, Any]]:
-    """Fetch all Legacy Challenge events for a year from the official MTGO calendar."""
-    session = session or requests.Session()
-    session.headers.setdefault("User-Agent", USER_AGENT)
-
-    events: dict[str, dict[str, Any]] = {}
-    logger.info("Fetching MTGO calendar for %d...", year)
-
-    for month in range(1, 13):
-        url = MTGO_CALENDAR_URL.format(year=year, month=month)
-        logger.debug("Fetching calendar page: %s", url)
-        html_text = None
-        for attempt in range(3):
-            try:
-                resp = session.get(url, timeout=45)
-                # Future months redirect to /decklists with 302
-                if resp.status_code != 200 or f"/{year}/{month:02d}" not in resp.url:
-                    break
-                html_text = resp.text
-                break
-            except Exception as exc:
-                if attempt == 2:
-                    logger.warning("Failed to fetch %s after 3 attempts: %s", url, exc)
-                time.sleep(1 * (attempt + 1))
-
-        if not html_text:
-            continue
-
-        soup = BeautifulSoup(html_text, "html.parser")
-        for item in soup.select("li.decklists-item"):
-            h3 = item.select_one("h3")
-            if not h3:
-                continue
-            title = h3.text.strip()
-
-            # Legacy only since this is Legacy Data Collection Project
-            if not ("legacy" in title.lower() and "challenge" in title.lower()):
-                continue
-
-            a = item.select_one("a")
-            t = item.select_one("time")
-            if not a or not t:
-                continue
-
-            href = a.get("href", "")
-            date_str = (t.get("datetime") or "")[:10]
-            if not date_str.startswith(str(year)):
-                continue
-
-            slug = href.split("?")[0].rstrip("/").split("/")[-1]
-            uri = urllib.parse.urljoin("https://www.mtgo.com", href)
-
-            events[slug] = {
-                "date": date_str,
-                "name": title,
-                "uri": uri,
-                "sheet_id": None,
-                "tab": "Match Up Input",
-            }
-
-    logger.info(
-        "Discovered %d Legacy Challenge event(s) for %d from MTGO calendar",
-        len(events),
-        year,
+    return dump_challenges_yaml_base(
+        challenges, header_lines=lines, default_tab="Match Up Input"
     )
-    return events
 
 
 def update_yaml_for_year(year: int) -> Path:
